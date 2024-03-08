@@ -1,0 +1,205 @@
+540728
+Leinore, Autumn Sovereign
+暮秋君王蕾诺尔
+She keeps the festival's revels from faltering, infusing the witches' rituals with hope.
+--------
+她让收成节欢庆得以延续，为女巫的仪式鼓舞希望。
+
+540729
+Wilhelt, the Rotcleaver
+断腐尸威海特
+
+540708
+Eloise, Nephalia Sleuth
+涅非利亚侦员埃萝洁
+
+540709
+Kyler, Sigardian Emissary
+席嘉妲密使凯勒尔
+"Even when the angels succumbed to madness, Sigarda stood strong. She is hope."
+--------
+「纵然天使尽皆陷入疯狂，席嘉妲依然坚毅不屈。她便是希望。」
+
+540448
+Celestial Judgment
+天降审判
+"I was going to suggest silver, but a beam of pure angelic fury works even better."
+—Rem Karolus, Fiendslayer
+--------
+「我本来想建议用银，但天使纯粹怒火效果更好。」
+～邪鬼克星连卡洛
+
+540449
+Curse of Conformity
+从众诅咒
+Whether you'll fit in isn't up to you at all.
+--------
+能否融入大众，完全由不得你。
+
+540450
+Moorland Rescuer
+荒野救援军
+"Hold on tight, little one. I'll get you to safety."
+--------
+「抓紧了，孩子。我会送你去安全地方。」
+
+540451
+Sigarda's Vanguard
+席嘉妲的先锋
+
+540452
+Stalwart Pathlighter
+坚定领路人
+"Festival's just ahead. You're almost there!"
+--------
+「前面便是收成节，就快到了！」
+
+540453
+Wall of Mourning
+悲恸之墙
+
+540454
+Cleaver Skaab
+砍刀尸嵌
+Furious and unable to separate, the bitter rivals consoled themselves by splitting everything else they saw in half.
+--------
+这对冤家彼此痛恨却无法分道扬镳，只好看到什么都一刀两断来解心头之恨。
+
+540455
+Curse of Unbinding
+失神诅咒
+
+540456
+Drown in Dreams
+梦境溺亡
+"Within our minds are limitless depths. Dive down, but don't forget to surface."
+—Teferi
+--------
+「我们的思绪深不见底。虽然值得潜入其中，但也别忘上浮换气。」
+～泰菲力
+
+540457
+Empty the Laboratory
+净空实验室
+
+540458
+Hordewing Skaab
+群翼尸嵌
+
+540459
+Shadow Kin
+伪影亲族
+
+540460
+Crowded Crypt
+积尸墓穴
+
+540461
+Curse of the Restless Dead
+无尽亡者诅咒
+
+540462
+Ghouls' Night Out
+食尸鬼不羁夜
+
+540463
+Gorex, the Tombshell
+驮墓龟高雷兹
+
+540464
+Prowling Geistcatcher
+流荡游魂捕捉客
+
+540465
+Ravenous Rotbelly
+贪食腐腹怪
+The patrol found the graf empty save for a few well-chewed bones.
+--------
+巡卫发现墓地空空如也，只剩几根被啃得干净的骨头。
+
+540466
+Tomb Tyrant
+坟墓暴君
+
+540467
+Celebrate the Harvest
+欢庆收成节
+The Harvesttide dance is one of joyous abandon, a last revel before winter nights.
+--------
+收成节欢舞是冬夜来临前最后的欢愉放纵时刻。
+
+540468
+Curse of Clinging Webs
+缠身蛛网诅咒
+Clare realized too late why no one ever took the shortcut through the abandoned mill.
+--------
+柯莱儿顿时明白为何从没人抄捷径穿过废弃磨坊，但为时已晚。
+
+540469
+Heronblade Elite
+苍鹭刃菁英
+"When angels fall, humans must rise."
+--------
+「天使殒落，人类当立。」
+
+540470
+Kurbis, Harvest Celebrant
+收成节主祭柯比斯
+
+540471
+Ruinous Intrusion
+毁灭侵袭
+The gourd carving was supposed to take place after the feast.
+--------
+雕瓜环节原定在宴会之后才开始。
+
+540472
+Sigardian Zealot
+席嘉妲狂信者
+"We fight together! In Sigarda's name, ready your weapons!"
+--------
+「我们要并肩作战！以席嘉妲之名举起武器！」
+
+540473
+Somberwald Beastmaster
+松柏森驯兽师
+
+540748
+Avacyn's Memorial
+艾维欣纪念碑
+They had no marble, so the faithful repaired her likeness with wood, straw, twine, and clay.
+--------
+没有大理石，信徒便用木头、稻草、麻绳和黏土重塑其雕像。
+
+540749
+Visions of Glory
+荣光视像
+
+540750
+Visions of Duplicity
+虚诈视像
+
+540751
+Visions of Dread
+惧怖视像
+
+540752
+Curse of Obsession
+偏执诅咒
+He ripped up board after board until his hands were bloody. Still, he could not find whatever it was he sought.
+--------
+他一块又一块地掀开地板，直到双手鲜血淋漓。但始终没有找到自己要找的东西。
+
+540753
+Visions of Ruin
+毁坏视像
+
+540754
+Visions of Dominance
+威权视像
+
+540755
+Lynde, Cheerful Tormentor
+愉悦降诅师琳荻
+
+========

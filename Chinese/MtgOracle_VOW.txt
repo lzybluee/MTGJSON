@@ -1,0 +1,1983 @@
+540828
+Adamant Will
+坚定意志
+"I refuse to die before I see the sun rise again."
+--------
+「在见到太阳再度升起之前，我拒绝死去。」
+
+540829
+Angelic Quartermaster
+配装天使
+"Stand strong. We will reclaim the dawn."
+--------
+「坚持作战。我们定能重唤黎明。」
+
+540830
+Arm the Cathars
+武装护教军
+Faith is a cathar's greatest weapon, but a sword of blessed silver is a close second.
+--------
+坚定信念是护教军最强武器，受福银剑则以毫厘之差居次。
+
+540831
+Bride's Gown
+新娘婚纱
+
+540832
+By Invitation Only
+非请莫入
+The red envelopes guarantee safe passage through the Lurenbraum barrier. Olivia left strict instructions: no invitation, no entry, no exceptions.
+--------
+手持红色喜帖便能安心通过卢仁堡设防关卡。奥莉薇亚有令：没有请柬，不得进入，无一例外。
+
+540833
+Cemetery Protector
+墓地卫护兵
+
+540834
+Circle of Confinement
+拘禁牢环
+
+540835
+Dawnhart Geist
+曙鹿集游魂
+"Our bodies may lie slain, but perhaps we can still complete the ritual. I'd rather not spend my afterlife in this wretched eternal night."
+--------
+「我们肉身虽已遇害，但现在或仍能完成仪式。我可不愿来生仍在这悲惨永夜中度过。」
+
+540836
+Distracting Geist
+滋扰游魂
+"I never did enjoy studying."
+--------
+「我就不爱念书。」
+
+540837
+Clever Distraction
+扰神妙法
+"Me neither."
+--------
+「我也是。」
+
+540838
+Drogskol Infantry
+卓兹克步兵
+He swore to protect the Moorlands. A little thing like death was no excuse to break his oath.
+--------
+他发誓要保卫荒野。死亡这种小事并不能当作违背誓言的理由。
+
+540839
+Drogskol Armaments
+卓兹克战具
+When he could no longer carry on, he imparted his strength to the one who took up his duty.
+--------
+等到实在无力坚持时，他便将力量传承给继任者。
+
+540840
+Estwald Shieldbasher
+恩资森盾击手
+The door to her home survived the fires of the Malignus. Now it's her greatest weapon.
+--------
+她家大门经毒怨妖烈焰炙烤而未毁。如今这已成为她最强力的武器。
+
+540841
+Faithbound Judge
+忠信判官
+
+540842
+Sinner's Judgment
+降罪判决
+
+540843
+Fierce Retribution
+凶暴报偿
+"It won't bring them back, but it will bring me peace."
+--------
+「这虽不能让他们复活，却能让我安心。」
+
+540844
+Fleeting Spirit
+飞逝精怪
+
+540845
+Gryff Rider
+骏鹭骑手
+"Keep your heels down and bend at the hips as your mount takes flight. She'll do the rest."
+—Anders, cathar drillmaster
+--------
+「坐骑准备起飞时，你只要脚跟下沉、屁股抬起。她会完成剩下的步骤。」
+～护教军教官安德斯
+
+540846
+Gryffwing Cavalry
+鹭翼骑兵
+
+540847
+Hallowed Haunting
+圣魂萦绕
+
+540848
+Heron of Hope
+播望苍鹭
+
+540849
+Heron-Blessed Geist
+鹭佑游魂
+
+540850
+Hopeful Initiate
+可雕学徒
+
+540851
+Katilda, Dawnhart Martyr
+曙鹿集殉道者凯蒂妲
+
+540852
+Katilda's Rising Dawn
+凯蒂妲破晓之威
+
+540853
+Kindly Ancestor
+慈祥先祖
+"You look cold, dearie."
+--------
+「亲爱的，别受凉了。」
+
+540854
+Ancestor's Embrace
+先祖之拥
+"Thank you, Grandmother. I love you too."
+--------
+「谢谢奶奶。我也爱你。」
+
+540855
+Lantern Flare
+提灯闪光
+
+540856
+Militia Rallier
+民兵召集人
+"We can wait like helpless children for a hero, or we can gather our courage and be the heroes. Who's with me?"
+--------
+「与其像无助小孩坐等英雄解救，我们更该齐心奋勇化作英雄。谁跟我一起上？」
+
+540857
+Nebelgast Beguiler
+鬼雾诱灵
+A moment of distraction, an hour off course.
+--------
+分神一刻，偏航一时。
+
+540858
+Nurturing Presence
+滋养存形
+
+540859
+Ollenbock Escort
+欧雷巴卫士
+"Stay in the light. I don't know what lurks in those shadows, and I'd like to keep it that way."
+--------
+「留在光亮的地方。我不知道阴影中藏着什么，也不想去知道。」
+
+540860
+Panicked Bystander
+惊慌观客
+"Help! There's been a horrible murder!"
+--------
+「救命！发生惨案了！」
+
+540861
+Cackling Culprit
+咳笑魁首
+"Ha! They fall for it every time."
+--------
+「哈！他们每次都上当。」
+
+540862
+Parish-Blade Trainee
+教区精兵学员
+The recruits trained in eternal night, fueled by the hope that they might one day see the sun again.
+--------
+新兵在永夜黑暗中刻苦训练，心中满是再见日光破晓的殷切希望。
+
+540863
+Piercing Light
+穿心明光
+"Creatures of the night dissolve like shadows in the light of faith."
+—Thalia, Guardian of Thraben
+--------
+「黯夜邪物如同阴影一般，经信念明光照耀便会消散。」
+～瑟班守护者莎利雅
+
+540864
+Radiant Grace
+辉光华彩
+
+540865
+Radiant Restraints
+辉光束缚
+"Even in times of brutal darkness, never mistake beauty and delicacy for weakness."—Thalia, Guardian of Thraben
+--------
+「哪怕是在暴力横行的黑暗岁月当中，也绝不要把柔美误作软弱。」
+～瑟班守护者莎利雅
+
+540866
+Resistance Squad
+抵抗小队
+"It's not that I didn't expect some defiance, but I did hope it wouldn't be so heavily armed."
+—Olivia Voldaren
+--------
+「倒不是说我没想过他们会反抗，而是没想到会有如此的重装部队。」
+～奥莉薇亚沃达连
+
+540867
+Sanctify
+净圣
+"Olivia Voldaren has faith only in herself. We answer to a higher calling."
+—Thalia, Guardian of Thraben
+--------
+「奥莉薇亚沃达连只顾自己。我们则为更崇高的理念效命。」
+～瑟班守护者莎利雅
+
+540868
+Savior of Ollenbock
+欧雷巴救星
+
+540869
+Sigarda's Imprisonment
+席嘉妲遭缚
+
+540870
+Sigarda's Summons
+席嘉妲召唤
+With Olivia distracted, Sigarda tore free from her bindings and summoned her Host of Herons.
+--------
+趁奥莉薇亚分神之际，席嘉妲挣脱束缚，召来麾下苍鹭天使。
+
+540871
+Supernatural Rescue
+超凡救援
+
+540872
+Thalia, Guardian of Thraben
+瑟班守护者莎利雅
+"Thraben belongs to the living. I will not rest until it is cleansed."
+--------
+「瑟班是生者之地。未彻底净化之前，我绝不歇息。」
+
+540873
+Traveling Minister
+传教牧师
+Priests of the Sigardian Sect travel to the farthest reaches to spread hope and healing, even in the darkest times.
+--------
+席嘉妲宗僧侣走遍大陆每个角落，不断传扬希望与生机，就连在最黑暗的时光当中也从未间断。
+
+540874
+Twinblade Geist
+双刃游魂
+She faced down a howlpack alone, saving her town at the cost of her life.
+--------
+她只身一人面对整支嚎群，牺牲自己救下全镇性命。
+
+540875
+Twinblade Invocation
+双刃祝愿
+Since her passing, many more travelers have made it home alive.
+--------
+她过世后，庇护了更多旅人安全返家。
+
+540876
+Unholy Officiant
+不洁司仪
+"Is this twisted ceremony simply a mockery of the human rite, or has Olivia fallen for her own charade?"
+—Sorin Markov
+--------
+「究竟这颠狂庆典是用来嘲弄人类的仪式，或者奥莉薇亚已太过入戏无法自拔？」
+～索霖马可夫
+
+540877
+Valorous Stance
+英勇以对
+
+540878
+Vampire Slayer
+吸血鬼克星
+When Kaya saved her village, Berit realized even vampires could be killed. When she brought one down herself, she realized she had found her calling.
+--------
+当眼见卡娅拯救村庄之时，蓓丽特才意识到原来吸血鬼也能被杀死。当亲手解决一个之后，她才意识到自己的使命。
+
+540879
+Voice of the Blessed
+受福者之声
+
+540880
+Wedding Announcement
+成婚佳讯
+
+540881
+Wedding Festivity
+成婚庆典
+Vampires from every bloodline mingled together, all swelling with pride to be seen at the event of the century.
+--------
+各血脉的吸血鬼全都受邀齐聚一堂，个个盛饰严装期望在这世纪庆典上展现风采。
+
+540882
+Welcoming Vampire
+迎宾吸血鬼
+From the moment they arrived, wedding guests were met with a pageant of wealth and excess.
+--------
+婚礼贵客甫抵会场，便受到华服礼宾热情相迎。
+
+540883
+Alchemist's Retrieval
+炼金术士回收咒
+To most, a terrifying apparition. To a necro-alchemist, a potent fuel source.
+--------
+对大多数人来说，这是可怖亡魂。对死灵炼金术士而言，则是潜在燃料。
+
+540884
+Binding Geist
+缠缚游魂
+
+540885
+Spectral Binding
+幽魂缚身
+
+540886
+Biolume Egg
+生辉奇卵
+Serpents leave their eggs in the cold and inky depths . . .
+--------
+巨蛇会将卵产在寒冷深渊之中…
+
+540887
+Biolume Serpent
+生辉巨蛇
+. . . knowing their hatchlings are more fearsome than anything else that might come along.
+--------
+…因为它们知道破壳而出的幼蛇，要比所有东西都来得可怕。
+
+540888
+Cemetery Illuminator
+墓地燃灯灵
+
+540889
+Chill of the Grave
+坟墓寒息
+Frozen is frozen, whether it's with cold, terror, or both.
+--------
+僵住就是僵住，无论原因是寒冷、恐惧或是兼而有之。
+
+540890
+Cobbled Lancer
+拼组枪骑手
+"Don't worry everyone—I hear hoofbeats! The Gavony Riders are coming to save us!"
+—Adin, Moorland villager
+--------
+「大家不用怕～我听到了马蹄声！加渥尼骑兵来救我们了！」
+～荒野村民艾汀
+
+540891
+Consuming Tide
+吞噬浪潮
+Nephalia's tides obey an unforgiving moon.
+--------
+明月无情，催动涅非利亚烈浪滔滔。
+
+540892
+Cradle of Safety
+庇护育篮
+
+540893
+Cruel Witness
+残酷见证鸟
+"I escaped, so why do I still feel like I'm being watched?"
+—Gregel, militia leader
+--------
+「我明明已经逃了出来，但为什么还有种被盯着的感觉？」
+～民兵领袖革利格
+
+540894
+Diver Skaab
+潜水尸嵌
+It doesn't need to breathe, but the suit does help keep the parts together.
+--------
+它不用呼吸，这套器具的助益是避免身体散掉。
+
+540895
+Dreadlight Monstrosity
+怖光巨蟹
+
+540896
+Dreamshackle Geist
+锁梦游魂
+
+540897
+Fear of Death
+恐惧死亡
+
+540898
+Geistlight Snare
+游魂幽笼
+Tamil had always wanted a closer look at a geist's lantern. Now he had an eternity to study one.
+--------
+塔迷尔一直都想仔细端详游魂的提灯。如今他有无穷尽的时间来好好研究。
+
+540899
+Geralf, Visionary Stitcher
+远见拼接师基拉夫
+"Do you like it, Sister? Its dreadful visage was inspired by your own."
+--------
+「姐姐，喜欢吗？它那吓人脸蛋可是照着你做出来的。」
+
+540900
+Gutter Skulker
+水沟匿魂
+Geists have a knack for showing up wherever they're least expected.
+--------
+游魂总能在最意想不到的地方出现。
+
+540901
+Gutter Shortcut
+水沟捷径
+Some people take that as inspiration.
+--------
+有些人就从中获得启发。
+
+540902
+Hullbreaker Horror
+碎船惊惧兽
+
+540903
+Inspired Idea
+受启创意
+Stitching is an ever-evolving field, with each new advancement reaching a new height of horror.
+--------
+尸体拼接是一门不断进步的技艺，每项新进展都会将恐怖推到新高度。
+
+540904
+Jacob Hauken, Inspector
+巡检官雅各布豪肯
+"Our world may be dark, but there's still plenty to see."
+--------
+「我们或许生活在黑暗的世界里，但你依旧能看清许多东西。」
+
+540905
+Hauken's Insight
+豪肯视像
+
+540906
+Lantern Bearer
+浮灯游魂
+Val didn't know what the silent geist was offering . . .
+--------
+珐尔并不清楚无声游魂的意图为何…
+
+540907
+Lanterns' Lift
+灯浮升空
+. . . but she knew it would be rude to refuse.
+--------
+…只知道断然拒绝就太不礼貌。
+
+540908
+Lunar Rejection
+月相拒斥
+
+540909
+Mirrorhall Mimic
+镜廊拟妖
+
+540910
+Ghastly Mimicry
+鬼魅拟装
+
+540911
+Mischievous Catgeist
+顽皮猫魂
+"I never get any knitting done, but I don't entirely mind."—Lorn, Lambholt innkeeper
+--------
+「我从来都做不了针线活，但我一点也不在意。」
+～羊屯旅店主萝恩
+
+540912
+Catlike Curiosity
+好奇猫心
+
+540913
+Necroduality
+死冥双身
+"Geralf's prowess continues to grow. He can now replicate my own creations with near-perfect accuracy."
+—Ludevic's laboratory notes
+--------
+「基拉夫的手法日益精湛。他如今已能复造我的作品，几乎分毫不差。」
+～卢德维的实验室纪录
+
+540914
+Overcharged Amalgam
+溢电拼合怪
+
+540915
+Patchwork Crawler
+拼装匍尸
+
+540916
+Repository Skaab
+集电尸嵌
+Created to capture the spark of genius for later use.
+--------
+造来捕捉奇想火花，留备稍后运用。
+
+540917
+Scattered Thoughts
+星散思绪
+Stitchers delegate the most important tasks to assistants with a good eye for detail.
+--------
+拼接师手上最重要的事情，都会交办给最眼尖的助手。
+
+540918
+Screaming Swarm
+尖鸣妖群
+
+540919
+Selhoff Entomber
+塞贺入土妖
+It knows one fundamental truth: bodies belong in graves.
+--------
+它知道一个基本真理：尸身该留在墓地里。
+
+540920
+Serpentine Ambush
+蛇身伏击
+The merchant did guarantee the new bait would bring in something big.
+--------
+鱼饵商人确实保证这种新饵能钓上来大东西。
+
+540921
+Skywarp Skaab
+跃空尸嵌
+"If I wanted all the parts to match, I wouldn't have become a stitcher."
+—Barton, stitcher
+--------
+「如果我坚持所有部位都能对上，我就不只是拼接师了。」
+～拼接师巴顿
+
+540922
+Soulcipher Board
+密魂谜板
+
+540923
+Cipherbound Spirit
+缚密精怪
+Rather than consort with demons, the Quietus Cult seeks wisdom from the dead.
+--------
+偿生教派不再崇拜恶魔，而是转向死者寻求智慧。
+
+540924
+Steelclad Spirit
+覆铁精怪
+Some geists imitate the lives they left behind. Others follow the dreams they never realized.
+--------
+有些游魂会模仿旧有习惯继续生活。而有些就大胆追求从未实现的梦想。
+
+540925
+Stitched Assistant
+缝组助手
+
+540926
+Stormchaser Drake
+逐风龙兽
+"Blasted drake's interfering with the conductivity again. Garl! Go chase it away."
+—Ludevic, necro-alchemist
+--------
+「讨厌的龙兽又来干扰电流通导了。嘎耳！快去把它赶跑。」
+～死灵炼金术士卢德维
+
+540927
+Syncopate
+切分
+"Fool! Can't you see the tide has turned against you?"
+--------
+「蠢货！你没看到浪潮已经逆转了吗？」
+
+540928
+Syphon Essence
+吸收菁华
+The third step in creating a skaab requires draining the body of blood and replacing it with viscus vitae, a mixture of angel's blood and lamp oil.
+--------
+制造尸嵌的第三步，需要将尸体内的血液抽干，换用天使鲜血与提灯灯油混合而成的生命精华灌注其中。
+
+540929
+Thirst for Discovery
+渴求发现
+"This is your only warning, alchemist. The secrets of the sea are not yours to behold. Lord Krothuss will not be so merciful next time."
+—Runo Stromkirk
+--------
+「炼金术士，我只警告一次。切莫妄自探寻大海的秘密。我主寇瑟斯下次就不会这么客气了。」
+～卢诺溪堡
+
+540930
+Wanderlight Spirit
+游灯精怪
+The towers and catwalks of the Voldaren fortress are lit by the lanterns of geists endlessly seeking a way out.
+--------
+困于沃达连堡中的无数游魂不断找寻出路，手中提灯照亮了要塞中每一处高塔与步道。
+
+540931
+Wash Away
+全数冲尽
+"May the ocean take it"
+—Nephalia expression meaning
+"good riddance"
+--------
+「愿海洋将它带走」
+～涅非利亚用语，意指
+「终得解脱」
+
+540932
+Whispering Wizard
+细语法师
+Ivold was aghast when his device revealed the full scope of the geist infestation.
+--------
+透过自己仪器观察到的游魂侵扰全貌，让伊沃德大为震惊。
+
+540933
+Winged Portent
+翼展征兆
+"No, no, it's just a murder of crows, not an omen of murder. . . . I think."
+—York, Kessig tracker
+--------
+「不是，不是，这应该只是骇人鸦群，不是害命征兆…应该。」
+～凯锡革追迹人约克
+
+540934
+Witness the Future
+亲睹未来
+
+540935
+Wretched Throng
+污劣大群
+"Oh no. Oh no. Oh no. Oh no, again!"
+—Beltstad, cathar recruit, last words
+--------
+「糟了。糟了。糟了。糟了，还来啊！」
+～护教军新兵贝兹德的遗言
+
+540936
+Aim for the Head
+瞄准头部
+"Works every time."
+—Halana, Kessig ranger
+--------
+「次次见效。」
+～凯锡革护林者荷拉娜
+
+540937
+Archghoul of Thraben
+瑟班大尸鬼
+
+540938
+Bleed Dry
+榨干
+"Wipe your chin, child. We can't have Olivia thinking we're uncivilized."
+—Anje Falkenrath
+--------
+「把嘴巴擦干净，孩子。可不能让奥莉薇亚觉得我们没教养。」
+～安姬伐肯纳
+
+540939
+Blood Fountain
+融血喷泉
+
+540940
+Bloodcrazed Socialite
+血狂名流
+
+540941
+Bloodsworn Squire
+血誓扈从
+
+540942
+Bloodsworn Knight
+血誓骑士
+
+540943
+Bloodvial Purveyor
+血瓶贩商
+
+540944
+Catapult Fodder
+抛石炮灰
+These days, ghouls are the only abundant resource in Thraben.
+--------
+这时节，瑟班还充足的东西就只有食尸鬼了。
+
+540945
+Catapult Captain
+抛石队长
+And they're more than happy to share the wealth.
+--------
+而它们也非常乐于与他人分享富足。
+
+540946
+Cemetery Desecrator
+墓地渎圣尸
+
+540947
+Concealing Curtains
+遮物帘幕
+Specifics were kept secret, but word quickly spread that the show was a must-see.
+--------
+虽然内容尚未揭晓，但人人都说这演出非看不可。
+
+540948
+Revealing Eye
+揭物巨眼
+
+540949
+Courier Bat
+讯使蝙蝠
+Swarms of bats poured from Lurenbraum Fortress carrying wedding invitations to vampires of every bloodline.
+--------
+无数蝙蝠从卢仁堡蜂拥而出，将婚礼请柬送向各支血脉的吸血鬼。
+
+540950
+Demonic Bargain
+恶魔交易
+"Do not try to negotiate with me, human. You want power? This is the price."
+—Ormendahl
+--------
+「休想跟我谈条件，人类。你想要力量？这就是代价。」
+～欧魔达
+
+540951
+Desperate Farmer
+情急农夫
+A tragic moment pushed him to a blasphemous act.
+--------
+悲剧当头，迫他犯下叛教之举。
+
+540952
+Depraved Harvester
+堕落刈客
+Once he'd tasted that dark power, there was no turning back.
+--------
+自从触碰黑暗力量后，他就再也回不了头。
+
+540953
+Diregraf Scavenger
+战墓食腐熊
+It can barely feel the sword anymore.
+--------
+它几乎再也感受不到刀剑之苦。
+
+540954
+Doomed Dissenter
+注亡逆徒
+The most dangerous place to be in Kessig is alone.
+--------
+全凯锡革最危险之处，便是「独处」。
+
+540955
+Dread Fugue
+恐惧神游
+
+540956
+Dreadfeast Demon
+飨惧恶魔
+By the sixth day of darkness, the lake was more blood than water.
+--------
+到了黑夜的第六天，湖水已近乎成为血池。
+
+540957
+Dying to Serve
+拼死效命
+"I used to have hired hands, but I discovered they make better waitstaff with the rest of the body attached."
+—Olivia Voldaren
+--------
+「我以前会请帮手，但后来发现还是有手有脚的才更适合当侍从。」
+～奥莉薇亚沃达连
+
+540958
+Edgar's Awakening
+艾德嘉觉醒
+"Here you go. Can't have you sleeping through your own wedding day."
+--------
+「乖乖喝下去。你可不能在自己成婚的日子上一睡不醒。」
+
+540959
+Falkenrath Forebear
+伐肯纳先人
+
+540960
+Fell Stinger
+极恶刺蝎
+
+540961
+Gift of Fangs
+尖牙赋礼
+"You are one of the few to whom we offer our blessing. What fool would reject immortality?"
+—Runo Stromkirk
+--------
+「你是少数能得到我们祝福的人。怎样的蠢货才会甘愿拒绝永生？」
+～卢诺溪堡
+
+540962
+Gluttonous Guest
+暴食宾客
+
+540963
+Graf Reaver
+墓地裂肢兵
+
+540964
+Grisly Ritual
+惨怖仪式
+"You can always tell who's new from the screaming."
+—Tinua, Skirsdag cultist
+--------
+「你能从叫声听出谁是新人。」
+～史革达教众蒂努娅
+
+540965
+Groom's Finery
+新郎礼服
+
+540966
+Headless Rider
+无头骑手
+He wanders the Moorlands hoping to one day chop off a head worthy of replacing his own.
+--------
+他在荒野四处游荡，希望有天能够砍到值得换上的脑袋。
+
+540967
+Henrika Domnathi
+亨莉卡多纳提
+
+540968
+Henrika, Infernal Seer
+炼狱预言师亨莉卡
+"Once you've tasted demon blood, you'll wonder why you ever settled for human."
+--------
+「在尝过恶魔鲜血之后，你就会怀疑此前为何区区人血就能满足自己。」
+
+540969
+Hero's Downfall
+英雄殉身
+Odric resisted the vampire's curse with all his strength. But after a lifetime of fighting monsters, he was doomed to become one himself.
+--------
+欧吉克倾尽全力想要抵御吸血鬼的诅咒。但在与怪物缠斗一生之后，自己注定也要成为怪物。
+
+540970
+Innocent Traveler
+无辜旅人
+"Aren't you going to invite me in?"
+--------
+「您不打算请我进去吗？」
+
+540971
+Malicious Invader
+恶毒侵客
+"Aren't you going to offer me a drink?"
+--------
+「您不打算请我喝点什么吗？」
+
+540972
+Mindleech Ghoul
+夺念食尸鬼
+"This still doesn't make you the brains of the operation."
+—Ghoulcaller Gisa
+--------
+「就算这样你也没办法成为行动首脑。」
+～尸鬼牧者基沙
+
+540973
+Parasitic Grasp
+寄生之攫
+Some wicked souls linger only to consume the warmth of life.
+--------
+有些邪恶灵魂徘徊世间，只是为了贪图生机暖意。
+
+540974
+Path of Peril
+险峻路途
+To Olivia's guests, a welcome. To everyone else, a warning.
+--------
+对奥莉薇亚的宾客而言，这是欢迎之路。对所有其他人来说，则是警告之途。
+
+540975
+Persistent Specimen
+复组标本
+"The jaw bone's connected to the skull bone. The skull bone's connected to the . . . uh . . . hook thingy."
+—Garl, stitcher's assistant
+--------
+「腭骨接在头骨上。头骨接在…呃…接在那像钩子的东西上。」
+～拼接师助手嘎耳
+
+540976
+Pointed Discussion
+针锋相对
+Small talk is a dying art.
+--------
+闲谈渐成失传技艺。
+
+540977
+Ragged Recluse
+褴褛隐士
+"Forgive my manners. It's been so long since I had a guest for dinner."
+--------
+「请恕我招待不周。我已经很久没有留客人一起用餐了。」
+
+540978
+Odious Witch
+可憎巫婆
+Her cauldron refilled, she settled in to wait for the next unsuspecting traveler to knock at her door.
+--------
+就这样，她把锅再度装满，又坐回椅子上，静待下一位毫无戒心的旅人敲开房门。
+
+540979
+Restless Bloodseeker
+无休觅血客
+
+540980
+Bloodsoaked Reveler
+浴血欢欣客
+
+540981
+Rot-Tide Gargantua
+腐潮巨罡兽
+Now that it doesn't need to breathe, its hunting ground extends well beyond the sea.
+--------
+既然现在再也不用呼吸，它的狩猎地盘就已超越海洋。
+
+540982
+Skulking Killer
+隐匿杀手
+Olivia set a few villagers loose in the hedge maze as part of the evening's "entertainment."
+--------
+奥莉薇亚让几位村民在树篱迷宫中自由活动，当作傍晚的「余兴活动」。
+
+540983
+Sorin the Mirthless
+阴郁的索霖
+
+540984
+Toxrill, the Corrosive
+腐蚀蝓怪陀袭力
+
+540985
+Undead Butler
+不死管家
+
+540986
+Undying Malice
+不息恶意
+Few take kindly to being put in their place, especially if their place is the grave.
+--------
+没人乐意被逼到绝地，特别是绝地就是墓地的时候。
+
+540987
+Unhallowed Phalanx
+孽物方阵兵团
+"In case any of you new recruits were wondering, this is why we don't use mass graves anymore."
+—Kerren of the Mausoleum Guards
+--------
+「你们这些新人如果好奇过为什么不干脆把死人集体一埋了事的话，这就是答案。」
+～陵墓守卫珂伦
+
+540988
+Vampire's Kiss
+吸血鬼之吻
+Young vampires gorge themselves at every meal, but their elders have learned to savor the smallest bite.
+--------
+年轻吸血鬼每餐都狼吞虎咽，但其长者已学会了每口都啜吸细品。
+
+540989
+Voldaren Bloodcaster
+沃达连血育师
+
+540990
+Bloodbat Summoner
+血蝠召唤师
+"Humans throw rice and release doves at their weddings? How quaint."
+--------
+「人类婚礼上会撒米粒、放白鸽？真奇怪。」
+
+540991
+Wedding Security
+婚礼警卫
+In lieu of payment, he was granted permission to devour any unauthorized visitors.
+--------
+这份工作虽没有实质报酬，但他有权吞食一切擅闯访客。
+
+540992
+Abrade
+风化侵蚀
+The Falkenrath progenitor was a vicious falconer, and the line is quick to remind others of its heritage.
+--------
+伐肯纳血脉的先祖曾是凶狠的驯鹰师，其族人也常常会向他者展现自家传统。
+
+540993
+Alchemist's Gambit
+炼金术士的计策
+
+540994
+Alluring Suitor
+迷人求婚者
+"May I have this dance?"
+--------
+「是否能与你共舞这曲？」
+
+540995
+Deadly Dancer
+致命共舞者
+
+540996
+Ancestral Anger
+先祖怒火
+"One vampire for every family member I've lost."
+--------
+「每位逝去家人，都要用一条吸血鬼性命陪葬。」
+
+540997
+Ballista Watcher
+巨弩守卫
+"Careful, this thing's dangerous. Wouldn't want anyone getting hurt."
+--------
+「小心，这东西很危险。不想见到有人被伤到。」
+
+540998
+Ballista Wielder
+巨弩持兽
+
+540999
+Belligerent Guest
+好斗宾客
+
+541000
+Blood Hypnotist
+鲜血催眠师
+Arvon was ecstatic to offer his blood to such a captivating creature.
+--------
+碰上这么一位尤物，亚冯心醉神迷地献上了自己的血液。
+
+541001
+Blood Petal Celebrant
+血瓣主祭
+
+541002
+Bloody Betrayal
+血腥背叛
+
+541003
+Cemetery Gatekeeper
+墓地守门者
+
+541004
+Chandra, Dressed to Kill
+盛装茜卓
+
+541005
+Change of Fortune
+时来运转
+"We cannot escape change, but with faith and fortitude, we can mold it to our liking."
+—Marel, Dawnhart witch
+--------
+「虽然改变无可逃避，但凭着强烈信念与坚定意志，我们能将改变为己所用。」
+～曙鹿集女巫玛芮尔
+
+541006
+Creepy Puppeteer
+可怖控偶师
+
+541007
+Curse of Hospitality
+好客诅咒
+
+541008
+Daybreak Combatants
+破晓战士
+After weeks of unending darkness, a glimpse of dawn was all the people of Stensia needed to rekindle their will to fight.
+--------
+在经历数周的无尽黑暗之后，这丝曙光正是点燃全史顿襄人民战斗意志的引线。
+
+541009
+Dominating Vampire
+控念吸血鬼
+"You can join me or feed me. Choose fast."
+--------
+「你可以加入我或喂饱我。选快点。」
+
+541010
+End the Festivities
+喜庆终结
+When the defenses around Lurenbraum Fortress faltered, the Crimson Ballroom received some unexpected guests.
+--------
+卢仁堡周围的防线瓦解后，绯红舞宴厅内迎来了一些不速之客。
+
+541011
+Falkenrath Celebrants
+伐肯纳贵客
+
+541012
+Fearful Villager
+受惊村民
+When Harold ran from the wolves, the others called him a coward.
+--------
+眼见哈罗德面对狼群狼狈逃窜，其他村民还笑他作懦夫。
+
+541013
+Fearsome Werewolf
+惊怖狼人
+Come nightfall, they were the ones fleeing in terror.
+--------
+夜幕降临后，就轮到其他村民狼狈逃窜。
+
+541014
+Flame-Blessed Bolt
+炎佑弩矢
+"I noticed you were short on party favors, so I brought my own."
+—Higa, slayer-captain of Gatstaf
+--------
+「我注意到你伴手礼没带够，所以自己也带了一些。」
+～卡兹特克星队长希佳
+
+541015
+Frenzied Devils
+狂热魔鬼
+"Devils need no reason to stir up chaos. The chaos itself is their reward."
+—Rem Karolus, Fiendslayer
+--------
+「魔鬼煽动混乱根本就不需要理由。混乱本身便是回报。」
+～邪鬼克星连卡洛
+
+541016
+Honeymoon Hearse
+蜜月柩车
+A carriage crafted from the finest materials. Horses bred from the finest stock. Skulls taken from the finest foes.
+--------
+上等材料塑车厢。上级血统育挽马。上佳敌手供响骨。
+
+541017
+Hungry Ridgewolf
+饥饿脊狼
+Even vampires know to travel faster when they hear howling in the Geier Reach passes.
+--------
+就连吸血鬼都晓得，要是在基尔山脉听见狼嚎，脚程就得加快些。
+
+541018
+Ill-Tempered Loner
+暴躁独行客
+
+541019
+Howlpack Avenger
+嚎群复仇者
+
+541020
+Into the Night
+夜幕降临
+"When lost souls wander into the woods, the wilds have a way of showing them who they really are."
+—Rahilda, Vildin-Pack alpha
+--------
+「迷途之人误入林间后，野境便有办法让他们认清自我。」
+～维汀群首领拉希妲
+
+541021
+Kessig Flamebreather
+凯锡革喷焰师
+"Hunter's fire" was meant for slaying monsters in the Ulvenwald, but that never stopped Ralen from showing it off.
+--------
+本来「猎人秘火」是用来在沃文森内杀戮怪物用的，但拉仁总忍不住要四处炫耀。
+
+541022
+Kessig Wolfrider
+凯锡革狼骑兵
+"It's a perfect partnership. My village is safe from wolf attacks, and she gets to eat any vampires we catch."
+--------
+「我们的合作堪称完美。这样一来我的村庄就可以免遭狼群袭击，而她也能尽情享用我们逮到的吸血鬼。」
+
+541023
+Lacerate Flesh
+利爪碎身
+
+541024
+Lambholt Raconteur
+羊屯说书人
+
+541025
+Lambholt Ravager
+羊屯吞噬兽
+
+541026
+Lightning Wolf
+闪电狼
+These thick-furred wolves have adapted to Stensia's storms, channeling their energy into bursts of supernatural speed.
+--------
+这类狼群皮毛厚实，已然适应史顿襄的风暴天气，甚至还能通导其间闪电能量化作异常疾速。
+
+541027
+Magma Pummeler
+岩浆猛击灵
+
+541028
+Manaform Hellkite
+塑魔残虐者
+
+541029
+Markov Retribution
+马可夫报偿
+
+541030
+Olivia's Attendants
+奥莉薇亚的喜娘
+
+541031
+Pyre Spawn
+葬火孽物
+Memories of the Harvesttide tragedy festered until they grew into an incarnate rage that set the world ablaze.
+--------
+收成节惨剧的记忆持续积聚，直至此时化作怨火成形，点燃整个世界。
+
+541032
+Reckless Impulse
+鲁莽冲动
+A stitcher looks at their creation and sees the result of years of study and hours of toil. A devil sees a new plaything.
+--------
+拼接师看着自己的成果，感慨多年研究与数日劳苦终得回报。魔鬼则看到了新的玩物。
+
+541033
+Rending Flame
+劈裂烈火
+"It is our duty to bring the Blessed Sleep to the dead, even if they resist that gift."
+—Grete, Order of Saint Traft
+--------
+「我们的职责是确保死者得享受福安眠，就算对方拒绝亦然。」
+～圣沙弗骑士团的葛俐
+
+541034
+Runebound Wolf
+符锢狼
+The wolf's captor hid his fear, but he knew someday the runes would fail, the collar would break, and the wolf would remember his face.
+--------
+捕到这头狼的猎人压下心头恐惧，但他知道总有一天会符文失效、项圈破碎，恶狼又再度想起他的面容。
+
+541035
+Sanguine Statuette
+血色塑像
+
+541036
+Stensia Uprising
+史顿襄式抗暴
+"Vampires have done nothing but take from us. Tonight, we reclaim what's ours!"
+--------
+「吸血鬼只知道拿取。今晚我们要夺回一切！」
+
+541037
+Sure Strike
+必中一击
+Before the officiant even had a chance to ask if anyone objected to the Voldaren-Markov union, Arlinn made her opinion known.
+--------
+还没轮到司仪询问是否有人反对本次沃马联姻，雅琳就抢先发表了意见。
+
+541038
+Vampires' Vengeance
+吸血鬼复仇
+Olivia was quick to make an example of any village that refused to pay her blood tithe.
+--------
+奥莉薇亚很快让所有村庄见识到，拒付血税会是什么下场。
+
+541039
+Volatile Arsonist
+易怒纵火人
+
+541040
+Dire-Strain Anarchist
+怖狼脉崇乱兽
+
+541041
+Voldaren Epicure
+沃达连品血客
+"If you're not refining your tastes, what's the point of living forever?"
+--------
+「如果你不学会提升品味，永生不死又有何意义？」
+
+541042
+Voltaic Visionary
+电流幻视师
+She spent many years trying to harness chaos.
+--------
+她曾耗费多年光阴试图掌控混乱。
+
+541043
+Volt-Charged Berserker
+涌电狂战士
+She finally realized that chaos was meant to run rampant, as was she.
+--------
+她最后终于明白，混乱天性不受掌控，而她天性也该如此。
+
+541044
+Weary Prisoner
+疲惫遭囚犯
+"Your guard attacked me. He got what was coming to him."
+--------
+「你的守卫先动的手。他得到了该有的报应。」
+
+541045
+Wrathful Jailbreaker
+愤怒脱囚兽
+"And now I'm coming for you!"
+--------
+「现在轮到你遭报应了！」
+
+541046
+Apprentice Sharpshooter
+神射手学徒
+Innistrad's best archers are trained by the Quiver of Kessig, an order of cathars who specialize in ranged combat.
+--------
+凯锡革利箭团是护教军中专精于远程打击的分支，而全依尼翠最准的神射手尽皆出身于此。
+
+541047
+Ascendant Packleader
+成长首领
+
+541048
+Avabruck Caretaker
+阿瓦布照管人
+
+541049
+Hollowhenge Huntmaster
+空圆地捕猎兽
+
+541050
+Bramble Armor
+刺藤甲
+
+541051
+Bramble Wurm
+刺藤亚龙
+
+541052
+Cartographer's Survey
+制图师勘绘
+She monitors the roads in every province, mapping safe routes through hunting grounds and haunting grounds alike.
+--------
+她时刻监视各省道路情况，并在图上标出穿越危险地带的安全路径～无论那里闹狼还是闹鬼。
+
+541053
+Cemetery Prowler
+墓地游掠狼
+
+541054
+Cloaked Cadet
+隐匿新兵
+
+541055
+Crawling Infestation
+蠕爬侵扰
+
+541056
+Crushing Canopy
+树冠压袭
+"The forests of this world are unafraid to assert themselves."
+—Wrenn
+--------
+「这个世界的树林敢于保护自己。」
+～芮恩
+
+541057
+Cultivator Colossus
+培护巨像
+
+541058
+Dawnhart Disciple
+曙鹿群信徒
+"Our coven finds strength in nature and purpose in serving our communities."
+--------
+「我们集群在自然万物中寻得力量，在服务集众间找到目标。」
+
+541059
+Dig Up
+深挖探寻
+Things buried on Innistrad rarely seem to stay that way.
+--------
+埋在依尼翠地下的东西几乎都不会长留原地。
+
+541060
+Dormant Grove
+休眠古林地
+As the natural cycle of day and night grew twisted, old powers stirred deep in the Ulvenwald.
+--------
+于昼夜自然转变遭邪力扭曲后，远古之力也开始在沃文森深处复苏。
+
+541061
+Gnarled Grovestrider
+糙节林行妖
+Far from the bloodsoaked wedding, unseen by human eyes, a long-slumbering force arose to protect its home.
+--------
+在远离血腥婚宴之地，远离人眼所及之处，一股沉眠力量开始醒转卫护家园。
+
+541062
+Flourishing Hunter
+滋养猎狼
+"I would welcome her into my pack with honor."
+—Arlinn Kord
+--------
+「她倘愿加入我的狼群，便是我莫大荣耀。」
+～雅琳珂德
+
+541063
+Glorious Sunrise
+辉煌日出
+
+541064
+Hamlet Vanguard
+村庄先锋
+
+541065
+Hiveheart Shaman
+巢心祭师
+
+541066
+Hookhand Mariner
+钩手海员
+The local gossips swore Nesmith lost his hands in a fight with a werewolf.
+--------
+当地人的流言一致认定聂密斯是跟狼人搏斗而失去双手。
+
+541067
+Riphook Raider
+裂钩劫狼
+They weren't entirely wrong.
+--------
+他们倒也没全错。
+
+541068
+Howling Moon
+引嚎圆月
+
+541069
+Howlpack Piper
+嚎群笛手
+
+541070
+Wildsong Howler
+野调嚎狼
+
+541071
+Infestation Expert
+研虫专家
+There's only so many times she can take being asked . . .
+--------
+她受不了人们三番五次地问她…
+
+541072
+Infested Werewolf
+染虫狼人
+. . . "What's bugging you?"
+--------
+…「什么虫烦到你？」
+
+541073
+Laid to Rest
+终得安息
+"We are not here to mourn their loss. We are here to celebrate their lives."
+—Vesna, Dawnhart witch
+--------
+「我们集聚于此，并非悲悼生命离逝。我们集聚于此，是为追念灿烂往生。」
+～曙鹿集女巫文斯娜
+
+541074
+Massive Might
+力量陡增
+"Run! It's coming for us! Eventually!"
+—Yaster, Havengul shopkeeper
+--------
+「快跑！它在追我们！总会追得上！」
+～海温古店主雅斯特
+
+541075
+Moldgraf Millipede
+苔墓千足虫
+Between stitchers, cultists, and scavengers, corpses are in high demand.
+--------
+拼接师、教众、食腐兽，在多方争抢下，如今尸体需求旺盛。
+
+541076
+Mulch
+护根
+"Tread carefully. You remember what happened in the last quiet, peaceful clearing."
+—Halana, to Alena
+--------
+「下脚时务必当心。上次也是一片看似安静祥和的空地，你没忘记后来怎样了吧。」
+～荷拉娜告诫阿雷娜
+
+541077
+Nature's Embrace
+自然之拥
+
+541078
+Oakshade Stalker
+橡影潜伏客
+He blends seamlessly into the forest, waiting silently for his prey.
+--------
+他完美融入树林，静待猎物现身。
+
+541079
+Moonlit Ambusher
+月光伏击兽
+Even when he strikes, the only sound is the snap of jaws through bone.
+--------
+就连他出击，也只在利颚咬断骨头时才有声音。
+
+541080
+Packsong Pup
+唤群幼狼
+A wolf pup is always dangerous, because a wolf pup is never alone.
+--------
+单头幼狼是危险讯号，因为幼狼总不落单。
+
+541081
+Reclusive Taxidermist
+隐居标本师
+All druids seek to preserve nature, but some go about it in rather unusual ways.
+--------
+所有德鲁伊都希望能将自然保留原样，只是有些会采取一些极不寻常的方式。
+
+541082
+Retrieve
+取回旧物
+The roots preserved the armor for a hundred years, safeguarding it for a traveler in need.
+--------
+树根已将盔甲保管上百年，留待有需要的旅人取用。
+
+541083
+Rural Recruit
+农庄新兵
+The Dawnhart survivors welcome recruits of all shapes and sizes.
+--------
+曙鹿集幸存者欢迎新人加入，不限体型，无论大小。
+
+541084
+Sawblade Slinger
+锯轮射手
+
+541085
+Sheltering Boughs
+庇护林枝
+"We're not at odds with the woods. How could we be, when we share so many enemies?"
+—Marel, Dawnhart witch
+--------
+「我们不会与树林为敌。眼下我们双方同需抵御外敌，又怎能节外生枝？」
+～曙鹿集女巫玛芮尔
+
+541086
+Snarling Wolf
+咆哮狼
+"Oh, thank the angels. It's not a werewolf, just a regular wo—"
+—Bruno, Ulvenwald guide, last words
+--------
+「噢，感恩天使。它不是狼人，只是头普通的拉～」
+～沃文森向导布鲁诺的遗言
+
+541087
+Spiked Ripsaw
+尖刺链锯
+
+541088
+Splendid Reclamation
+绚烂复生
+"These seeds waited faithfully for the sun to rise again. Now, their patience is rewarded."
+—Wrenn
+--------
+「这些种子虔诚等待太阳再度升起。如今它们的耐心终得回报。」
+～芮恩
+
+541089
+Spore Crawler
+芽孢匍菌
+"Remember to come back in a few years when that fungus has died off. Then we'll see what's in the chest."
+—Old Rutstein
+--------
+「记得等几年真菌全死掉后再回来。到时候我们再来瞧瞧箱子里头是个什么东西。」
+～老鲁斯登
+
+541090
+Sporeback Wolf
+孢背狼
+The mushrooms growing in the wolves' fur possess curative properties incredible enough to tempt many alchemists into risking their lives to track one down.
+--------
+长在这种狼毛当中的蘑菇具有奇妙疗效，吸引众多炼金术士甘愿拼死追猎。
+
+541091
+Toxic Scorpion
+烈毒蝎
+"You want that venom? Collect it yourself! I'm not losing another pair of dragonhide gloves."
+—Old Rutstein
+--------
+「你想要蝎毒？自己去采！我不想再糟蹋一副龙皮手套。」
+～老鲁斯登
+
+541092
+Ulvenwald Oddity
+沃文森异兽
+"Obviously it's dangerous, but I've never seen anything like it. This could be an entirely new species! I say we follow it."—Halana, Kessig ranger
+--------
+「虽然它看起来就很危险，但我从来没见过这生物。可能会是全新物种也说不定！我觉得该跟上。」
+～凯锡革护林者荷拉娜
+
+541093
+Ulvenwald Behemoth
+沃文森贝西摩斯
+"We've learned enough! I say we run."—Alena, Kessig trapper
+--------
+「我们看得够清楚了！我觉得该快逃。」
+～凯锡革布陷人阿雷娜
+
+541094
+Weaver of Blossoms
+编花巧匠
+Living in harmony with nature . . .
+--------
+与自然和谐共处…
+
+541095
+Blossom-Clad Werewolf
+花簇狼人
+. . . does not always mean living in peace.
+--------
+…并不意味着生活安泰。
+
+541096
+Witch's Web
+女巫蛛网
+Ever since the ritual, Ryla didn't have an appetite at the dinner table, but her long walks in the forest always seemed to satiate her hunger.
+--------
+打从仪式之后，芮乐在餐桌上总是没有胃口，但每次在林间长时散步就能填饱肚子。
+
+541097
+Wolf Strike
+巨狼扑袭
+Tovolar's howlpack had scattered, but the Dire-Strain survivors were still on the hunt.
+--------
+虽然托瓦拉嚎群已被击溃，但怖狼脉中的幸存诸狼仍在狩猎。
+
+541098
+Wolfkin Outcast
+狼族遭黜人
+The villagers feared him. The cathars scorned him. Only in the wilds did he find a family that accepted him.
+--------
+村民们惧怕他。护教军唾弃他。只有野境的家族愿意接纳他。
+
+541099
+Wedding Crasher
+婚礼破坏兽
+He raged not just against vampires, but against civilization itself.
+--------
+他不仅对吸血鬼有怨，更对整个文明社会有仇。
+
+541100
+Ancient Lumberknot
+远古木节妖
+The soft creak of trees in the wind is not always cause for comfort.
+--------
+听闻树枝在风中摇曳沙沙作响，并不一定能让人安心。
+
+541101
+Anje, Maid of Dishonor
+邪气伴娘安姬
+
+541102
+Bloodtithe Harvester
+血税收集官
+
+541103
+Brine Comber
+搜海精怪
+
+541104
+Brinebound Gift
+海底赠礼
+
+541105
+Child of the Pack
+狼群幼子
+Her face shines with youthful innocence.
+--------
+她的稚气脸庞洋溢着孩提童真。
+
+541106
+Savage Packmate
+蛮野群伴
+Her claws are another matter.
+--------
+她的尖锐利爪则是另一回事。
+
+541107
+Dorothea, Vengeful Victim
+怨仇亡者多萝霞
+"Every day a Voldaren draws breath is a day I cannot rest."
+--------
+「只要沃达连家的人一天还在呼吸，我就一天不会安息。」
+
+541108
+Dorothea's Retribution
+多萝霞的报偿
+
+541109
+Edgar, Charmed Groom
+遭魅新郎艾德嘉
+"Our kind has taken my gift for granted. It is time to correct that folly."
+--------
+「吸血鬼族类已将我的馈赠当作应得之义。是时候修正这一错误观念了。」
+
+541110
+Edgar Markov's Coffin
+艾德嘉马可夫之棺
+
+541111
+Eruth, Tormented Prophet
+受难先知伊如
+She is cursed with visions of monsters and suffering . . . and all her visions come true.
+--------
+她遭受诅咒，终日被怪物与苦难视像困扰…且这些视像竟一一成真。
+
+541112
+Grolnok, the Omnivore
+全能噬蛙葛诺克
+
+541113
+Halana and Alena, Partners
+荷拉娜与阿雷娜伴侣
+
+541114
+Kaya, Geist Hunter
+游魂猎手卡娅
+
+541115
+Markov Purifier
+马可夫涤净师
+The ceremonial "incense" was a concoction of Edgar's own design, a precise blend of blood from his favorite human lineages.
+--------
+典礼上所用「熏香」乃是依照艾德嘉亲笔配方调制而成，其中精确混合了来自其最喜爱人类各家族的血液。
+
+541116
+Markov Waltzer
+马可夫圆舞者
+"I'll lead."
+--------
+「我来领舞。」
+
+541117
+Odric, Blood-Cursed
+受诅血咒的欧吉克
+
+541118
+Old Rutstein
+老鲁斯登
+
+541119
+Olivia, Crimson Bride
+绯红新娘奥莉薇亚
+Her grand wedding had one goal: to unite the vampire bloodlines under her rule.
+--------
+她的盛大婚礼只有一个目的：在她治下一统吸血鬼诸血脉。
+
+541120
+Runo Stromkirk
+卢诺溪堡
+
+541121
+Krothuss, Lord of the Deep
+深渊之主寇瑟斯
+
+541122
+Sigardian Paladin
+席嘉妲神圣武士
+
+541123
+Skull Skaab
+头颅尸嵌
+
+541124
+Torens, Fist of the Angels
+天使之拳托亨斯
+
+541125
+Vilespawn Spider
+孽恶蜘蛛
+
+541126
+Wandering Mind
+游荡灵妖
+
+541127
+Blood Servitor
+鲜血侍从
+"Please, my friends, help yourselves to the help."
+—Olivia Voldaren
+--------
+「朋友们，不必客气，一切都可在服务台自取。」
+～奥莉薇亚沃达连
+
+541128
+Boarded Window
+钉板窗户
+"Sturdy nails make for sound sleep."
+—Cosper Lowe of the Silbern Guard
+--------
+「钉得越牢，睡得越熟。」
+～席尔本卫队的考伯洛
+
+541129
+Ceremonial Knife
+祭仪小刀
+
+541130
+Dollhouse of Horrors
+恐怖玩具屋
+
+541131
+Foreboding Statue
+恶兆塑像
+As the sand eroded, a faint sound could be heard whirling under the ground.
+--------
+泥沙消退后，地下远远传来一阵机械运转声。
+
+541132
+Forsaken Thresher
+遭弃挥扫械
+Were it not for the cultists' fatal curiosity, the terrible machine might have lain dormant for decades more.
+--------
+若不是教众过分好奇，这可怕机械可能还会继续沉眠地底。
+
+541133
+Honored Heirloom
+荣耀传家宝
+After the Travails, Runechanters set about repairing twisted symbols of Avacyn as the first step in restoring faith in the Church.
+--------
+癫狂劫过后，符颂师便开始着手修复扭曲的艾维欣标志，作为恢复人们对教会信仰的第一步。
+
+541134
+Investigator's Journal
+调查员日志
+
+541135
+Lantern of the Lost
+逝者明灯
+
+541136
+Wedding Invitation
+婚礼请柬
+RSVP at your own risk.
+--------
+上书盼复，但后果自负。
+
+541137
+Deathcap Glade
+毒蕈林地
+Deadly mushrooms litter these woods, each waiting for an errant footstep to release its noxious spores.
+--------
+致命蘑菇遍布林地，误踩哪株都会引发剧毒孢雾。
+
+541138
+Dreamroot Cascade
+幻根瀑布
+Soothing whispers invite travelers to step closer, closer, closer . . . until they vanish soundlessly beneath the surface.
+--------
+温馨细语吸引旅人靠近，靠近，再靠近…直到他们悄无声息地消失在水面之下。
+
+541139
+Evolving Wilds
+成形野地
+"Spend too much time scanning the shadows for evil and you'll never see the beauty our world has to offer."
+—Katilda, Dawnhart Prime
+--------
+「若你过度聚焦阴影找寻邪恶，便会错过这世界上光明之处的众多美景。」
+～曙鹿集巫首凯蒂妲
+
+541140
+Shattered Sanctum
+破碎圣所
+The Quietus Cult holds their grim ceremonies in the dark places where unburied dead litter the ground.
+--------
+尸横遍野未及掩埋的黑暗之处，便是偿生教众举行邪恶仪式的好地点。
+
+541141
+Stormcarved Coast
+风蚀海岸
+Frequent, violent storms shape the Nephalia coastline, sculpting cliffs and caves where monsters often lurk.
+--------
+涅非利亚海岸经常遭受猛烈风暴吹袭侵蚀，将山崖岩洞塑造成如今模样，便于怪物藏匿其间。
+
+541142
+Sundown Pass
+日落隘口
+Riders chase the fading light recklessly through the mountains, desperate for one last glimpse of day.
+--------
+骑兵穿行山脉，不顾一切地追逐渐渐消逝的亮光，只为将白昼的最后时光留在眼中。
+
+541143
+Voldaren Estate
+沃达连邸
+
+544304
+Plains
+平原
+
+544305
+Plains
+平原
+
+544306
+Island
+海岛
+
+544307
+Island
+海岛
+
+544308
+Swamp
+沼泽
+
+544309
+Swamp
+沼泽
+
+544310
+Mountain
+山脉
+
+544311
+Mountain
+山脉
+
+544312
+Forest
+树林
+
+544313
+Forest
+树林
+
+545642
+Plains
+平原
+
+545643
+Island
+海岛
+
+545644
+Swamp
+沼泽
+
+545645
+Mountain
+山脉
+
+545646
+Forest
+树林
+
+========

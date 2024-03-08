@@ -1,0 +1,1807 @@
+548291
+Ancestral Katana
+祖传长刀
+
+548292
+Ao, the Dawn Sky
+澄穹猗旺
+
+548293
+Banishing Slash
+驱灵斩
+"In the name of Kyodai, begone!"
+--------
+「以香醍之名，速速退散！」
+
+548294
+Befriending the Moths
+彩蛾修睦记
+
+548295
+Imperial Moth
+皇室翔蛾
+"The moths of Eiganjo were once no different from any other great beast of Kamigawa's wilds. It took years of patience and dedication to convince them to bear riders."—History of the Empire
+--------
+「永岩城飞蛾原与神河野境巨兽并无二致，唯经十数年耐心化育，终令它们愿意偕人同翔。」
+～《帝国通史》
+
+548296
+Blade-Blizzard Kitsune
+凛剑狐族
+In the time it takes most to master one blade, he mastered two.
+--------
+这训练时间大多数人能舞好单剑已属不易，他却能将双刀运用自如。
+
+548297
+Born to Drive
+天赋驾能
+
+548298
+Brilliant Restoration
+辉耀复兴
+"We have done our best to heal this land together, but now I must entrust the future to my sister. She will carry our dreams onward into the sunrise."
+—Michiko Konda's journal
+--------
+「我们已竭尽所能来治愈这片土地，如今我必须将未来托付予我的姐妹。她将承载吾人梦想腾飞天际，与旭日同辉。」
+～今田魅知子的札记
+
+548299
+Cloudsteel Kirin
+云钢麒麟
+
+548300
+Dragonfly Suit
+蜻蛉机甲
+Cutting-edge Imperial sentinel mechs patrol the skies over Eiganjo.
+--------
+皇室卫兵机体乃以尖端科技打造，护永岩城于云霄。
+
+548301
+Eiganjo Exemplar
+永岩城模范
+Imperial samurai undergo strict training, honing their skills and purifying their spirits in the hope that they will prove worthy of a kami's blessing.
+--------
+皇室武士须经严格训练，不断磨炼战技、净化灵魂，以期自己够格蒙受神明祝福。
+
+548302
+Era of Enlightenment
+启蒙时代纪
+
+548303
+Hand of Enlightenment
+启蒙之手
+"We have endured lifetimes of war and carved our way to peace by blade and conquest. Now, united at last under Kyodai's guidance, we lay down our weapons and open our minds."—Aoha, general of the First Emperor
+--------
+「我辈一生饱受战事之苦，凭手中刀剑与无畏征伐方才辟出和平大道。如今得香醍引领，吾人甘愿团结一心，抛却手中武器，放开脑中思绪。」
+～始帝将军青叶
+
+548304
+The Fall of Lord Konda
+今田城主败亡鉴
+
+548305
+Fragment of Konda
+今田碎像
+For his transgressions against the kami, Lord Konda's immortal body was turned to stone, then shattered into a thousand still-living pieces.
+--------
+今田城主犯下逆神行径，其不朽身躯被化作石像，后又碎落成千百块在生碎片。
+
+548306
+Farewell
+告别
+
+548307
+Go-Shintai of Shared Purpose
+共念御神体
+It seeks those who act with kindness and offers friendship.
+--------
+寻善心之士，以友谊相报。
+
+548308
+Golden-Tail Disciple
+金尾院信徒
+Students of the kitsune-led Golden-Tail Academy in Eiganjo are unparalleled in both martial skill and dedication to the Imperial cause.
+--------
+永岩城内设金尾院，由狐族一脉相承负责教导，其间学子不论是武打技艺还是帝业忠诚均无出其右。
+
+548309
+Hotshot Mechanic
+巧艺技师
+"If your mech is factory standard, you might as well be walking."
+--------
+「如果你的机体是量产型的话，还是走着比较可靠。」
+
+548310
+Imperial Oath
+皇室之誓
+Those chosen to guard the Imperial Palace are not only unrivaled warriors but also lionhearted champions of the Imperial cause.
+--------
+被选中卫护皇宫者不仅战技无匹，亦是帝业拥趸。
+
+548311
+Imperial Recovery Unit
+皇室搜救机
+
+548312
+Imperial Subduer
+皇室威服卿
+"Cease your pathetic struggling."
+--------
+「快快停止无谓挣扎。」
+
+548313
+Intercessor's Arrest
+调停人逮捕
+
+548314
+Invoke Justice
+召现正义
+
+548315
+Kitsune Ace
+狐族高手
+"Oh, sorry—were we racing?"
+--------
+「啊，抱歉～我们是在比赛？」
+
+548316
+Kyodai, Soul of Kamigawa
+神河之魂香醍
+
+548317
+Light the Way
+照亮前路
+"That way lies death. This way, a chance."
+--------
+「彼处死路一条。此路仍有生机。」
+
+548318
+Light-Paws, Emperor's Voice
+帝皇玉音轻脚
+
+548319
+Lion Sash
+狮头饰带
+
+548320
+Lucky Offering
+幸运献礼
+The playful kami reserved its greatest blessings for those who brought not wealth or rare delicacies, but particularly amusing trinkets.
+--------
+这有趣神明并不看重财富或珍馐，反而会让供奉特别有趣琐物者交上大运。
+
+548321
+March of Otherworldly Light
+异灯行进
+
+548322
+Michiko's Reign of Truth
+魅知子布真之治
+
+548323
+Portrait of Michiko
+魅知子画像
+Long ago, as the first mortal to bond with Kyodai, Michiko Konda brought an end to the Kami War and guided Kamigawa into an age of truth and harmony.
+--------
+今田魅知子是首位与神明缔结亲缘的凡人，许久之前正是她凭此终结逆神之战，引领神河进入布真和谐的全新时代。
+
+548324
+Mothrider Patrol
+翔蛾巡卫
+"Be proud, young pup! You've earned your wings. Rise and become the western wind."
+—Swift-Arm, Golden-Tail headmaster
+--------
+「抬头挺胸，小子！你已得蛾翼相助。勇敢飞翔，化作西风。」
+～金尾院长迅腕
+
+548325
+Norika Yamazaki, the Poet
+诗人山崎典花
+"The blades will have their say, but peace is built with words."
+--------
+「刀剑铮响鸣，和平文言定。」
+
+548326
+Regent's Authority
+宰辅威权
+Before her spark pulled her away again, the Emperor appointed the wise Light-Paws to guide Kamigawa in her absence.
+--------
+在火花再次带她远行前，飘萍皇立明臣轻脚为相，嘱其在自己云游期间统领神河。
+
+548327
+Repel the Vile
+逐退恶势
+"You are a guest in this realm, and you've overstayed your welcome."
+—Yui, Imperial intercessor
+--------
+「你在此界虽为客，但也不能真把这当家。」
+～皇室调停人由依
+
+548328
+The Restoration of Eiganjo
+永岩城重砌考
+
+548329
+Architect of Restoration
+重砌筑师像
+"A visionary looks at rubble and sees not only what was, but also what could be."—Onyx-Eye, architect of Eiganjo
+--------
+「从瓦砾之间，有远见者不仅能看到过往旧貌，更能构出未来蓝图。」
+～永岩城筑师瑙眼
+
+548330
+Selfless Samurai
+无私武士
+
+548331
+Seven-Tail Mentor
+七尾导师
+"I have taught you all I can. Take this blade and rise as my equal."
+--------
+「我已再无他物能够传授于你。请收下此刃，承我之业。」
+
+548332
+Sky-Blessed Samurai
+空佑武士
+Imperial samurai who show exceptional honor and dexterity are invited to train as mothriders, elite guards charged with protecting the skies of Eiganjo.
+--------
+英勇果敢、身手过人的皇室武士会获邀受训转晋翔蛾骑士，摇身成为戍卫永岩城天空的菁英护卫。
+
+548333
+Spirited Companion
+灵念伴侣
+She formed a friendship with several playful spirits, and soon "the pack" was known as the source of much mischief in Eiganjo.
+--------
+她与几个淘气神灵结下友谊，很快这一「小团体」就成为永岩城内诸多恶戏的根源。
+
+548334
+Sunblade Samurai
+阳刃武士
+
+548335
+Touch the Spirit Realm
+亲触灵界
+
+548336
+Wanderer's Intervention
+飘萍干预
+Just as Jin-Gitaxias's victory seemed certain, the Wanderer appeared, her blade already in motion. One mighty slash was enough to take the praetor out of the fight.
+--------
+金吉塔厦自认大局底定时，飘萍突然现身，手中长剑已扬。只见亮光闪过，她的一记重斩就足以击碎魔判官的所有胜算。
+
+548337
+The Wandering Emperor
+飘萍皇
+
+548338
+When We Were Young
+遥想年少
+Since Imperial custom strictly forbade the Emperor to reveal her name—even to Kaito, her closest childhood friend—she had to suffer him calling her "your emperorness" for much of their shared youth.
+--------
+皇室严禁今上向任何人透露自己姓名～就连她的青梅竹马魁渡也不例外。因此在共度的大半年少岁月中，她只得一直忍受对方称呼自己「皇上」。
+
+548339
+Acquisition Octopus
+窃物八爪械
+You can never have too many arms.
+--------
+再多手都不嫌多。
+
+548340
+Anchor to Reality
+锚定实界
+The Wanderer sighed in relief as the Reality Chip tethered her wayward spark to Kamigawa.
+--------
+飘萍眼见实界晶片将其难控火花栓定神河之后，反而长舒一口气。
+
+548341
+Armguard Familiar
+护臂佣兽
+
+548342
+Awakened Awareness
+洞察觉醒
+
+548343
+Behold the Unspeakable
+亲见忌话图
+
+548344
+Vision of the Unspeakable
+忌话图视像
+Even as her students' minds succumbed to madness, Azami's obsession with the kami of forbidden knowledge only grew.
+--------
+纵使学院门生难承重压失智发狂，但蓟夫人对禁识神痴迷之情却只增不减。
+
+548345
+Covert Technician
+隐秘技师
+
+548346
+Discover the Impossible
+探索未然
+
+548347
+Disruption Protocol
+扰序协定
+"Let's just turn that off, shall we?"
+--------
+「就把它关掉吧，如何？」
+
+548348
+Essence Capture
+捕捉菁华
+The Futurists regard the tradition of kami-bonding as anachronistic and inefficient, striving constantly to surpass spiritual power with technology.
+--------
+赛博派觉得「结神缘」这一传统既过时效果又不彰，故而致力发展科技，希冀有朝一日以此超越灵力。
+
+548349
+Futurist Operative
+赛博派特务
+"The Imperials can't arrest you for illegal tech if you never even existed."
+--------
+「如果你未曾存在，皇室当然就没法以滥用技术罪名来拘捕你。」
+
+548350
+Futurist Sentinel
+赛博派哨卫
+"I folded a model in paper first to test the relative tensile strength of the plates."
+—Katsumasa, the Animator
+--------
+「我是先用纸来折出模型，好测试钢板之间的相对拉伸强度。」
+～灵机贺津间佐
+
+548351
+Go-Shintai of Lost Wisdom
+遗智御神体
+It seeks those driven by curiosity and offers enlightenment.
+--------
+寻好奇之士，以启蒙相报。
+
+548352
+Guardians of Oboro
+胧宫守护者
+"The palace is closed to outsiders."
+--------
+「宫殿外人禁入。」
+
+548353
+Inventive Iteration
+发明迭代志
+
+548354
+Living Breakthrough
+突破具像
+"While they squabble below, let us rise above."—Emire, director of the Saiba Futurists
+--------
+「趁他们还在下面争执不休，我们借机飞升即位。」
+～赛博派会长依民列
+
+548355
+Invoke the Winds
+召现狂风
+"Are you seriously telling me your heavy combat mech . . . blew away?"
+—Risona, leader of the Asari Uprisers
+--------
+「你说你的重型战斗机体被风吹飞了…认真的？」
+～浅利起事军首领理想那
+
+548356
+Jin-Gitaxias, Progress Tyrant
+进展暴君金吉塔厦
+
+548357
+Kairi, the Swirling Sky
+旋穹开璃
+
+548358
+March of Swirling Mist
+漩雾行进
+
+548359
+Mindlink Mech
+系灵机体
+
+548360
+Mirrorshell Crab
+镜壳蟹
+
+548361
+Mnemonic Sphere
+记忆饰球
+"Let the Imperials search our laboratories. Will they think to look for secrets in a pretty bauble?"
+—Emire, director of the Saiba Futurists
+--------
+「实验室就让皇室放手去查。反正他们也想不到要在漂亮饰品中去找秘密。」
+～赛博派会长依民列
+
+548362
+Mobilizer Mech
+灵动机体
+
+548363
+The Modern Age
+摩登年代采风
+
+548364
+Vector Glider
+向量漂灵
+It drifted from the spirit realm into a neon world full of new possibilities . . . and decided to stay.
+--------
+它从灵界误入一个充满全新可能性的霓虹新世界…于是决定就此留下。
+
+548365
+Moon-Circuit Hacker
+月路骇客
+
+548366
+Moonfolk Puzzlemaker
+出谜月人
+"Research is hardly the dry, serious pastime outsiders make it out to be."
+--------
+「研究从来就不是外人想象中那种枯燥严肃的消遣。」
+
+548367
+Moonsnare Prototype
+月索原型
+
+548368
+Moonsnare Specialist
+月索能手
+
+548369
+Network Disruptor
+扰网客
+"Just as I suspected. They thought they'd hidden the terminal, so they got lazy with the encryption."
+--------
+「不出所料。他们自以为把终端机藏好之后，就不用费心去加密了。」
+
+548370
+Planar Incision
+时空裂口
+Jin-Gitaxias had long coveted the secrets of planeswalking. Spirits that could pass between worlds made for perfect test subjects.
+--------
+金吉塔厦早对穿行时空的秘密觊觎多时。能够穿行两界的灵体正是最佳实验对象。
+
+548371
+Prosperous Thief
+丰获窃贼
+
+548372
+The Reality Chip
+实界晶片
+
+548373
+Reality Heist
+强夺实界
+Kaito grabbed the chip, hoping it held answers.
+--------
+魁渡抢下晶片，希望能从其中找到答案。
+
+548374
+Replication Specialist
+模造能手
+"Step one is innovation. Step two is production. Sometimes step one is optional."
+--------
+「第一步是创新。第二步是制造。但有的时候也可以跳过第一步。」
+
+548375
+Saiba Trespassers
+赛博派侵客
+One to clear the way, another to erase their trail.
+--------
+一人开路，另一人灭迹。
+
+548376
+Short Circuit
+短路
+
+548377
+Skyswimmer Koi
+游空鲤鱼
+Once they swam alone among the clouds, but now the people of Kamigawa have built high enough to reach them.
+--------
+它们曾经遨游云端，如今神河建物已高到让民众也能漫步天际。
+
+548378
+Spell Pierce
+点破咒语
+For all their planning, Tamiyo and Kaito were unprepared to face the full power of a Phyrexian praetor.
+--------
+魁渡和多美代的所有计划里面，都没想到他们会要对上全力出击的非瑞克西亚魔判官。
+
+548379
+Suit Up
+全装上阵
+With a reckless leap into the pilot's seat, Hirori went from smallest kid on the block to biggest hero in the city.
+--------
+弘理纵身跳向机师驾驶座，转眼就从街区最弱少年摇身变为城中最大英雄。
+
+548380
+Tameshi, Reality Architect
+实界筑师多枚实
+
+548381
+Tamiyo's Compleation
+多美代完化
+
+548382
+Tezzeret, Betrayer of Flesh
+叛生逆徒泰兹瑞
+
+548383
+Thirst for Knowledge
+渴求知识
+"Knowledge is the universal currency of the Multiverse. It is power. It is freedom. It is possibility itself."
+--------
+「知识是整个多重宇宙的通货。它就是力量。它就是自由。它就是可能。」
+
+548384
+Thousand-Faced Shadow
+千面影徒
+
+548385
+Assassin's Ink
+杀手墨戏
+A Reckoner always has another trick up their sleeve—or as their sleeve.
+--------
+帮派成员总有暗藏玄机～或隐于袖中，或纹于身上。
+
+548386
+Biting-Palm Ninja
+啮掌忍者
+
+548387
+Blade of the Oni
+邪鬼大刀
+
+548388
+Chainflail Centipede
+链枷千足虫
+
+548389
+Clawing Torment
+魔爪折磨
+A kami's anger never fades, never sleeps, never loosens its grasp.
+--------
+神明怒火永不消退，永不歇息，永不放手。
+
+548390
+Debt to the Kami
+神明追偿
+The masters weren't speaking figuratively when they said guilt could be all-consuming.
+--------
+罪行要穷尽一生补偿；师父对弟子的谨慎告诫远超言喻。
+
+548391
+Dockside Chef
+码头厨师
+The squirming is how you know it's fresh.
+--------
+新鲜到还会动呢。
+
+548392
+Dokuchi Shadow-Walker
+毒血帮伏影者
+Don't fear the blade, fear the shadows.
+--------
+刀不可怕，可怕的是阴影。
+
+548393
+Dokuchi Silencer
+毒血帮销音客
+
+548394
+Enormous Energy Blade
+庞巨能量刃
+"Heavy? Maybe for you."
+--------
+「重吗？那是你。」
+
+548395
+Go-Shintai of Hidden Cruelty
+掩暴御神体
+It seeks those with hate in their hearts and offers vengeance.
+--------
+寻怨恨之士，以复仇相报。
+
+548396
+Gravelighter
+墓灯灵
+It appears only to those whose lives are ending, welcoming them to their fate.
+--------
+这精魂仅有将死之士得见，每次出没只为奉迎逝者安息。
+
+548397
+Hidetsugu, Devouring Chaos
+噬生浑魔碑出告
+
+548398
+Inkrise Infiltrator
+墨升渗透者
+"They can't follow your footprints if you never touch the ground."
+--------
+「只要脚不着地，你就没有脚印会让人追踪。」
+
+548399
+Invoke Despair
+召现绝望
+Although officials said it was a sewer failure, the people whispered that it was a warning of night's reach.
+--------
+虽然正式公告只说这是下水道不畅，但人们纷纷传言这是夜幕明神的警告。
+
+548400
+Junji, the Midnight Sky
+夜穹殉至
+
+548401
+Kaito's Pursuit
+魁渡追逐
+Kaito knew every rooftop in the city, and closed in quickly on his quarry—but he knew nothing of the Planar Bridge until it was already too late.
+--------
+虽然魁渡熟知城里每一片屋瓦，得以凭地利快速逼近猎物～但他对时空渡桥却一无所知，待他弄清头绪时早已过晚。
+
+548402
+Kami of Restless Shadows
+躁影神
+
+548403
+Kami of Terrible Secrets
+怖密神
+It feeds on things better left unknown, savoring the bitterness of lies and regrets.
+--------
+它以不应为人所知之事为食，细细品味谎言与悔恨当中的苦涩。
+
+548404
+Leech Gauntlet
+蛭吸护手
+
+548405
+Lethal Exploit
+致命缺漏
+
+548406
+Life of Toshiro Umezawa
+梅泽俊郎生平纪
+
+548407
+Memory of Toshiro
+俊郎忆像
+"Some called him the hero of the Kami War, others a selfish thief. As ever, the truth is hidden somewhere in between."—Reki, founder of the Living Historians
+--------
+「有人尊他为逆神之战的英雄，有人则唾其为自私窃贼。如世间诸事一般，真相往往藏于两者之间。」
+～现世史家始祖历
+
+548408
+The Long Reach of Night
+夜幕乱世抄
+
+548409
+Animus of Night's Reach
+夜幕恶意
+The dark myojin's gifts were instrumental in ending the Kami War.
+--------
+这黑暗明神的赠礼，乃是逆神之战终结的关键。
+
+548410
+Malicious Malfunction
+恶毒失灵
+"That? A minor test, nothing more. Incompleat flesh is weak."
+—Jin-Gitaxias
+--------
+「那个啊？只是个小小测试罢了。未经完化的肉身果然很弱。」
+～金吉塔厦
+
+548411
+March of Wretched Sorrow
+伤悲行进
+
+548412
+Mukotai Ambusher
+无孤帮伏击客
+The Mukotai Reckoners specialize in stealth and subterfuge.
+--------
+无孤帮众精于匿踪隐遁。
+
+548413
+Mukotai Soulripper
+无孤帮剥魂械
+
+548414
+Nashi, Moon Sage's Scion
+月智者后裔哪失
+
+548415
+Nezumi Bladeblesser
+祝刃鼠人
+"It's not one or the other, kami or technology. Both offer power. I will not limit myself."
+--------
+「神明与科技并非互斥之物，两者均能予人力量。而我不愿只选其一。」
+
+548416
+Nezumi Prowler
+游掠鼠人
+
+548417
+Okiba Reckoner Raid
+炽场帮袭劫志
+
+548418
+Nezumi Road Captain
+路霸鼠人
+United by defiant pride in their outsider status, the nezumi of the Okiba Reckoners boast the most advanced cyberbikes and the best riders of all the Reckoner gangs.
+--------
+炽场帮鼠人因同以局外人为豪而结聚成团，如今他们拥有各黑道帮派中最高段的赛博机车和机车骑士。
+
+548419
+Okiba Salvage
+炽场帮回收
+"Some fool would rather throw a whole mech away than repair one hydraulic actuator? It must be my lucky day."
+--------
+「居然有人连一个小小的液压致动器都不修，就把机体整个丢弃？我今天一定是走大运了。」
+
+548420
+Reckoner Shakedown
+帮派诘问
+"That's a start. What else do you have for us?"
+—Takumi, Reckoner enforcer
+--------
+「这只是开始。你还有什么没告诉我们的？」
+～帮派打手拓巳
+
+548421
+Reckoner's Bargain
+帮派交易
+Restricted auctions are held once a year at the Dragon's Lair—the sacred, neutral meeting ground of all Reckoner gangs.
+--------
+在育龙巢这块所有黑道帮派都不许妄动的面会中立圣地上，每年都举办一场限要人参加的特殊拍卖。
+
+548422
+Return to Action
+重回一线
+"You're hurt? Too bad. You stop fighting when I say, and not a moment sooner."
+—Satoru Umezawa
+--------
+「你受伤了？可惜啊。你只有在我说停的时候才能停，早一刻都不行。」
+～梅泽悟
+
+548423
+Soul Transfer
+转移灵魂
+
+548424
+Tatsunari, Toad Rider
+乘蟾达成
+
+548425
+Tribute to Horobi
+崩老卑祭献考
+
+548426
+Echo of Death's Wail
+亡嚎回响
+
+548427
+Twisted Embrace
+曲志攫身
+Evil kami are drawn to mortals who share their grim fascinations.
+--------
+寡情冷酷的凡人会招惹上冷酷寡情的邪恶神明。
+
+548428
+Undercity Scrounger
+陋街搜刮客
+"That will pay for another arm extension all by itself! Well, as long as it doesn't explode."
+--------
+「光这东西就能值回一套延展义肢！只要它不爆炸。」
+
+548429
+Unforgiving One
+记怨魂
+
+548430
+Virus Beetle
+病毒甲虫
+"They'll be debugging their code for days before they figure out what happened!"
+—Eita, Futurist agent
+--------
+「他们得耗上好几天时间来检查代码，才能发现根源在哪！」
+～赛博派特务映太
+
+548431
+You Are Already Dead
+你已经死了
+So swift and sharp was his blade that the ogre never even felt the cut.
+--------
+他手起刀落，剑锋行云流水，食人魔甚至从未察觉身躯已分为二。
+
+548432
+Akki Ember-Keeper
+护烬恶鬼
+"Follow my lantern, little ones."
+--------
+「跟着我的灯笼走，小家伙。」
+
+548433
+Akki Ronin
+恶鬼浪人
+"Carry the heat of the furnace in your steel, and never let it fade."
+—Keni-Keni, akki smith
+--------
+「把熔炉怒火带到钢刃上，别让它灭了。」
+～恶鬼铁匠柯尼柯尼
+
+548434
+Akki War Paint
+恶鬼战绘
+Akki paint bright, bold designs on their salvaged Imperial mechs, leaving no doubt as to who they belong to now.
+--------
+恶鬼会在拾荒捡回的皇室机体上涂绘鲜艳大胆的图案，让其如今归属一目了然。
+
+548435
+Ambitious Assault
+雄心突袭
+In the clangor and chaos of the akki attack, few even noticed the frogs on their heads.
+--------
+恶鬼攻势阵仗混乱喧闹异常，在这情况下几乎没人注意到他们头上顶着的是青蛙。
+
+548436
+Atsushi, the Blazing Sky
+炽穹轧赐
+
+548437
+Bronzeplate Boar
+铜铠野猪
+
+548438
+Crackling Emergence
+裂响突现
+The transition from spiritual to material is sometimes as shocking as it is beautiful.
+--------
+灵体具现这一过程有时令人既震撼又惊艳。
+
+548439
+Dragonspark Reactor
+龙火反应炉
+
+548440
+Experimental Synthesizer
+实验融合仪
+
+548441
+Explosive Entry
+火爆登场
+Kaito and Tamiyo charged headlong into Jin-Gitaxias's secret lab, unaware that the praetor was eagerly awaiting their arrival.
+--------
+魁渡和多美代一举冲入金吉塔厦的秘密实验室，全然不知这位魔判官已在该处恭候多时。
+
+548442
+Explosive Singularity
+火爆奇点
+
+548443
+Fable of the Mirror-Breaker
+破镜奇谭
+
+548444
+Reflection of Kiki-Jiki
+奇奇几奇映影
+Blessed by Keiga, the Tide Star, Kiki-Jiki would one day master the art of duplication.
+--------
+得苍龙京河祝福后，奇奇几奇总有一天能掌握复制之道。
+
+548445
+Flame Discharge
+火焰涌射
+"What? Why would it need a cooling unit?"
+--------
+「什么？为何这上面需要冷却装置？」
+
+548446
+Gift of Wrath
+愤怒赋礼
+
+548447
+Go-Shintai of Ancient Wars
+古战御神体
+It seeks those consumed with rage and offers burning blades.
+--------
+寻忿怒之士，以炽刃相报。
+
+548448
+Goro-Goro, Disciple of Ryusei
+流星信徒骨碌骨碌
+
+548449
+Heiko Yamazaki, the General
+名将山崎兵子
+"I prefer to let my sword do the talking."
+--------
+「我更愿刀剑铮鸣。」
+
+548450
+Invoke Calamity
+召现苦难
+
+548451
+Ironhoof Boar
+铁蹄野猪
+"I'm glad she can run again, but this might have been a bit much."
+—Kenji, Sokenzan artisan
+--------
+「虽然她能重新跑起来确实令人高兴，可这也太兴奋了。」
+～霜剑山工匠乾志
+
+548452
+Kami of Industry
+精工神
+It takes many arms to arm an army.
+--------
+兵车集众方能成军。
+
+548453
+Kami's Flare
+神明火光
+"The flames are a gift from my companion. They won't hurt me. You, on the other hand . . ."
+--------
+「这火焰是我神伴相赠，不会伤我分毫。至于你…」
+
+548454
+Kindled Fury
+点燃怒火
+The only thing better than hitting hard is hitting first.
+--------
+至强功力，唯快能破。
+
+548455
+Kumano Faces Kakkazan
+熊野大战渴苛斩
+
+548456
+Etching of Kumano
+熊野蚀刻像
+Many kami came to demand a secret he did not know, and every one of them fell.
+--------
+许多神明前来求索熊野自己也不知道的秘密，然而全都无功而返。
+
+548457
+Lizard Blades
+蜥蜴双刀
+
+548458
+March of Reckless Joy
+狂乐行进
+
+548459
+Ogre-Head Helm
+食人魔头盔
+
+548460
+Peerless Samurai
+拔萃武士
+"I fear I have run out of worthy opponents."
+--------
+「我担心世上已无好手能与我匹敌。」
+
+548461
+Rabbit Battery
+灵兔电池
+
+548462
+Reinforced Ronin
+强化浪人
+
+548463
+Scrap Welder
+废铁焊工
+"This big metal guy will make some amazing wind chimes!"
+--------
+「这么大的铁家伙，经风吹过的声响一定很好听！」
+
+548464
+Scrapyard Steelbreaker
+废铁场碎钢工
+"You've got about three seconds to get out of here before you get a faceful of metal."
+--------
+「你有三秒钟的时间滚出这里，否则别怪我朝着你脸就是一锤。」
+
+548465
+Seismic Wave
+地动波
+"Step carefully, Imperial. Even the earth rises against you."
+--------
+「宫里的，小心脚下。就连大地都在跟你们作对。」
+
+548466
+The Shattered States Era
+乱世风云录
+
+548467
+Nameless Conqueror
+无名风云儿
+"In the wake of the Kami War, Kamigawa descended into a state of constant warfare. Even with Kyodai's wisdom guiding them, it took the first Imperials decades of work and bloodshed to subdue the clans and bring peace to the land."—History of the Empire
+--------
+「逆神之战过后，神河仍深陷战争乱世。纵有香醍辅佐，始帝家亦经数十载惨烈战斗方才平定各方，令和平重回大地。」
+～《帝国通史》
+
+548468
+Simian Sling
+猿猴掷械
+
+548469
+Sokenzan Smelter
+霜剑山熔铁匠
+Among the artisans of Sokenzan City, reusing every scrap of metal is a point of pride.
+--------
+对霜剑山市的工匠来说，重复利用每块废铁是件值得骄傲的事情。
+
+548470
+Tempered in Solitude
+独行锤炼
+Many master samurai make pilgrimages deep into the Sokenzan Mountains, where they train and meditate in silence, hoping to commune with a lava kami.
+--------
+许多武士高人会选择独入霜剑山脉修行，于无声中淬炼武艺、静心冥想，希望能亲得熔岩神提点。
+
+548471
+Thundering Raiju
+轰鸣雷兽
+
+548472
+Towashi Songshaper
+都和市行韵伶
+Most Uprisers augment their bodies for speed, strength, or protection, but a few just want to be one with the music.
+--------
+大多数起事军将士强化身躯，是为了动作更快、力量更强、防护更佳，但也有人只是为了能与音乐合而为一。
+
+548473
+Twinshot Sniper
+双箭神射手
+"Pierce the heart and pierce the head, even the mightiest fall down dead."
+--------
+「射穿心脏又爆头，武艺再强也死透。」
+
+548474
+Unstoppable Ogre
+百胜食人魔
+Touma never met a door he didn't hate.
+--------
+灯磨还没碰到过一扇他不讨厌的门。
+
+548475
+Upriser Renegade
+起事变节者
+"My streets, my rules. You picked the wrong neighborhood for a fight."
+--------
+「我的地盘，由我作主。你打架选错地方了。」
+
+548476
+Voltage Surge
+电压翻涌
+
+548477
+Azusa's Many Journeys
+梓纱八方之旅
+
+548478
+Likeness of the Seeker
+云游者纺像
+"I ask for nothing more than a new journey and a fresh path to greet my feet when I wake each morning."—Azusa
+--------
+「我每日醒来，只求能开辟一段未知旅程，双脚迈上一条全新道路。」
+～梓纱
+
+548479
+Bamboo Grove Archer
+竹林射手
+"Do not mistake tranquility for domestication. This land is wild, and will always remain so."
+--------
+「切勿把静谧当作顺从。这片大地仍带野性，且将长存。」
+
+548480
+Bearer of Memory
+铭忆士
+Members of the Living Historians don't simply chronicle the past; they embody it.
+--------
+现世史家并非只是记载历史，而是亲身承载历史。
+
+548481
+Blossom Prancer
+花跃灵
+
+548482
+Boon of Boseiju
+母圣树恩泽
+She closed her eyes and remembered the smell of the leaves of Jukai Forest. When she opened them, the buildings of Towashi had grown small.
+--------
+她闭上双眼，感觉自己又重新回忆起树海中翠叶芬芳气息。再度睁眼时，只见都和市的建筑已变得小巧。
+
+548483
+Boseiju Reaches Skyward
+母圣树耸天际
+
+548484
+Branch of Boseiju
+母圣树枝桠
+Though they razed the surrounding forest, the builders of Towashi left Boseiju unscathed, shaping the city around the ancient tree.
+--------
+虽然在建造都和市时周围树木遭大举砍伐，但筑城者却并未触动母圣树分毫，而是以其为中心来规划都市。
+
+548485
+Careful Cultivation
+细心栽培
+
+548486
+Coiling Stalker
+盘卷潜行客
+
+548487
+Commune with Spirits
+野灵商谈
+The kami of Jukai Forest accept only the most respectful petitioners.
+--------
+树海的神明仅接受最虔诚者的祈求。
+
+548488
+The Dragon-Kami Reborn
+龙神重生录
+
+548489
+Dragon-Kami's Egg
+龙神之卵
+
+548490
+Fade into Antiquity
+逐渐湮没
+"Memories fade and wither with time. If we do not nurture the garden of history, we may once more wander blindly through barren lands."
+—Reki, founder of the Living Historians
+--------
+「记忆会随着时间流逝而消散凋零。如果我们不悉心照料历史花园，就有可能要再度于荒芜之地上盲目游荡。」
+～现世史家始祖历
+
+548491
+Fang of Shigeki
+茂树之牙
+"Let me give you a taste of the poison you've poured into our land."
+—Shigeki, founder of the Order of Jukai
+--------
+「换你尝尝祸害吾人土地的毒液滋味。」
+～树海团创始人茂树
+
+548492
+Favor of Jukai
+树海眷恩
+The land chooses its own champions.
+--------
+大地会选择属于自己的斗士。
+
+548493
+Generous Visitor
+盛情灵
+It is said that one must modestly refuse a gift three times before accepting it to show humility before the kami.
+--------
+收受神明馈赠之前，须得推托三次方显礼数。
+
+548494
+Geothermal Kami
+地热神
+A mysterious kami will sometimes appear to overworked monks and offer them a warm, relaxing bath.
+--------
+有时谜样神明会现身过劳修行僧面前，令其得在温泉中沐浴身心。
+
+548495
+Go-Shintai of Boundless Vigor
+蓬勃御神体
+It seeks those with untamed spirits and offers wild strength.
+--------
+寻畅活之士，以蛮力相报。
+
+548496
+Grafted Growth
+接殖成长
+
+548497
+Greater Tanuki
+巨貉
+The kami permit few mortals to dwell in Jukai Forest, but the clever, playful tanuki are welcomed as friends and guardians.
+--------
+几无凡间生灵获准长居树海，但机灵调皮的貉则深得神明欢心，充任此地守护者。
+
+548498
+Harmonious Emergence
+和谐突现
+Where the spirit and mortal realms overlap, the laws of reality are rewritten.
+--------
+灵界与实界交迭之处，现实定律便遭改写。
+
+548499
+Heir of the Ancient Fang
+古牙传人
+On the last day of a Jukai agent's training, they are bequeathed a powerful relic blessed by the kami.
+--------
+树海密探在训练的最后一天，才会得授经神明祝福的强大遗宝。
+
+548500
+Historian's Wisdom
+史家智慧
+
+548501
+Invoke the Ancients
+召现先人
+After large sections were clear-cut to build Towashi, the once-peaceful Jukai Forest grew violently hostile to outsiders.
+--------
+自从树海大片林木因建造都和市被砍伐一空后，原本安宁祥和的此地对外界敌意便与日俱增。
+
+548502
+Jugan Defends the Temple
+珠眼戍卫神社
+
+548503
+Remnant of the Rising Star
+珠眼遗形
+
+548504
+Jukai Preserver
+树海卫护人
+"The kami grant you this boon, not I."
+--------
+「赐恩者乃是神明，而非敝人。」
+
+548505
+Jukai Trainee
+树海学员
+"The Order of Jukai accepts only the strongest of body and spirit. I will train until I meet their expectations."
+--------
+「唯有身灵最强健者方能加入树海团。在自己够格前，我将不断修练。」
+
+548506
+Kami of Transience
+无常神
+
+548507
+Kappa Tech-Wrecker
+返璞河童
+
+548508
+Kodama of the West Tree
+西树木灵
+
+548509
+Kura, the Boundless Sky
+芳穹空罗
+
+548510
+March of Burgeoning Life
+繁生行进
+
+548511
+Master's Rebuke
+蛇圣拒斥
+"You have always been a promising student, but your arrogance far outstrips your prowess."
+--------
+「为师一直深觉你前途无量，但你孤高倨傲定会自缚手脚。」
+
+548512
+Orochi Merge-Keeper
+护融蛇人
+One day the spirit and mortal realms will be one. Until then, she faithfully guards the sites where they merge.
+--------
+灵实二界终将融合一体。她将虔心守护融界之地，静待时刻到来。
+
+548513
+Roaring Earth
+土石咆哮
+
+548514
+Season of Renewal
+新生季节
+Pavement ripped like paper as the ancient kami awoke from her long slumber beneath the city.
+--------
+长眠城市地底古神醒转起身，现代铺装地面如纸一般应声撕裂。
+
+548515
+Shigeki, Jukai Visionary
+树海幻视师茂树
+
+548516
+Spinning Wheel Kick
+旋轮踢
+Members of the Order of Jukai commune with kami to enhance their martial prowess.
+--------
+树海团员经由通悟神明来增进武术技艺。
+
+548517
+Spring-Leaf Avenger
+春叶复仇者
+
+548518
+Storyweave
+爬梳叙事
+
+548519
+Tales of Master Seshiro
+蛇圣濑四郎传说
+
+548520
+Seshiro's Living Legacy
+濑四郎活证
+"In times of strife, the foolish make a fist while the wise make a friend."—First Address of Seshiro the Anointed as Broodmaster of the Orochi Colonies
+--------
+「战乱时代，愚人争强，智者争友。」
+～《蛇圣濑四郎首任王蛇就职演讲词》
+
+548521
+Tamiyo's Safekeeping
+多美代佑护
+To keep the Reality Chip out of Jin-Gitaxias's hands, the Wanderer entrusted it to Tamiyo.
+--------
+为免实界晶片落于金吉塔厦之手，飘萍将它交给多美代悉心保管。
+
+548522
+Teachings of the Kirin
+麒麟教诲集
+
+548523
+Kirin-Touched Orochi
+应麟蛇人
+
+548524
+Weaver of Harmony
+纺谐蛇人
+
+548525
+Webspinner Cuff
+布网腕扣
+
+548526
+Asari Captain
+浅利军队长
+"Go! Show them your fury!"
+--------
+「上！让他们见识你的怒火！」
+
+548527
+Colossal Skyturtle
+巨型空龟
+
+548528
+Eiganjo Uprising
+永岩城起事
+Two different visions of freedom clashed at the gates of the Imperial Palace.
+--------
+两种不同的自由思路在皇宫门口剧烈碰撞。
+
+548529
+Enthusiastic Mechanaut
+热狂驭械师
+"Greetings, fellow inventors!" the akki shouted, attempting a friendly smile. To her dismay, the greeting was met only with shrieks and alarms being activated.
+--------
+「各位发明家同僚，大家好！」恶鬼高声招呼，脸上还试着要堆出一丝微笑。但令她失望的是，她的一番问候只换来了惊声尖叫和警报齐鸣。
+
+548530
+Gloomshrieker
+幽鸣兽
+
+548531
+Greasefang, Okiba Boss
+炽场帮头目脂牙
+It's hard to say which is more deadly: her bike or her bite.
+--------
+很难说是哪样东西更致命：她的机车，还是她的尖牙。
+
+548532
+Hidetsugu Consumes All
+碑出告吞世谭
+
+548533
+Vessel of the All-Consuming
+吞世魔躯
+
+548534
+Hinata, Dawn-Crowned
+冠晓麒麟日向
+Hope races on sunlit hooves.
+--------
+麟蹄映日，希望随行。
+
+548535
+Invigorating Hot Spring
+活力温泉
+
+548536
+Isshin, Two Heavens as One
+二天一流一心
+Trained by the Imperials but disillusioned by their rigidity, he gave his heart—and his swords—to the Asari Uprising.
+--------
+他身经皇室训练，却因其迂腐渐失信念，如今已将全心及全剑都奉献予浅利起事军。
+
+548537
+Jukai Naturalist
+树海归真师
+He had heard rumors of the cities—the constant noise, the stagnant air, the tainted water—and he had no wish to learn if they were true.
+--------
+城市风言虽也传入其耳～噪声不绝、空气脏浊、水源遭染～但他却无意探究其真假。
+
+548538
+Kaito Shizuki
+漆月魁渡
+
+548539
+The Kami War
+逆神之战
+
+548540
+O-Kagachi Made Manifest
+大口绳具像
+
+548541
+Kotose, the Silent Spider
+垂影琴濑
+
+548542
+Naomi, Pillar of Order
+秩序柱础直美
+"Progress comes only when we rise above our petty quarrels."
+--------
+「唯有超越繁琐争端，方能得见进展。」
+
+548543
+Oni-Cult Anvil
+邪鬼宗铁砧
+
+548544
+Prodigy's Prototype
+逸才原型机
+
+548545
+Raiyuu, Storm's Edge
+风暴利刃雷游
+"The tempest is the only ally I need."
+--------
+「暴风是我唯一需要的同伴。」
+
+548546
+Risona, Asari Commander
+浅利军指挥官理想那
+
+548547
+Satoru Umezawa
+梅泽悟
+
+548548
+Satsuki, the Living Lore
+现世识库佐津树
+
+548549
+Silver-Fur Master
+银毛师父
+
+548550
+Spirit-Sister's Call
+龙缘相唤
+
+548551
+Tamiyo, Compleated Sage
+完化智者多美代
+
+548552
+Automated Artificer
+自动神器师
+"I sometimes watch them build more of their kind and wonder: Will there come a day when they no longer need us?"
+—Saku, Futurist technician
+--------
+「我有时会怔怔看着它们自行建造同类而陷入沉思：是不是会有它们不再需要我们的那一天？」
+～赛博派技师朔
+
+548553
+Bronze Cudgels
+青铜双棍
+"These were made when Michiko was young. Wield them wisely."
+—Chiyoko, Jukai elder
+--------
+「此物历史能追溯到魅知子年少时期。请谨慎运用。」
+～树海长老知世子
+
+548554
+Brute Suit
+蛮力机甲
+"Send them a message they can't ignore."
+—Satoru Umezawa
+--------
+「这次的讯息他们不会再看不见。」
+～梅泽悟
+
+548555
+Circuit Mender
+修线机虫
+Inspired by industrious silkworms, its maker crafted it to restore the broken pieces of the world.
+--------
+这机械的发明者受勤勉桑蚕启发，因而将它制成这等形状，希冀其能够将世界破片修复一新。
+
+548556
+Containment Construct
+伏灵组构体
+Automated units are deployed to stabilize merge sites deemed too dangerous even for trained intercessors.
+--------
+当融界之地已危险到老练调停人都无法掌控时，便会派自动机体前去处理。
+
+548557
+Dramatist's Puppet
+剧作家人偶
+"Who cares if the story's true as long as people are entertained?"
+—Shin, Towashi street performer
+--------
+「只要能享乐其中，谁会去追究真假？」
+～都和市街头表演家心
+
+548558
+Eater of Virtue
+残贤刃
+
+548559
+Ecologist's Terrarium
+生态学家盆景箱
+
+548560
+High-Speed Hoverbike
+高速悬浮机车
+
+548561
+Iron Apprentice
+钢铁学徒
+"I needed an extra set of hands, so I built one."
+—Kenji, Sokenzan artisan
+--------
+「我希望能多一双手，所以我就造了个帮手。」
+～霜剑山工匠乾志
+
+548562
+Mechtitan Core
+机体泰坦核心
+
+548563
+Mirror Box
+镜像盒
+
+548564
+Network Terminal
+联网终端
+Public access terminals around Towashi provide residents with up-to-date information on everything from traffic delays to hostile kami sightings.
+--------
+都和市内的各处公共终端随时向市民提供最新资讯，从塞车情报到恶神现身无所不包。
+
+548565
+Ninja's Kunai
+忍者苦无
+A point to pierce flesh and spirit alike.
+--------
+镖头所至，灵肉皆穿。
+
+548566
+Papercraft Decoy
+纸艺诱兵
+"And what, precisely, was so important that you left the entrance unguarded?"
+—Fumika, Imperial enforcer
+--------
+「给我说清楚，到底是什么东西吸引你的注意力，让你擅离门岗职守？」
+～皇家执法者文华
+
+548567
+Patchwork Automaton
+修补机械兽
+It dwells happily near the ever-burning forges of Sokenzan City, crafting small things of beauty from discarded scraps.
+--------
+它流连于霜剑山市永不停歇的熔炉周围，每天乐此不疲地化废铁为神奇。
+
+548568
+Reckoner Bankbuster
+帮派劫库械
+
+548569
+Reito Sentinel
+灵都哨卫
+
+548570
+Runaway Trash-Bot
+落跑清淤械
+One day it might roll over your foot, the next day your entire house.
+--------
+今天可能只是压到你的脚，改天就可能压过你的房。
+
+548571
+Searchlight Companion
+探照灯伴侣
+The merging of the spirit and material realms has resulted in some unusual friendships.
+--------
+灵实二界融合催生出不少奇妙友谊。
+
+548572
+Shrine Steward
+祭祠住持
+From broken swords, the first Imperials forged a peaceful servant to tend the shrines of Eiganjo.
+--------
+始帝家利用断刃造出象征和平的仆侍，用以照料永岩城内各处祭祠。
+
+548573
+Surgehacker Mech
+骇流机体
+
+548574
+Thundersteel Colossus
+雷钢巨像
+"This is what I needed all that alloy for."
+—Arima, to Emire
+--------
+「这就是那合金出来的成果。」
+～有马告诉依民列
+
+548575
+Towashi Guide-Bot
+都和市向导器
+
+548576
+Walking Skyscraper
+自走摩天械
+
+548577
+Bloodfell Caves
+染血洞窟
+
+548578
+Blossoming Sands
+繁花沙洲
+
+548579
+Boseiju, Who Endures
+历祚母圣树
+
+548580
+Dismal Backwater
+阴沉死水
+
+548581
+Eiganjo, Seat of the Empire
+帝居永岩城
+
+548582
+Jungle Hollow
+丛林幽谷
+
+548583
+Mech Hangar
+机体仓库
+
+548584
+Otawara, Soaring City
+霄城大田原
+
+548585
+Roadside Reliquary
+路边神龛
+Travelers who leave an offering may pass freely through the forest kami's domain.
+--------
+奉上贡品的旅人便于森林神明治下畅通无阻。
+
+548586
+Rugged Highlands
+崎岖高地
+
+548587
+Scoured Barrens
+侵蚀荒漠
+
+548588
+Secluded Courtyard
+幽僻庭院
+
+548589
+Sokenzan, Crucible of Defiance
+逆炉霜剑山
+
+548590
+Swiftwater Cliffs
+急流山崖
+
+548591
+Takenuma, Abandoned Mire
+荒泽竹沼
+
+548592
+Thornwood Falls
+棘林瀑布
+
+548593
+Tranquil Cove
+静谧海湾
+
+548594
+Uncharted Haven
+世外乐土
+Untouched by mortal or kami, unspoiled by their wars.
+--------
+未经人神涉足，未遇战火荼毒。
+
+548595
+Wind-Scarred Crag
+风蚀峭壁
+
+553460
+Plains
+平原
+
+553461
+Plains
+平原
+
+553462
+Island
+海岛
+
+553463
+Island
+海岛
+
+553464
+Swamp
+沼泽
+
+553465
+Swamp
+沼泽
+
+553466
+Mountain
+山脉
+
+553467
+Mountain
+山脉
+
+553468
+Forest
+树林
+
+553469
+Forest
+树林
+
+553570
+Plains
+平原
+
+553571
+Plains
+平原
+
+553572
+Island
+海岛
+
+553573
+Island
+海岛
+
+553574
+Swamp
+沼泽
+
+553575
+Swamp
+沼泽
+
+553576
+Mountain
+山脉
+
+553577
+Mountain
+山脉
+
+553578
+Forest
+树林
+
+553579
+Forest
+树林
+
+========

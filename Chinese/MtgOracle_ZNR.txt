@@ -1,0 +1,2093 @@
+491622
+Allied Assault
+联手突袭
+A common foe is the death of old hatreds.
+--------
+共同敌人为世代怨仇划上句点。
+
+491623
+Angel of Destiny
+命运天使
+
+491624
+Angelheart Protector
+天使心护僧
+"We shall persevere."
+--------
+「我们必能平安归程。」
+
+491625
+Archon of Emeria
+伊美黎统领
+"Archons dispense justice according to an ancient, and flawed, premise."
+—Nissa Revane
+--------
+「虽然这条远古时期订立的假定难经推敲，但不妨碍统领依此执行正义。」
+～妮莎瑞文
+
+491626
+Archpriest of Iona
+艾欧娜大祭司
+
+491627
+Attended Healer
+照护治疗师
+"My cats have taught me more about the sacred than anything in some old ruin."
+--------
+「我身旁这些猫教会我有关圣物的事情，比某些古老遗迹还要多。」
+
+491628
+Canyon Jerboa
+峡谷跳鼠
+"Move, you wretched thing! You're scaring the hurdas!"
+—Bruse Tarl, Goma Fada nomad
+--------
+「快走，你这怪东西！荷得都被你吓到了！」
+～哥马法达游牧人布斯陶
+
+491629
+Cliffhaven Sell-Sword
+崖屋贷剑客
+"I swing a sword. It's a simple life. A lot of adventurers just see me as some cheap muscle, but if my steel lets them return home with their lives and limbs intact, then I've done my job."
+--------
+「我用得一手好剑。生活就是这么简单。虽然许多冒险者只把我当成廉价打手，但只要我手中武器能够保证他们四肢健全平安归家，那我也算完成任务了。」
+
+491630
+Dauntless Unity
+不屈齐心
+
+491631
+Disenchant
+消除魔障
+"From legend it was forged, and to legend it returns."
+--------
+「铸自传说，归于传奇。」
+
+491632
+Emeria Captain
+伊美黎队长
+"The gifts of the past must find their way into deserving hands."
+--------
+「历史的赠礼，必须平安送抵应授之人手中。」
+
+491633
+Emeria's Call
+伊美黎召令
+"Iona no longer guards this place. We do."—Kasla, Emeria shepherd
+--------
+「艾欧娜虽不再庇佑此地。但我们仍继续守护。」
+～伊美黎牧者卡丝拉
+
+491634
+Emeria, Shattered Skyclave
+破碎空境伊美黎
+"You called it the castle of a god. It is less than that, and so much more."—Kasla, Emeria shepherd
+--------
+「你们将这称作神佑之城。神明已逝，天威犹存。」
+～伊美黎牧者卡丝拉
+
+491635
+Expedition Healer
+探险队治疗师
+In any adventuring party, the cleric is the heart: healing wounds, inspiring courage, and raising morale.
+--------
+无论哪支冒险团队，牧师都是队中核心：他们能够治疗伤口、激励斗志、鼓舞士气。
+
+491636
+Farsight Adept
+预视专家
+"I've walked every one of the Teetering Peaks and never set a foot wrong. I can get you to safety."
+--------
+「我曾遍足晃摇山峰每座山头，一步都未曾走错。我能带你平安下山。」
+
+491637
+Fearless Fledgling
+无惧雏鹫
+Griffins nest in precarious places, so fledglings often find themselves taking their first flights at surprising moments.
+--------
+狮鹫通常会在危险的地方筑巢，因此雏鹫的首次飞行往往发生在不经意之间。
+
+491638
+Felidar Retreat
+晶角兽生息所
+
+491639
+Journey to Oblivion
+佚界旅途
+
+491640
+Kabira Outrider
+卡彼拉前导兵
+Ondu moas make wildly uncomfortable mounts, but for determined warriors, their speed is enough to make up for it.
+--------
+虽然昂度恐鸟骑乘起来非常难受，但在专职战士眼中，它们的速度足以弥补这缺点。
+
+491641
+Kabira Takedown
+卡彼拉猎捕
+"Down below's where things go to die."—Kreq of Sunder Bay
+--------
+「掉下去就是死路一条。」
+～裂船湾的奎嘎
+
+491642
+Kabira Plateau
+卡彼拉高原
+"Wise adventurers—and clever beasties—stick to the higher ground."—Kreq of Sunder Bay
+--------
+「只要是聪明的冒险者～还有机智的野兽～都会乖乖留在高地。」
+～裂船湾的奎嘎
+
+491643
+Kitesail Cleric
+航筝僧侣
+Too flashy to ignore. Too fast to catch.
+--------
+炫得明目张胆。快得追赶不上。
+
+491644
+Kor Blademaster
+寇族大剑师
+Every kor blade is imbued with the skill of a thousand generations.
+--------
+每把寇族刀剑都有千代先民技艺承载其中。
+
+491645
+Kor Celebrant
+寇族主祭
+"The landbind ritual connects us to our sacred sites. More importantly, it binds us with every other kor who has visited here, through countless generations."
+--------
+「结地祭礼将我们与吾族圣地紧密相连。更重要的是，这仪式还能让我们跨越无数世代，与所有到过此地的寇族相连。」
+
+491646
+Legion Angel
+军团天使
+"We are many, and righteous."
+--------
+「我们声势浩大，我们彰显正义。」
+
+491647
+Luminarch Aspirant
+辉侯求索客
+"Rally to my light, and together we will drive out this darkness!"
+--------
+「集结于我的明光之下，团结起来我们必能驱散这波暗流！」
+
+491648
+Makindi Ox
+马钦迪牛
+"May bloodflies empty your veins and turn you into a dried leather sack, cow!"
+—Bruse Tarl, Goma Fada nomad
+--------
+「愿无数血蝇吸干你的每滴鲜血，将你化作一副干皮囊，臭牛！」
+～哥马法达游牧人布斯陶
+
+491649
+Makindi Stampede
+马钦迪狂奔
+"They say the wind carved out these canyon walls. But the floor was hammered flat by hooves."—Kreq of Sunder Bay
+--------
+「他们说峡谷山壁是被风吹成这样；但这地面可是给蹄子踏平的。」
+～裂船湾的奎嘎
+
+491650
+Makindi Mesas
+马钦迪高地
+"The ground is rumbling. Better hope it's just the Roil!"—Kreq of Sunder Bay
+--------
+「地在晃。希望就只是狂搅！」
+～裂船湾的奎嘎
+
+491651
+Maul of the Skyclaves
+空境巨锤
+
+491652
+Mesa Lynx
+高地山猫
+Its ferocity is tempered by patience, knowing it must wait for just the right moment to strike a killing blow.
+--------
+它知道只有在恰当的时机出击才能夺人性命，因此便学会了用耐性来掩盖自己的野性。
+
+491653
+Nahiri's Binding
+娜希丽的束缚
+"This is my world, Jace, down to its very bones."
+--------
+「杰斯，这是我的世界，里里外外都属于我。」
+
+491654
+Ondu Inversion
+昂度倒转
+"At first rumble you'd best hold on tight and pray to any gods you still hold dear."—Nys Dal, Sea Gate trapfinder
+--------
+「刚有响声你就得紧紧抓牢，然后求哪个神都好，让它保佑自己能一直抓稳。」
+～海户探陷人尼斯达
+
+491655
+Ondu Skyruins
+昂度空迹
+"It always seems so quiet in the aftermath of wrenching violence."—Nys Dal, Sea Gate trapfinder
+--------
+「剧烈动荡后，一切总是显得如此平静。」
+～海户探陷人尼斯达
+
+491656
+Paired Tactician
+结对策士
+"If we fight as one, nothing can stand in our way!"
+--------
+「只要我们齐心作战，就没人能挡我们的路！」
+
+491657
+Practiced Tactics
+熟练战法
+Each individual has their own crucial role to play.
+--------
+每个人都是团队不可或缺的一份子。
+
+491658
+Pressure Point
+点穴手
+Poke a drake in the right place and it becomes as docile as a pet. Poke it in the wrong place and goodbye, hand.
+--------
+点对了地方，龙兽也能像宠物般乖巧。点错了地方，就坦然跟自己的手道别。
+
+491659
+Prowling Felidar
+觅食晶角兽
+On occasion, felidars leave meaty "gifts" outside the tents of explorers they consider worthy.
+--------
+有时候，晶角兽会在它们认为够格的探险家帐篷外留下丰盛「肉礼」。
+
+491660
+Resolute Strike
+坚毅一击
+"If you practice something often enough, it becomes part of you. That's why we train, and that's why we survive."
+—Tasha, Graypelt veteran
+--------
+「如果你认准一件事情不断练习，久了它就会成为你本能反应的一部分。这就是我们不断训练的原因，这就是我们能存活下来的缘由。」
+～灰皮老兵塔莎
+
+491661
+Sea Gate Banneret
+海户掌旗
+The Sea Gate Expeditionary House was founded after the discovery of the Skyclave over Tazeem. Now its banners fly over every corner of Zendikar.
+--------
+人们在塔晋上空发现空境之后，便成立了海户探险队。如今，这支队伍的旗帜已遍布赞迪卡每个角落。
+
+491662
+Sejiri Shelter
+塞基黎庇护
+"It blocks the windswept salt and frigid air, but the loneliness of Sejiri remains."—Enwor, Sea Gate Expeditionary House
+--------
+「虽然这能帮你挡住风中盐碱和冰冷空气，但无法帮你缓解独处塞基黎的那份孤独。」
+～海户探险队的恩沃
+
+491663
+Sejiri Glacier
+塞基黎冰川
+"This place offers nothing and takes everything."—Enwor, Sea Gate Expeditionary House
+--------
+「此处寸草不生，侵蚀万物。」
+～海户探险队的恩沃
+
+491664
+Shepherd of Heroes
+英雄牧者
+"Rest, friends. I will protect you."
+--------
+「休息吧，朋友们。我会保护你们。」
+
+491665
+Skyclave Apparition
+空境亡灵
+
+491666
+Skyclave Cleric
+空境僧侣
+"Well, she can jump farther than I can."—Aelah, expedition cleric
+--------
+「嗯，她跳得比我远。」
+～探险队牧师艾乐
+
+491667
+Skyclave Basilica
+空境大殿
+"As points of no return go, it is quite epic."—Aelah, expedition cleric
+--------
+「就无路可退的绝境而言，此处景观颇为壮丽。」
+～探险队牧师艾乐
+
+491668
+Squad Commander
+小队指挥官
+
+491669
+Smite the Monstrous
+击灭恶物
+"Darkness always flees from the light, and I am the breaking dawn."
+—Kordain, luminarch of Kabira
+--------
+「明光所及之处，黑暗必将逃散，而我正是破晓清辉。」
+～卡彼拉辉侯柯尔丹
+
+491670
+Tazeem Raptor
+塔晋猎鸟
+"It's good to see the eagles circling the Lighthouse once again."
+—Tazri
+--------
+「很高兴看到灯塔上空再有老鹰盘旋。」
+～塔兹莉
+
+491671
+Tazri, Beacon of Unity
+齐心榜样塔兹莉
+
+491672
+Anticognition
+对抗认知
+"I think not."
+—Flekon the Mindcensor
+--------
+「我认为不行。」
+～核灵师斐空
+
+491673
+Beyeen Veil
+贝因雾帐
+"All you minnows in the murk, come to my light."—Jejenar, Silundi lullmage
+--------
+「浓雾中的小鱼，快来聚于这亮光周围。」
+～希隆迪息法师杰耶纳
+
+491674
+Beyeen Coast
+贝因海岸
+"Stay close to my light. You don't want to get lost on the rocks."—Jejenar, Silundi lullmage
+--------
+「跟紧这道亮光。莫在乱岩中迷路。」
+～希隆迪息法师杰耶纳
+
+491675
+Bubble Snare
+水泡圈套
+
+491676
+Cascade Seer
+飞瀑预言师
+"Perhaps you can't see the path, but that doesn't mean it isn't there."
+--------
+「也许你没看到路，但这不代表眼前没有路。」
+
+491677
+Charix, the Raging Isle
+岛身怒怪凯立茨
+Zendikar's seas are deeper than anyone can fathom.
+--------
+赞迪卡的海洋深到无人能勘测。
+
+491678
+Chilling Trap
+冰寒陷阱
+"Serves you right for rushing ahead."
+—Kaliea, Sea Gate trapfinder
+--------
+「叫你往前冲，活该。」
+～海户探陷人卡理耶
+
+491679
+Cleric of Chill Depths
+寒渊僧侣
+"Before my people turned to false gods, we built a glittering city beneath the northern sea ice. The magic of ancient Benthidrix lives in me!"
+--------
+「早在族人转而信奉伪神之前，我们就已在北洋冰面下造就一座金光之城。远古深洋殿的魔力与我同存！」
+
+491680
+Concerted Defense
+协力防御
+"You mess with one of us, you mess with all of us!"
+--------
+「惹到其中一个，便是惹到所有人！」
+
+491681
+Confounding Conundrum
+混乱谜团
+
+491682
+Coralhelm Chronicler
+珊瑚盔年代史家
+
+491683
+Cunning Geysermage
+狡黠热泉法师
+"Come on, Skitch, we'll lose them in the geyserfield."
+--------
+「快点，阿蜥，到了热泉原就能甩掉他们了。」
+
+491684
+Deliberate
+深思熟虑
+"I can't see all that the future holds, but I can keep us one step ahead of death."
+--------
+「我虽不能看透未来的一切，但能让我们避开死亡一步。」
+
+491685
+Expedition Diviner
+探险队占卜师
+Wizards' spells twist the fabric of reality to channel elemental energies, peer into the future, and even calm the Roil.
+--------
+法师咒语能够扭曲现实束缕，从而通联元素能量、窥见未来世界，甚或平息暴怒狂搅。
+
+491686
+Field Research
+实地勘验
+"In the field, speed-reading is a survival skill."
+--------
+「到了实地，读得快才能保住命。」
+
+491687
+Glacial Grasp
+冰冻攫
+
+491688
+Glasspool Mimic
+璃池拟态妖
+"When I touched the Glasspool, I tasted infinite possibility."—Ashen Wal, Akoum Expeditionary House
+--------
+「我手刚触碰璃池水面，便尝到了无尽可能。」
+～阿库姆探险队的爱森瓦
+
+491689
+Glasspool Shore
+璃池湖岸
+"Past and possibility come together in the vastness of infinite reflection."—Ashen Wal, Akoum Expeditionary House
+--------
+「在广阔湖面倒影中，过往视像与未来愿景融为一体。」
+～阿库姆探险队的爱森瓦
+
+491690
+Inscription of Insight
+预言铭文
+
+491691
+Into the Roil
+没入狂搅
+In theory, the death of the Eldrazi should have stilled the Roil. It did not.
+--------
+理论上，奥札奇灭亡应能平息狂搅。实际上没有。
+
+491692
+Jace, Mirror Mage
+镜像法师杰斯
+
+491693
+Jwari Disruption
+爪尔干扰
+"You worry too much."—Nys Dal, Sea Gate trapfinder
+--------
+「你担心得太多了。」
+～海户探陷人尼斯达
+
+491694
+Jwari Ruins
+爪尔遗迹
+"The Ondu Skyclave was a center for rebellion against the capital in Makindi. Of course they built in deadly traps."—Nys Dal, Sea Gate trapfinder
+--------
+「当初马钦迪境内爆发针对都城的反抗斗争时，昂度空境便是争夺焦点。其中当然布有各式致命陷阱。」
+～海户探陷人尼斯达
+
+491695
+Living Tempest
+生体风暴
+"If you don't like the weather, just wait a few minutes and it'll change . . . probably for the worse."
+—Amandi, kitesail expert
+--------
+「你要是不喜欢这天气，只需等几分钟它就会变天. . .但多半是越变越差。」
+～航筝专家阿曼迪
+
+491696
+Lullmage's Domination
+息法师的支配
+"One spell to quiet the Roil, one to quash the will. The principle is the same."
+--------
+「一个咒语平息狂搅，另外一个击碎意志。两者原理相通。」
+
+491697
+Maddening Cacophony
+致狂杂音
+Jace traced Nahiri to the Singing City, but the magic of the ancient ruins threatened to overwhelm his mind.
+--------
+杰斯一路跟随娜希丽来到魅歌城，但这处远古遗迹的魔法却试图压垮他的心智。
+
+491698
+Master of Winds
+风幻大师
+
+491699
+Merfolk Falconer
+驯隼人鱼
+"For generations, we have bred and trained falcons for expeditions into Emeria. Now more sky ruins open themselves to those with the means to reach the heights!"
+--------
+「数个世代之前，我们为了深入伊美黎探险，便早已开始繁育和训练猎隼。如今随着更多天空遗迹现身世间，唯有自由翱翔天空的族群才能在其间自由穿行。」
+
+491700
+Merfolk Windrobber
+劫风人鱼
+
+491701
+Negate
+失效
+"The ancient kor were a clever bunch with a taste for nasty traps. Spikes, poison, fire pouring forth with no warning . . . I've seen and disabled them all. If you intend to raid a Skyclave, you'd be wise to hire me on."
+--------
+「古代寇族头脑机敏，偏好摆弄凶险陷阱。出钉子的、涂剧毒的、突然喷火的. . .这些都被我一一看穿并全数解除。如果你想要去空境探险，带上我才是明智之举。」
+
+491702
+Nimble Trapfinder
+矫捷探陷人
+
+491703
+Risen Riptide
+醒转浪涛
+"Most days the sea is my friend. But only most days."
+—Jori En, expedition leader
+--------
+「大多数日子里，大海都是我的朋友。但也只有大多数日子里是这样。」
+～探险队长裘黎恩
+
+491704
+Roost of Drakes
+龙兽宿巢
+
+491705
+Ruin Crab
+遗迹蟹
+To an explorer, a priceless treasure. To the crab, a rock to call home.
+--------
+在探险家眼中，这是无价之宝。在螃蟹眼中，这不过是块可以当家的石头。
+
+491706
+Sea Gate Restoration
+重建海户
+"We have much to remember . . . and much we can never forget."—Tazri
+--------
+「我们有太多需要记住的. . .也有太多不能忘记的。」
+～塔兹莉
+
+491707
+Sea Gate, Reborn
+新生海户
+"We carry on the legacy of those who defended our world by continuing to unearth its secrets."—Tazri
+--------
+「我们继承守卫世界先人的衣钵，继续发掘其中秘密。」
+～塔兹莉
+
+491708
+Sea Gate Stormcaller
+海户唤雷师
+
+491709
+Seafloor Stalker
+海床伏击客
+"Sunken ruins? My specialty."
+--------
+「水底遗迹？我在行。」
+
+491710
+Shell Shield
+坚壳护盾
+
+491711
+Silundi Vision
+希隆迪视像
+"Feel the current? Rough waters lie ahead."—Jori En, expedition leader
+--------
+「感受到这水流了吗？前面会十分湍急。」
+～探险队长裘黎恩
+
+491712
+Silundi Isle
+希隆迪岛屿
+"From the hedron fields of Agadeem to the Faduun of Jwar Isle, the islands of the Silundi Sea offer one mystery after another."—Jori En, expedition leader
+--------
+「从艾格丁的晶石原野，到爪尔岛的冯颅石像，希隆迪海上的诸岛屿有着解不完的秘密。」
+～探险队长裘黎恩
+
+491713
+Skyclave Plunder
+空境劫夺
+
+491714
+Skyclave Squid
+空境乌贼
+An ancient sea monster dragged the Murasa Skyclave under the waves, then smaller sea monsters moved in.
+--------
+远古海怪一举将姆拉撒空境拖入波涛之下，体型较小的海怪随即入住。
+
+491715
+Sure-Footed Infiltrator
+稳步渗透客
+"I've yet to discover the ruin that can keep me out."
+--------
+「这世上还没见过我进不去的遗迹。」
+
+491716
+Tazeem Roilmage
+塔晋狂搅法师
+"The Roil can be directed. Observe."
+--------
+「狂搅也能被引导。看好了。」
+
+491717
+Thieving Skydiver
+跃空窃贼
+
+491718
+Umara Wizard
+乌玛拉法师
+"You see a waterfall. I see a way up."—Ko Dari, expedition wizard
+--------
+「你看到的是瀑布。我看到的是上行道路。」
+～探险队法师蔻达黎
+
+491719
+Umara Skyfalls
+乌玛拉天瀑
+"The source of the Umara River sits high above Oran-Rief, ever weeping on the jungle below."—Ko Dari, expedition wizard
+--------
+「乌玛拉河的源头位于欧兰黎上空，滴落涓涓细流滋养其下丛林。」
+～探险队法师蔻达黎
+
+491720
+Windrider Wizard
+御风法师
+"It's an ideal method for exploring sky ruins. The drakes sniff me briefly but then lose interest."
+--------
+「这是探索天空遗迹的理想办法。虽然龙兽嗅到了我的味道，但很快就失去了兴趣。」
+
+491721
+Zulaport Duelist
+筑拉波斗客
+
+491722
+Acquisitions Expert
+取物专家
+
+491723
+Agadeem's Awakening
+艾格丁觉醒
+"Now is the death-hour, just before dawn. Wake, sleepers, and haunt the living!"—Vivias, Witch Vessel
+--------
+「现在正是拂晓之前的死亡时刻。觉醒吧，沉睡者，齐去侵扰生灵！」
+～祟体女巫威皮斯
+
+491724
+Agadeem, the Undercrypt
+地底墓穴艾格丁
+"Here below the hedron fields, souls and secrets lie entombed."—Vivias, Witch Vessel
+--------
+「晶石原野之下，灵魂与秘密埋藏其间。」
+～祟体女巫威皮斯
+
+491725
+Blackbloom Rogue
+黑郁湖浪客
+"If you ever want to get back up, do what I say."—Exena, expedition rogue
+--------
+「如果你还想爬出来，就按我说的去做。」
+～探险队盗贼埃席娜
+
+491726
+Blackbloom Bog
+黑郁湖腐沼
+"The Raimunza River flows along the branches of jaddi trees for miles before plunging down to feed Blackbloom Lake."—Exena, expedition rogue
+--------
+「莱姆札河顺着贾迪树丛枝蔓绵延数哩，最终全数汇入黑郁湖中。」
+～探险队浪客埃席娜
+
+491727
+Blood Beckoning
+鲜血招诱
+
+491728
+Blood Price
+鲜血代价
+Blood is the oldest currency.
+--------
+鲜血是最古老的货币。
+
+491729
+Bloodchief's Thirst
+血侯饥渴
+"We are free. It is our duty to live well."
+--------
+「我们已得解放。因此有义务好好活下去。」
+
+491730
+Coveted Prize
+诱人珍品
+
+491731
+Deadly Alliance
+联手夺命
+"He could handle any one of us, but he's no match for all of us!"
+--------
+「也许我们当中任一个都不是他的对手，但他应付不了我们所有人！」
+
+491732
+Demon's Disciple
+恶魔信徒
+Taborax's cultists are the latest in a long history of beings who have desired to see Zendikar torn to pieces.
+--------
+悠悠历史长河中，曾有无数势力希望眼见赞迪卡彻底毁灭；塔博锐教众是其中最新一支。
+
+491733
+Drana, the Last Bloodchief
+最终血侯哲娜
+
+491734
+Drana's Silencer
+哲娜的断音客
+"Hush."
+--------
+「嘘。」
+
+491735
+Dreadwurm
+恐怖亚龙
+Its silent slithering belies its bulk.
+--------
+它静不可闻的滑行声响掩盖了庞巨身躯。
+
+491736
+Expedition Skulker
+探险队潜匿客
+Rogues bring an array of useful skills to the work of an adventuring party: stealth, agility, the ability to locate and disarm traps, and a subtle, deadly fighting style.
+--------
+盗贼具备的独特技艺往往能让冒险团队事半功倍：他们难觅踪迹、身手敏捷，精于识破并解除陷阱，同时还可在无声之间取人性命。
+
+491737
+Feed the Swarm
+喂饱虫群
+"On vile wings and bloody wind, the swarm will rise."
+—Skyclave inscription
+--------
+「邪翼蔽日，血雨腥风，虫群必将崛起。」
+～空境铭文
+
+491738
+Ghastly Gloomhunter
+骇怖猎暗蝠
+Stinking, silent death.
+--------
+恶臭无声的死神。
+
+491739
+Guul Draz Mucklord
+古坠兹淤沼霸
+Death comes in many forms on Guul Draz, most of them slow, subtle, and agonizing. At least a monstrous crocodile offers a swift death.
+--------
+虽然在古坠兹丢掉性命的方式多种多样，但其中大多都耗时漫长、难寻缘由、痛苦无比。好歹凶猛鳄鱼还能让你死得瞑目。
+
+491740
+Hagra Constrictor
+赫嘎缠蟒
+
+491741
+Hagra Mauling
+赫嘎撕咬
+"Din, turn around! Now!"—Doros, expedition guide
+--------
+「蒂恩，转头！快转头！」
+～探险队向导多罗斯
+
+491742
+Hagra Broodpit
+赫嘎巢坑
+"I think we somehow got turned around."—Doros, expedition guide
+--------
+「我想我们算是转过头了。」
+～探险队向导多罗斯
+
+491743
+Highborn Vampire
+望族吸血鬼
+With the bloodchiefs annihilated in the fight between the free and enthralled, the swamps around Malakir are full of dangerous, young vampires eager to make their marks.
+--------
+随着血侯在自由派与臣服派的战争中全数败亡，马拉奇周边的沼泽如今满是想要出人头地的年轻凶残吸血鬼。
+
+491744
+Inscription of Ruin
+毁灭铭文
+
+491745
+Lithoform Blight
+砾岩塑芜土
+Heedless of Nissa's warnings, Nahiri repeated history.
+--------
+娜希丽置妮莎警告于不顾，决心重演历史。
+
+491746
+Malakir Blood-Priest
+马拉奇血僧
+"From your veins to mine."
+--------
+「从你的血管流向我的。」
+
+491747
+Malakir Rebirth
+马拉奇再生
+"Those who fail to escape Malakir become part of the city's defense."—Doros, expedition guide
+--------
+「没能逃出马拉奇的人最终都为城防部队中的一员。」
+～探险队向导多罗斯
+
+491748
+Malakir Mire
+马拉奇泥沼
+"Getting into Malakir isn't difficult. It's getting out that's the hard part."—Doros, expedition guide
+--------
+「马拉奇进去不难。要出来才麻烦。」
+～探险队向导多罗斯
+
+491749
+Marauding Blight-Priest
+劫掠芜土僧
+"The vampires never had gods. We followed our bloodchiefs. Now they are gone. What is left? Destruction and death, my friends. That is enough."
+--------
+「吸血鬼一族从未信奉过神明。我们唯血侯为尊。如今他们也一去不返。你要说还剩下什么？朋友，只要毁灭和死亡还在，这就足够了。」
+
+491750
+Mind Carver
+刻灵刀
+
+491751
+Mind Drain
+汲取心灵
+"The meal was exquisite. The conversation, less so."
+--------
+「食物很可口。交流则不尽然。」
+
+491752
+Nighthawk Scavenger
+夜盗清理客
+Under Drana's leadership, vampires are finding new strength in unity.
+--------
+在哲娜的带领下，吸血鬼在团结中发现新的力量。
+
+491753
+Nimana Skitter-Sneak
+尼麻纳掠袭客
+"When navigating dangerous terrain, one hundred legs are better than two."
+--------
+「在危险地带穿行时，一百条腿可比两条腿强。」
+
+491754
+Nimana Skydancer
+尼麻纳舞空客
+The Free City of Nimana is a great place to recruit adventurers with shady skill sets.
+--------
+自由城尼麻纳是招募身怀卑劣绝技冒险者的好去处。
+
+491755
+Nullpriest of Oblivion
+佚界躯壳僧
+
+491756
+Oblivion's Hunger
+佚界血欲
+"Indulge the void. Become the void. Consume all you touch."
+—Drana, the last bloodchief
+--------
+「纵溺虚空。成为虚空。吞噬一切。」
+～最终血侯哲娜
+
+491757
+Pelakka Predation
+皮拉卡猎捕
+"I knew we shouldn't have come this way."—Sneeflebrix, expedition rogue
+--------
+「我就知道不该走这条路。」
+～探险队浪客斯泥夫必
+
+491758
+Pelakka Caverns
+皮拉卡洞窟
+"As a child, I was afraid of the dark. Now, I'm afraid of the things I know are lurking in the dark, waiting to bite my head off."—Sneeflebrix, expedition rogue
+--------
+「小的时候，我害怕黑暗的地方。现在，我害怕的是见过的东西潜伏在暗处，等着咬掉我脑袋。」
+～探险队盗贼斯泥夫必
+
+491759
+Scion of the Swarm
+虫群后裔
+Vampires are now masters of their own fates, commanders of their own legions.
+--------
+如今吸血鬼能够掌控自己的命运，指挥自己的军团。
+
+491760
+Scourge of the Skyclaves
+空境祸害
+
+491761
+Shadow Stinger
+黯影刺棘客
+
+491762
+Shadows' Verdict
+黯影裁定
+The shadows of death fall over everyone in the end.
+--------
+最后，死亡的阴影落在了所有人头上。
+
+491763
+Skyclave Shade
+空境阴魂
+
+491764
+Skyclave Shadowcat
+空境影猫
+"Perhaps its distant ancestors were radiant felidars, but no hint of their nobility remains."
+—Akiri, kor line-slinger
+--------
+「它们的远亲也许还能跟耀目晶角兽攀上关系，但那股高贵感在它们身上荡然无存。」
+～寇族掷索人娅奇丽
+
+491765
+Soul Shatter
+粉碎灵魂
+The Kargan tribes share legends of the victory their ancestors won over the Akoum Skyclave, and its horrendous cost.
+--------
+卡加诸部族先祖曾齐心力克阿库姆空境取得辉煌胜利，同时也付出了惨痛代价。如今这传说仍在各部传扬。
+
+491766
+Subtle Strike
+暗中一击
+Silence is an underrated hunting strategy.
+--------
+悄然出击是种被严重低估的行猎策略。
+
+491767
+Taborax, Hope's Demise
+葬望魔塔博锐
+
+491768
+Thwart the Grave
+墓地逼令
+
+491769
+Vanquish the Weak
+消亡弱者
+Open conflict between expeditionary houses—or even individual adventuring parties—is discouraged, but "accidents" happen.
+--------
+虽然台面上不提倡探险队甚或个别冒险团队之间公然对抗，但私底下的「意外」总是难免。
+
+491770
+Zof Consumption
+座孚汲取
+"Annihilation surrounds us. Our call is to embrace its ceaseless hunger."—Voshk, oblivion priest
+--------
+「毁灭将我们包围。我们的唯一出路便是屈服于这无尽饥渴。」
+～佚界僧侣沃什克
+
+491771
+Zof Bloodbog
+座孚血沼
+"Look at this place. What more evidence do you require that existence is bleak and meaningless?"—Voshk, oblivion priest
+--------
+「看看这里。你哪里还需要更多证据才明白生命孱弱无力、了无意义？」
+～佚界僧侣沃什克
+
+491772
+Akoum Hellhound
+阿库姆地狱犬
+Hellhound packs roam the Spikefields, basking in the harsh sunlight and lighting the night with their flames.
+--------
+地狱犬群在尖岩原四处游荡，白天享受此处严酷阳光，晚间便用自身火光照亮夜空。
+
+491773
+Akoum Warrior
+阿库姆战士
+"I'm not cruel, but I have no patience for your mistakes."—Tyrux, expedition warrior
+--------
+「我并不残忍，但你犯了错误我就不能忍。」
+～探险队战士泰鲁兹
+
+491774
+Akoum Teeth
+阿库姆尖峰
+"Rock. Lava. Gravity. They're not cruel, but they're not forgiving either."—Tyrux, expedition warrior
+--------
+「尖石、熔岩、重力。它们都不残忍，但也都不宽容。」
+～探险队战士泰鲁兹
+
+491775
+Ardent Electromancer
+热诚电流术士
+"Trust me, we won't need torches."
+--------
+「相信我，我们用不到火把。」
+
+491776
+Cinderclasm
+烬火断层
+Every inferno begins with a spark.
+--------
+每场炼狱都始于点滴星火。
+
+491777
+Cleansing Wildfire
+涤地野火
+Every rebirth looks like a death.
+--------
+每次重生都像是死亡。
+
+491778
+Expedition Champion
+探险队斗士
+Warriors are combat specialists who bring their deadly skills to bear against the many foes that adventurers face in the course of their journeys.
+--------
+战士都是战斗专家，能够于冒险团队在旅程中遇袭时，运用自己杀敌技巧化险为夷。
+
+491779
+Fireblade Charger
+炎刃冲锋鬼
+"Down in flames" isn't a destination, but a journey.
+--------
+「引火烧身」说的不是结果，而是过程。
+
+491780
+Fissure Wizard
+生裂法师
+He might call up a burst of lava or a raging hellion from Akoum's volcanic depths. Or he might just fall in.
+--------
+他或许能从阿库姆的火山深渊中召出喷发熔岩或是狂怒狱兽。也或许会就此失足坠落。
+
+491781
+Goma Fada Vanguard
+哥马法达先锋
+"Her weapon's impressive, sure. But you should see her wield it."
+—Gred, expedition warrior
+--------
+「没错，她的武器确实令人眼前一亮。但你更该看看她挥舞时的样子。」
+～探险队战士格雷德
+
+491782
+Grotag Bug-Catcher
+葛塔捕虫士
+"Everybody grab a leg!"
+--------
+「每个人都来抓一条腿！」
+
+491783
+Grotag Night-Runner
+葛塔夜奔客
+Naturally inquisitive and adaptable, goblins can turn their small stature to their advantage as rogues.
+--------
+鬼怪天生好奇心旺盛，又极易适应周遭环境，当起浪客来更能将自己个头矮小的优势发挥得淋漓尽致。
+
+491784
+Inordinate Rage
+无度狂怒
+"In my years wandering this land I've seen a veritable menagerie of fantastic creatures, but one that has eluded me thus far is the fabled ‘easygoing minotaur.'"
+—Ko, expedition wizard
+--------
+「我已在这片土地上游历有年，亲眼见到的奇幻生物数量数不胜数，但迄今为止从未遇到传说中提到过的『随和牛头怪』。」
+～探险队法师蔻达黎
+
+491785
+Kargan Intimidator
+卡加凶汉
+
+491786
+Kazuul's Fury
+克卒怒火
+"The toll is steep, but the cliffs are steeper."—Samila, Murasa Expeditionary House
+--------
+「过路费虽高，但山崖更高。」
+～姆拉撒探险队的莎米勒
+
+491787
+Kazuul's Cliffs
+克卒山崖
+"The path up the cliffs is nothing but steep switchbacks and rickety lifts, made by elves, maintained by humans, and guarded by ogres. But it's the best way into the heart of Murasa."—Samila, Murasa Expeditionary House
+--------
+「这条山崖通路由妖精建造、人类维护、食人魔看守。虽然不过是一条陡峭迂回，崎岖不平的便道，但却是进入姆拉撒中心地带的最佳路线。」
+～姆拉撒探险队的莎米勒
+
+491788
+Leyline Tyrant
+地脉暴君
+
+491789
+Magmatic Channeler
+岩浆联能师
+
+491790
+Molten Blast
+热熔冲击波
+Life among the sudden tremors and violent eruptions of Akoum demands a healthy fear of both.
+--------
+阿库姆经常发生地震或火山爆发。要想在这生活，就得时刻对两者保持警惕。
+
+491791
+Moraug, Fury of Akoum
+阿库姆之怒穆朗格
+
+491792
+Nahiri's Lithoforming
+娜希丽的砾岩塑
+"Zendikar has suffered enough. It is time, at last, for my home to know peace."
+--------
+「赞迪卡已饱受摧残。如今终于轮到我的家园得享平静。」
+
+491793
+Pyroclastic Hellion
+熔屑地狱兽
+"The difference between a hellion and a volcano is that volcanoes don't get hungry."
+—Sachir, Akoum Expeditionary House
+--------
+「地狱兽和火山的区别在于，火山不会饿。」
+～阿库姆探险队的莎琦儿
+
+491794
+Relic Robber
+遗宝抢匪
+"Here, you take it!"
+--------
+「你，快接着！」
+
+491795
+Rockslide Sorcerer
+崩岩术士
+"You can cower from the crushing shards or embrace the danger of Akoum. I've made my choice."
+--------
+「在面对山岩崩落时，你可以选择畏缩不前，也可以去直面阿库姆的危险。我已作好选择。」
+
+491796
+Roil Eruption
+狂搅爆发
+"Our feeble villages and tiny encampments stand only at the whim of the Roil."
+—The Invokers' Tales
+--------
+「我们的孱弱村庄和渺小营地能否存留，端看狂搅脸色。」
+～《召现师传说》
+
+491797
+Roiling Vortex
+狂搅漩涡
+
+491798
+Scavenged Blade
+拼装式战刃
+
+491799
+Scorch Rider
+炙焰骑兵
+"Lava flows where it pleases. I'm just happy to be along for the ride!"
+--------
+「熔岩随意奔流。我很乐意顺流而行。」
+
+491800
+Shatterskull Charger
+碎颅冲锋者
+
+491801
+Shatterskull Minotaur
+碎颅牛头怪
+"We just pay him and point him at problems."
+—Aro, Sea Gate adventurer
+--------
+「我们就只是给他钱，告诉他哪有事。」
+～海户冒险家阿罗
+
+491802
+Shatterskull Smashing
+碎颅落岩
+
+491803
+Shatterskull, the Hammer Pass
+锤岩隘口碎颅
+"The safest way across the Skyfangs is to fly. Shatterskull Pass is a pretty distant second."—Samila, Murasa Expeditionary House
+--------
+「穿越穹牙山脉的最安全方式是从空中飞过。取道碎颅隘口是万不得已的备选。」
+～姆拉撒探险队的莎米勒
+
+491804
+Sizzling Barrage
+火热齐击
+"A thousand sparks can burn through your defenses just as quickly as one massive blaze."
+—Attikar, Akoum elementalist
+--------
+「不论是千颗火星还是一束火光，烧穿你防线的速度一样快。」
+～阿库姆元素师阿提卡
+
+491805
+Skyclave Geopede
+空境地蜈蚣
+Wrenched from the ground like a dirt-caked rock, the ancient Skyclave wriggled with life.
+--------
+远古空境仿佛有生命一般，自行松脱泥土展现全貌。
+
+491806
+Sneaking Guide
+偷袭向导
+"I swear, it's a shortcut."
+--------
+「我发誓，这条路比较近。」
+
+491807
+Song-Mad Treachery
+谵曲变节
+"I'm not proud of the things I did. But all I could think about at the time was how to make the noise stop."—Yavotz, Sea Gate Expeditionary House
+--------
+「我确实干了些不怎么光荣的事情。但我当时就只想着快点让噪音消失。」
+～海户探险队的耶悟茨
+
+491808
+Song-Mad Ruins
+谵曲遗迹
+"They call it the Singing City, but those eerie sounds aren't music. They worm their way into your brain until rational thought is impossible."—Yavotz, Sea Gate Expeditionary House
+--------
+「他们把这里叫做魅歌城，但那诡异旋律根本不能叫歌。它们只会钻进你的脑子里，让你完全无法理智思考。」
+～海户探险队的耶悟茨
+
+491809
+Spikefield Hazard
+尖岩原险境
+"Stop screaming! You'll only bring down more spikes."—Raff Slugeater, goblin shortcutter
+--------
+「不要叫！这样只会让更多尖石落下来。」
+～抄捷径鬼怪食虫拉夫
+
+491810
+Spikefield Cave
+尖岩原洞窟
+"Silence until we're through. Even a whisper's echo can dislodge death from above."—Raff Slugeater, goblin shortcutter
+--------
+「在穿过这里之前，千万不能发出声音。就算声音再低，有一丝回响都会让死亡从天而降。」
+～抄捷径鬼怪食虫拉夫
+
+491811
+Spitfire Lagac
+喷火勒嘎
+"If you hear a choking sort of cough, it's about to get really hot."
+—Raff Slugeater, goblin shortcutter
+--------
+「如果你听到像有什么东西噎住一样的咳嗽声，周围很快就变热。」
+～抄捷径鬼怪食虫拉夫
+
+491812
+Synchronized Spellcraft
+同调咒艺
+"Ready? One . . . two . . ."
+--------
+「准备好了吗？一. . .二. . .」
+
+491813
+Teeterpeak Ambusher
+晃摇峰伏击兵
+Goblins from the Makindi Trenches of Ondu make surprisingly skilled climbing guides due to their habit of scaling the cliffs to drop onto unsuspecting foes.
+--------
+来自昂度马钦迪战壕的鬼怪习惯攀登山头从上方袭击毫无防备的敌人，找他们来作登山向导意外好用。
+
+491814
+Thundering Rebuke
+雷霆拒斥
+"Fire is too imprecise for my tastes. I'd rather rely on a single, well-placed bolt of lightning."
+—Lyrus, Sea Gate wizard
+--------
+「对我来说，火焰准头不行。我更愿意依靠一道恰到好处的闪电。」
+～海户法术师莱鲁斯
+
+491815
+Thundering Sparkmage
+雷霆火花法师
+"Stay away from my friends!"
+--------
+「离我的朋友们远点！」
+
+491816
+Tormenting Voice
+折磨幽声
+Kargan tribal lands rarely have issues with goblin raids. Coincidentally, they also rarely have issues keeping their dragons fed.
+--------
+卡加部落领地很少因为遇到鬼怪突袭而发愁。巧的是，他们也很少由于喂不饱巨龙而烦恼。
+
+491817
+Tuktuk Rubblefort
+图图乱石堡
+As with everything else, goblins believe fortifications benefit from as many spiky bits as possible.
+--------
+鬼怪认为工事跟其他东西一样，尖头越多越可靠。
+
+491818
+Valakut Awakening
+瓦拉库醒转
+"My ancestors reshaped the world to their vision. I have a few ideas of my own."—Tars Olan, stoneforge mystic
+--------
+「我的先祖按照他们的视像重塑了整个世界。而我有我自己的想法。」
+～锻石秘教徒塔斯欧岚
+
+491819
+Valakut Stoneforge
+瓦拉库锻石场
+"I can hear the echo of their hammers, long stilled."—Tars Olan, stoneforge mystic
+--------
+「虽然他们的巨锤早已闲置多年，我依然能听见敲打的回响。」
+～锻石秘教徒塔斯欧岚
+
+491820
+Valakut Exploration
+瓦拉库探险
+
+491821
+Wayward Guide-Beast
+难驭开路兽
+Goblin cavalry tactics consist of pointing a beast in a direction and hanging on for as long as possible.
+--------
+鬼怪骑兵的战术包括：给坐骑指方向，以及尽量骑背上。
+
+491822
+Adventure Awaits
+团聚启程
+"Good, we're all here. Let's get started!"
+--------
+「很好，人都到齐了。准备出发！」
+
+491823
+Ancient Greenwarden
+远古育碧灵
+When the ruins awakened, so did their defenses.
+--------
+遗迹醒转时，其防线亦然。
+
+491824
+Ashaya, Soul of the Wild
+荒野之魂艾莎娅
+
+491825
+Bala Ged Recovery
+巴勒格复苏
+"Always have a backup plan."—Doral, Bala Ged guide
+--------
+「随时备妥候选方案。」
+～巴勒格向导多拉尔
+
+491826
+Bala Ged Sanctuary
+巴勒格圣所
+"I know it's around here somewhere."—Doral, Bala Ged guide
+--------
+「我就知道在这附近。」
+～巴勒格向导多拉尔
+
+491827
+Broken Wings
+翅翼断裂
+Getting airborne with a kitesail is easy. It's everything afterward that takes focus, skill, and luck.
+--------
+驾驭航筝起飞升空并不难。之后的事情才需要专注、技巧和运气来应对。
+
+491828
+Canopy Baloth
+林冠巴洛西
+"You can almost see it calculating—are we a tasty enough treat to risk the jump?"
+—Samila, Murasa Expeditionary House
+--------
+「你甚至能察觉到它在仔细盘算～我们是否美味到值得它冒险扑过来？」
+～姆拉撒探险队的莎米勒
+
+491829
+Cragplate Baloth
+岩甲巴洛西
+
+491830
+Dauntless Survivor
+不屈求生家
+"I've got a little surprise for you, beasties! Come and get it!"
+--------
+「我给你们准备了些惊喜，臭野兽！快过来啊！」
+
+491831
+Gnarlid Colony
+群落糙节兽
+Where mana flows, the gnarlids follow.
+--------
+魔力充盈之处，糙节兽必随至。
+
+491832
+Inscription of Abundance
+丰足铭文
+
+491833
+Iridescent Hornbeetle
+虹彩角虫
+The hatchlings will fill the jungles of Murasa in a glittering tide.
+--------
+其幼虫会让整个姆拉撒丛林色彩斑斓。
+
+491834
+Joraga Visionary
+玖瑞加幻视师
+"If you only follow where the paths lead, you merely go where others have gone before you."
+--------
+「如果你只沿着大路走，那你只能去到前人到过之处。」
+
+491835
+Kazandu Mammoth
+卡赞度长毛象
+"It doesn't obey me. It cooperates with me."—Triel, Kazandu tuskcaller
+--------
+「它不听我的话。它只是配合我行动。」
+～卡赞度召牙师翠儿
+
+491836
+Kazandu Valley
+卡赞度山谷
+"The elves stick to the trees. Here, where the trees welcome the sky and leave room for grazing herds—this is our land."—Triel, Kazandu tuskcaller
+--------
+「妖精依树而生。而这里正是我们的理想家园～植木高耸迎天长，旷野坦阔任兽行。」
+～卡赞度召牙师翠儿
+
+491837
+Kazandu Nectarpot
+卡赞度琼浆虫
+"The scythe-like forelegs are crucial for its survival, because it tastes really good and every inhabitant of Murasa knows it."
+—Arhana, Kazandu trapfinder
+--------
+「它们正是依靠那对如镰刀般锋利的前肢才得以存活至今，因为它们实在很美味，全姆拉撒的居民都知道。」
+～卡赞度探陷人亚哈娜
+
+491838
+Kazandu Stomper
+卡赞度跺地兽
+Elves revere cycles of renewal, but they prefer cycles that don't involve their homes getting smashed.
+--------
+妖精崇敬轮回新生，但他们更希望看到家园不会被夷为平地的那种轮回。
+
+491839
+Khalni Ambush
+坎尼伏击
+"The difference between life and death in Ora Ondar is about three seconds of startled screaming."—Raff Slugeater, goblin shortcutter
+--------
+「欧拉昂达上生与死之间的差距不过三秒钟的尖叫而已。」
+～抄捷径鬼怪食虫拉夫
+
+491840
+Khalni Territory
+坎尼领地
+"If you wander into the Khalni Garden without knowing the signs of a scythecat's territory, you're not going to live long enough to learn."—Raff Slugeater, goblin shortcutter
+--------
+「如果你不慎误闯坎尼花园，而又不知道哪里是镰刃猫的领地，那你应该活不到学会分辨的那一刻。」
+～抄捷径鬼怪食虫拉夫
+
+491841
+Lotus Cobra
+莲花眼镜蛇
+Its hood blossoms as a warning: receive your gift, but stray no closer.
+--------
+它颈部鼓胀便是警告：收下礼物，切勿靠近。
+
+491842
+Might of Murasa
+姆拉撒之力
+The continent of Murasa is defined by irrepressible growth, both natural and otherwise.
+--------
+姆拉撒大陆的特征在于万物成长不受控制，无论自然与否。
+
+491843
+Murasa Brute
+姆拉撒蛮汉
+Some adventuring parties are made up of old friends, their common bonds bolstering them in the face of peril. Other parties simply hire the biggest, meanest muscle they can find.
+--------
+有些冒险团队成员相互熟识，在遇到危险时依靠彼此鼓励挺过难关。而有些冒险团队就只是去物色最孔武有力的巨汉雇来当打手。
+
+491844
+Murasa Sproutling
+姆拉撒播芽灵
+The seeds of memory grow eternal.
+--------
+记忆的种子长盛不衰。
+
+491845
+Nissa's Zendikon
+妮莎的赞迪肯
+
+491846
+Oran-Rief Ooze
+欧兰黎流浆
+
+491847
+Rabid Bite
+狂疾啃咬
+A healthy felidar is voracious yet regal. A rabid felidar is nothing more than appetite lashed to frothing jaws.
+--------
+健康的晶角兽虽也会大口吞咽，但仍不失威严气质。染疾的晶角兽就只晓得张开血盆大口，屈从于无魇食欲。
+
+491848
+Reclaim the Wastes
+荒野复碧
+
+491849
+Roiling Regrowth
+狂搅滋芽
+"Roots find their way through rock, and even mountains must give way to new growth."
+—Nissa Revane
+--------
+「树根会想方设法穿过石块，就连高山也得给新苗让路。」
+～妮莎瑞文
+
+491850
+Scale the Heights
+勇攀高峰
+"Ever onward, ever skyward."
+--------
+「攀高峰，登天际。」
+
+491851
+Scute Swarm
+硬盔虫聚群
+"Survival rule 782: There are always more scute bugs."
+—Zurdi, goblin shortcutter
+--------
+「生存法则第782项：硬盔虫只会更多。」
+～抄捷径鬼怪组棣
+
+491852
+Skyclave Pick-Axe
+空境十字镐
+For use on cliffs and other faces.
+--------
+适用于山崖及其他表面。
+
+491853
+Springmantle Cleric
+春纺僧侣
+Hope and courage bloom in her wake.
+--------
+希望与勇气随她脚步绽放。
+
+491854
+Strength of Solidarity
+团结之力
+"This expedition doesn't succeed unless we all succeed!"
+--------
+「所有人都同享喜悦，本次冒险才算成功！」
+
+491855
+Swarm Shambler
+跛行菌兽
+
+491856
+Tajuru Blightblade
+特裘如枯刃客
+Ora Ondar, the Khalni Garden, is a lush tangle of growth in the harsh lands of Akoum. Its plant growth is marvelously diverse: a brilliant spectrum of vibrant life . . . and speedy death.
+--------
+欧拉昂达又称坎尼花园，是阿库姆荒地中一处葱郁丛林。此处植物种类繁多、包罗万象：既有茁壮成长的盎然生机. . .也有能迅速致命的剧烈毒物。
+
+491857
+Tajuru Paragon
+特裘如典范
+
+491858
+Tajuru Snarecaster
+特裘如布陷手
+Elves of the Tajuru Nation spend their lives in the ancient jaddi trees' expansive canopy, some living and dying without ever touching the ground.
+--------
+特裘如一族妖精终生居于古老贾迪巨树广阔林冠之上，有些人一辈子都未曾接触地面。
+
+491859
+Tangled Florahedron
+杂生花晶石
+"As Bala Ged regrows, new forms of life blossom with unfettered wonder."—Doral, Bala Ged guide
+--------
+「随着巴勒格开始复苏，新的生命如奇迹般恣意绽放。」
+～巴勒格向导多拉尔
+
+491860
+Tangled Vale
+缠结林谷
+"We would do well to open our eyes and remember what it is to wonder."—Doral, Bala Ged guide
+--------
+「我们只需要睁大双眼，好好记住这片自然奇迹。」
+～巴勒格向导多拉尔
+
+491861
+Taunting Arbormage
+寻衅乔木法师
+"Eyes on me!"
+--------
+「都看到我这边！」
+
+491862
+Territorial Scythecat
+据地镰刃猫
+Standing between a scythecat and its prey makes you the appetizer.
+--------
+如果站在镰刃猫和它的猎物之间，你就成了开胃菜。
+
+491863
+Turntimber Ascetic
+旋林苦修士
+"For so long, this land cried out in pain. Now, as the flow returns to its balance point, a new harmony echoes in the trees."
+--------
+「许多年来，这片大陆在痛苦呻吟。如今能量流动重归平衡，林木之间回响着全新和韵。」
+
+491864
+Turntimber Symbiosis
+旋林共生
+
+491865
+Turntimber, Serpentine Wood
+曲木旋林
+"The trees here twist around spikes of mana, feeding off the flowing power."—Jori En, expedition leader
+--------
+「此处的树木绕着涌出的魔力成长，汲取其间流动能量为生。」
+～探险队长裘黎恩
+
+491866
+Vastwood Fortification
+广林护体
+"When you understand nature's ways, you're never unarmed."—Eyza, Joraga guide
+--------
+「只要你理解自然之道，便永远不会缺少武器。」
+～玖瑞加向导爱札
+
+491867
+Vastwood Thicket
+广林灌丛
+"Never underestimate the ferocity of the imperative to thrive."—Eyza, Joraga guide
+--------
+「永远不要低估生长本能的血性。」
+～玖瑞加向导爱札
+
+491868
+Vastwood Surge
+广林翻腾
+
+491869
+Veteran Adventurer
+资深冒险者
+"How can I be of assistance?"
+--------
+「我能帮上什么忙？」
+
+491870
+Vine Gecko
+藤蔓壁虎
+"It's cute now, but those things tend to get a lot bigger when you're not looking."
+—Fahar, expedition wizard
+--------
+「虽然它现在看上去很可爱，但是你一转眼它们就会变得巨大无比。」
+～探险队法师伐赫
+
+491871
+Akiri, Fearless Voyager
+无惧旅人娅奇丽
+"No angel bars our ascent. Emeria waits above!"
+--------
+「天使也不能阻挡我们的攀爬脚步。伊美黎在上面等着我们！」
+
+491872
+Brushfire Elemental
+灌木火元素
+
+491873
+Cleric of Life's Bond
+命绊僧侣
+"No gods. Only each other."
+--------
+「没有神灵。只有彼此。」
+
+491874
+Grakmaw, Skyclave Ravager
+空境噬怪血盆口
+
+491875
+Kargan Warleader
+卡加战领
+From rebellion against the Akoum Skyclave to fighting the Eldrazi titans, the dragon-riding Kargan tribes have never missed an opportunity to defy the odds.
+--------
+从反抗阿库姆空境到对抗奥扎奇巨怪，生活在龙背上的卡加部落从未缺席挑战不利局面的机会。
+
+491876
+Kaza, Roil Chaser
+狂搅逐客卡札
+"What sort of life is that, huddling in the familiar and safe? No thanks. Put me right in the center of the action."
+--------
+「呆在熟悉又安全的地方混日子算什么名堂？谢了。还是让我去找点刺激吧。」
+
+491877
+Linvala, Shield of Sea Gate
+海户之盾琳法拉
+
+491878
+Lullmage's Familiar
+息法师佣兽
+"They store energy in special gastric organs . . . but I guess you'd probably rather have me clear the path than ramble about guts."
+—Fahar, expedition wizard
+--------
+「它们会用特殊的胃来储存能量. . .但我想你应该会让我来替你开路，而不是鼓起胆量自己领头。」
+～探险队法师伐赫
+
+491879
+Moss-Pit Skeleton
+苔坑骷髅妖
+
+491880
+Murasa Rootgrazer
+姆拉撒嚼根兽
+Few other creatures so closely embody Murasa's rapid cycles of growth.
+--------
+没有其他生物能够如此精准地重现姆拉撒的快速生长周期。
+
+491881
+Nahiri, Heir of the Ancients
+先民后裔娜希丽
+
+491882
+Nissa of Shadowed Boughs
+郁影林枝妮莎
+
+491883
+Omnath, Locus of Creation
+生机核欧那斯
+
+491884
+Orah, Skyclave Hierophant
+空境法皇奥拉
+"The Skyclaves are our inheritance."
+--------
+「空境乃是吾族祖传领地。」
+
+491885
+Phylath, World Sculptor
+塑世灵菲拉斯
+
+491886
+Ravager's Mace
+劫夺客战锤
+
+491887
+Soaring Thought-Thief
+翱翔窃念贼
+
+491888
+Spoils of Adventure
+冒险收获
+Survival itself is no small reward.
+--------
+活下来本身就是一笔不小的奖赏。
+
+491889
+Umara Mystic
+乌玛拉秘教徒
+"We tolerate the North Hada thieves' den, but cutthroats who wander downriver earn a skymanta ride out to sea."
+--------
+「我们能够容忍盗贼在北哈达安营，但倘若割喉客胆敢顺流而下，他们就会被穹鳐扔到海里去。」
+
+491890
+Verazol, the Split Current
+断流怪威拉佐
+
+491891
+Yasharn, Implacable Earth
+执拗雄野牙刹
+In its hoofprints, barren dust becomes fertile ground.
+--------
+牙刹巨蹄踩过之处，贫瘠沙漠也能变作肥沃土壤。
+
+491892
+Zagras, Thief of Heartbeats
+夺命盗札葛斯
+
+491893
+Zareth San, the Trickster
+诈术师泽雷尚
+
+491894
+Cliffhaven Kitesail
+崖屋航筝
+Made from canvas, wood, and hope.
+--------
+用帆布、木材和希望制成。
+
+491895
+Forsaken Monument
+遭弃纪念碑
+"We shall forever roam."
+—Ayli, high priest of the Eternal Pilgrims
+--------
+「我们将永生追随。」
+～坚信朝圣客高阶僧侣艾栗
+
+491896
+Lithoform Engine
+砾岩塑引擎
+
+491897
+Myriad Construct
+繁众组构体
+
+491898
+Relic Amulet
+遗宝护身符
+Old power finds new purpose.
+--------
+古老力量派上全新用场。
+
+491899
+Relic Axe
+遗宝战斧
+"It's light as a feather, but it hits with the force of a boulder. A very sharp boulder."
+--------
+「它虽然轻如羽毛，力道却重如巨岩。异常锋利的巨岩。」
+
+491900
+Relic Golem
+遗宝魔像
+
+491901
+Relic Vial
+遗宝秘瓶
+
+491902
+Sea Gate Colossus
+海户巨像
+"When you are battered and exhausted, look up and be inspired by its resolve."
+—Tazri
+--------
+「如果你已伤痕累累、精疲力竭，请抬头看看，希望它的坚毅决心能让你重燃信心。」
+～塔兹莉
+
+491903
+Skyclave Relic
+空境遗宝
+Skyclaves held the key to reshaping the world.
+--------
+重塑世界的关键藏于空境之中。
+
+491904
+Skyclave Sentinel
+空境哨卫
+
+491905
+Spare Supplies
+备用物资
+"It's better to carry a little extra weight than to find yourself halfway down a baloth's throat with no knife."
+—Doral, Bala Ged guide
+--------
+「宁愿背包重那么一点，也不要在快被巴洛西吞下时发现手头连刀都没有。」
+～巴勒格向导多拉尔
+
+491906
+Stonework Packbeast
+石工驮兽
+It will happily carry home your treasure or drag you back to civilization, as circumstances demand.
+--------
+它很乐意帮你把宝藏载回家，或把你拖回文明世界，看情况而定。
+
+491907
+Utility Knife
+万用刀具
+"Hold on a second, I have just the thing."
+--------
+「等一下，我刚好有工具。」
+
+491908
+Base Camp
+探险本营
+A new dawn, a new adventure.
+--------
+新的一天，新的冒险。
+
+491909
+Branchloft Pathway
+枝阁通路
+"Not for the bumble-footed nor wobble-stomached."—Kreq of Sunder Bay
+--------
+「手脚不利落、肚量特别大的走不了。」
+～裂船湾的奎嘎
+
+491910
+Boulderloft Pathway
+石阁通路
+"The path is stable. It's the gusts all around it that are a bit ‘whoosh—oops—bye.'"—Kreq of Sunder Bay
+--------
+「路本身是很稳。但只要周围突然起风，可能就会听到『飕飕～糟糕～再见』。」
+～裂船湾的奎嘎
+
+491911
+Brightclimb Pathway
+明攀通路
+"Why risk life and limb exploring the wilds? For this."—Yavotz, Sea Gate Expeditionary House
+--------
+「你问为什么要冒着失去生命、断手断脚的危险探索野外？就是为了这个。」
+～海户探险队的耶悟茨
+
+491912
+Grimclimb Pathway
+暗攀通路
+"My mother wanted me to take over the family dry goods business, but no. I had to come here."—Yavotz, Sea Gate Expeditionary House
+--------
+「母亲想让我接手家族的织品杂货生意，但我拒绝了。我必须来这里一趟。」
+～海户探险队的耶悟茨
+
+491913
+Clearwater Pathway
+净水通路
+"Just when the river seems most peaceful, suddenly you round a bend and hurtle down a waterfall."—Zahr Gada, Halimar expedition leader
+--------
+「就在河流水势看来最平缓的地方，你忽然之间就会被吸进急流，掉入瀑布。」
+～哈利玛探险队长萨格达
+
+491914
+Murkwater Pathway
+浊水通路
+"Here, at least, the danger is usually in plain sight."—Zahr Gada, Halimar expedition leader
+--------
+「而这里，至少你一眼就能看到危险所在。」
+～哈利玛探险队长萨格达
+
+491915
+Cragcrown Pathway
+岩冠通路
+"The greatest danger on the path is a failure of nerve."—Enwor, Sea Gate Expeditionary House
+--------
+「一路上最大的危险就是突然丧失勇气。」
+～海户探险队的恩沃
+
+491916
+Timbercrown Pathway
+丛冠通路
+"Walk quickly and ignore any roars from the undergrowth."—Enwor, Sea Gate Expeditionary House
+--------
+「快速通过，不要理会底下的嚎叫声。」
+～海户探险队的恩沃
+
+491917
+Crawling Barrens
+匍行瘠地
+Zendikar is restless.
+--------
+赞迪卡还很躁动。
+
+491918
+Needleverge Pathway
+针缘通路
+"Once you really trust the rope, you'll learn to sleep standing up."—Akiri, kor line-slinger
+--------
+「等到你完全信任绳索后，你甚至能学会站着睡觉。」
+～寇族掷索人娅奇丽
+
+491919
+Pillarverge Pathway
+柱缘通路
+"The oxen here take an almost feline delight in pushing things over the edge."—Akiri, kor line-slinger
+--------
+「这里的牛就跟猫一样，喜欢把东西往悬崖边上推。」
+～寇族掷索人娅奇丽
+
+491920
+Riverglide Pathway
+河流通路
+"The wind knows the way. Just let it carry you there."—Amandi, kitesail expert
+--------
+「清风知晓道路。尽管随风而行。」
+～航筝专家阿曼迪
+
+491921
+Lavaglide Pathway
+熔流通路
+"Don't fear the heat. Just let it lift you up."—Amandi, kitesail expert
+--------
+「无需惧怕高热。尽管随之腾飞。」
+～航筝专家阿曼迪
+
+491922
+Throne of Makindi
+马钦迪王座
+
+491923
+Plains
+平原
+
+491924
+Plains
+平原
+
+491925
+Plains
+平原
+
+491926
+Island
+海岛
+
+491927
+Island
+海岛
+
+491928
+Island
+海岛
+
+491929
+Swamp
+沼泽
+
+491930
+Swamp
+沼泽
+
+491931
+Swamp
+沼泽
+
+491932
+Mountain
+山脉
+
+491933
+Mountain
+山脉
+
+491934
+Mountain
+山脉
+
+491935
+Forest
+树林
+
+491936
+Forest
+树林
+
+491937
+Forest
+树林
+
+495098
+Plains
+平原
+
+495099
+Island
+海岛
+
+495100
+Swamp
+沼泽
+
+495101
+Mountain
+山脉
+
+495102
+Forest
+树林
+
+========

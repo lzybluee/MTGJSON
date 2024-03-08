@@ -1,0 +1,1904 @@
+485324
+Ugin, the Spirit Dragon
+灵龙乌金
+
+485325
+Alpine Watchdog
+山地看护犬
+"On the eighth day, a blizzard hit. Supplies were lost, and morale plummeted. On the ninth day, Dover found us."
+—To the Summit: A Tale of Survival
+--------
+「第八天，我们遭到暴风雪袭击。慌乱中补给尽失，干劲也跌至谷底。第九天，多福找到了我们。」
+～《勇攀巅峰：生存纪实》
+
+485326
+Angelic Ascension
+飞升天界
+Within her battalion she was known as the Angel of Arkvale. Until now, that was only a metaphor.
+--------
+她在军中享有「雅克谷天使」美誉。但此前都只不过是比喻而已。
+
+485327
+Anointed Chorister
+神圣唱诗人
+"I sing of benevolence and mercy, of golden wings bringing comfort to the meek and downtrodden."
+--------
+「我颂扬善良慈悲，赞美金羽现世，安顿困苦孤弱。」
+
+485328
+Aven Gagglemaster
+艾文头鹅
+An aven's gear is enchanted to avoid weighing them down during aerial maneuvers.
+--------
+艾文装备都经过轻盈魔法加持，避免拖累他们在空中的灵活行动。
+
+485329
+Baneslayer Angel
+破邪天使
+Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.
+--------
+有些天使负责保护弱小与无辜者。其他的则征伐邪恶潜藏处。
+
+485330
+Basri Ket
+巴席利柯特
+
+485331
+Basri's Acolyte
+巴席利的侍僧
+Basri carries on his god's legacy, spreading her teachings throughout the Multiverse.
+--------
+巴席利继承他的神明遗志，继续在多重宇宙中传扬其教诲。
+
+485332
+Basri's Lieutenant
+巴席利的副官
+
+485333
+Basri's Solidarity
+巴席利的团结
+"The will to fight and act as one is not limited to a single world. Oketra's teachings are universal."
+—Basri Ket
+--------
+「『齐勇如一』之道并非只在一个世界中通用，欧柯塔的教诲放之四海而皆准。」
+～巴席利柯特
+
+485334
+Celestial Enforcer
+天界执法者
+"I look to the heavens for hope, but you will kneel."
+--------
+「我可仰首祈天助，而你只能屈膝求垂怜。」
+
+485335
+Concordia Pegasus
+齐心飞马
+In the cloudy skies and dim light of autumn, a flash of white wings is a reminder that better times lie ahead.
+--------
+秋暮时分的压顶乌云让人透不过气，然长空尽头划过的白色羽翼，提醒众人仍有美好未来可期。
+
+485336
+Containment Priest
+围护僧侣
+Some protection requires a bit of finesse.
+--------
+有些保护需要无微不至。
+
+485337
+Daybreak Charger
+破晓角驹
+It's often mistaken for the coming dawn as it gallops across the horizon.
+--------
+它在地平线远端的驰骋身影，常常让人误以为曙光将至。
+
+485338
+Defiant Strike
+无畏挥击
+"My family was saved thanks to a single Boros soldier. It's why I joined the Legion. I will be the protector now."
+--------
+「多亏一位波洛斯士兵出手搭救，我的家人才得以幸存。这就是我要加入教团的原因。从今而后，我就是保护者。」
+
+485339
+Dub
+册封
+"Rise, knight of New Benalia."
+--------
+「平身，新宾纳里亚的骑士。」
+
+485340
+Faith's Fetters
+信念拘锁
+
+485341
+Falconer Adept
+训隼专家
+"My falcons are family, as much as any other member of my clan."
+--------
+「我与部落伙伴如家人般亲密，我跟手下鹰隼也是如此。」
+
+485342
+Feat of Resistance
+反抗技艺
+
+485343
+Gale Swooper
+劲风扑鹫
+"Be glad the griffin set you back on your feet when it was done with you. My goat wasn't so lucky."
+—Arram, goatherd
+--------
+「如果被狮鹫掳走还能回到地面，你就该庆幸自己捡回一条命。我的羊运气可没那么好。」
+～山羊牧人亚兰
+
+485344
+Glorious Anthem
+辉煌的赞美诗
+The songs of angels are perceived not as words in the ears but as stirrings in the soul.
+--------
+天使歌声并非只是传入耳中的旋律，而是震撼心灵的回响。
+
+485345
+Griffin Aerie
+狮鹫栖巢
+When griffins started nesting atop the northern tower, the castellan worried they'd be a nuisance. Instead, they took the entire castle under their protection.
+--------
+起初狮鹫开始在北塔塔顶筑巢的时候，城主还担心它们日后会成为安全隐忧。但没想到它们却成了整座城堡的安全保障。
+
+485346
+Idol of Endurance
+坚白雕像
+
+485347
+Legion's Judgment
+军团裁决
+"My lance was once wielded by Venerable Tarrian. In his name and by his might, I cast you down!"
+--------
+「这柄长枪曾是圣塔理安手中兵器。以彼之名，借彼之力，夺你性命！」
+
+485348
+Light of Promise
+允诺之光
+The light washed over him, and in the wind he heard the roars of all the pridemates who had come before.
+--------
+他沐浴在明光之中，风中传来此前曾历经此处的群伴呼吼。
+
+485349
+Makeshift Battalion
+杂牌大队
+Their ranks are thin, their formation is improvised, their weapons are borrowed, and you'd best get out of their way.
+--------
+他们兵员薄弱，队形散乱，武器不整，但你最好还是躲着点。
+
+485350
+Mangara, the Diplomat
+使节曼格拉
+
+485351
+Nine Lives
+九命护身
+
+485352
+Pack Leader
+犬群领袖
+He will be your loyal champion, and his pack your protectors. All he asks for is a full belly, a spot by the fire, and all the love in your heart.
+--------
+它会成为你的忠诚勇士，它身边犬群会成为你的贴身护卫。而它要求的，不过是果腹伙食、炉边歇息和满心关爱。
+
+485353
+Rambunctious Mutt
+难驯杂犬
+Emphatic words with powerful gestures. Clearly this was playtime.
+--------
+急切语气加上威风动作，显然这是玩乐时间。
+
+485354
+Revitalize
+再现活力
+"A potion is no substitute for a skilled surgeon, but it will hold your bits in."
+—Torricks, battlefield medic
+--------
+「药水虽代替不了妙手回春的医士，但好歹能堵上你的伤口。」
+～战场医护员托瑞克
+
+485355
+Runed Halo
+符文光晕
+
+485356
+Sanctum of Tranquil Light
+宁光圣殿
+An untroubled mind
+Dwells in perfect harmony
+With a peaceful heart.
+--------
+平和无庸扰，
+柔光温煦清风到，
+静居宁心躁。
+
+485357
+Seasoned Hallowblade
+干练圣剑兵
+"I don't know that I'll win every fight. But I have faith, and that's carried me this far."
+--------
+「我不知道我还能继续赢多久。但我有坚定信念，而这正是我动力源泉。」
+
+485358
+Secure the Scene
+保护现场
+"You know it's a great show when the Azorius arrest the props, too!"
+—Judith, the Scourge Diva
+--------
+「当俄佐立人连道具都一起逮捕的时候，你就知道这一定是场好戏！」
+～灾祸歌伶裘蒂丝
+
+485359
+Selfless Savior
+无私救助犬
+She raised him from an orphaned pup and gave him a life of love. With his last act, he thanked her.
+--------
+它幼时曾是流浪孤犬，幸好遇她悉心照料，得以一生幸福成长。而这养育之恩，它靠这最后的舍命相助为报。
+
+485360
+Siege Striker
+攻城进击兵
+
+485361
+Speaker of the Heavens
+天界传谕
+"All are welcome in the angels' light."
+--------
+「天使之光普渡众生。」
+
+485362
+Staunch Shieldmate
+可靠护盾手
+"Gilded with gold from a dragon's trove, it is! And etched with the image of the dragon I slew to take it."
+--------
+「这盾上镀的可都是我从龙穴里面发现的金子！我还特地把杀掉的那条龙样子刻在上面当作纪念。」
+
+485363
+Swift Response
+快速反应
+"There's nothing quite as satisfying as delivering a good kick to the face."
+—Adrasteia, Akroan captain
+--------
+「没有什么事情比往敌人脸上狠狠踹一脚更解气的了。」
+～阿喀洛斯队长阿卓斯蒂娅
+
+485364
+Tempered Veteran
+蓄势老兵
+"I've been carrying a sword since before you were born. I wouldn't give up my oath for all the peace and comfort in the world."
+--------
+「在你出世之前，我已佩剑征战四方。就算你拿全世界最安逸的生活来引诱我，我也不会背弃誓言。」
+
+485365
+Valorous Steed
+英勇角驹
+A unicorn chooses only the most virtuous and noble of knights to be its companion.
+--------
+骑士中唯有至德至尚者，才能被独角兽选作伙伴。
+
+485366
+Vryn Wingmare
+维林翼驹
+It's the favored mount of military commanders as well as anyone with a flair for the dramatic.
+--------
+它深得军队指挥官信赖，也颇受具演出天分人们的青睐。
+
+485367
+Warded Battlements
+符佑城垛
+In dire times, even a place of refuge can become a weapon of war.
+--------
+在困难时期，就连避难之地也能成为作战利器。
+
+485368
+Barrin, Tolarian Archmage
+陶拉里亚大法师巴林
+"There is no age at which you stop learning."
+--------
+「没有老到学不动的时候。」
+
+485369
+Cancel
+取消
+"I decide what stands in my way."
+--------
+「谁能阻挠由我来定。」
+
+485370
+Capture Sphere
+拘捕法球
+
+485371
+Discontinuity
+突然中断
+
+485372
+Enthralling Hold
+迷魅掌控
+"I offered to pay him to do the job, but he refused. So I took matters into my own hands."
+—Tahim, the Puppetmaster
+--------
+「我原本提议付钱来雇他做事，但他拒绝了。所以我只好亲自出马。」
+～操偶大师塔西姆
+
+485373
+Frantic Inventory
+狂搜库存
+"Another village, another angry mob. Why do I even bother unpacking?"
+--------
+「又一座村子，又一群暴民。我又何苦把东西拿出来呢？」
+
+485374
+Frost Breath
+霜息
+"I'll make ice chimes of your bones."
+--------
+「我要把你的骨头冻成冰当钟敲。」
+
+485375
+Ghostly Pilferer
+魂魅小偷
+
+485376
+Jeskai Elder
+洁斯凯长老
+
+485377
+Keen Glidemaster
+敏锐滑翔长
+"Fear is a rational response, but waiting won't make it any easier. Just jump!"
+--------
+「会害怕是正常反应，但干等着也没办法缓解。跳就对了！」
+
+485378
+Library Larcenist
+书库窃犯
+"I specialize in missing manuscripts, pilfered poetry, and lifted letters."
+--------
+「我擅长弄丢手稿，偷取诗篇，截取信件。」
+
+485379
+Lofty Denial
+清高拒斥
+The mage scowled as yet another bolt splashed harmlessly against seemingly empty air.
+--------
+看着又一道电光在似乎浑然无物的空中悄然四散，法师不禁皱起了眉头。
+
+485380
+Miscast
+咒法错误
+"Next time, try something more appropriate for your skill level."
+—Barrin, Tolarian archmage
+--------
+「下次先从与你本事相若的咒语开始。」
+～陶拉里亚大法师巴林
+
+485381
+Mistral Singer
+寒风歌者
+"I sang of storms, there came a squall. I sang of waves, the seas grew tall. I sang of love, but no voice called."
+--------
+「唱起风暴之歌，天降疾风应和；唱起浪潮之歌，海洋积势添色；唱起爱情之歌，四下无声合辙。」
+
+485382
+Opt
+抉择
+The crystal pulsed with the power of Teferi's Planeswalker spark. Had Jhoira given him a blessing or a curse?
+--------
+水晶球涌动着泰菲力鹏洛客火花的力量。尤依拉带给他的是祝福，还是诅咒？
+
+485383
+Pursued Whale
+遭猎白鲸
+
+485384
+Rain of Revelation
+揭示之雨
+"As the sky opened up, we ran for shelter. Halfway there I came to the sudden realization that, already soaked, there might be more to gain from experiencing the rain than running from it."
+--------
+「天空突然暴雨倾盆，我们匆忙寻地躲避。但在找到半路时，我一时兴起：既然已全身湿透，为何不索性漫步雨中？这样或许能有更多收获。」
+
+485385
+Read the Tides
+研判浪潮
+Charts and instruments work fine, but the best navigators aren't above a spell or two to nudge the tides in a more favorable direction.
+--------
+海图和器具固然有用，但最好的领航员只消一两个咒语就能让浪潮朝着自己想要的方向流动。
+
+485386
+Rewind
+倒退
+"The best denials are simply that: a beginning and end unchanged, a dream with no memory."
+--------
+「最出色的否定就像这样：开始与结束没有任何变化，一如没留下记忆的梦。」
+
+485387
+Riddleform
+迷幻形体
+
+485388
+Roaming Ghostlight
+游荡光灵
+Some who die senseless deaths return as formless spirits, seeking answers where there are none.
+--------
+毫无意义逝去的生命会以没有形态的灵魂重返世间，茫然追寻并不存在的答案。
+
+485389
+Rookie Mistake
+新手失误
+"Stop locking your knees as you strike! Now stand up and try again."
+--------
+「攻击时膝盖别僵着！起身再试一次。」
+
+485390
+Rousing Read
+开卷有得
+Great literature can transport the reader.
+--------
+伟大的书籍能令读者通天。
+
+485391
+Sanctum of Calm Waters
+静水圣殿
+Truth lurks in the depths,
+Invisible from the shore.
+Knowledge inundates.
+--------
+真相藏水间，
+冰寒湖底知识现，
+岸边不得见。
+
+485392
+See the Truth
+看清真相
+"What is this that is neither future nor past?"
+--------
+「有个东西，既不是未来，也不是过去，那是什么？」
+
+485393
+Shacklegeist
+桎梏游魂
+The Blessed Sleep doesn't come easily to a mind chained by regrets.
+--------
+心灵遭悔恨束缚者，难享受福安眠。
+
+485394
+Shipwreck Dowser
+船难探寻客
+Lost at sea doesn't have to mean lost forever.
+--------
+失落于海中不一定意味着无法再度寻得。
+
+485395
+Spined Megalodon
+硬背巨牙鲨
+
+485396
+Stormwing Entity
+暴风翼灵
+
+485397
+Sublime Epiphany
+灵光乍现
+
+485398
+Teferi, Master of Time
+弄时宗师泰菲力
+
+485399
+Teferi's Ageless Insight
+泰菲力的永恒洞察
+"Fine, you know more than me. But do you have to be such a show-off about it?"
+—Chandra Nalaar, to Teferi
+--------
+「好啦，你是懂得比我多。但你真的要炫耀这点吗？」
+～茜卓纳拉，致泰菲力
+
+485400
+Teferi's Protege
+泰菲力的门徒
+Teferi's legacy lives on in Tolaria through the study of time magic and a tradition of irrepressible mischief.
+--------
+对于时间魔法的持续研习和学生间难以克制的作弄传统，让泰菲力的精神得以在陶拉里亚流传。
+
+485401
+Teferi's Tutelage
+泰菲力的指导
+"Tarassel's sixth law of temporal recursion is easy to understand as long as you know the first seven."
+--------
+「只要你晓得了塔拉希尔时间递归律的前七条，第六条就很容易理解。」
+
+485402
+Tide Skimmer
+掠浪飞兽
+Fishing boats often follow hunting drakes to find the largest schools of fish.
+--------
+渔船常常跟在行猎龙兽后面，这样便能找到渔获量最大的鱼群。
+
+485403
+Tolarian Kraken
+陶拉里亚巨海兽
+"It's contemplative, resourceful, and original. Everything else aside, it's the perfect student."
+—Naban, dean of iteration
+--------
+「它沉着冷静，思维敏捷，做法独到。不考虑其他因素的话，最好的学生就该像它这样。」
+～迭演院长奈班
+
+485404
+Tome Anima
+魔典活灵
+Sometimes knowledge takes on a life of its own.
+--------
+有时候，知识会自己演绎出生命。
+
+485405
+Unsubstantiate
+消解
+"Nicely done, Jace. You always were good at disappearing acts."
+—Liliana Vess
+--------
+「干得漂亮，杰斯。你一直很擅长玩失踪这类把戏。」
+～莉莲娜维斯
+
+485406
+Vodalian Arcanist
+伏特里亚奥术师
+The Vodalian Empire tends to be insular. The scholarly Volshe caste are the exception, using education as an antidote to xenophobia.
+--------
+伏特里亚帝国通常行事保守。好学的伏尔施阶级则属例外，他们以教育解决排外心态。
+
+485407
+Waker of Waves
+弄涛巨鲸
+On the open sea, there is nowhere to hide.
+--------
+在广阔的大海中，没有一处藏身之地。
+
+485408
+Wall of Runes
+符文墙
+
+485409
+Wishcoin Crab
+许愿蟹
+"What wishes do they grant? Mostly pinching-related ones."
+—Omik, superintendent of waterworks
+--------
+「它们能满足什么愿望？应该都是跟夹人有关的吧。」
+～水务主管欧米克
+
+485410
+Alchemist's Gift
+炼金术士的赠礼
+
+485411
+Archfiend's Vessel
+天魔祟体僧
+
+485412
+Bad Deal
+恶质交易
+There are still places where a smile and a handshake are all you need to seal a deal.
+--------
+幸好还有些地方只要露个脸、握个手就能够谈成交易。
+
+485413
+Blood Glutton
+餮血食客
+"Some savor the hunt. I savor the kill."
+--------
+「有人享受猎捕过程。而我享受夺命时刻。」
+
+485414
+Caged Zombie
+困槛灵俑
+"Six consecutive life sentences" takes on a new meaning when necromancy is involved.
+--------
+当能够动用死灵术时，「六个连续终身监禁」就有了新的意义。
+
+485415
+Carrion Grub
+腐肉幼虫
+
+485416
+Crypt Lurker
+墓穴伏怪
+"Even the rats refuse to set foot inside. I fear to think what might be waiting in there."
+—Gravedigger's journal
+--------
+「就连老鼠都不敢进去。我甚至都不敢去想里面会有什么在等着我。」
+～掘墓人日志
+
+485417
+Deathbloom Thallid
+死华散绿菌
+"Nature is not always gentle or kind, but all life begets life."
+—Marwyn of Llanowar
+--------
+「大自然并不总是温和仁慈，但万物生生不息。」
+～罗堰的玛雯
+
+485418
+Demonic Embrace
+恶魔之拥
+
+485419
+Duress
+逼从
+Resistance is unthinkable.
+--------
+反抗，连想都不能想。
+
+485420
+Eliminate
+涤除
+"Cruelty? No. This is necessity."
+—Kaervek
+--------
+「残忍？错。这是必然。」
+～凯雷威克
+
+485421
+Fetid Imp
+腥臭小恶魔
+
+485422
+Finishing Blow
+终命一击
+"In this world, it's kill or be killed. I'd rather not be the latter."
+--------
+「在这世上，不是你杀人就是被人杀。我宁愿不要被人杀。」
+
+485423
+Gloom Sower
+散霾惧兽
+"First, the darkness fell. Terror came next. After that, only despair remained."
+—The Tragedy of Morein
+--------
+「首先，黑暗降临。随后，恐惧到来。最后，只剩绝望。」
+～《莫雷因之殇》
+
+485424
+Goremand
+嗜血餮魔
+
+485425
+Grasp of Darkness
+黑暗之攫
+"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world."
+—Munda, ambush leader
+--------
+「如果能清除荼毒世界的恶怪，再鄙恶的魔法我都愿意运用。」
+～伏击领袖蒙达
+
+485426
+Grim Tutor
+严酷导师
+As blood touched the empty page, it formed words that seared themselves into the wizard's mind.
+--------
+鲜血落在空白书页上后，就转变成为烙印在法师心灵中的字句。
+
+485427
+Hooded Blightfang
+枯牙眼镜蛇
+
+485428
+Infernal Scarring
+炼狱留痕
+One who is marked by a demon in life is sure to be remembered as one in death.
+--------
+生前得恶魔印记者，死后亦被以恶魔相待。
+
+485429
+Kaervek, the Spiteful
+怨忿者凯雷威克
+"Defy me and I will burn the flesh from your bones. Betray me and I will steal the breath from your lungs."
+--------
+「胆敢反抗我，我就会把你骨头上的血肉烧尽。胆敢背叛我，我就会把你双肺中的空气偷走。」
+
+485430
+Kitesail Freebooter
+航筝掠盗
+
+485431
+Liliana, Waker of the Dead
+醒亡莉莲娜
+
+485432
+Liliana's Devotee
+莉莲娜的信徒
+Liliana inspires horror in many and fanatical admiration in a few.
+--------
+莉莲娜让许多人恐惧不已，也引来了少数人的狂热崇拜。
+
+485433
+Liliana's Standard Bearer
+莉莲娜的旗手
+The purple banner of the House of Vess is a symbol of death wherever it's flown.
+--------
+维斯家族紫色旗帜飘扬之处，即象征死亡来到。
+
+485434
+Liliana's Steward
+莉莲娜的管家
+Servants at Vess Manor are chosen for their strong work ethic and respectful demeanor. Being alive is not required.
+--------
+维斯宅邸挑选仆从，看重的是敬业态度与得体举止。至于是死是活并不重要。
+
+485435
+Malefic Scythe
+凶邪镰刀
+
+485436
+Masked Blackguard
+覆面凶徒
+Her footsteps are whispers, her passage a last breath.
+--------
+她的脚步如细语轻声，悄然之间便令人咽气。
+
+485437
+Massacre Wurm
+屠戮亚龙
+
+485438
+Mind Rot
+心之衰
+Many an inventor has collapsed under the pressure to create a flawless design.
+--------
+许多发明家因创造无瑕设计的压力而崩溃。
+
+485439
+Necromentia
+死灵惧相
+
+485440
+Peer into the Abyss
+窥探深渊
+"Oh, don't be so dramatic. When your eyes bleed, and your brain leaks out your ears, then we'll talk about lost sanity."
+—Braids, dementia summoner
+--------
+「哦，别这么夸张。等到你鲜血涌出双眼，脑干流出双耳的时候，那才算是失去神智。」
+～惧像召唤师布蕾德
+
+485441
+Pestilent Haze
+瘟疫迷雾
+"Your crops will rot. The air itself will turn against you. You will suffer as I have suffered."
+—Karaz, outcast
+--------
+「你的作物将腐烂。就连空气也将与你作对。你将经历我的痛苦。」
+～黜人卡拉兹
+
+485442
+Rise Again
+再度起身
+"I love those who are eager to serve."
+—Liliana Vess
+--------
+「我喜欢这些热切想要效命的家伙。」
+～莉莲娜维斯
+
+485443
+Sanctum of Stone Fangs
+锐石圣殿
+Renounce all limits,
+False chains binding potential.
+Power knows no bounds.
+--------
+锐锋破局限，
+挣脱枷锁潜能现，
+强威力无边。
+
+485444
+Sanguine Indulgence
+血色盛宴
+"Drink from the vein? How provincial."
+—Lord Duchorvin
+--------
+「直接从血管喝？真粗野。」
+～杜卓温领主
+
+485445
+Silversmote Ghoul
+嵌银食尸鬼
+Being trapped between two forms of unlife is a fate worse than mere death.
+--------
+夹在两种不死形体之间，这结局比死去更悲惨。
+
+485446
+Skeleton Archer
+骷髅妖箭手
+"Soul, flesh, even eyes—none of these are strictly necessary for deadly precision."
+—Modriss of Zargoth Fen
+--------
+「灵魂、肉身，甚至双眼～这些都不是精准夺命的箭术所必需之物。」
+～札戈斯沼的墨垂兹
+
+485447
+Tavern Swindler
+酒馆骗子
+Rakdos cultists are her best customers. They never flinch at pain and are seldom good at math.
+--------
+拉铎司教徒是她最好的顾客。他们不会因痛苦而退却，也很少擅于算术。
+
+485448
+Thieves' Guild Enforcer
+盗贼公会执法者
+
+485449
+Village Rites
+村民仪式
+"You were so eager to take and consume. Yet when asked to give, you refuse?"
+--------
+「要吃要喝的时候如此积极。要你奉献的时候却摆手拒绝？」
+
+485450
+Vito, Thorn of the Dusk Rose
+暮影蔷薇之棘维托
+"Through the blood of the wicked, we shall be redeemed. Let us pray."
+--------
+「经由奉献恶者之血，我们必将得到救赎。祈祷吧。」
+
+485451
+Walking Corpse
+行尸
+"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared."
+—Jadar, ghoulcaller of Nephalia
+--------
+「正常的军队要考虑食粮补给的问题。而这正是灵俑部队的优点。他们因进食而战。也因进食而被人惧怕。」
+～涅非利亚尸鬼牧者贾达
+
+485452
+Witch's Cauldron
+巫婆鼎镬
+The best recipes start with reliable cookware.
+--------
+美味食谱始于可靠炉具。
+
+485453
+Battle-Rattle Shaman
+战响祭师
+The shaman rattles not to inspire a battle fury but to drown out the shrieks of those fleeing the Eldrazi.
+--------
+祭师发出的吵杂声音并不是用来激起战意，而是要盖掉那些被奥札奇吓跑者的尖叫。
+
+485454
+Bolt Hound
+电闪猎犬
+Its spark is worse than its bite.
+--------
+电光比利齿更为凶狠。
+
+485455
+Bone Pit Brute
+骨坑蛮汉
+Welcome to the club.
+--------
+欢迎来到棍子吧。
+
+485456
+Brash Taunter
+鲁莽挑发鬼
+"You hit like a kobold!"
+--------
+「你就跟鬼崽没两样！」
+
+485457
+Burn Bright
+怒火冲天
+"From a great bonfire at the dawn of time, the first Gruul kindled their rage. The same flame burns in you."
+—Kroshkar, Gruul shaman
+--------
+「古鲁人血液中的怒火，从先人在创世之初升起第一簇盛大篝火起就开始燃烧，一直延续至今。这股怒火同样也在你的体内燃烧。」
+～古鲁祭师克许卡
+
+485458
+Chandra, Heart of Fire
+烈焰之心茜卓
+
+485459
+Chandra's Incinerator
+茜卓的焚焰灵
+
+485460
+Chandra's Magmutt
+茜卓的熔岩犬
+"Is it purebred? No, but it's pure fire."
+—Chandra Nalaar
+--------
+「你问它是不是纯种？不是，但它是纯火。」
+～茜卓纳拉
+
+485461
+Chandra's Pyreling
+茜卓的幼火灵
+"I think Chandra just wanted something to blame random scorch marks on."
+—Jace Beleren
+--------
+「我觉得茜卓只是要找个东西来把胡乱烧痕怪罪上去。」
+～杰斯贝连
+
+485462
+Conspicuous Snoop
+张扬嗅探客
+
+485463
+Crash Through
+全力突破
+
+485464
+Destructive Tampering
+擅动致灾
+"I don't think they'll appreciate my . . . adjustments."
+—Karavin, renegade saboteur
+--------
+「他们大概不会喜欢我所做的. . .调整。」
+～乱匠破坏者克勒温
+
+485465
+Double Vision
+双重视像
+"Your eyes aren't playing tricks on you. I am."
+--------
+「欺骗你的不是你的双眼。是我。」
+
+485466
+Fiery Emancipation
+焰浪无拘
+"One day the mountain's fire will rise up to burn away our chains and end this age of oppression."
+—The Molten Prophecy
+--------
+「总有一天，山中烈焰将猛烈翻涌，焚尽我们周身镣铐，终结这一压迫时代。」
+～《熔铁预言》
+
+485467
+Furious Rise
+怒火昂扬
+Klothys set out to mend the destiny of Theros, her fury guiding every stitch.
+--------
+克洛缇丝着手修补塞洛斯的命运，每针都由怒火引线。
+
+485468
+Furor of the Bitten
+遭咬者狂热
+Those who only believe themselves infected with lycanthropy can be as dangerous as those who really are.
+--------
+那些一厢情愿认为自己染上化狼症的人，可能会与真正的患者一样危险。
+
+485469
+Gadrak, the Crown-Scourge
+戴冠祸害加札克
+
+485470
+Goblin Arsonist
+纵火鬼怪
+With great power comes great risk of getting yourself killed.
+--------
+能力越强，丧命的危险越大。
+
+485471
+Goblin Wizardry
+鬼怪巫法
+"Quiet in the library" soon gave way to larger concerns.
+--------
+「馆内保持安静」很快就不是最头痛的事情了。
+
+485472
+Havoc Jester
+浩劫小丑
+To the Rakdos, screams of delight and screams of terror are one and the same.
+--------
+对拉铎司人而言，兴奋呼喊与恐惧尖叫是一回事。
+
+485473
+Heartfire Immolator
+心火煽焰师
+"I'd rather go out in a blaze of glory than fade away and be forgotten."
+--------
+「我宁愿化作夺目烈焰，也不甘漫灭遭人淡忘。」
+
+485474
+Hellkite Punisher
+惩焰残虐者
+"We'll pay no more tribute to that tyrannical lizard. A new age starts today!"
+—Mayor Kadrim, now deceased
+--------
+「我们绝不再向那只暴躁蜥蜴低头进贡。全新时代就从今天开始！」
+～已故凯德霖市长
+
+485475
+Hobblefiend
+噬踵邪鬼
+Bedbugs aren't the only things you need to worry about biting you at night.
+--------
+至于会在晚上钻出来咬你的东西，需要防备的绝非仅有臭虫一种。
+
+485476
+Igneous Cur
+火热杂狗
+Some dogs just aren't meant to be indoor pets.
+--------
+有些狗就是不适合养在家里当宠物。
+
+485477
+Kinetic Augur
+跃动卜算师
+
+485478
+Onakke Ogre
+欧纳克食人魔
+The ogres you know are nothing like the Onakke. Possessing both intellect and industry, they had brute strength without being brutish.
+--------
+欧纳克一族和你所知的食人魔完全不同。他们聪明又勤奋，身怀蛮力却不粗蛮。
+
+485479
+Pitchburn Devils
+燃沥青魔鬼
+The ingenuity of goblins, the depravity of demons, and the smarts of sheep.
+--------
+鬼怪的才智，恶魔的邪恶，以及羔羊的痛苦。
+
+485480
+Sanctum of Shattered Heights
+嶙峋圣殿
+Rage smolders within,
+An all-consuming wildfire
+Burning fear to ash.
+--------
+恚怒积心间，
+聚作野火耀漫天，
+惧相全化烟。
+
+485481
+Scorching Dragonfire
+焦热龙炎
+As the blaze raced toward her, Syr Ameril closed her eyes and pictured Castle Ardenvale so her last thoughts would be of home.
+--------
+眼见来袭火焰即将吞没自己，艾默莉爵士索性闭上双眼，在脑海中回想起雅登瓦堡的点点滴滴，好让家乡成为自己最后的回忆。
+
+485482
+Shock
+电震
+"The beauty of it is they never see it coming. Ever."
+—Razzix, sparkmage
+--------
+「最令人激赏的一点，是他们完全浑然不知。完完全全。」
+～火花法师剌极
+
+485483
+Soul Sear
+炙烤灵魂
+There was no witty retort, no confident boast to accompany the attack. There was only pain.
+--------
+这次攻击带来的，没有机智回击，也没有自满吹嘘。只有无尽痛楚。
+
+485484
+Spellgorger Weird
+咒润怪奇
+Freed from their respective labs, the two weirds formed a partnership, feeding on the arcane energies of war.
+--------
+两只怪奇从各自的实验室里逃出之后组成搭档，以战场上的奥术能量为食。
+
+485485
+Subira, Tulzidi Caravanner
+图兹迪商队长苏碧拉
+
+485486
+Sure Strike
+必中一击
+To survive imminent doom, it sometimes takes a foolhardy soul who acts first and fears later.
+--------
+在末日来临之时，想要生存，有时需要鲁莽之士的义无反顾。
+
+485487
+Terror of the Peaks
+峰顶惧龙
+
+485488
+Thrill of Possibility
+快意拼搏
+"Right now, in these first moments of creation, it is simultaneously nothing and everything."
+--------
+「眼下，在这创造的最初时刻，灿烂成果或破烂废铁就在一念之间。」
+
+485489
+Traitorous Greed
+变节贪欲
+"Remind me again, what's the going rate for betrayal these days?"
+—Captain Rhenmir
+--------
+「再提醒我一下，最近背叛的行情怎么样？」
+～伦米尔队长
+
+485490
+Transmogrify
+形体突变
+"I'd like to introduce you to the new and improved me."
+--------
+「来认识全新而更强的我。」
+
+485491
+Turn to Slag
+化为渣滓
+"If it wasn't a blackened, stinking, melted abomination before, it certainly is now."
+—Koth of the Hammer
+--------
+「如果它之前不是个发黑、发臭、融化的憎恨兽，现在就真的是了。」
+～锤族的寇斯
+
+485492
+Turret Ogre
+炮台食人魔
+Common Gruul career aspirations: berserker, shaman, catapult.
+--------
+古鲁常见的职业目标：狂战士、祭师、投石兵。
+
+485493
+Unleash Fury
+宣泄怒火
+Might doesn't make right, but it does win the fight.
+--------
+蛮力不一定就是正义，但能赢得胜利。
+
+485494
+Volcanic Geyser
+火泉喷发
+"The common folk call it the breaking of the crust or the spilling of fire. Geomancers call it target practice."
+—Ryda, geomancer
+--------
+「普通人称之为地壳断裂或火焰涌出。大地术士称之为练习打靶。」
+～大地术士濑达
+
+485495
+Volcanic Salvo
+火山迸发
+Seeing it coming a mile away is little comfort if you can't get out of range in time.
+--------
+如果你来不及逃出生天，奋力跑到远离火光一哩开外，也不会让你安心多少。
+
+485496
+Azusa, Lost but Seeking
+云游者梓纱
+"I do not miss Jukai Forest. It is not my home. My home is Kamigawa, its people my family. Wherever I set my pack and rest my head, I am home."
+--------
+「我并不怀念树海。我的家乡不是树海，而是整个神河；神河子民都是我的家人。不论我栖身何处，都像是回到了家。」
+
+485497
+Burlfist Oak
+瘤拳橡树
+If a tree fells you in the forest and no one is around to hear it, "does it make a sound" is the last thing you need to worry about.
+--------
+如果你在森林中被树木击倒，而周围又没人听到，你恐怕都没有时间去思考「树这么动到底会不会出声」这件事。
+
+485498
+Canopy Stalker
+树冠伏猫
+The forest's cover offers shade, shelter, and an increased risk of sudden death.
+--------
+茂密树林既提供了遮阳树荫、栖息处所，也让致命猎手有了可乘之机。
+
+485499
+Colossal Dreadmaw
+庞巨血口龙
+If you feel the ground quake, run. If you hear its bellow, flee. If you see its teeth, it's too late.
+--------
+如果你感到大地震颤，快跑。如果你听到吼声咆哮，快逃。如果你看到利齿现形，晚了。
+
+485500
+Cultivate
+栽培
+All seeds share a common bond, calling to each other across infinity.
+--------
+所有种子都互相连结成一体，永远地彼此呼唤着。
+
+485501
+Drowsing Tyrannodon
+昏睡暴伟龙
+What the rangers thought were warning growls turned out to be nothing but monstrous snoring.
+--------
+原本护林人当作是警告的低沉吼声，后来发现不过是怪兽的熟睡鼾音。
+
+485502
+Elder Gargaroth
+年长庞巨兽
+
+485503
+Feline Sovereign
+灵猫君王
+Dogs beg. Cats lay claim.
+--------
+犬类求人施舍。猫类主动占有。
+
+485504
+Fierce Empath
+好斗共感者
+
+485505
+Fungal Rebirth
+真菌再生
+"We're all food for something in the end."
+—Cevraya, Golgari shaman
+--------
+「我们终究会成为某些东西的养料。」
+～葛加理祭师习拉雅
+
+485506
+Garruk, Unleashed
+无拘贾路
+
+485507
+Garruk's Gorehorn
+贾路的贯角兽
+"It certainly takes after its master: big and brutish, and you can smell it from a mile away."
+—Liliana Vess
+--------
+「它确实跟其主子一样：身躯庞大，脾气暴躁，而且一哩开外就能闻到气味。」
+～莉莲娜维斯
+
+485508
+Garruk's Harbinger
+贾路的开路兽
+
+485509
+Garruk's Uprising
+贾路的反抗
+
+485510
+Gnarled Sage
+糙节智者
+
+485511
+Heroic Intervention
+英勇干预
+"Wherever the strong would harm the weak, I will be there."
+—Ajani Goldmane
+--------
+「任何有倚强凌弱的地方，我必现身。」
+～金鬃阿耶尼
+
+485512
+Hunter's Edge
+猎者显威
+The hunt ends. Lunch begins.
+--------
+狩猎结束，午餐开始。
+
+485513
+Invigorating Surge
+鼓舞翻腾
+For hydras, most problems can be solved with the addition of a few extra heads.
+--------
+对多头龙来说，大多数问题只要多加几个头就能解决。
+
+485514
+Jolrael, Mwonvuli Recluse
+木万弗黎隐士裘蕾尔
+"Humans bring nothing but suffering and deceit. They are not welcome in my forest."
+--------
+「人类带来的只有苦难与欺瞒，别无他物。我的树林不欢迎他们。」
+
+485515
+Life Goes On
+坚忍求存
+"If you believe the God-Pharaoh tests you, charge with me to prove yourself. If you believe he betrayed us all, join with me to fight for tomorrow!"
+—Samut, former Tah-crop initiate
+--------
+「如果你认为这是法老神的祀炼，就随我冲锋来证明自己。如果你认为法老神已背叛我们，就与我并肩为明天而战！」
+～原塔哈祀群祀徒撒姆特
+
+485516
+Llanowar Visionary
+罗堰幻视师
+The elves of Llanowar look to their past to determine the shape of their future.
+--------
+罗堰妖精追忆过往，形塑未来。
+
+485517
+Ornery Dilophosaur
+暴躁双冠龙
+
+485518
+Portcullis Vine
+闸门藤蔓
+Nature's way of saying "take the long way home."
+--------
+大自然版本的「长路归家」。
+
+485519
+Pridemalkin
+高傲斑猫
+
+485520
+Primal Might
+原初之力
+The shaman looked at the world through Ghalta's eyes and understood that everything else was his prey.
+--------
+祭师以戈厄塔之眼观察世界，发现其余一切不过都是它的猎物。
+
+485521
+Quirion Dryad
+奎利恩树灵
+"Never underestimate the ability of natural forces to adapt to unnatural influences."
+—Molimo, maro-sorcerer
+--------
+「别低估大自然对人为影响的适应能力。」
+～玛洛术士莫黎墨
+
+485522
+Ranger's Guile
+护林人的智谋
+"You don't survive in the wild by standing in plain sight."
+—Garruk Wildspeaker
+--------
+「如果丝毫不掩蔽行踪，你将无法在野地存活。」
+～召兽使贾路
+
+485523
+Return to Nature
+回返自然
+"Yes, nature is stronger. You don't see little buildings sprouting on trees."
+—Emmara
+--------
+「没错，自然更强大。你可看不到树上探出建物。」
+～艾玛拉
+
+485524
+Run Afoul
+仇人相见
+"What did you catch today, my pet? Ah, it looks like a bit of vampire stuck between your teeth."
+—Atla Palani, nest tender
+--------
+「你今天逮到了什么东西，我的宝贝？啊，看起来你的牙缝里塞了点吸血鬼。」
+～护巢人娥拉帕拉尼
+
+485525
+Sabertooth Mauler
+撕咬剑齿虎
+"I hope the idiot who introduced these creatures to the jungle was their first meal."
+—Opar, veteran guide
+--------
+「不管这些生物是被谁引到丛林里来的，我希望它们在这里的第一餐就把那些傻瓜都吃掉。」
+～资深向导欧帕尔
+
+485526
+Sanctum of Fruitful Harvest
+丰收圣殿
+Beneath bright blossoms
+Verdant with spring's rich bounty,
+The soul blooms in song.
+--------
+满园春色中，
+百花竞艳生机浓，
+魂灵齐声颂。
+
+485527
+Scavenging Ooze
+腐食流浆
+In nature, not a single bone or scrap of flesh goes to waste.
+--------
+在自然界中，没有半块骨头或半片肉会被浪费掉。
+
+485528
+Setessan Training
+瑟特萨式训练
+
+485529
+Skyway Sniper
+天路神射手
+"No sight is more beautiful than a clear sky."
+--------
+「没什么比晴空万里无一物的景色更美。」
+
+485530
+Snarespinner
+织陷蛛
+"Let's lure the drakes to the webs over the Samok Stand. Keep the spiders content."
+—Aurelia
+--------
+「我们去把龙兽都引到撒莫林的蛛网那里。让蜘蛛们饱餐一顿。」
+～欧瑞梨
+
+485531
+Sporeweb Weaver
+孢网编蛛
+It spins its web throughout the undercity, strange growths sprouting in its wake.
+--------
+其蛛网遍布地底城，所经之处滋生异物。
+
+485532
+Thrashing Brontodon
+痛击霆伟龙
+It cares more about preserving the herd's territory than about preserving itself.
+--------
+相较于自身安危，它更关心保护龙群领地不受侵犯。
+
+485533
+Titanic Growth
+巨力成长
+The massive dominate through might. The tiny survive with guile. Beware the tiny who become massive.
+--------
+大家伙靠力量统治。小家伙凭智慧生存。小心变成大家伙的小家伙。
+
+485534
+Track Down
+追查行踪
+Scents fade and footprints wash away, but some trails can never be erased.
+--------
+虽然气味会消散，足印会模糊，但有些踪迹永不会被抹灭。
+
+485535
+Trufflesnout
+掘菌野猪
+Its exploits are the stuff of legends among local chefs and fuel for nightmares among the forest thallids.
+--------
+它的功绩在当地厨师间传为佳话，但在林地散绿菌间却是噩耗。
+
+485536
+Warden of the Woods
+护林树妖
+Weak and strong alike seek shelter beneath its branches.
+--------
+强者和弱者都在其枝杈下寻求庇护。
+
+485537
+Wildwood Scourge
+野林祸害
+
+485538
+Alpine Houndmaster
+山地驯犬师
+
+485539
+Conclave Mentor
+盟会导师
+"I have faith in your potential."
+--------
+「我相信你的潜能。」
+
+485540
+Dire Fleet Warmonger
+焦炬舰队好战者
+
+485541
+Experimental Overload
+实验性过载
+Explosions aren't necessarily failures, just a different kind of success.
+--------
+爆炸不一定是失败，或许只是另一种成功。
+
+485542
+Indulging Patrician
+恣纵显贵
+"Just a nibble for now. I wouldn't want to ruin my appetite."
+--------
+「现在啜饮一口就好。我可不想坏了胃口。」
+
+485543
+Leafkin Avenger
+复仇叶身
+"My roots are ash, my heart a smoldering ember. What I could not protect, I will avenge."
+--------
+「我树根已化灰，心脏已成烬。我所不能卫护者，定将为其报仇。」
+
+485544
+Lorescale Coatl
+鳞文寇特蛇
+"The enlightenment I never found in etherium I have found traced in the coatl's scales."
+—Ranalus, vedalken heretic
+--------
+「我在乙金中从未找到的启示，却埋藏在寇特蛇的鳞片中。」
+～维多肯异教徒拉那洛
+
+485545
+Niambi, Esteemed Speaker
+尊贵议长妮安碧
+
+485546
+Obsessive Stitcher
+偏执拼接师
+No one is as dedicated to perfection as a stitcher working on their latest masterpiece.
+--------
+拼接师在打造最新杰作时对完美的执著，这世上无人能及。
+
+485547
+Radha, Heart of Keld
+凯尔顿之心拉妲
+
+485548
+Sanctum of All
+万物圣殿
+
+485549
+Twinblade Assassins
+合剑杀手
+Rumors swirl of a pair of deadly Golgari assassins known only as the Left and Right Hands of the Ochran.
+--------
+坊间流言谣传，葛加理新出现一对技艺高超的神秘刺客，人称「瓯坎的左臂右膀」。
+
+485550
+Watcher of the Spheres
+护球守卫
+
+485551
+Chromatic Orrery
+五彩星象仪
+Visitors marvel at its design, unaware of the other world that inspired it.
+--------
+访客惊异于其精妙设计，浑然不知其创作灵感乃是源自另一世界。
+
+485552
+Chrome Replicator
+铬亮摹形械
+Who would you trust to watch your back more than yourself?
+--------
+还有什么比让自己来警戒身后更让人放心的？
+
+485553
+Epitaph Golem
+墓碑魔像
+Many names and many memories bound together in grim purpose.
+--------
+许多人名与回忆因险恶目的有了紧密联系。
+
+485554
+Forgotten Sentinel
+遗世哨卫
+It was built to withstand the ages, but no one remembers who built it or why it keeps its eternal watch.
+--------
+它的设计初衷确实是要能够持久，但如今已没人记得它是由谁而造，又是因何守护。
+
+485555
+Mazemind Tome
+晦涩巨著
+
+485556
+Meteorite
+陨星
+"And if I'm lying," he began . . .
+--------
+「如果我说谎，」他抬起. . .
+
+485557
+Palladium Myr
+钯秘耳
+The myr are like the Glimmervoid: blank canvases on which to build grand creations.
+--------
+此秘耳一如烁光荒野：一片空白的画布，却将用来建构伟大的造物。
+
+485558
+Prismite
+虹彩魔像
+Even its shadow is a dazzling rainbow.
+--------
+它连影子都是绚丽霓虹。
+
+485559
+Short Sword
+短剑
+"Sometimes the only difference between a martyr and a hero is a sword."
+—Captain Sisay, Memoirs
+--------
+「有时候，殉道者与英雄的差别就在于一把剑。」
+～西赛船长，《回忆录》
+
+485560
+Silent Dart
+无声袖剑
+"These terms are acceptable to House Dimir. Shall we shake on it?"
+--------
+「底密尔会堂接受你们的条件。握个手？」
+
+485561
+Skyscanner
+巡天扑翼机
+The municipal senate makes extensive use of the thopters, mostly to gather dirt on rival senators.
+--------
+市议会广泛使用扑翼机，多数是为了搜集敌对议员的污点。
+
+485562
+Solemn Simulacrum
+黯色幻影
+
+485563
+Sparkhunter Masticore
+猎火花异狮
+
+485564
+Tormod's Crypt
+托玛墓穴
+Dominaria's most extravagant crypt nevertheless holds an empty grave.
+--------
+多明纳里亚最奢侈的墓穴也不过装着个空坟墓。
+
+485565
+Animal Sanctuary
+动物庇护地
+"No owners allowed."
+—Sanctuary sign
+--------
+「严禁主人进入。」
+～庇护地标识
+
+485566
+Bloodfell Caves
+染血洞窟
+
+485567
+Blossoming Sands
+繁花沙洲
+
+485568
+Dismal Backwater
+阴沉死水
+
+485569
+Fabled Passage
+神奇小径
+From here, the path to anywhere may be found.
+--------
+此处密径错杂，寻对道路便可通达八方。
+
+485570
+Jungle Hollow
+丛林幽谷
+
+485571
+Radiant Fountain
+华光喷泉
+"All peoples treasure a place where the weary traveler may drink in peace."
+—Ajani Goldmane
+--------
+「每个人都重视疲惫的旅人能安心喝水的地方。」
+～金鬃阿耶尼
+
+485572
+Rugged Highlands
+崎岖高地
+
+485573
+Scoured Barrens
+侵蚀荒漠
+
+485574
+Swiftwater Cliffs
+急流山崖
+
+485575
+Temple of Epiphany
+顿悟殿堂
+
+485576
+Temple of Malady
+疫病殿堂
+
+485577
+Temple of Mystery
+神秘殿堂
+
+485578
+Temple of Silence
+静寂殿堂
+
+485579
+Temple of Triumph
+胜利殿堂
+
+485580
+Thornwood Falls
+棘林瀑布
+
+485581
+Tranquil Cove
+静谧海湾
+
+485582
+Wind-Scarred Crag
+风蚀峭壁
+
+488461
+Plains
+平原
+
+488462
+Plains
+平原
+
+488463
+Plains
+平原
+
+488464
+Island
+海岛
+
+488465
+Island
+海岛
+
+488466
+Island
+海岛
+
+488467
+Swamp
+沼泽
+
+488468
+Swamp
+沼泽
+
+488469
+Swamp
+沼泽
+
+488470
+Mountain
+山脉
+
+488471
+Mountain
+山脉
+
+488472
+Mountain
+山脉
+
+488473
+Forest
+树林
+
+488474
+Forest
+树林
+
+488475
+Forest
+树林
+
+489663
+Rin and Seri, Inseparable
+林恩与瑟黎永不离
+
+488846
+Plains
+平原
+
+488847
+Island
+海岛
+
+488848
+Swamp
+沼泽
+
+488849
+Mountain
+山脉
+
+488850
+Forest
+树林
+
+488626
+Basri, Devoted Paladin
+虔圣武士巴席利
+
+488627
+Adherent of Hope
+希望吏士
+"Basri has shown me the way forward, and I will follow."
+--------
+「巴席利照亮前路，我必会循光而行。」
+
+488628
+Basri's Aegis
+巴席利的庇佑
+"As long as we survive, we can rebuild."
+—Basri Ket
+--------
+「只要我们幸存下来，就可以重建一切。」
+～巴席利柯特
+
+488629
+Sigiled Contender
+受印竞争者
+"All right. Warm-ups are over."
+--------
+「好。热身结束了。」
+
+488630
+Teferi, Timeless Voyager
+历时旅客泰菲力
+
+488631
+Historian of Zhalfir
+赛费尔史家
+"Come and listen. I'll tell you the story of a nation lost to time, and of the man who caused it."
+--------
+「都过来坐下听听。曾经有个国度，整个消逝在时间之中；曾经有位法师，将整个国度抽离时空～我这次就来讲讲这段故事。」
+
+488632
+Mystic Skyfish
+神秘飞鱼
+The problem wasn't that fish had learned how to fly. It was that sharks had adapted to follow them.
+--------
+问题不是鱼学会了飞，而是鲨鱼为了追赶上也随之进化。
+
+488633
+Teferi's Wavecaster
+泰菲力的唤浪师
+
+488634
+Liliana, Death Mage
+死亡法师莉莲娜
+
+488635
+Liliana's Scorn
+莉莲娜的轻蔑
+"We're done here."
+--------
+「我们完事了。」
+
+488636
+Liliana's Scrounger
+莉莲娜的搜刮师
+"This arm's got plenty of use left in it. Who'd throw such a nice thing away?"
+--------
+「这条手臂还有不少用处。把好好的东西扔掉岂不是太浪费？」
+
+488637
+Spirit of Malevolence
+恶灵
+Great evil weighs on the soul.
+--------
+巨量邪恶屈沉灵魂。
+
+488638
+Chandra, Flame's Catalyst
+兴焰热火茜卓
+
+488639
+Chandra's Firemaw
+茜卓的炎喉兽
+
+488640
+Keral Keep Disciples
+科瑞尔要塞学徒
+"You're not setting foot in here. Not on our watch!"
+--------
+「你不得踏足此处。我们会看着！」
+
+488641
+Storm Caller
+轰雷唤师
+He became elder shaman when his predecessor was mysteriously struck by lightning on a cloudless day.
+--------
+前任者在无云的日子神秘地遭遇雷击后，他成为了长老祭师。
+
+488642
+Garruk, Savage Herald
+蛮力具现贾路
+
+488643
+Garruk's Warsteed
+贾路的战骑
+
+488644
+Predatory Wurm
+掠食亚龙
+"The strong eat. The weak are eaten. That's the way of things."
+—Garruk Wildspeaker
+--------
+「物竞天择、弱肉强食。这是永恒的定律。」
+～召兽使贾路
+
+488645
+Wildwood Patrol
+野林巡卫
+If you're lucky, the centaurs will give a single warning to leave their territory before driving a spear into you. If you're unlucky, the spear is the warning.
+--------
+如果你幸运的话，半人马将发出警告，要你速离其领地否则长矛伺候。如果你不幸的话，长矛就是那则警告。
+
+========

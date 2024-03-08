@@ -1,0 +1,500 @@
+517551
+Approach of the Second Sun
+神日迫临
+
+517552
+Day of Judgment
+审判末日
+"This must not become common knowledge. The consequences of such a spell are too great. Lock it away in the restricted archive, and destroy its record in the catalog."
+—Director Taiva, to Isabough
+--------
+「这绝不能成为公共知识。此类咒语后果难以收拾。务必将其锁入受限文库，并销毁目录中的记载。」
+～泰瓦馆长叮嘱伊瑟伯
+
+517553
+Defiant Strike
+无畏挥击
+"For twelve days and twelve nights, Somat assailed the monster's shell. On the thirteenth morning, it cracked with the dawn."
+—Heroics: A Book of Fables
+--------
+「索马特不断敲击怪物甲壳，十二昼十二夜间从未中断。到了第十三天清晨，甲壳终于裂出曙光。」
+～《勇行故事：寓言合辑》
+
+517554
+Divine Gambit
+神圣计策
+"Evil is to be unshackled, not slain. Unlock your foe and release the miracle within."
+—Keevan, docent of Kollema Hall
+--------
+「邪恶需要释放，而非消灭。解开封印敌人的枷锁，展现其中的惊人奇迹。」
+～科玛学堂讲师基万
+
+517555
+Ephemerate
+流光烁影
+
+517556
+Gift of Estates
+献地
+"We asked for a home and received the world."
+—Scroll of Nine Blessings
+--------
+「我们祈求一处家园，却得到了整个世界。」
+～《九福卷轴》
+
+517557
+Gods Willing
+众神意旨
+
+517558
+Mana Tithe
+魔力什一税
+"The tyrant's bellow of rage trailed off into a whimper as the last of his fortune escaped his grasp."
+—The Dethroner's Grimoire
+--------
+「眼见最后一丝财富逐渐抽离手中，暴君的愤怒狂啸也慢慢变成低声啜泣。」
+～《逆臣秘录》
+
+517559
+Revitalize
+再现活力
+"Knight Kathryn closed her eyes, bracing herself for the end. When she opened them again, she stood triumphant over her foe."
+—Thadus the Healer, Memoirs
+--------
+「骑士凯萨琳闭紧双眼，准备好迎接生命最终时刻。但当她再次睁开时，却发现是她对手倒在脚下。」
+～治疗师萨都丝，《回忆录》
+
+517560
+Swords to Plowshares
+化剑为犁
+"The blademaster turned his fury to his new foes: root rot and cabbage slugs."
+—Myths and Miracles, Vol. VII
+--------
+「大剑师转而将怒火发泄在新的敌人身上：腐根和菜虫。」
+～《神话与奇迹》，卷七
+
+517561
+Teferi's Protection
+泰菲力的庇护
+
+517562
+Blue Sun's Zenith
+蓝阳当空
+"Five suns! Can you even imagine how complicated the orbital calculations must be? What I wouldn't give to tackle an equation like that!"
+—Zimone, Quandrix mage-student
+--------
+「五个太阳！你能想象这样轨道计算会有多复杂吗？真希望我能去处理这样的算式！」
+～量析修习法师琦梦
+
+517563
+Brainstorm
+脑力激荡
+Infinite ideas flow through the Multiverse, waiting for an open mind."
+—The Biblioplex: An Introduction
+--------
+「无数思绪在多重宇宙中流动，只待开明思想前去发现。」
+～《茂典阁志：前言》
+
+517564
+Compulsive Research
+强制探寻
+"Every Planeswalker remembers the first time their mind touched the staggering vastness of the Multiverse."
+—Kasmina
+--------
+「当思绪首度触碰广袤多重宇宙时感到的震撼，相信每位鹏洛客都不会忘记。」
+～克蜜娜
+
+517565
+Counterspell
+反击咒语
+"One need not know the specific details of a spell to suppress its effect. Simply rearrange the rules of the reality within which the spell operates."
+—Imbraham, Quandrix dean
+--------
+「至于压制咒语效果的具体细节也不用去了解。只需重新整理咒语作用实界内的规则就可实现。」
+～量析院长英巴罕
+
+517566
+Memory Lapse
+记忆丧失
+"Where do our forgotten thoughts go? I knew once, but I can't remember."
+—Director Taiva, journal entry
+--------
+「那些遗忘的思绪都去到了哪里？我曾探见其踪迹，但也无从记起。」
+～泰瓦馆长，日志一笔
+
+517567
+Mind's Desire
+心之所欲
+
+517568
+Negate
+失效
+"Shatter your opponent's spell with enough force, and you'll shatter their confidence with it."
+—Tome of Obstructions, marginalia
+--------
+「用足够的力量粉碎对手的咒语，还能一并粉碎对手的信心。」
+～《障法巨著》，旁批
+
+517569
+Opt
+抉择
+"The wish most often granted is the wish to choose one's own destiny."
+—Aethershrine, inscription
+--------
+「最常被保佑的愿望，都是希冀能选择自身命运者。」
+～《乙太祭祠》，铭文
+
+517570
+Strategic Planning
+战略计划
+"I can offer only information, young one. What path you choose is up to you."
+—Jadzi, Oracle of Arcavios
+--------
+「年轻人，我只能提供信息。至于要走哪条路得你自己选。」
+～阿凯维沃圣法谕贾琦
+
+517571
+Tezzeret's Gambit
+泰兹瑞的计策
+
+517572
+Time Warp
+时间弯曲
+"Chronomancers have a rather different definition of living in the moment."
+—The Millennium Tome
+--------
+「不同时间术士对于『活在当下』的定义各不相同。」
+～《千年巨著》
+
+517573
+Whirlwind Denial
+疾风拒斥
+"If they try to storm your palace, you must become the storm."
+—Handbook of Imperial Spellcraft
+--------
+「如果他们想要如风暴般强袭你的宫殿，那你就必须化身风暴。」
+～《皇家咒艺手册》
+
+517574
+Agonizing Remorse
+苦痛悔恨
+"Guilt is not absolution. Regret is not justice. But it is right that you suffer."
+—Extus Narr
+--------
+「内疚不是解脱。后悔也非正义。但你理应受苦。」
+～埃陀斯纳尔
+
+517575
+Crux of Fate
+命途交错
+"One brother fought for the sake of the Multiverse. The other for himself."
+—The Elderspell Parable
+--------
+「兄弟争斗：一位心系多重宇宙，另一位只为自身称雄。」
+～《至尊咒寓言》
+
+517576
+Dark Ritual
+黑暗祭礼
+"They distrust my methods, but when they want results, whom do you think they seek?"
+—Incantations of Lim-Dûl
+--------
+「他们不相信我的方法，但当他们想要结果时，你猜又会去找谁？」
+～《林杜咒文集》
+
+517577
+Demonic Tutor
+邪魔导师
+"Demons prefer to deal with those who believe themselves too wise to be fooled."
+—Scroll case inscription
+--------
+「自以为绝顶聪明不会受骗者，正是恶魔青睐的交易对手。」
+～卷轴盒铭文
+
+517578
+Doom Blade
+送终刀锋
+"An angel can shine like the sun, inspire the weak, and even threaten victory over darkness. But in the end it matters not, for it still dies like any other pest."
+—Ob Nixilis
+--------
+「天使能如阳光耀世，能鼓舞弱者，甚至可能战胜黑暗。但最终这一切都不重要，因为他们也会像害虫般死去。」
+～欧尼希兹
+
+517579
+Duress
+逼从
+"Magic brought peace to the Vastlands but was soon corrupted."
+—The Mystic Age: A Saga of Spells
+--------
+「魔法曾给过旷土和平，但很快就被腐化。」
+～《神秘时代：咒法传》
+
+517580
+Eliminate
+涤除
+"It takes so little energy to erase a person. It's almost like the universe doesn't care that they existed at all."
+—Extus Narr
+--------
+「彻底抹除一个人根本不费什么工夫。看似宇宙根本不在乎他们是否存在。」
+～埃陀斯纳尔
+
+517581
+Inquisition of Kozilek
+寇基雷的审讯
+"To dwell within the Blind Eternities is unthinkable. To encounter those who do could shatter the mind."
+—Chronicle of the Titans
+--------
+「深居黑暗虚空，此事根本无法想象：面会其间生灵，思绪便遭粉碎。」
+～《巨物编年史》
+
+517582
+Sign in Blood
+以血立契
+"It's always my brightest students who make the worst decisions."
+—Shaile, Silverquill dean
+--------
+「作出最糟糕决定的，总是我那帮最聪明的学生。」
+～银毫院长莎依儿
+
+517583
+Tainted Pact
+腐败协定
+
+517584
+Tendrils of Agony
+苦痛卷须
+
+517585
+Village Rites
+村民仪式
+"My colleagues revile the barbarity of the Blood Age, but I believe we have much to learn from the magics of endless war."
+—Embrose, Silverquill dean
+--------
+「虽然同僚都厌恶去研究血腥时代的野蛮暴行，但我相信那段无尽战乱时期的魔法有很多值得我们学习。」
+～银毫院长安博斯
+
+517586
+Chaos Warp
+混沌歪曲
+"Be careful when handling old magical trinkets. You never know who they've been."
+—Augusta, Lorehold dean
+--------
+「处理古老魔法物品时请务必当心。你不会知道它们曾经是什么。」
+～衡鉴院长欧歌塔
+
+517587
+Claim the Firstborn
+索求初婴
+"Will! They have a copy of Tales of the Fae here! Want me to read you a bedtime story?"
+—Rowan Kenrith
+--------
+「威尔！他们这有本《仙儿传说》！要我给你读段睡前故事吗？」
+～萝婉肯理斯
+
+517588
+Faithless Looting
+丧信掠夺
+"How did you get your hands on that? Wait, never mind. I don't want to know."
+—Plargg, Lorehold dean
+--------
+「你是怎么拿到那东西的？算了，没事。我也不想知道。」
+～衡鉴院长帕葛
+
+517589
+Grapeshot
+霰散弹
+
+517590
+Increasing Vengeance
+报复渐增
+
+517591
+Infuriate
+触怒
+"Some mages duel using intricate spellcraft and superior tactics. Others just get really, really mad."
+—Secrets of the Feradorn Sorcerers
+--------
+「有些法师是靠繁复咒语或超凡战术来赢得决斗。还有些就只是靠变得非常、非常狂暴。」
+～《法拉东术士秘辛》
+
+517592
+Lightning Bolt
+闪电击
+"The first mages witnessed the fury of the raging storm and wished to answer back."
+—The Stormwright Texts
+--------
+「原初法师曾亲眼见证翻腾风暴的怒火，并希冀能够对等回应。」
+～《造风师手记》
+
+517593
+Mizzix's Mastery
+米捷兹的精研
+
+517594
+Shock
+电震
+"To this day, I have no idea if the heavens were obeying him or attacking him."
+—Ral Zarek, research notes
+--------
+「时至今日，我都还没弄清楚上天是在顺他的心，还是逆他的意。」
+～拉尔查雷克，研究纪录
+
+517595
+Stone Rain
+石雨
+"Thus, Bruk the Skyhammer earned his epithet and won the war, all in one fiery moment."
+—Compendium of Warspells
+--------
+「最后，布鲁克就凭着这火热一击，一举将天降巨锤的名号和最终胜利都收入囊中。」
+～《战争咒纲要》
+
+517596
+Thrill of Possibility
+快意拼搏
+"If the prospect of what could be doesn't electrify you to your core, why attend Strixhaven at all?"
+—Nassari, Prismari dean
+--------
+「如果未来前景都无法从心底打动你，那又何必要来斯翠海文？」
+～粹丽院长纳撒理
+
+517597
+Urza's Rage
+克撒之怒
+
+517598
+Abundant Harvest
+丰足收成
+
+517599
+Adventurous Impulse
+冒险冲动
+"Her quest began as all quests do, with one small step in an unexpected direction."
+—The Explorer's Testament
+--------
+「她的探索起初与其他人作法无异，都是朝着未曾想到的方向迈出了一小步。」
+～《探索箴言》
+
+517600
+Channel
+魔力通道
+"As long as you are breathing, you always have something more to give."
+—Valentin, Witherbloom dean
+--------
+「只要你还有气在，就总能贡献更多。」
+～靡华院长瓦伦丁
+
+517601
+Cultivate
+栽培
+"You'd be amazed how much a single plant has to teach you."
+—Lisette, Witherbloom dean
+--------
+「你要是知道一株植物能教导你多少东西，必定会大吃一惊。」
+～靡华院长莉塞特
+
+517602
+Harmonize
+和谐
+"The bloody din of invasion faded
+And silent song rang through the woods again."
+—"Song of Freyalise"
+--------
+「血腥侵略喧嚣退去，
+静寂歌声传扬林间。」
+～「妃雅丽兹颂歌」
+
+517603
+Krosan Grip
+克洛萨之攫
+"On a world where time was torn asunder, destruction ruled the minds of all."
+—Multiversal Metahistories
+--------
+「在时间支离破碎的世界上，破坏才是所有人的共识。」
+～《多重宇宙元史学》
+
+517604
+Natural Order
+自然秩序
+"Nature is neither cruel nor kind. It operates on necessity, not sentiment."
+—-Dina, Witherbloom mage-student
+--------
+「自然既不残忍也不仁慈。它行事遵循需求，而非情感。」
+～靡华修习法师迪娜
+
+517605
+Primal Command
+原初指命
+
+517606
+Regrowth
+再生新芽
+"Centuries of war had broken Arcavios, but a single seed began the long process of renewal."
+—The Mystic Age: A Saga of Spells
+--------
+「数百年连绵战事令阿凯维沃饱受创伤，但随着一颗种子落地，漫长复兴过程就此展开。」
+～《神秘时代：咒法传》
+
+517607
+Snakeskin Veil
+蛇皮帘幕
+"Never reject the kindness of a serpent. It will not be offered twice."
+—Druidic manuscript fragment
+--------
+「不要拒绝巨蛇心意。它不会来第二次。」
+～德鲁伊手稿残篇
+
+517608
+Weather the Storm
+挺过风暴
+"Neither blade nor tempest can assail the serenity of a tranquil mind."
+—The Turrau Carvings
+--------
+「刀剑狂风都无法扰动平静心灵。」
+～《图拉乌石刻》
+
+517609
+Despark
+灭除火花
+"A tale of a tyrant being humiliated and losing all his power? I'm inspired already!"
+—Killian, Silverquill mage-student
+--------
+「暴君惨遭羞辱，力量尽失的故事？我有灵感了！」
+～银毫修习法师齐力安
+
+517610
+Electrolyze
+电解
+"The hydraulic power grip was a failure, but the gauntlets were a shocking success."
+—Journal of the Prime Izmagnus
+--------
+「虽然液压强力握把并不出色，但护手仍算巨大成功。」
+～伊捷首法师的日记
+
+517611
+Growth Spiral
+成长涡旋
+"I've gleaned greater insight from the spiraling of a single fern than I have from all the books I've ever read."
+—Kianne, Quandrix dean
+--------
+「我从这株小小蕨类螺旋屈伸中得到的启悟，比我读过的所有书都要深刻。」
+～量析院长齐安妮
+
+517612
+Lightning Helix
+闪电螺旋
+"Mages in the Blood Age would call down actual thunderstorms on their enemies. I bet we can replicate their technique."
+—Dradiel, Lorehold mage-student
+--------
+「血腥时代的法师能够召唤真正的雷暴来攻击敌人。我相信我们也能做到。」
+～衡鉴修习法师卓迪尔
+
+517613
+Putrefy
+腐烂
+"From monarch to mulch as quick as could be."
+—The Dethroner's Grimoire
+--------
+「最快速度化君王为粪土。」
+～《逆臣秘录》
+
+========

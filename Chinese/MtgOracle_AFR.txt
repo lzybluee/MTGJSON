@@ -1,0 +1,1635 @@
+527289
+Arborea Pegasus
+奥林界飞马
+The noble steeds of the elven gods can sometimes be persuaded to allow mere mortals on their backs.
+--------
+有时你甚至能说服精灵诸神的尊贵坐骑，让它们允许一介凡人骑上背端。
+
+527290
+Blink Dog
+闪现犬
+Blink dogs protect the wild places of the world, driving away evil influences.
+--------
+闪现犬保护这个世界的荒野地带，驱离邪恶影响。
+
+527291
+The Book of Exalted Deeds
+圣洁之书
+
+527292
+Celestial Unicorn
+天界独角兽
+When all hope fails, its light remains.
+--------
+纵使希望全部消逝，独角兽光芒仍存。
+
+527293
+Cleric Class
+职业：牧师
+
+527294
+Cloister Gargoyle
+回廊石像鬼
+
+527295
+Dancing Sword
+舞空剑
+
+527296
+Dawnbringer Cleric
+神辉牧师
+
+527297
+Delver's Torch
+探索者的火炬
+"Not all of us have darkvision, okay?"
+--------
+「不是人人都有黑暗视觉，行了吧？」
+
+527298
+Devoted Paladin
+虔诚圣武士
+"I swore a sacred oath to protect the weak and punish those who threaten them. As long as I draw breath, I will protect you."
+--------
+「我曾立下神圣誓言，立志扶弱惩奸。只要我还活着，就会保你平安。」
+
+527299
+Divine Smite
+至圣斩
+"When darkness closes in around us, my blade will light our path."
+--------
+「当黑暗迫近时，手中宝剑便会照亮前路。」
+
+527300
+Dragon's Disciple
+传龙武徒
+
+527301
+Dwarfhold Champion
+矮人要塞斗士
+Courage is neither a shield nor an axe, but the will to wield both in defense of the innocent.
+--------
+勇气既非盾牌也非利斧，而是敢于在战斗中挥舞两者保护民众的坚定意志。
+
+527302
+Flumph
+呋噜怪
+Flumphs siphon thoughts and energy from evil aberrations, and are often eager to share the dark knowledge they obtain with friendly adventurers.
+--------
+呋噜怪会从邪恶异怪处吸收思想与能量，之后便迫不及待地想要跟友善的冒险者分享它们新获得的黑暗知识。
+
+527303
+Gloom Stalker
+幽光伏击客
+"I'll make sure you never mistake a roper for a stalagmite again."
+--------
+「我会确保你不再把树绳妖误认作石笋。」
+
+527304
+Grand Master of Flowers
+百花宗师
+
+527305
+Guardian of Faith
+信实守卫
+
+527306
+Half-Elf Monk
+半精灵武僧
+"This fight was over the moment you picked up that clumsy cleaver of a sword."
+--------
+「当你决定拿起那把笨拙砍刀时，胜负已分。」
+
+527307
+Icingdeath, Frost Tyrant
+霜冻暴君冰亡
+
+527308
+Ingenious Smith
+妙手铁匠
+
+527309
+Keen-Eared Sentry
+聪耳哨兵
+"You're not the first to underestimate me."
+--------
+「你不是第一个低估我的。」
+
+527310
+Loyal Warhound
+忠诚战犬
+A paladin's steed is a celestial spirit in animal form.
+--------
+圣武士的坐骑可谓动物化身的天界之灵。
+
+527311
+Minimus Containment
+微缩牢笼
+
+527312
+Monk of the Open Hand
+散打武僧
+His mind is a tranquil meadow, his fists a raging storm.
+--------
+他内心静如安宁牧地，拳头疾若雷霆暴风。
+
+527313
+Moon-Blessed Cleric
+月神祝佑的牧师
+Selûne guides her devotees with majestic wisdom and grace.
+--------
+塞伦涅利用其庄严智识与美善来指引信众。
+
+527314
+Nadaar, Selfless Paladin
+无私圣武士那达尔
+
+527315
+Oswald Fiddlebender
+奥斯华费多班德
+"Can't see this airship crashing in the near future. Sturdy as a rock."
+--------
+「这艘飞船短期之内不可能坠毁。它硬得跟石头一样。」
+
+527316
+Paladin Class
+职业：圣武士
+
+527317
+Paladin's Shield
+圣武士之盾
+
+527318
+Planar Ally
+异界誓盟使
+Her light touches every corner and her wings brush either wall, leaving no place for evil to lurk.
+--------
+她的光辉遍及每个角落，双翼横展整个房间，令邪恶毫无藏身之地。
+
+527319
+Plate Armor
+铠甲
+
+527320
+Portable Hole
+携带式次元洞
+"They fall for it every time."
+--------
+「这个每次都能奏效。」
+
+527321
+Potion of Healing
+医疗药水
+Magic can knit the body back together, but the courage to fight on comes only from within.
+--------
+虽然受伤躯体能借魔法外力愈合，但战斗勇气只能由内心催动。
+
+527322
+Priest of Ancient Lore
+古训牧师
+"We are a product of our ancestors, the apotheosis of countless noble generations. Speak their names with reverence, and they will guide your path."
+--------
+「先祖在上，经历千百代繁衍，吾等有幸成其后辈。虔敬道出祖灵尊名，他们便会指引前路。」
+
+527323
+Rally Maneuver
+鼓舞战技
+"Don't give up! You are steel and fire, and victory is yours to seize."
+--------
+「别气馁！你们坚若钢铁，锐似烈焰，继续奋战则胜利可期。」
+
+527324
+Ranger's Hawk
+游侠之鹰
+Swift eyes to scout the way ahead.
+--------
+侦察前路的锐利双目。
+
+527325
+Steadfast Paladin
+坚定的圣武士
+"When I made my oath to Moradin, I left selfishness and cowardice behind. Every battle, I make that commitment anew."
+--------
+「当我向摩拉丁起誓时，就早已将自私与怯懦抛诸脑后。每次战斗，都让我能重温誓言。」
+
+527326
+Teleportation Circle
+传送法阵
+"Hold on to your lunch!"
+—Bartleby, gnome wizard
+--------
+「拿稳你的午餐！」
+～地侏法师巴托比
+
+527327
+Veteran Dungeoneer
+老练地城专家
+Her tales of glory light a fire in the souls of the next generation of adventurers.
+--------
+她的光辉事迹，点燃了后辈冒险者心中的激情。
+
+527328
+White Dragon
+白龙
+White dragons are unparalleled hunters, keenly focused on slaughtering their enemies.
+--------
+白龙是无匹猎手，专注于如何杀死猎物。
+
+527329
+You Hear Something on Watch
+你放哨时听到声响
+
+527330
+You're Ambushed on the Road
+你在路上遭遇伏击
+"Hand over your loot and no one gets hurt!"
+--------
+「把宝藏留下，可保人人平安！」
+
+527331
+Aberrant Mind Sorcerer
+奇异心境术士
+
+527332
+Air-Cult Elemental
+风邪教元素
+Elemental Evil distorts the natural elements, limiting them to aspects of destruction.
+--------
+邪恶元素将自然元素尽数扭曲，令其只余破坏之途。
+
+527333
+Arcane Investigator
+秘法调查专家
+
+527334
+Bar the Gate
+封堵异界门
+"This path is closed to you!"
+--------
+「此路不通！」
+
+527335
+The Blackstaff of Waterdeep
+深水城黑杖
+
+527336
+Blue Dragon
+蓝龙
+
+527337
+Charmed Sleep
+受魅安眠
+
+527338
+Clever Conjurer
+机敏咒法师
+"I'm always happy to lend a hand!"
+--------
+「我一向很乐意出手帮忙！」
+
+527339
+Contact Other Plane
+异界探知
+
+527340
+Demilich
+半巫妖
+
+527341
+Displacer Beast
+移位兽
+The only place you can be sure it's not is wherever it appears to be.
+--------
+你唯一能确定的，是它不在你看到它的地方。
+
+527342
+Djinni Windseer
+风巨灵预言师
+
+527343
+Dragon Turtle
+龙龟
+
+527344
+Eccentric Apprentice
+古怪学徒
+
+527345
+Feywild Trickster
+妖精荒野诈术师
+Unlike most warlocks, those who make pacts with archfey are drawn to pranks and whimsy moreso than death and darkness.
+--------
+跟大多数热衷死亡与黑暗的邪术师不同，与至高妖精订立契约者更容易被恶戏和奇想所吸引。
+
+527346
+Fly
+飞行术
+
+527347
+Grazilaxx, Illithid Scholar
+灵吸怪学者葛拉吉拉克斯
+"You studied hard. How delicious!"
+--------
+「你努力过了。真好吃！」
+
+527348
+Guild Thief
+公会小偷
+She puts some coin in the Guild's pocket and sends a message at the same time.
+--------
+她往公会钱袋中放入金币，同时也送出一则讯息。
+
+527349
+Iymrith, Desert Doom
+沙漠厄运艾穆莉丝
+
+527350
+Mind Flayer
+夺心魔
+"Shed your thoughts and let my will flow through you."
+--------
+「抛弃旧念，让我的意志贯彻全身。」
+
+527351
+Mordenkainen
+魔邓肯
+
+527352
+Mordenkainen's Polymorph
+魔邓肯变形术
+"Your purpose may change along with your shape, but you will serve regardless."
+--------
+「你的用途可能会随着你的形态而变，但你仍将效忠于我。」
+
+527353
+Pixie Guide
+皮克精向导
+Pixies are well known as pranksters, but some delight in more helpful magic.
+--------
+皮克精出了名地喜欢戏弄他人，但有些也以施展帮助性的魔法为乐。
+
+527354
+Power of Persuasion
+劝诱技巧
+
+527355
+Ray of Frost
+冷冻射线
+
+527356
+Rimeshield Frost Giant
+冰盾霜巨人
+Frost giants carry the trophies of their greatest victories into battle, fashioned into armor of strength and savage beauty.
+--------
+霜巨人会将他们最伟大胜利的奖赏制成展现力量与野性之美的护甲，并穿戴它们冲上战场。
+
+527357
+Scion of Stygia
+悲憎地狱后裔
+
+527358
+Secret Door
+密门
+The way opened before him, and the dust of centuries stirred in the air.
+--------
+道路在面前洞开，数百年的灰尘在空中飘舞。
+
+527359
+Shocking Grasp
+电爪
+"Metal armor? A poor choice."
+--------
+「金属盔甲？算你倒霉。」
+
+527360
+Shortcut Seeker
+捷径探寻者
+"Ah, the old ‘trap door under a rug' trick. This is almost too easy."
+--------
+「啊，『地毯下活板门』的老把戏。这个太简单了。」
+
+527361
+Silver Raven
+白银渡鸦
+Wings take flight on whispered wind.
+--------
+在萧瑟寒风中展翅飞翔。
+
+527362
+Soulknife Spy
+魂刃者探子
+"My psychic blade cuts the mind and severs thoughts. Even if you survive, you'll never remember I was here."
+--------
+「我的心灵利刃能切割意识，斩断思想。就算你侥幸存活，你也不会记得我曾来过。」
+
+527363
+Split the Party
+分团行动
+Don't.
+--------
+别。
+
+527364
+Sudden Insight
+豁然领悟
+A lucky draw from the Deck of Many Things gave Voltusk an inexplicable flash of understanding that he spent the rest of his life trying to repeat.
+--------
+万象无常牌的幸运一抽，让沃图克眼前闪过难以解释的一幕：他将耗尽余生想要重现这一情景。
+
+527365
+Tasha's Hideous Laughter
+塔莎狂笑术
+The raging behir reared back, opened its terrible maw . . . and collapsed in a fit of horrifying giggles.
+--------
+愤怒的青足龙蛇向后一跃，张开了血盆巨口…随即因自己的骇人狂笑而无力他顾。
+
+527366
+Trickster's Talisman
+诈术师神符
+"Lady Luck, smile on me!"
+--------
+「幸运女神，请对我微笑！」
+
+527367
+True Polymorph
+完全变形术
+Maybe a little too convincing.
+--------
+也许太逼真了。
+
+527368
+Wizard Class
+职业：法师
+
+527369
+Wizard's Spellbook
+法师法术书
+
+527370
+You Come to a River
+你来到一条河边
+
+527371
+You Find the Villains' Lair
+你发现恶人巢穴
+"Give me just a moment! I almost have it."
+--------
+「再给我一点时间！就要看懂了。」
+
+527372
+You See a Guard Approach
+你看到卫士走来
+"Looks like we've got company."
+--------
+「看来我们有伴了。」
+
+527373
+Yuan-Ti Malison
+蛇人恶咒师
+Silent. Slithering. Sinister.
+--------
+安静。滑溜。阴险。
+
+527374
+Acererak the Archlich
+高阶巫妖阿瑟瑞拉克
+
+527375
+Asmodeus the Archfiend
+魔王阿斯摩蒂尔斯
+
+527376
+Baleful Beholder
+恶邪眼魔
+
+527377
+Black Dragon
+黑龙
+Black dragons revel in the collapse of humanoid kingdoms.
+--------
+黑龙乐于摧毁人类王国。
+
+527378
+The Book of Vile Darkness
+秽暗之书
+
+527379
+Check for Traps
+检查陷阱
+"Relax. I'm a professional."
+--------
+「别紧张。我是专业的。」
+
+527380
+Clattering Skeletons
+碎响骷髅妖
+Those who die in the dungeon become its guardians.
+--------
+在地城中丧命者，会转而变成其守护者。
+
+527381
+Deadly Dispute
+致命争执
+"That's a pretty ring! Trade you my knife for it."
+--------
+「这枚戒指真漂亮！我用我的小刀和你换。」
+
+527382
+Death-Priest of Myrkul
+米尔寇的死亡牧师
+"The Reaper bids you rise!"
+--------
+「死神命你起身！」
+
+527383
+Demogorgon's Clutches
+狄魔高根之攫
+The good will be corrupted, the kind will be devoured, and all will be dragged into the bottomless Abyss.
+--------
+善良者会被腐化，宽容者会被吞噬，一切都会被拖入无尽深渊当中。
+
+527384
+Devour Intellect
+吞噬智力
+"I'll know what you know soon enough."
+—Nihiloor, Xanathar Guild spymaster
+--------
+「你知道的，很快就会变成我知道的。」
+～札那瑟公会间谍大师奈席洛
+
+527385
+Drider
+蛛化精灵
+Though their forms embody Lolth's image, driders are those unfortunate drow who have failed the Spider Queen.
+--------
+虽然蛛化精灵外形神似罗丝，但他们其实是令蜘蛛女王蒙羞的不幸卓尔。
+
+527386
+Dungeon Crawler
+地城匍尸
+"I think of it as giving them another chance to achieve their potential."
+—Nestus Wrasse, necromancer
+--------
+「我把这看作再给他们一次发挥潜能的机会。」
+～死灵术士奈特斯瑞瑟
+
+527387
+Ebondeath, Dracolich
+龙巫妖黑檀死神
+
+527388
+Eyes of the Beholder
+魔眼杀机
+In the end, there was nothing beautiful to be seen.
+--------
+最后剩下的东西可不美丽。
+
+527389
+Fates' Reversal
+命运逆转
+A doom denied—or, perhaps, delayed.
+--------
+逃过一劫～或许只是暂时躲过。
+
+527390
+Feign Death
+假死术
+A drastic measure for dangerous times.
+--------
+危险时刻的极端手段。
+
+527391
+Forsworn Paladin
+弃誓圣武士
+
+527392
+Gelatinous Cube
+凝胶怪
+
+527393
+Grim Bounty
+残酷报赏
+Freed from the need to pay tribute to the dragon, the villagers gladly paid the dragon-slayers instead.
+--------
+当村民得知不再需要向巨龙进贡后，他们兴高采烈地改为将钱财支付予屠龙勇士。
+
+527394
+Grim Wanderer
+残酷漫游者
+There is a stillness that walks with him, the quiet that follows great tragedy, when even the mourners are too exhausted to weep.
+--------
+他的出现令周围陷入沉寂，这是惨痛悲剧带来的沉痛窒息，就连哀悼者都已因过度伤悲而无力哭泣。
+
+527395
+Herald of Hadar
+哈达传令使
+
+527396
+Hired Hexblade
+受雇咒剑士
+"I'll take care of it. You just be sure to hold up your end of the deal."
+--------
+「我会处理好这件事。你只管准备好你要付的那部分。」
+
+527397
+Hoard Robber
+集宝抢匪
+"And to think, a year ago I was picking pockets in Waterdeep."
+--------
+「仔细想来，一年前我还只是在深水城当扒手的小混混。」
+
+527398
+Lightfoot Rogue
+轻足族盗贼
+
+527399
+Lolth, Spider Queen
+蜘蛛神后罗丝
+
+527400
+Manticore
+刺尾狮
+
+527401
+Power Word Kill
+律令死亡
+Aramil issued a long, heroic challenge, then the lich felled him with a single word.
+--------
+阿拉米尔历经艰险，终于向巫妖发出英勇挑战，但后者只消一言就将其终结。
+
+527402
+Precipitous Drop
+跌落深坑
+
+527403
+Ray of Enfeeblement
+衰弱射线
+Erigan cried out in pain as a hideous weakness settled into his bones.
+--------
+随着骇人虚弱深入骨髓，艾瑞甘因而痛苦大叫。
+
+527404
+Reaper's Talisman
+死神神符
+
+527405
+Sepulcher Ghoul
+葬尸地食尸鬼
+Ghouls devour the dead and any living creatures unwary enough to fall into their grasp.
+--------
+食尸鬼除了死者之外，也会吞噬不慎落入其手中的活物。
+
+527406
+Shambling Ghast
+跛行妖鬼
+
+527407
+Skullport Merchant
+头骨港商人
+"Buy something or get out."
+--------
+「不买东西就给我滚。」
+
+527408
+Sphere of Annihilation
+毁灭黑洞
+
+527409
+Thieves' Tools
+小偷工具
+
+527410
+Vampire Spawn
+吸血衍体
+Unsuccessful vampire hunters often wind up as ravenous spawn.
+--------
+吸血鬼猎人一旦失手，经常会沦落成嗜血衍体。
+
+527411
+Vorpal Sword
+斩首剑
+
+527412
+Warlock Class
+职业：邪术师
+
+527413
+Westgate Regent
+西门城摄政
+
+527414
+Wight
+尸妖
+Wights want the world to resound with echoes of their own cruel hatred.
+--------
+尸妖想令其残忍仇恨之反响回荡整个世界。
+
+527415
+Yuan-Ti Fang-Blade
+蛇人毒刃手
+"The air is sweet with the taste of your fear."
+--------
+「空气因你的恐惧变得更甜美。」
+
+527416
+Zombie Ogre
+灵俑食人魔
+"On the plus side, Throg no longer thinks he's clever."
+—Xanathar
+--------
+「好的方面是，斯若革不再觉得自己很聪明了。」
+～札那瑟
+
+527417
+Armory Veteran
+军械老兵
+"This one is for goblins, this one is for owlbears, this one is for toast, this one is for . . ."
+--------
+「这个敲哥布林，这个打枭头熊，这个烤东西，这个用来…」
+
+527418
+Barbarian Class
+职业：野蛮人
+
+527419
+Battle Cry Goblin
+战吼哥布林
+
+527420
+Boots of Speed
+速度靴
+Click your heels and become the wind.
+--------
+脚跟一蹬就成风。
+
+527421
+Brazen Dwarf
+铜威矮人
+"My grandmother saved the life of a brass dragon, and in return she was given a glimpse of the fire in its heart—a glimpse she passed down to me."
+--------
+「我的祖母救了一条黄铜龙，她所得回报是一瞥龙心中火焰～这一瞥则传承给我。」
+
+527422
+Burning Hands
+燃烧之手
+A simple fire spell that grows in intensity along with its caster.
+--------
+这单纯的火焰咒语随着施放者增长威力。
+
+527423
+Chaos Channeler
+混沌通联师
+
+527424
+Critical Hit
+会心一击
+"How do you kill what's already dead? That's how."
+--------
+「要怎样杀死已经死了的东西？就这样。」
+
+527425
+Delina, Wild Mage
+狂野法师德莉娜
+
+527426
+Dragon's Fire
+龙火
+
+527427
+Dueling Rapier
+决斗细剑
+
+527428
+Earth-Cult Elemental
+土邪教元素
+
+527429
+Farideh's Fireball
+法莉黛的火球
+
+527430
+Flameskull
+烈焰骷髅
+
+527431
+Goblin Javelineer
+哥布林标枪手
+Hate gets you only so far. A pointy stick can close the rest of the distance.
+--------
+愤怒只能帮你这么多。剩下的距离能靠一根尖棍来帮忙。
+
+527432
+Goblin Morningstar
+哥布林钉头锤
+
+527433
+Hoarding Ogre
+贮宝食人魔
+
+527434
+Hobgoblin Bandit Lord
+大哥布林山贼王
+In a hobgoblin's view of the world, the weak owe tribute and fealty to the strong.
+--------
+大哥布林的世界观是：弱者应该向强者进贡并效忠。
+
+527435
+Hobgoblin Captain
+大哥布林队长
+Hobgoblins do not fear death, for those who fall in battle have gained glory eternal.
+--------
+大哥布林不怕死，因为战死者已得永恒荣耀。
+
+527436
+Hulking Bugbear
+粗壮熊哥布林
+Bugbears move with surprising speed for their size and bulk, a fact that has led to the demise of many unwary adventurers.
+--------
+以熊哥布林的身形与体重而言，他们的动作惊人飞快；许多冒险者因此大意丧命。
+
+527437
+Improvised Weaponry
+临时武器
+Anything can be a weapon if you swing it hard enough.
+--------
+只要够用力挥，什么东西都能当武器。
+
+527438
+Inferno of the Star Mounts
+星之山脉的狱火
+The ancient dragon Imvaernarhro has earned his fiery nickname.
+--------
+远古巨龙伊姆瓦尔纳奥以实力获得其火热外号。
+
+527439
+Jaded Sell-Sword
+疲惫贷剑客
+"Today? That'll cost you extra."
+--------
+「今天？那你要加钱。」
+
+527440
+Kick in the Door
+破门而入
+"We tried your way. Now we do it my way!"
+—Jym, barbarian of Baldur's Gate
+--------
+「我们试过你的方法。现在用我的！」
+～博德之门的野蛮人吉姆
+
+527441
+Magic Missile
+魔法飞弹
+A tried-and-true favorite of many wizards, whatever their school.
+--------
+无论专精哪个学派，这是许多法师最爱的可靠法术。
+
+527442
+Meteor Swarm
+陨星爆
+Sometimes one fireball isn't enough.
+--------
+有时一个火球还不够。
+
+527443
+Minion of the Mighty
+强者奴仆
+
+527444
+Orb of Dragonkind
+龙珠
+
+527445
+Plundering Barbarian
+劫夺野蛮人
+
+527446
+Price of Loyalty
+忠诚代价
+"Most folks got mayhem in their hearts. Just gotta know their price."
+--------
+「人心多有破坏欲，开对价钱就行。」
+
+527447
+Red Dragon
+红龙
+Red dragons consider the world and every creature in it as theirs to command.
+--------
+红龙认为此世界与其间每个生物都会听其号令。
+
+527448
+Rust Monster
+锈蚀怪
+"They don't seem scary, but then you're suddenly standing there in your underclothes without a weapon. Then everything looks like a threat."
+—Jarro, battle master
+--------
+「它们外表不可怕，然后你突然没了武器傻傻站着，只剩贴身衣物。接下来一切看起来都像是威胁。」
+～战斗宗师雅罗
+
+527449
+Swarming Goblins
+哥布林聚群
+
+527450
+Tiger-Tribe Hunter
+猛虎部落猎人
+
+527451
+Unexpected Windfall
+意外横财
+Fortune favors the fortunate.
+--------
+财富眷顾有才者。
+
+527452
+Valor Singer
+勇气歌者
+"There is only one way forward: into legend."
+--------
+「前进别无他路：迈向传奇」
+
+527453
+Wish
+愿望术
+"If you had just one wish, what would it be? Gold, or angel song? Finding a lost love, or finding your way back home? Let me sing a song about one wish that came true . . ."
+—Ellywick Tumblestrum
+--------
+「如果你只能许一个愿望，你会祈求什么？是要眼前黄金遍地，还是耳边颂曲萦绕？是要寻获失落爱情，抑或找到回家的路？请听这首关于祈愿成真的歌曲…」
+～艾利薇鼓琴
+
+527454
+Xorn
+索尔石怪
+Xorns are native to the Elemental Plane of Earth, where gems and rare stones are plentiful. When summoned elsewhere they can be quite destructive in search of food.
+--------
+索尔石怪诞生在地元素位面，该处蕴藏大量晶矿和稀有宝石。当被召唤到其他地方时，它们会为满足食欲而破坏性大增。
+
+527455
+You Come to the Gnoll Camp
+你来到豺狼人营地
+"Easy now, everyone. I'll take care of this."
+—Nadaar
+--------
+「各位别紧张。我来就行。」
+～那达尔
+
+527456
+You Find Some Prisoners
+你发现有人被囚
+
+527457
+You See a Pair of Goblins
+你看到两个哥布林
+"I have the shot. Shall I take it?"
+—Varis, Silverymoon ranger
+--------
+「我射得中。要我动手吗？」
+～银月城游侠瓦力斯
+
+527458
+Zalto, Fire Giant Duke
+火巨人公爵札尔托
+Fire giants love to fight on a large scale, and Duke Zalto is one of the greatest warmongers of his age.
+--------
+火巨人喜欢引发大战，而札尔托公爵名列当世顶尖的战争贩子之中。
+
+527459
+Zariel, Archduke of Avernus
+禽绝地狱大公扎瑞尔
+
+527460
+Bulette
+鲨蜥兽
+Capable of moving swiftly through even tightly-packed earth and leaping surprising distances above ground, bulettes are difficult to escape once they've caught scent of prey.
+--------
+鲨蜥兽能在压实的土地里快速穿行，又能自地面高高跃起，猎物一旦被嗅到气味就很难逃脱。
+
+527461
+Bull's Strength
+蛮力术
+As the iron bars of the portcullis parted like reeds, the defenders of the keep suddenly felt much less secure.
+--------
+看着闸门铁条像芦苇一样分开，要塞守卫心凉了半截。
+
+527462
+Choose Your Weapon
+选择你的武器
+"Move it, Varis, or I'll pick one for you!"
+—Ellywick Tumblestrum
+--------
+「快点，瓦力斯，否则我就替你选了！」
+～艾利薇鼓琴
+
+527463
+Circle of Dreams Druid
+梦境结社德鲁伊
+The realms protected by druids of the Circle of Dreams are gleaming, fruitful places, where dream and reality blur together and the weary can find rest.
+--------
+由梦境结社德鲁伊守护的国度通常都充满活力、硕果累累，其间梦境和现实交织，疲惫者能获得休息。
+
+527464
+Circle of the Moon Druid
+明月结社德鲁伊
+Druids of the Circle of the Moon are fierce guardians of nature who haunt the deepest parts of the wilderness.
+--------
+明月结社的德鲁伊是大自然的凶猛护卫，出没于荒野最深处。
+
+527465
+Compelled Duel
+强令对决
+"You might be four times my size, but I will not be ignored!"
+--------
+「你或许比我壮四倍，但你不能无视我！」
+
+527466
+Dire Wolf Prowler
+凶暴掠狼
+Large as horses, dire wolves must hunt often to satisfy their ravenous hunger. A mere human does little more than blunt their appetite.
+--------
+凶暴狼大如马匹，必须时常捕食来满足其极度饥饿。一个人类只能稍稍降低它们的食欲。
+
+527467
+Druid Class
+职业：德鲁伊
+
+527468
+Ellywick Tumblestrum
+艾利薇鼓琴
+
+527469
+Elturgard Ranger
+艾尔托迦德游侠
+Since the fall of Elturel, they've walked the Sword Coast from Tethyr to Icewind Dale, eyes always on their prey.
+--------
+自从艾尔托瑞尔陷落后，他们便行走于剑湾，从泰瑟尔到冰风谷，密切留意其猎物。
+
+527470
+Find the Path
+寻找路径
+
+527471
+Froghemoth
+沼喉怪
+
+527472
+Gnoll Hunter
+豺狼人猎手
+Yipping and cackling, the hunters tore through the village, leaving nothing but snapped bones and burning homes in their wake.
+--------
+这些猎手鼓噪着喉头飞快穿过村庄，沿途只留下断骨和焚烧的房屋。
+
+527473
+Green Dragon
+绿龙
+Green dragons take special pleasure in corrupting the good-hearted.
+--------
+绿龙酷爱腐蚀善心人士。
+
+527474
+Hill Giant Herdgorger
+噬群山丘巨人
+A shepherd's crook is useful for cleaning bits of wool out of the teeth.
+--------
+牧羊人手杖很适合用来剔除塞在牙缝里的羊毛。
+
+527475
+Hunter's Mark
+猎人印记
+
+527476
+Inspiring Bard
+励志吟游诗人
+"Wake up, my friends! There are deeds to be done and treasures to be won!"
+--------
+「醒醒，我的朋友们！有事情要做，有宝物要夺！」
+
+527477
+Instrument of the Bards
+吟游诗人乐器
+
+527478
+Intrepid Outlander
+无畏化外之民
+
+527479
+Loathsome Troll
+恶憎巨魔
+
+527480
+Long Rest
+长休
+A job well done means a rest well earned.
+--------
+工作干得好，休息睡到饱。
+
+527481
+Lurking Roper
+伏击树绳妖
+"You see, stalac-tites grow down from the ceiling, while stalag-mites reach—AAHHHHHHHHH—"
+--------
+「你看，钟乳石从顶上往下长，而石笋则是从～啊啊啊～」
+
+527482
+Neverwinter Dryad
+绝冬之森树精
+Its life force entwined with its tree, a dryad is an elusive and solitary being that wishes only to be left alone.
+--------
+树精寄身树木，生命缠绕合一，这种费解的独居生灵从不想被打扰。
+
+527483
+Ochre Jelly
+赭冻怪
+
+527484
+Old Gnawbone
+老啮骨
+The ancient green dragon Claugiyliamatar is often seen with a mangled corpse dangling from her mouth.
+--------
+远古绿龙克劳吉丽娅玛塔经常被人看到嘴边挂着尸体碎片。
+
+527485
+Owlbear
+枭头熊
+Many people believe a misguided wizard created the first owlbear, but others insist that these creatures have always dwelled in the Feywild.
+--------
+许多人相信第一头枭头熊是法师出错的成品，其他人则坚持认为这些生物一直住在妖精荒野。
+
+527486
+Plummet
+铅直落下
+The dragon's noxious breath withered the forest. The whistle of a hundred arrows filled the air. The ground roiled as if shaken by an earthquake. The tyrant fell from the sky.
+--------
+巨龙毒息焦炙树林。箭支成百呼啸天空。震波轰响传遍大地。天际暴君已然坠落。
+
+527487
+Prosperous Innkeeper
+兴隆旅店主
+
+527488
+Purple Worm
+紫虫
+Underground civilizations maintain magical barriers around their settlements to deter these monsters.
+--------
+地底文明在居处周围立起魔法屏障来阻止这些怪物。
+
+527489
+Ranger Class
+职业：游侠
+
+527490
+Ranger's Longbow
+游侠长弓
+With the right weapon, a fearsome beholder is nothing more than a big floating bullseye.
+--------
+有了合适的武器，可怕的眼魔也不过是个巨大飞靶。
+
+527491
+Scaled Herbalist
+覆鳞草药师
+"I could help you, or I could eat you for lunch. I haven't decided yet."
+--------
+「我可以帮上你，也可以吃掉你。我还没决定好。」
+
+527492
+Spoils of the Hunt
+狩猎收获
+"Every coin helps rebuild the town they destroyed."
+--------
+「每一枚硬币都会用于重建遭其毁坏的城镇。」
+
+527493
+Sylvan Shepherd
+森林牧灵结社德鲁伊
+
+527494
+The Tarrasque
+末日毁灭兽
+When it rises, nations fall.
+--------
+起身之时，灭国之日。
+
+527495
+Underdark Basilisk
+幽暗地域石化蜥蜴
+"See how the statues all have chunks bitten out of them? We're dealing with a basilisk, or I'm a froghemoth."
+—Larissa Kyriln, learned warlock
+--------
+「看到这些雕像都被咬下了一大块吗？我要不是沼喉怪的话，就说明我们要去对付石化蜥蜴了。」
+～博学的邪术师拉丽萨姬琳
+
+527496
+Varis, Silverymoon Ranger
+银月城游侠瓦力斯
+
+527497
+Wandering Troubadour
+漫荡游唱人
+"There's a new ballad waiting to be born around every corner."
+--------
+「随处都有新的歌谣等待诞生。」
+
+527498
+Werewolf Pack Leader
+狼人群首领
+
+527499
+Wild Shape
+自然变身
+
+527500
+You Find a Cursed Idol
+你发现一尊诅咒雕像
+
+527501
+You Happen On a Glade
+你找到一片林间空地
+
+527502
+You Meet in a Tavern
+你在酒馆遇见他人
+
+527503
+Adult Gold Dragon
+成年金龙
+Gold dragons are the greatest of the metallic dragons in size, power, and wisdom, and often take it upon themselves to safeguard mortal communities from evils that might threaten them.
+--------
+金龙在金属龙里体型、力量与智慧均为上乘，通常自愿担起责任守护凡人社群不受邪恶威胁。
+
+527504
+Bard Class
+职业：吟游诗人
+
+527505
+Barrowin of Clan Undurr
+乌杜尔部族的芭罗雯
+
+527506
+Bruenor Battlehammer
+布鲁诺战锤
+"Knew I'd find ye in trouble if I came out an' looked for ye!"
+--------
+「就知道我每次去找你，你都会有麻烦！」
+
+527507
+Drizzt Do'Urden
+崔斯特杜垩登
+
+527508
+Farideh, Devil's Chosen
+魔王子民法莉黛
+"A pact is a tool, not a damnation."
+--------
+「契约是工具，不是诅咒。」
+
+527509
+Fighter Class
+职业：战士
+
+527510
+Gretchen Titchwillow
+格蕾琴微柳
+"Plant what you wish to see grow. Listen for the stories you want to hear told."
+--------
+「种下你希望大地生长的东西。聆听你想让人们传颂的故事。」
+
+527511
+Hama Pashar, Ruin Seeker
+遗迹搜寻客哈玛帕沙
+"Someone took the time to carve these inscriptions. The least we can do is care enough to read them."
+--------
+「有人花时间刻下这些铭文。我们至少应该仔细解读。」
+
+527512
+Kalain, Reclusive Painter
+画家隐士卡莱茵
+
+527513
+Krydle of Baldur's Gate
+博德之门的克吕德
+
+527514
+Minsc, Beloved Ranger
+厚爱游侠明斯克
+
+527515
+Monk Class
+职业：武僧
+
+527516
+Orcus, Prince of Undeath
+死亡王子欧库斯
+
+527517
+Rogue Class
+职业：盗贼
+
+527518
+Shessra, Death's Whisper
+亡者嗫声谢丝拉
+
+527519
+Skeletal Swarming
+骷髅聚群
+
+527520
+Sorcerer Class
+职业：术士
+
+527521
+Targ Nar, Demon-Fang Gnoll
+魔齿豺狼人塔格纳
+
+527522
+Tiamat
+提亚玛特
+"My children will rule over all!"
+--------
+「我的子嗣会统治一切！」
+
+527523
+Trelasarra, Moon Dancer
+月舞者翠勒萨
+"Eilistraee teaches us that we are not bound by the circumstances of our birth. We all may find beauty and light, if we have the courage to seek them."
+--------
+「艾丽丝翠伊教导我们不要受出身所限。拿出勇气去追寻，我们都能找到美丽和光明。」
+
+527524
+Triumphant Adventurer
+凯旋冒险者
+
+527525
+Volo, Guide to Monsters
+怪物通沃洛
+"The beholder told me I had a good eye for details. Who was I to argue?"
+--------
+「那个眼魔说我看细节的眼光极好。我有什么资格跟他争论呢？」
+
+527526
+Xanathar, Guild Kingpin
+公会首领札那瑟
+
+527527
+Bag of Holding
+百宝囊
+Leave no treasure behind.
+--------
+一件宝贝都不漏掉。
+
+527528
+The Deck of Many Things
+万象无常牌
+
+527529
+Dungeon Map
+地城地图
+"Wait, is that a secret door? I can't tell for sure . . . there's some blood in the way."
+--------
+「等等，那个是密门吗？我也不确定…不过沿途有血迹。」
+
+527530
+Eye of Vecna
+威可那法眼
+"I see all things as they truly are! I see . . . decay in all flesh, and betrayal in every heart."
+--------
+「我看到了万物真实样貌！我看到了…所有肉体内的腐朽，以及所有心中的背叛。」
+
+527531
+Fifty Feet of Rope
+五十英尺长绳
+
+527532
+Greataxe
+巨斧
+"If you're so mighty, scaled one, then why are you dead?"
+--------
+「有鳞片的家伙，如果你真那么厉害，怎么会死呢？」
+
+527533
+Hand of Vecna
+威可那魔手
+
+527534
+Iron Golem
+铁魔像
+Once an iron golem is set to a task, it won't turn aside until that task is complete or it has been destroyed.
+--------
+一旦身负任务，铁魔像只有完成任务或者遭破坏才会停下。
+
+527535
+Leather Armor
+皮甲
+Lightweight, flexible, and protective.
+--------
+重量轻，灵活性高，保护力强。
+
+527536
+Mimic
+拟身怪
+
+527537
+Spare Dagger
+备用匕首
+
+527538
+Spiked Pit Trap
+刺坑陷阱
+
+527539
+Treasure Chest
+宝箱
+
+527540
+Cave of the Frost Dragon
+霜龙洞穴
+
+527541
+Den of the Bugbear
+熊哥布林窝巢
+
+527542
+Dungeon Descent
+地城坡道
+
+527543
+Evolving Wilds
+成形野地
+Parts of Faerûn still churn with the magic of arrogant Netherese archmages long dead.
+--------
+虽然耐瑟瑞尔的自负大法师早已死去，费伦的某些部分仍受其魔法扰动。
+
+527544
+Hall of Storm Giants
+风暴巨人大厅
+
+527545
+Hive of the Eye Tyrant
+魔眼暴君栖巢
+
+527546
+Lair of the Hydra
+多头蛇蜥巢穴
+
+527547
+Temple of the Dragon Queen
+龙后神殿
+
+527548
+Treasure Vault
+宝窖
+There is wealth enough inside to cause the rise and the ruin of dynasties.
+--------
+其中财富足以主宰王朝兴亡。
+
+530155
+Plains
+平原
+You've traced the tensions in Ten-Towns to the dwindling reindeer populations . . . but what has been hunting them?
+--------
+你发现十镇紧张气氛的根源是驯鹿数量减少…但究竟是什么在猎杀它们？
+
+530156
+Plains
+平原
+Seeking to learn why the ancestors have fallen silent, you've made your way to their ancient cairns.
+--------
+你动身前往先祖的古代石冢，想要弄清它们沉默不语的原因。
+
+530157
+Plains
+平原
+Searching for a vanished caravan that was bound for Silverymoon, you've come to a bank of mysterious fog.
+--------
+你听闻一支前往银月城的商队消失无踪，于是动身搜索，不久就遇到一股神秘迷雾。
+
+530158
+Plains
+平原
+Venturing beneath the desert sands, you've discovered an alien power pulsing with inconceivable energy.
+--------
+你冒险深入黄沙之底，找到一股脉动着不可思议能源的奇异力量。
+
+530159
+Island
+海岛
+In crystal-studded waters far below the surface, you've discovered an incubating egg of mysterious origin.
+--------
+你在布满结晶的水下深处发现一颗蛋，它来源不明，且正在孵化。
+
+530160
+Island
+海岛
+After careful study, you've determined that the giant ruins served to track the movement of the planets . . . and they will soon align once more.
+--------
+你经过一番研究，推定这些巨大遗迹是为追踪行星轨迹而建…而它们不久之后即将再次连成一线。
+
+530161
+Island
+海岛
+As your ship clears the edge of Waterdeep harbor, you notice pirate sails on the horizon. What has made them so bold?
+--------
+你的船扫清了深水城港口周遭，此时你注意到海平面上出现海盗船帆影。是什么原因让他们如此放肆？
+
+530162
+Island
+海岛
+Alarmed by the news you brought, the storm giant king of the Maelstrom has called his kin to council.
+--------
+你带来的消息警醒了漩涡堡的风暴巨人王，他随即召集族人讨论相关事宜。
+
+530163
+Swamp
+沼泽
+As a plague ravages the world above, you've made your way into the Underdark in search of a fungal panacea.
+--------
+你来到幽暗地域探寻真菌灵药，想为正受瘟疫摧残的地上世界带来生机。
+
+530164
+Swamp
+沼泽
+Your search for a stolen artifact has brought you to the edge of the Mere of Dead Men.
+--------
+你一路探寻遭窃神器，来到了亡者沼泽边缘。
+
+530165
+Swamp
+沼泽
+As you trudge through the sewers of Baldur's Gate it dawns on you: where are all the rats?
+--------
+你在博德之门的下水道费力前行，一个念头自脑际闪过：老鼠都去哪里了？
+
+530166
+Swamp
+沼泽
+You expected to meet hostile drow in this ancient ruin . . . but they fled long ago. What darkness could have driven them out?
+--------
+你本以为会在这片古老遗迹中遇到怀有敌意的卓尔精灵…但他们早已逃离。连他们都无法抗衡的黑暗究竟是何等面貌？
+
+530167
+Mountain
+山脉
+You meant to simply rest in Hundelstone, but the miners have told you stories of whispers in the dark below.
+--------
+你本只想在海德尔之石镇小憩，但矿工讲述的地底黑暗细语故事让你无法不在意。
+
+530168
+Mountain
+山脉
+Your path lies across the Spine of the World, where every cave hides some new danger.
+--------
+你的旅程需要穿越世界之脊，那里的每个洞穴都暗藏着新的危险。
+
+530169
+Mountain
+山脉
+You've ventured deep into the heart of the mountain to determine what can calm its quaking rage.
+--------
+你深入山脉的内部，希望找出方法抚平其隆震狂怒。
+
+530170
+Mountain
+山脉
+As you make camp near the ancient ruin, you hear the sound of drums echoing in halls where no dwarf has lived in generations.
+--------
+你于古老遗迹附近扎营时，听见鼓声在大厅中回响，但数代之前便已无矮人居住该处。
+
+530171
+Forest
+树林
+As the sun reaches its zenith on the day of the solstice, a castle shimmers into view on the hilltop, just as the ancient text predicted.
+--------
+太阳于至日升到天顶，此时一座城堡逐渐显现于山顶，正如古代文字所预示。
+
+530172
+Forest
+树林
+As you venture deeper under the boughs of Neverwinter Wood, arrows in a tree trunk suggest you might not be welcome.
+--------
+你在绝冬之森的树荫之下越走越深，树干上的箭表明，你在这里或许不受欢迎。
+
+530173
+Forest
+树林
+As monsters from the Underdark rampage across the world above, you've delved deep underground to determine what has driven them upward.
+--------
+你深入地下，试图找到驱使幽暗地域怪兽冲出地表、肆虐地上世界的原因。
+
+530174
+Forest
+树林
+Before the elf queen will aid you, you must find a way to cure the strange rot afflicting the roots of the ancient trees.
+--------
+你要想得精灵女王出手相助，便需先治愈古老树根，使其免受怪异腐疾折磨。
+
+530447
+Dungeon of the Mad Mage
+疯狂法师的地下城
+
+530448
+Lost Mine of Phandelver
+凡戴尔的失落矿坑
+
+530449
+Tomb of Annihilation
+湮灭之墓
+
+========

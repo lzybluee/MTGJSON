@@ -1,0 +1,191 @@
+547249
+Millicent, Restless Revenant
+不息复灵米蕾森
+
+547250
+Strefan, Maurer Progenitor
+茂威原祖史崔凡
+
+547229
+Donal, Herald of Wings
+羽翼传令使唐诺
+He sees a flicker of Avacyn's grace in every wingbeat.
+--------
+他在翅翼扇动间得见艾维欣光辉。
+
+547230
+Timothar, Baron of Bats
+血蝠男爵提默沙
+
+546969
+Drogskol Reinforcements
+卓兹克援军
+
+546970
+Haunted Library
+闹鬼图书馆
+The library of Moormanor had been open to all before the Travails, and it continues to attract curious visitors.
+--------
+在癫狂劫之前，荒邸图书馆原本就向公众开放，而今仍能引来好奇的访客。
+
+546971
+Priest of the Blessed Graf
+受福墓地僧侣
+The honored dead who lie in blessed grafs are not easily stirred, but the threat of eternal night called many from their rest.
+--------
+得获光荣厚葬在受福墓地的逝者不会轻易遭到惊扰，但永夜的威胁让他们受托再起。
+
+546972
+Rhoda, Geist Avenger
+携魂复仇者洛妲
+
+546973
+Storm of Souls
+灵魂风暴
+Devotion does not end with death.
+--------
+奉献不以死亡而告终。
+
+546974
+Sudden Salvation
+突获救助
+
+546975
+Breath of the Sleepless
+无眠者寒息
+Worse than the obscuring mists are the ghastly faces that appear in the glow of spectral lanterns.
+--------
+比遮天迷雾更糟糕的，莫过于街灯幽光下显现的可怖亡颜。
+
+546976
+Ethereal Investigator
+虚相调查员
+
+546977
+Haunting Imitation
+幽冥模仿
+
+546978
+Occult Epiphany
+秘学顿悟
+In a single unending moment, a hundred lifetimes of knowledge coursed through his unraveling mind.
+--------
+在那一瞬无尽时刻，他思绪动荡跳跃，仿佛有整整一百辈子的知识奔流其间。
+
+546979
+Spectral Arcanist
+幽灵奥术师
+
+546980
+Timin, Youthful Geist
+年幼游魂提敏
+
+546981
+Crossway Troublemakers
+大道惹祸徒
+"Lady Anje said no violence at the wedding. She never said anything about the journey there!"
+--------
+「安姬大人不许我们在婚宴上动粗。但赴宴的路上可没有任何指示！」
+
+546982
+Glass-Cast Heart
+琉璃心像
+
+546983
+Kamber, the Plunderer
+劫掠者康芭
+
+546984
+Olivia's Wrath
+奥莉薇亚之怒
+"These worthless cattle think they can sneak unnoticed into my wedding? Dispose of them."
+—Olivia Voldaren
+--------
+「这些无用畜牲妄想溜进我的婚礼？解决他们。」
+～奥莉薇亚沃达连
+
+546985
+Predators' Hour
+掠食时刻
+
+546986
+Shadowgrange Archfiend
+影庄大邪鬼
+
+546987
+Arterial Alchemy
+点血成金
+
+546988
+Imposing Grandeur
+威风凛凛
+The wedding's lavish decorations paled in comparison to the opulence of its elite guests.
+--------
+贵宾的华丽衣饰让婚礼的奢华布置都相形见绌。
+
+546989
+Laurine, the Diversion
+诱敌手劳琳
+
+546990
+Markov Enforcer
+马可夫执法者
+
+546991
+Midnight Arsonist
+午夜纵火犯
+Killing the slayers was self-preservation. The fire was just for fun.
+--------
+杀害克星只为自保，扬焰纵火纯属添趣。
+
+546992
+Scion of Opulence
+华族后裔
+
+546993
+Disorder in the Court
+庭上纷乱
+
+546994
+Sinister Waltz
+凶险华尔滋
+For one evening, the dueling bloodlines channeled their feuds into elaborate footwork.
+--------
+唯独在这晚，敌对血脉的吸血鬼将世仇对决改作舞技较量。
+
+547269
+Breathkeeper Seraph
+护生炽天使
+
+547270
+Wedding Ring
+婚戒
+
+547271
+Imperious Mindbreaker
+傲慢碎灵师
+
+547272
+Doom Weaver
+末日编蛛
+
+547273
+Mirage Phalanx
+幻影方阵兵团
+
+547274
+Hollowhenge Overlord
+空圆地王狼
+The ruins of the town were a notable upgrade from the wolves' forest den.
+--------
+城镇废墟要比树林狼窝好上太多。
+
+547275
+Thundering Mightmare
+雷鸣猛魇
+
+547276
+Umbris, Fear Manifest
+恐惧身影乌蔽袭
+
+========

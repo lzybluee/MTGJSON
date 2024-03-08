@@ -1,0 +1,28 @@
+495893
+Anowon, the Ruin Thief
+遗迹窃贼亚诺文
+
+495894
+Obuun, Mul Daya Ancestor
+慕达雅先灵奥布恩
+
+495895
+Trove Warden
+宝库护卫
+
+495896
+Enigma Thief
+窃谜史芬斯
+
+495897
+Whispersteel Dagger
+幽钢匕首
+
+495898
+Geode Rager
+晶岩怒兽
+Its crystalline core refracts light into chaos.
+--------
+它的晶状核心能将明澈射线折成混沌散光。
+
+========

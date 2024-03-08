@@ -1,0 +1,1915 @@
+513477
+Environmental Sciences
+环境科学
+First-years quickly learn how the Vastlands earned its name.
+--------
+一年级新生很快就知晓旷土之名由何而来。
+
+513478
+Expanded Anatomy
+宏展解剖学
+"Changing the equation from incremental to exponential was a stroke of genius on my part."
+--------
+「把原来增量算式改成指数形式，算是我的点睛之笔吧。」
+
+513479
+Introduction to Annihilation
+毁灭学导论
+"I've never seen a student fail quite so spectacularly. There's potential in that."
+—Hostram, professor of arcanochemistry
+--------
+「我从没见过哪个学生就连失败也如此壮观。但有潜力暗藏其间。」
+～神奥化学教授霍斯东
+
+513480
+Introduction to Prophecy
+预言学导论
+Final grades are posted on the first day of class.
+--------
+在开学第一天，就张榜公布了所有学生的期末成绩。
+
+513481
+Mascot Exhibition
+苑像展示
+"Don't just win the game. Win the crowd."
+—Moriana, Mage Tower coach
+--------
+「我们不仅要赢下比赛胜利。还要赢得观众青睐。」
+～斗法塔教练摩莲娜
+
+513482
+Wandering Archaic
+漫游古旅人
+"Fly the path of nine birds."
+--------
+「随九鸟空道直步青云。」
+
+513483
+Explore the Vastlands
+探索旷土
+
+513484
+Academic Probation
+留校察看
+
+513485
+Ageless Guardian
+永恒守护者
+Ancient ruins dot the world of Arcavios, most older than Strixhaven itself and many still guarded by soldiers from the Blood Age, centuries after their deaths.
+--------
+阿凯维沃世界上古代遗迹星罗棋布，其中大多数的历史比斯翠海文学院本身都要悠久。虽然血腥时代距今已有数百年，其时士兵早已逝去，但如今他们仍在继续守卫这些遗迹。
+
+513486
+Beaming Defiance
+光耀反抗
+"I've lived too long in my father's shadow. It's time to find my own light."
+—Killian, Silverquill mage-student
+--------
+「我已在父亲的阴影下活得太久。现在该去寻找属于自己的光明。」
+～银毫修习法师齐力安
+
+513487
+Clever Lumimancer
+机敏辉光术士
+"You're too dim to realize it, but you've already lost."
+--------
+「以你的愚蠢可能还没意识到：你已经输了。」
+
+513488
+Combat Professor
+战斗教授
+"Before Yovus was cut down at Pranticle Peak, she performed which maneuver? Anyone? From the reading?"
+--------
+「尤娲在潘迪科峰上被砍倒之前，她使出的是哪一招？谁来回答一下？书里写过喔。」
+
+513489
+Defend the Campus
+守卫校园
+Professors scrambled to push the mage hunters back, leaving the heart of Strixhaven undefended.
+--------
+教授急忙出击阻击猎法妖，使得斯翠海文核心顿时防备。
+
+513490
+Detention Vortex
+拘禁漩涡
+
+513491
+Devastating Mastery
+毁灭奇技
+
+513492
+Dueling Coach
+决斗教练
+
+513493
+Eager First-Year
+热切新生
+Today, she learns the basics. She'll knock out advanced theory later this week.
+--------
+今天，她已学会入门基础。相信本周内她就能掌握高级理论。
+
+513494
+Elite Spellbinder
+精英锁咒僧
+Paulo Vitor Damo da Rosa, World Champion XXVI
+--------
+第二十六届世界冠军Paulo Vitor Damo da Rosa
+
+513495
+Expel
+除名
+Quintorius was a daydreamer, far happier digging through history books than practicing battle tactics. He agreed with the military academy on only one thing: he did not belong in their ranks.
+--------
+昆托力想象力丰富，相较于刻苦训练战术，他更喜欢遨游历史书海。不过他跟军事学院倒有一点意见相同：他不适合参军。
+
+513496
+Guiding Voice
+引导之声
+When honormancers work together, their compliments are complementary.
+--------
+当荣耀术士携手合作时，其颂美之声也盛赞相承。
+
+513497
+Leonin Lightscribe
+辉刻狮族
+All who hear his inspiring words are filled with hope and pride.
+--------
+凡听闻其鼓舞颂赞者，内心无不壮志昂扬。
+
+513498
+Mavinda, Students' Advocate
+学生辅导员玛雯达
+
+513499
+Pilgrim of the Ages
+岁月朝圣客
+
+513500
+Pillardrop Rescuer
+避柱救援灵
+Gentle hands of stone whisk the careless from the crumbling ruins of Pillardrop.
+--------
+石头伸出手臂，轻巧而迅速地将粗心者带离摇摇欲坠的避柱遗迹。
+
+513501
+Professor of Symbology
+符号学教授
+"A language isn't dead until we stop learning from it."
+--------
+「只要还有人在研习，语言就没有消亡。」
+
+513502
+Reduce to Memory
+仅留回忆
+"Do not flinch from studying the horrors of the past. History's most important lessons are cloaked in terror and tragedy."
+—Augusta, Lorehold dean
+--------
+「研究过往惨事时，千万不要畏缩。历史最深刻的教训，就掩藏在这种种恐怖与悲剧之下。」
+～衡鉴院长欧歌塔
+
+513503
+Secret Rendezvous
+秘密相会
+Strixhaven's five colleges encourage rivalries among the students, but some bonds transcend all barriers.
+--------
+虽然斯翠海文五个学院鼓励学生间的对抗情绪，但有些羁绊能够跨越一切阻碍。
+
+513504
+Semester's End
+学期结束
+
+513505
+Show of Confidence
+展现信心
+
+513506
+Sparring Regimen
+切磋强身
+
+513507
+Star Pupil
+明星学子
+"When I'm done here, they'll name entire buildings after me."
+--------
+「待我学成后，他们会用我的名字来命名整座校园！」
+
+513508
+Stonebinder's Familiar
+缚石佣兽
+"Hey, my great-great-grandfather had a dog just like that!"
+—Dradiel, Lorehold mage-student
+--------
+「嘿，我曾曾祖父也养过一条这样的狗！」
+～衡鉴修习法师卓迪尔
+
+513509
+Stonerise Spirit
+腾石灵
+The carved cliffs of Pillardrop thrum with the sounds of ancient spirits rising from the past.
+--------
+古代魂灵自过往现身，由此造成的动静令避柱峭壁嗡嗡作响。
+
+513510
+Strict Proctor
+严格的督学
+"You might believe being dead for centuries has made me more lenient. I think you'll find the opposite to be true."
+--------
+「你可能会觉得，死了几百年后的我也许会变得宽容一些。但我觉得事实跟你想的恰好相反。」
+
+513511
+Study Break
+研习小憩
+"You've been cramming all night. You're taking a nap whether you like it or not."
+--------
+「你整晚都在挑灯夜读。不论你愿不愿意，现在你要休息。」
+
+513512
+Thunderous Orator
+雷霆雄辩家
+
+513513
+Arcane Subtraction
+秘法消减
+The class learned little that day.
+--------
+那天全班学到了很小的东西。
+
+513514
+Archmage Emeritus
+荣休大法师
+Some emeritus professors return from their wanderings periodically to share tales of the mystical wonders of Arcavios.
+--------
+有些荣休教授会定期回到校园，与学生分享自己漫游阿凯维沃时遇到的奇闻轶事。
+
+513515
+Burrog Befuddler
+惑心布蛙
+Students who seek river herbs in Doradur quickly find themselves slightly damp and thoroughly surrounded.
+--------
+前往多拉度采摘河草的学生，很快就发现自己周身沾水，陷入重重包围。
+
+513516
+Bury in Books
+埋没书丛
+There are no weapons allowed in the Biblioplex, but a clever mage is never truly defenseless.
+--------
+茂典阁禁止携入兵器，但聪明的法师从不会毫无防备。
+
+513517
+Curate
+悉心布置
+"Kathorran War Chants, Vol. III? That doesn't even belong in this wing!"
+--------
+「《卡瑟朗战歌，卷三》？这书根本就不属于这一区！」
+
+513518
+Divide by Zero
+除数归零
+"Misery. Inadequacy. Failure. The common denominator is you."
+--------
+「悲剧。不足。失败。它们的公分母都是你。」
+
+513519
+Dream Strix
+眠梦枭
+
+513520
+Frost Trickster
+冰霜诈术师
+The most important skill in a Mage Tower match is keeping one's cool.
+--------
+斗法塔比赛中，最重要的技巧是保持冷静。
+
+513521
+Ingenious Mastery
+匠心奇技
+
+513522
+Kelpie Guide
+骏妖向导
+Kelpies are drawn to paradoxes, making them ideal companions for Quandrix mages.
+--------
+骏妖天生就会被矛盾事物吸引，这点让它们成为量析法师的理想旅伴。
+
+513523
+Mentor's Guidance
+导师指引
+Kasmina had encouraged the twins to apply. Strixhaven would test not only their magical potential, but also their character.
+--------
+克蜜娜鼓励冰火双子申请进入斯翠海文学院深造：这里不仅能考验他们的魔法潜能，还可锤炼他们的人格品质。
+
+513524
+Mercurial Transformation
+多变转化术
+"For sun's sake, I just want a crab!"
+--------
+「太阳在上，我只想变出一只蟹！」
+
+513525
+Multiple Choice
+多重选项
+
+513526
+Pop Quiz
+随堂测试
+"Today is hydromancy? I thought it was amplimancy! I studied for amplimancy!"
+--------
+「今天是考水文占卜？我以为是考增效术！我都在念增术！」
+
+513527
+Reject
+驳回
+"Grux, for the last time, you have to do more than simply shout ‘Apply!' at the administrators."
+—Pavil, admissions officer
+--------
+「葛兹，我最后一次告诉你：光对招生老师大叫『我要报名！』我们是绝对不会录取你的。」
+～招生委员帕威
+
+513528
+Resculpt
+重新雕塑
+Critics were struck first by the elemental's surprising grace, and then by its fists.
+--------
+评委先是为这元素的绝伦优雅倾倒，而后被它的数记重拳击倒。
+
+513529
+Serpentine Curve
+蛇状曲线
+"Math bites."
+—Bim, Lorehold mage-student
+--------
+「数学会咬人。」
+～衡鉴修习法师毕姆
+
+513530
+Snow Day
+冰雪蔽日
+"Advanced Elemental Manifestations is canceled until all students have thawed."
+—Prismari dormitory notice
+--------
+「高等元素具现学课程即日取消，复课日期待学生解冻后另行通知。」
+～粹丽寝室公告
+
+513531
+Solve the Equation
+解出算式
+Zimone's brilliance drew attention from many, including the sinister mages known as the Oriq.
+--------
+琦梦的横溢才华引起诸方关注，包括欧理可那群恶法师。
+
+513532
+Soothsayer Adept
+预言专家
+One of the first lessons divination students learn is how to recognize the difference between a portent and a simple surface ripple.
+--------
+在占卜学最初的几堂课上，学生们主要学习如何区分水面涟漪是否含有预示征兆。
+
+513533
+Symmetry Sage
+匀衡智者
+"By my calculations, I should be able to achieve true enlightenment before graduation."
+--------
+「根据我的计算，我应能在毕业之前获致真正启蒙。」
+
+513534
+Teachings of the Archaics
+古旅人教诲
+Mages seek out the ancient beings known as the Archaics for their boundless knowledge of history and magic, dispensed only in cryptic metaphors.
+--------
+远古生灵古旅人遗世绝俗，其历史与魔法造诣深不可测，故而吸引众多法师苦寻其下落一求真知，到头却只收获晦涩难懂的神秘比喻。
+
+513535
+Tempted by the Oriq
+受惑欧理可
+To exact his vengeance, Extus needed followers. His infiltrators recruited promising mage-students from the very halls he sought to destroy.
+--------
+埃陀斯需要更多人手才能实现他的复仇大计。于是他派渗透者深入自己意图破坏的各处学堂，就地招募有为修习法师来实施计划。
+
+513536
+Test of Talents
+试炼才能
+
+513537
+Vortex Runner
+漩涡奔越者
+"By using the vortex, I can study for at least fifteen extra minutes between every class. I wasn't being reckless, Dean Imbraham. I was being efficient."
+--------
+「借助漩涡，我就能在每次课间至少空出十五分钟的学习时间。英巴罕院长，我这不是无谋，反而是在追求效率。」
+
+513538
+Waterfall Aerialist
+瀑布舞空师
+Form and function in perfect unity.
+--------
+形式与功能的完美统一。
+
+513539
+Wormhole Serpent
+虫洞巨蛇
+After drownings, devourings, and one highly unpleasant algae infestation, unsupervised portal use on campus was banned.
+--------
+自从多次溺水、吞噬事故和一次令人极度不快的野藻入侵后，学校当即禁止学生在未经监督的情况下开启传送通道。
+
+513540
+Arrogant Poet
+傲慢诗人
+"I would be kinder to my peers, Professor, but I simply don't have any."
+--------
+「教授，我也想对功力相若的人客气些，但就是遇不上。」
+
+513541
+Baleful Mastery
+恶邪奇技
+
+513542
+Brackish Trudge
+盐碱楚吉兽
+Most trudges are covered with decaying plant matter, making them ideal breeding grounds for fungal spores.
+--------
+大多数楚吉兽背上都覆有一片腐植层，令它们成为培养真菌孢子的最佳选择。
+
+513543
+Callous Bloodmage
+冷酷血涌法师
+
+513544
+Confront the Past
+正视过往
+"Why, Gideon? Of all people, why save me?"
+--------
+「为什么，基定？为什么茫茫众生，你偏偏救了我？」
+
+513545
+Crushing Disappointment
+极度失望
+Most students could barely endure Dean Embrose's scrutiny for a semester or two; Killian lived with it his entire life.
+--------
+面对安博斯院长的百般挑剔，大多数学生连一两个学期都忍不下去；但齐力安却得忍受一辈子。
+
+513546
+Essence Infusion
+灌输菁华
+"I'd say it's still a fair fight—now my friend is about the size of your ego."
+--------
+「我觉得这还算是公平对决～现在我朋友已经跟你的自尊一样大了。」
+
+513547
+Eyetwitch
+巨眼蝠
+Oculomancers see the ideal potion ingredient. The bats don't see it that way.
+--------
+在视像术士眼中，这是理想的药剂配方。但在巨眼蝠眼中，它们可不这么想。
+
+513548
+Flunk
+成绩砸锅
+"I assure you, no one fails my course more than once."
+—Embrose, Silverquill dean
+--------
+「我向你保证，我的课最多只会不及格一次。」
+～银毫院长安博斯
+
+513549
+Go Blank
+头脑空白
+The only feeling worse than not knowing the answer is the certainty you once did.
+--------
+比现在解不出题目更难受的，是你确信自己此前解出过同一题。
+
+513550
+Hunt for Specimens
+寻找样本
+
+513551
+Lash of Malice
+恶意鞭击
+"The strongest shadow spells come from disdain for someone else, not frustration with yourself."
+—Embrose, Silverquill dean
+--------
+「最强大的黯影咒语源自蔑视他人，而非自我悔恨。」
+～银毫院长安博斯
+
+513552
+Leech Fanatic
+弄蛭狂徒
+"Everyone thinks that leeches maintain a strictly sanguivorous diet, but in fact, most freshwater leeches are carnivores. Wait, where are you going?"
+--------
+「所有人都以为蚂蟥仅摄食血液，但实际上大多数的淡水水蛭也具有肉食习性。等等，你们怎么都走了？」
+
+513553
+Mage Hunter
+猎法妖
+One of the Oriq's most powerful tools is the mage hunter, a vile monstrosity created to seek out and snuff out the arcane.
+--------
+猎法妖是专为找出并掐灭秘法来源而创造出来的恶毒怪物，因此它们算得上欧理可众手中的最强武器。
+
+513554
+Mage Hunters' Onslaught
+猎法妖猛攻
+Extus stood before his alma mater for a moment, remembering first his studies, then his vengeance. At his command, the mage hunters unfolded.
+--------
+埃陀斯驻足母校门前，心中澎湃的先是校园回忆，然后很快变成复仇恨意。随着他一声令下，猎法妖蜂拥而出。
+
+513555
+Necrotic Fumes
+溃疽烟气
+When live specimens aren't readily available, Witherbloom mages make creative use of ragged spirits clinging to long-dead bodies.
+--------
+当手头没有可用的活体标本时，靡华法师便活用仍留在久逝尸体上的破碎灵魂来作替代。
+
+513556
+Novice Dissector
+析相新手
+"The professor said to first extract the venom glands, then the acid sac. Next up, the . . . meeping organ?"
+--------
+「教授说先摘除毒腺，然后再取下酸囊。下一步是…发声结？」
+
+513557
+Oriq Loremage
+欧理可典法师
+Nothing can quell the Oriq's thirst for the forbidden secrets of the past.
+--------
+没有什么能够浇灭欧理可众对于过往禁忌秘密的渴望。
+
+513558
+Plumb the Forbidden
+尝试禁法
+Strixhaven forbade all magic from the Blood Age, so that is where Extus began his research.
+--------
+斯翠海文禁止使用血腥时代的任何魔法，于是埃陀斯的研究从此开始。
+
+513559
+Poet's Quill
+诗人笔毫
+
+513560
+Professor Onyx
+黑玉教授
+
+513561
+Professor's Warning
+教授示警
+Professor Onyx urged the twins to prepare for the dark mage Extus, sounding very much like someone familiar with the rise of tyrants.
+--------
+黑玉教授提醒冰火双子对黑暗法师埃陀斯早作准备，口气听起来仿佛就像她自己亲历过暴君崛起一样。
+
+513562
+Promising Duskmage
+有为暮法师
+"Your technique is sloppy, but there is talent there. Do it again, and keep your right arm in position this time."
+--------
+「你虽然技艺粗糙，但也还算是可塑之材。再作一次，这次记得把右手摆正位置。」
+
+513563
+Sedgemoor Witch
+蓑草原巫师
+
+513564
+Specter of the Fens
+沼地幽魂
+Foul specters hunt down those who try to back out of a deal with a daemogoth.
+--------
+与无丈魔交易后想要反悔者，下场就是会被邪秽幽魂找到。
+
+513565
+Tenured Inkcaster
+常任挥墨师
+"Ah, another future archmage for my collection."
+--------
+「啊，我的画作中又多一位未来的大法师。」
+
+513566
+Umbral Juke
+幽影佯攻
+The sport of Mage Tower was conceived as a playful testing ground for young spellcasters.
+--------
+斗法塔运动既充满竞技又富有乐趣，因此被视作年轻法师的最佳试炼场。
+
+513567
+Unwilling Ingredient
+受迫食材
+"Don't look at me like that. It was either this or being eaten by a groff."
+—Dina, Witherbloom mage-student
+--------
+「别这样看着我。你要么吃这个，要么被泽犬吃。」
+～靡华修习法师迪娜
+
+513568
+Academic Dispute
+学术争执
+"I'll show you original research, you hack!"
+--------
+「让我给你瞧瞧真正的原创研究，你个代写枪手！」
+
+513569
+Ardent Dustspeaker
+热诚尘语师
+"The Founder Dragons weren't even hatched when this scroll was written!"
+--------
+「这张卷轴写就时，创院巨龙都还没孵出来呢！」
+
+513570
+Blood Age General
+血腥时代将军
+His troops took the Fortress of Caerdoon centuries ago, yet he fights on.
+--------
+虽然他手下部队数百年前就已攻占瑟盾要塞，但他仍在沙场征战。
+
+513571
+Conspiracy Theorist
+同谋理论家
+
+513572
+Crackle with Power
+聚力劈响
+Will gasped as Rowan drew from the raw power of the Strixhaven Snarl. For a moment, she was luminous, transcendent, terrible.
+--------
+看着萝婉不断地从斯翠海文魔旋中汲取原始魔力，威尔不由得屏住呼吸。在一瞬之间，只见萝婉通体红光闪耀，宛若毁灭神下凡。
+
+513573
+Draconic Intervention
+龙族干预
+
+513574
+Dragon's Approach
+巨龙来袭
+
+513575
+Efreet Flamepainter
+绘焰魔神
+
+513576
+Enthusiastic Study
+狂热钻研
+"If the pen is mightier than the sword, just think what a giant tome could do!"
+--------
+「如果要说文胜于武、笔强于剑，那一本『巨』著威力该有多大！」
+
+513577
+Explosive Welcome
+热烈欢迎
+Rowan and Will were a natural fit in Prismari College, the school of outrageous elemental arts.
+--------
+粹丽学院以研究出格元素技艺闻名，正是最契合萝婉与威尔的去处。
+
+513578
+Fervent Mastery
+激昂奇技
+
+513579
+First Day of Class
+开学首日
+
+513580
+Fuming Effigy
+熏烟肖像
+Some spirits share ancient wisdom. Others just get mad you touched their stuff.
+--------
+有的魂灵乐于分享古代智慧。而有的则会因你乱碰私物而动怒。
+
+513581
+Grinning Ignus
+蔑笑火灵
+On rare occasions, a Prismari student will summon an elemental that shows such promise that it's permitted to stay and enroll.
+--------
+有的时候，粹丽学生能够召唤出颇具天资的元素，令到学院破格准许它们留存甚至入学。不过这极其罕见。
+
+513582
+Hall Monitor
+学堂监卫
+"No unauthorized summoning. No writing in the library books. And absolutely no indoor dueling!"
+--------
+「未经许可禁止召唤。馆藏书籍禁止涂写。绝对不准室内决斗！」
+
+513583
+Heated Debate
+火热争辩
+"While you were wasting time with abstract equations, I mastered ancient Oggyar fire magic. Your move."
+--------
+「当你还在浪费时间解开抽象算式时，我早已掌握了古代欧格牙烈焰魔法。看你的了。」
+
+513584
+Igneous Inspiration
+火灵启迪
+Prismari fosters a burning need to create.
+--------
+粹丽学院志在培育对创造的热切需求。
+
+513585
+Illuminate History
+照亮历史
+"Look at the detail in this stonework! Professor, our assumptions about early Kathorran tool use may not be correct."
+--------
+「看看这石雕细部的精妙处理！教授，也许我们对于卡瑟朗族早期使用工具的假设有误。」
+
+513586
+Illustrious Historian
+显赫史家
+The most distinguished Lorehold professors are eligible to receive extended tenure, even beyond the limits of their own mortality.
+--------
+衡鉴学院最杰出的教授有资格终身获聘，就算其业已离世也可继续任教。
+
+513587
+Mascot Interception
+阻截苑像
+Far from the trappings of royalty, Rowan and Will found inspiration from the most popular sport on campus, Mage Tower.
+--------
+在摆脱皇家礼典的束缚之后，萝婉和威尔能够积极参加校园内最受欢迎的运动项目～斗法塔，并从中收获大量灵感。
+
+513588
+Pigment Storm
+染料风暴
+When art projects collapse, Prismari students revel in the beauty of destruction. Everyone else runs for cover.
+--------
+当艺术作品轰然倒塌时，粹丽学生会在毁灭之美中尽情狂欢。而其他人则会慌忙寻找避难处。
+
+513589
+Pillardrop Warden
+避柱护卫
+A giant statue of a dwarf is still a giant statue.
+--------
+巨型的矮人雕像，也算是巨人雕像。
+
+513590
+Retriever Phoenix
+折返凤凰
+
+513591
+Start from Scratch
+从头开始
+"I don't care what they think!" Rootha snapped. "I know I can do better."
+--------
+「我不在乎他们怎么想！」如莎打断道，「我只知道我能做得更好。」
+
+513592
+Storm-Kiln Artist
+暴风窑艺家
+A captured elemental makes for a potent, albeit unstable, power source.
+--------
+捕捉到的元素虽不稳定，但能够成为强大的能量来源。
+
+513593
+Sudden Breakthrough
+突破进展
+Rootha created constantly, passionately, in hopes of impressing her greatest critic: herself.
+--------
+如莎对每次创作都投入十二分的专注和热情，只为能让最挑剔她的批评家满意：她自己。
+
+513594
+Tome Shredder
+毁卷狼
+"Quintorius, would you care to explain why you didn't complete your homework?"
+—Augusta, Lorehold dean
+--------
+「昆托力，你能不能解释一下为何没完成作业？」
+～衡鉴院长欧歌塔
+
+513595
+Twinscroll Shaman
+双轴焰祭师
+"May your wretched name never grace the annals of history, you ignorant buffoon!"
+--------
+「祝你的丑陋名字永无法登诸年志之端，你个无知蠢货！」
+
+513596
+Accomplished Alchemist
+高明炼金术士
+"Tincture of murkroot and lizard feet? Simple. One that doesn't taste like murkroot and lizard feet? I'm working on it."
+--------
+「黯根蜥爪酊？轻而易举。要喝起来没有黯根和蜥爪味的？正在研究。」
+
+513597
+Basic Conjuration
+基础变换术
+"I made that! It's mine! Did you see that?"
+--------
+「那是我变的！是我变的！看到了吗？」
+
+513598
+Bayou Groff
+河沼泽犬
+"Groffs are great for tracking pests through the muck, but securing the pests before the groff devours them is a dicey endeavor."
+—Lisette, Witherbloom dean
+--------
+「虽然泽犬擅于穿梭淤泥间找到害虫下落，但要想在它们吞下之前把害虫救出来，就得冒着生命危险。」
+～靡华院长莉塞特
+
+513599
+Big Play
+镇场绝技
+"Quandrix is running out of time. If they're going to capture the Witherbloom mascot, they need something big here."
+—Cremik, Mage Tower commentator
+--------
+「留给量析队的时间不多了。如果他们想要抢下靡华队的苑像，他们得拿出镇住全场的本事。」
+～斗法塔赛评夸米克
+
+513600
+Bookwurm
+噬书亚龙
+It takes "devouring a book in one sitting" to a frightening extreme.
+--------
+它把「一口气消化一本书」演绎到了惊人的极端。
+
+513601
+Charge Through
+奋力突破
+"What a move! Lorehold gets caught flat-footed, and Witherbloom barrels ahead."
+—Cremik, Mage Tower commentator
+--------
+「精彩突破！衡鉴队显得有点不知所措，靡华队趁机拉开距离。」
+～斗法塔赛评夸米克
+
+513602
+Containment Breach
+围护破裂
+For pestkeepers, there's no sound more disheartening than breaking glass.
+--------
+对害虫看守来说，最吓人的莫过于听到玻璃碎裂的声音。
+
+513603
+Devouring Tendrils
+吞噬卷须
+Witherbloom spells often take on the appearance—and personality—of their components.
+--------
+靡华咒语通常会保留其主要成分的外形～甚至天性。
+
+513604
+Dragonsguard Elite
+菁英护龙卫
+"The Founder Dragons brought the Blood Age to an end. It is an honor to serve them."
+--------
+「创院巨龙终结了血腥时代。能够侍奉他们是我的荣幸。」
+
+513605
+Ecological Appreciation
+生态鉴赏
+
+513606
+Emergent Sequence
+突发后果
+
+513607
+Exponential Growth
+指数成长
+Most Quandrix students fundamentally disagree with the concept of "enough."
+--------
+大多数量析学生都从根本上反对「适量」这一说法。
+
+513608
+Field Trip
+实地考察
+
+513609
+Fortifying Draught
+增势药剂
+"If a seedling can push through solid stone, there's no limit to what I could do."
+--------
+「如果连幼苗都能突破顽石自由成长，那我的能力便高无止境。」
+
+513610
+Gnarled Professor
+糙节教授
+"Class is in season."
+--------
+「正当课季。」
+
+513611
+Honor Troll
+求誉巨魔
+First in his clan to attend Strixhaven, and now first in his class.
+--------
+他是曾是该部落第一位入学斯翠海文的巨魔，如今更是班上第一名。
+
+513612
+Karok Wrangler
+鳄兽驯师
+"She showed up to class on a what?"
+—Valentin, Witherbloom dean
+--------
+「她是骑什么上学的来着？」
+～靡华院长瓦伦丁
+
+513613
+Leyline Invocation
+地脉祝愿
+"Do you still believe my work is nothing but dry, boring equations?"
+—Cairu, Quandrix mage-student
+--------
+「你还觉得我的成果就只是枯燥无聊的算式吗？」
+～量析修习法师凯依璐
+
+513614
+Mage Duel
+法师决斗
+"Remember the rules. No spells to the face!"
+--------
+「请双方注意规则。咒语不能打脸！」
+
+513615
+Master Symmetrist
+匀衡大师
+Tondo lost his very first duel and has spent his entire life trying to get even.
+--------
+汤多输掉了平生第一次决斗，而后便耗尽余生要讨平旧账。
+
+513616
+Overgrown Arch
+蔓生植拱
+
+513617
+Professor of Zoomancy
+动物术教授
+She's brilliant, if a bit overbearing.
+--------
+她聪智过人，甚至可以说是凌人。
+
+513618
+Reckless Amplimancer
+鲁莽增术师
+"Linear growth? What am I, a first-year?"
+--------
+「线性增长？你当我还是一年级新生吗？」
+
+513619
+Scurrid Colony
+怖鼠群落
+Scurrid teeth evolved to crack open nuts, but they work just as well for crushing bones if the nest is threatened.
+--------
+怖鼠的牙齿进化后已能咬碎坚果，但如果巢穴受到威胁，也能用来咬碎骨头。
+
+513620
+Spined Karok
+刺脊鳄兽
+"The bogs are deeper than you realize. Most of the space beneath the surface is taken up by these enormous karoks. You might think your feet are touching the bottom. They're probably not."
+—Gyome, Witherbloom chef
+--------
+「腐沼的深度远超乎你的实感。这些庞大的鳄兽占据了水面下大多数空间。你会以为自己的脚已触到沼底。你很可能感觉错了。」
+～靡华主厨纪尧姆
+
+513621
+Springmane Cervin
+春鬃魔鹿
+Cervins feed on the mana-rich plants around the star arches, imbuing their bodies with extraordinary grace and vitality.
+--------
+魔鹿以星拱周围富含法力的植物为食，因而体态优雅、充满活力。
+
+513622
+Tangletrap
+缠草捕物
+"It's like that old saying: what goes up . . . feeds the arboretum."
+—Lisette, Witherbloom dean
+--------
+「有谚道：凡事有起…必喂植物。」
+～靡华院长莉塞特
+
+513623
+Verdant Mastery
+新绿奇技
+
+513624
+Augmenter Pugilist
+增威拳手
+"Hold still. I have a theory about what's going to happen to your face."
+--------
+「站定别动。我有一套关于你的面容即将变化的理论。」
+
+513625
+Echoing Equation
+回波算式
+"Any good experiment is repeatable."
+--------
+「好的实验都能重现。」
+
+513626
+Blex, Vexing Pest
+乱心害虫毕雷兹
+Pests are typically harvested before they outgrow their enclosures. Blex is far from typical.
+--------
+害虫一般在体型长超围笼之前就被采走备用。但毕雷兹很不一般。
+
+513627
+Search for Blex
+探寻毕雷兹
+
+513628
+Extus, Oriq Overlord
+欧理可权首埃陀斯
+"Join me for the dawn of a new age."
+--------
+「加入我，一起迎接新时代。」
+
+513629
+Awaken the Blood Avatar
+唤醒血腥圣者
+
+513630
+Flamescroll Celebrant
+焰卷主祭
+"Stand up and fight!"
+--------
+「起身战斗！」
+
+513631
+Revel in Silence
+陶醉静寂
+"Sit down and listen."
+--------
+「坐下听讲。」
+
+513632
+Jadzi, Oracle of Arcavios
+阿凯维沃圣法谕贾琦
+
+513633
+Journey to the Oracle
+追寻圣法谕
+To find Jadzi, one need only wander.
+--------
+欲寻贾琦，只需漫游。
+
+513634
+Kianne, Dean of Substance
+物质院长齐安妮
+
+513635
+Imbraham, Dean of Theory
+理论院长英巴罕
+
+516789
+Mila, Crafty Companion
+灵巧行侣米拉
+
+516790
+Lukka, Wayward Bonder
+刚愎持绊人卢卡
+
+513638
+Pestilent Cauldron
+瘟疫鼎镬
+
+513639
+Restorative Burst
+复归爆发
+"Death? Everyone does death. Let me show you something actually impressive."
+--------
+「死去？人人都会死去。让我给你看看更精彩的东西。」
+
+513640
+Plargg, Dean of Chaos
+混沌院长帕葛
+
+513641
+Augusta, Dean of Order
+秩序院长欧歌塔
+
+516791
+Rowan, Scholar of Sparks
+火花学者萝婉
+
+516792
+Will, Scholar of Frost
+冰霜学者威尔
+
+513644
+Selfless Glyphweaver
+无私织符僧
+He offered his light to make sure no others would be dimmed.
+--------
+他奉献自身光芒，确保无人生命就此黯淡。
+
+513645
+Deadly Vanity
+致命浮华
+She cast a spell to purge all weakness. When the ink cleared, she stood alone.
+--------
+她施咒涤净弱者。墨渍褪去唯她孑自独立。
+
+513646
+Shaile, Dean of Radiance
+辉光院长莎依儿
+"You are so much stronger than you know."
+--------
+「你比自身认知更强大。」
+
+513647
+Embrose, Dean of Shadow
+黯影院长安博斯
+
+513648
+Torrent Sculptor
+奔流塑师
+
+513649
+Flamethrower Sonata
+喷焰奏曲
+He channels his heart's passion into every fiery note.
+--------
+他将自己的内心激情，全数化作火焰音符喷薄而出。
+
+513650
+Uvilda, Dean of Perfection
+精进院长乌薇妲
+
+513651
+Nassari, Dean of Expression
+展现院长纳撒理
+
+513652
+Valentin, Dean of the Vein
+血脉院长瓦伦丁
+
+513653
+Lisette, Dean of the Root
+根系院长莉塞特
+"Life is as fleeting as it is vibrant. Embrace the brief blessing of a flower before it withers."
+--------
+「万物生命越短暂，生机就越旺盛。好好把握鲜花凋谢之前那转瞬即逝的祝福。」
+
+513654
+Aether Helix
+乙太螺旋
+Some Quandrix mages prefer to study at twilight, watching their experimental equations trace glowing trails against the encroaching darkness.
+--------
+有些量析法师喜欢等到黄昏时刻才开始研究，因为在逐渐笼罩下来的夜幕当中，他们才能看到自己实验算式画出的轨迹辉光。
+
+513655
+Beledros Witherbloom
+贝雷卓靡华
+
+513656
+Biomathematician
+生机数学家
+"I will reach infinity."
+--------
+「我将达到无穷。」
+
+513657
+Blade Historian
+刀锋史家
+"So you see, the reckless battle strategy of the Kathorran orcs was effective, but ultimately proved to be a double-edged sword. As did their double-edged swords."
+--------
+「所以我们可以看到，卡瑟朗族半兽人所采用的鲁莽战术虽然有效，但最终来说却是一把双刃剑。就跟他们挥舞的双刃剑一样。」
+
+513658
+Blood Researcher
+鲜血研究员
+"Dean Valentin warns us not to consume the samples for our safety, but I think he's just being greedy."
+--------
+「瓦伦丁院长告诫我们说，为了自身安全着想，请勿吞服样品。但我觉得他就是太贪心。」
+
+513659
+Blot Out the Sky
+墨影蔽空
+A drop of ink is a nuisance. A torrent of inklings is a menace.
+--------
+一滴墨水只是小麻烦。一股墨灵则是大威胁。
+
+513660
+Body of Research
+究研身形
+Needledeep had promised that his final project would be his biggest one yet.
+--------
+邃针曾向大家保证，他最后一个作品会是他有史以来最大的。
+
+513661
+Closing Statement
+最后陈词
+"In conclusion . . ."
+--------
+「综上所述…」
+
+513662
+Cram Session
+考前恶补
+The only thing more delicious than a top grade is Gyome's signature cake.
+--------
+比好成绩更诱人的，只有纪尧姆的招牌蛋糕。
+
+513663
+Creative Outburst
+创意爆发
+
+513664
+Culling Ritual
+牲祭仪式
+"Your own frailty is your undoing. I am merely the one to expose it."
+--------
+「你失败的原因在于自身的软弱。我只不过是为你指出这一点。」
+
+513665
+Culmination of Studies
+研学巅峰
+Will's quick thinking meshed with Rowan's raw power to bring down the Blood Avatar.
+--------
+威尔的敏捷思维佐以萝婉的天赐纯力，双子齐心最终得以击败血腥圣者。
+
+513666
+Daemogoth Titan
+无丈魔泰坦
+"Of course it offered you power. Demons always do. But trust me—the sweeter the prize, the more ruinous the price."
+—Professor Onyx
+--------
+「它当然会赐予你力量。恶魔都如此。不过请听我一言～奖赏越甜美，代价越惨痛。」
+～黑玉教授
+
+513667
+Daemogoth Woe-Eater
+噬悲无丈魔
+"Your pain for my wisdom. You'll get no better deal."
+--------
+「用你的痛苦换取我的智慧。你找不到更合算的交易了。」
+
+513668
+Deadly Brew
+致命秘酿
+No one ever asked what was in Dina's concoctions, so long as they worked.
+--------
+从来没人问过迪娜的合剂里面有些什么，只要药效到了就行。
+
+513669
+Decisive Denial
+定念拒斥
+"I've heard enough."
+--------
+「我听腻了。」
+
+513670
+Dina, Soul Steeper
+浸灵迪娜
+
+513671
+Double Major
+双重主修
+"Now I can dedicate myself fully to zoetimancy and void theory!"
+--------
+「现在我就能专心研究雄生术和虚空理论了！」
+
+513672
+Dramatic Finale
+绚烂终曲
+The enraptured audience barely noticed their programs were suddenly blank.
+--------
+观众看得入神，根本没注意到他们的节目单瞬间变作空白。
+
+513673
+Elemental Expressionist
+元素展现家
+
+513674
+Elemental Masterpiece
+元素杰作
+Rootha passed with flying, living colors.
+--------
+如莎以出色的优异成绩高分过关。
+
+513675
+Elemental Summoning
+元素召唤术
+"You've made a splash. Now show me a torrent."
+—Uvilda, Prismari dean
+--------
+「你已能溅起水花。现在让我看看水流。」
+～粹丽院长乌薇妲
+
+513676
+Eureka Moment
+灵感时刻
+"At first, the equations were simply numbers. But in those numbers I saw a story, and in that story I saw a pattern, and suddenly it all fit together!"
+--------
+「一开始，这些算式就只是数字。但我先从连串数字中读出故事，而又在故事之间发现规律，一切突然就对上了！」
+
+513677
+Exhilarating Elocution
+振奋演说
+His words poured forth on waves of golden light, scouring all fear from his audience's hearts and minds.
+--------
+他的言辞化作道道金光照耀众人，将听众心灵之间所有恐惧打消一空。
+
+513678
+Expressive Iteration
+展现迭代
+Prismari students dance in the tension between passion and perfection.
+--------
+在激情与精进的张力之间，粹丽学生尽情起舞。
+
+513679
+Fractal Summoning
+分灵召唤术
+"Fractals are just pseudo-dimensional manifestations of asynchronous biosymmetries. It's really quite simple."
+—Kianne, Quandrix dean
+--------
+「分灵只不过是异步生物对称体在假维度空间下的具现。原理非常简单。」
+～量析院长齐安妮
+
+513680
+Fracture
+裂成碎片
+"Your defiance is amusing, little mage. It's time you learn how fragile you really are."
+—Extus Narr
+--------
+「年轻法师，你的反抗有点意思。现在你该了解自己实际上有多脆弱。」
+～埃陀斯纳尔
+
+513681
+Galazeth Prismari
+加拉泽粹丽
+
+513682
+Golden Ratio
+黄金比例
+"When I look around, I see a world defined by patterns that still manages to defy them."
+—Kianne, Quandrix dean
+--------
+「我环顾四周，看到的是一个早已有无数规律定义，却还能不断打破规则的世界。」
+～量析院长齐安妮
+
+513683
+Harness Infinity
+掌驭无垠
+"As I stepped into the star arch, it all became perfectly clear. Life and death are not opposites, but an endless path, twisting around and back upon itself, never ending and never beginning."
+—Zhaer, professor of biophilosophy
+--------
+「我踏入星拱，一切都变得豁然开朗。生死并非对立两面，而是一条无尽通途。这条道路蜿蜒缠绕，最后连结一体，无所谓终，也无所谓始。」
+～生物哲学教授札依儿
+
+513684
+Hofri Ghostforge
+铸魂霍非
+
+513685
+Humiliate
+恣意羞辱
+"Aw, what's that? No comeback?"
+--------
+「喔，就这样？你不还嘴吗？」
+
+513686
+Infuse with Vitality
+灌输活力
+Dina raised her cup to Killian's lips, and for the first time in his life, he knew compassion.
+--------
+迪娜将杯子捧到齐力安嘴边，让他首度尝到受人同情的滋味。
+
+513687
+Inkling Summoning
+墨灵召唤术
+"Think of an insult so vicious, so vulgar, that you hesitate to speak it aloud. The strongest, most aggressive inklings are born from such scorn."
+—Embrose, Silverquill dean
+--------
+「在心里想一句骂人的话。它要够恶毒、够粗俗、够难听，到你自己都不好意思大声骂出口的地步。最强大、最凶猛的墨灵，就是诞生自这种辱骂之中。」
+～银毫院长安博斯
+
+513688
+Kasmina, Enigma Sage
+谜样智者克蜜娜
+
+513689
+Killian, Ink Duelist
+舞墨斗客齐力安
+"When your father is Dean Embrose, second best really isn't an option."
+--------
+「身为安博斯院长的儿子，我不能只屈居第二。」
+
+513690
+Lorehold Apprentice
+衡鉴学徒
+Ancient footfalls echo in her head, their timeless rhythm guiding the present.
+--------
+远古足音在她脑中回响，这段永恒踢踏节奏正指引当下发展。
+
+513691
+Lorehold Command
+衡鉴指命
+
+513692
+Lorehold Excavation
+衡鉴挖掘
+
+513693
+Lorehold Pledgemage
+衡鉴证法师
+"The weight of history can empower you or it can crush you. It's your choice."
+--------
+「历史之重能赐你力量，也能将你压垮。端看你如何抉择。」
+
+513694
+Maelstrom Muse
+涡心缪思
+She's an inspiration to everyone, even herself.
+--------
+她是所有人的灵感源泉，包括她自己。
+
+513695
+Magma Opus
+至炫熔彩
+
+513696
+Make Your Mark
+留名于世
+Those who do learn from history may still choose to repeat it.
+--------
+从历史中学到教训的人，仍可能选择去重演历史。
+
+513697
+Manifestation Sage
+具现智者
+The first thing a Quandrix mage learns is the laws of metaphysics. The second thing is how to break them.
+--------
+量析法师要学习的第一项内容，便是形上学哲理。第二项内容便是如何打破它们。
+
+513698
+Moldering Karok
+腐朽鳄兽
+Necroluminescence is common among the undead creatures of Sedgemoor, giving the midnight swamp an eerie glow. It's comforting—from a distance.
+--------
+蓑草原上的不死生物大多会发出死冥磷火，令午夜时分的沼泽四处都有怪异幽光。看起来却也令人安心～只要你别靠近。
+
+513699
+Mortality Spear
+夺命幻矛
+"Death is my life's work."
+--------
+「我毕生心血只为实现死亡。」
+
+513700
+Needlethorn Drake
+针棘龙兽
+As they learn to fly, young drakes have a tendency to accidentally impale trees, cliffs, and unsuspecting students.
+--------
+幼年龙兽在学习飞行时，往往会不小心穿透树木、山崖以及没留神的学生。
+
+513701
+Oggyar Battle-Seer
+欧格牙战斗预言师
+"May Ganathog bless us with bloody visions of glory restored!"
+--------
+「愿噶纳索予吾人荣耀复兴的血腥视像！」
+
+513702
+Owlin Shieldmage
+猫鹰盾法师
+"Aim higher next time."
+--------
+「下次瞄高点。」
+
+513703
+Pest Summoning
+害虫召唤术
+"Step 1: Put the pests in mud.
+"Step 2: Wait."
+—Gyome's Guide to Pest Breeding
+--------
+「第一步：把害虫埋入土中。
+第二步：等着。」
+～《纪尧姆育虫导论》
+
+513704
+Practical Research
+实证研究
+The twins each researched spells to defeat Extus in their own way. Will hit the library. Rowan hit everything else.
+--------
+冰火双子分头研究能够击败埃陀斯的咒语：威尔习图书。萝婉袭他物。
+
+513705
+Prismari Apprentice
+粹丽学徒
+"No one ever created great art by playing it safe!"
+--------
+「一味求稳，难创佳作！」
+
+513706
+Prismari Command
+粹丽指命
+
+513707
+Prismari Pledgemage
+粹丽证法师
+Many have the talent to create, but few have the courage to share their creations.
+--------
+人人都有创造才华，但鲜有人有勇气分享。
+
+513708
+Quandrix Apprentice
+量析学徒
+"The secrets of our world will be mine."
+--------
+「这个世界的秘密都将属于我。」
+
+513709
+Quandrix Command
+量析指命
+
+513710
+Quandrix Cultivator
+量析栽培师
+In the gardens spread across the Quandrix campus, fern turns to forest before class is even over.
+--------
+在遍布整个量析校区的花园里面，蕨类植物不消一节课的时间便能生长成林。
+
+513711
+Quandrix Pledgemage
+量析证法师
+"The first step toward transcending physical limitations is discarding assumptions about what is possible."
+--------
+「超越实体界限的第一步，便是抛弃所有对于可能性的假设。」
+
+513712
+Quintorius, Field Historian
+实地史家昆托力
+"Every life has a story to tell. I won't let them be forgotten."
+--------
+「每条生命都有属于自己的故事。我绝不会让它们就此埋没。」
+
+513713
+Radiant Scrollwielder
+焰光展卷僧
+
+513714
+Reconstruct History
+重构历史
+
+513715
+Relic Sloth
+驮宝惰兽
+When it comes to transporting priceless, delicate artifacts, safety is more important than speed.
+--------
+当要运送易碎的无价宝时，安全性远比速度更重要。
+
+513716
+Returned Pastcaller
+复归唤故灵
+Lorehold spirit statues are not forbidden from raising statues of their own.
+--------
+从未有人禁止衡鉴魂灵雕塑为自己立像。
+
+513717
+Rip Apart
+拆离
+Torn from history. Torn from memory. Torn from reality.
+--------
+摘离历史。摘离记忆。摘离现实。
+
+513718
+Rise of Extus
+埃陀斯崛起
+With one lethal strike, Extus took control of the Oriq and took his first step toward vengeance.
+--------
+只消致命一击，埃陀斯就将欧理可众的掌控权收入囊中，展开复仇的第一步。
+
+513719
+Rootha, Mercurial Artist
+善变艺家如莎
+"Art is never finished. Merely abandoned."
+--------
+「艺术从无止境。只是会被抛弃。」
+
+513720
+Rushed Rebirth
+加速再生
+Witherbloom students learn to see death not as tragedy, but as opportunity.
+--------
+靡华学生早已学会把死亡当作机遇，而非悲剧。
+
+513721
+Shadewing Laureate
+影翼受奖人
+"Would you prefer I destroy you using prose or verse?"
+--------
+「你希望我用什么来毁掉你，散文还是诗歌？」
+
+513722
+Shadrix Silverquill
+沙垂兹银毫
+
+513723
+Silverquill Apprentice
+银毫学徒
+She had spoken the words a hundred times, but under the spotlight, in front of everyone, something new emerged. And the crowd went wild.
+--------
+虽然同样的内容她早已排演过数百遍，但这次在聚光灯下，在人群面前，她讲出了新意。观众情绪瞬间引爆。
+
+513724
+Silverquill Command
+银毫指命
+
+513725
+Silverquill Pledgemage
+银毫证法师
+"I avoid violence. It is the last resort of the witless. But if you insist, I'll make an exception for you."
+--------
+「我一心避免暴力。那是蠢人的绝望之举。但如果你坚持，我会为你破例。」
+
+513726
+Silverquill Silencer
+银毫销音僧
+"I am very much in the mood to start handing out expulsions."
+--------
+「我正巧有兴致来给你们签发开除令。」
+
+513727
+Spectacle Mage
+奇景法师
+"It would be a crime to withhold my light from the world."
+--------
+「遮蔽我的光芒不让世界看到，这简直就是犯罪。」
+
+513728
+Spirit Summoning
+魂灵召唤术
+"Books are fantastic, but if you're really curious about the distant past, why not ask someone who was there?"
+—Augusta, Lorehold dean
+--------
+「虽然书中记述非常精彩，但如果你真对这段遥远过往感兴趣的话，为什么不直接去问当事人呢？」
+～衡鉴院长欧歌塔
+
+513729
+Spiteful Squad
+怨毒小队
+"Don't you know first-years pay a toll to walk through here?"
+--------
+「你不知道一年级新生走这条路要付钱吗？」
+
+513730
+Square Up
+四方阵势
+Sometimes the most radical thing you can do is think inside the box.
+--------
+有时候规圆矩方，便是你能作到的最出格事情。
+
+513731
+Stonebound Mentor
+缚石导师
+Quintorius beamed, his mind eager to absorb every historical fact the spirit wanted to divulge.
+--------
+昆托力脸上露出笑容，内心早急切想要吸收魂灵透露的一切史实。
+
+513732
+Tanazir Quandrix
+塔那吉量析
+
+513733
+Teach by Example
+言传身教
+"Learning to imitate a master is the first step in becoming one."
+—Uvilda, Prismari dean
+--------
+「学着模仿大师，是成为大师的第一步。」
+～粹丽院长乌薇妲
+
+513734
+Tend the Pests
+照管害虫
+"I've got a special treat for you today."
+--------
+「今天给你们带来了好东西。」
+
+513735
+Thrilling Discovery
+快意发现
+"This must be the lost city of Zantafar, where my people lived before becoming nomads. Think of the history we'll learn here!"
+—Quintorius, Lorehold mage-student
+--------
+「这里就是失落之城赞塔法。在成为游牧民之前，我的族人便是住在这边。想想我们能在这里学到多少历史！」
+～衡鉴修习法师昆托力
+
+513736
+Vanishing Verse
+驱灵诗篇
+"Whoever summoned that thing had better confess right this moment, or the whole class will be cleaning the ink receptacles for a month!"
+--------
+「召唤那东西的人最好现在就站出来认错，否则全班都得陪着你去洗一个月墨胆！」
+
+513737
+Velomachus Lorehold
+维洛马楚衡鉴
+
+513738
+Venerable Warsinger
+可敬颂战僧
+
+513739
+Witherbloom Apprentice
+靡华学徒
+"All we are—every feeling, every action—powered by a single, delicate little organ. Life is so terrifyingly, beautifully fragile."
+--------
+「我们的一切～包括感情、动作～都源自这么一个小小的器官。生命这东西虽纤弱得可怕，但也纤弱得美丽。」
+
+513740
+Witherbloom Command
+靡华指命
+
+513741
+Witherbloom Pledgemage
+靡华证法师
+"'Death is really just a transfer of energy. Those pests I harvested have the honor of becoming pure magic. What could be more beautiful?"
+--------
+「死亡不过是能量转移。我捉到的这些害虫有幸能够转变成纯粹魔法。还有比这更美丽的东西吗？」
+
+513742
+Zimone, Quandrix Prodigy
+量析逸才琦梦
+"What are they complaining about? It's not like axiomatic leyline paratrigonometrics is hard."
+--------
+「他们在抱怨什么？公理系地脉对三角学又不难。」
+
+513743
+Biblioplex Assistant
+茂典阁助手
+"I appreciate the help, and honestly, it's very entertaining."
+—Isabough of the Biblioplex
+--------
+「非常感谢你的帮忙，老实说，看着很有趣。」
+～茂典阁的伊瑟伯
+
+513744
+Campus Guide
+校区向导
+"There's nowhere in Strixhaven I can't find. Where do you need to go?"
+--------
+「斯翠海文没有我不知道的地方。你们要去哪？」
+
+513745
+Codie, Vociferous Codex
+絮聒抄本阿典
+
+513746
+Cogwork Archivist
+齿轮书库辖员
+"It's the largest library in the Multiverse. Of course it has the largest librarians."
+—Kasmina
+--------
+「这里是多重宇宙中最大的图书馆。自然也有最大的图书馆员。」
+～克蜜娜
+
+513747
+Excavated Wall
+挖掘堆墙
+"Don't be fooled by the quiet. These old stones are trying to talk to you."
+—Augusta, Lorehold dean
+--------
+「别给这安静氛围给骗了。这旧石头想要跟你说话呢。」
+～衡鉴院长欧歌塔
+
+513748
+Letter of Acceptance
+入学通知书
+The letter unfolded, inviting the twins to Strixhaven. Will saw a chance for arcane study. Rowan saw a chance for power.
+--------
+信封自动打开，邀请冰火双子就读斯翠海文。威尔将其视为研习秘法的良机。萝婉将其视作增强力量的际遇。
+
+513749
+Reflective Golem
+反射魔像
+"We don't cut through Sedgemoor anymore. Can't get five steps without a groff trying to fight its own reflection."
+--------
+「我们不会再抄蓑草原的近道了。走不出五步就会有泽犬跑来想与自己的镜像打架。」
+
+513750
+Spell Satchel
+咒法背包
+
+513751
+Strixhaven Stadium
+斯翠海文赛场
+
+513752
+Team Pennant
+三角队旗
+Choosing a college based on Mage Tower results is discouraged, but not unheard of.
+--------
+虽然不鼓励学生根据斗法塔成绩来选择学院，但这事并不罕见。
+
+513753
+Zephyr Boots
+西风战靴
+
+513754
+Access Tunnel
+入口通道
+Oriq agents stick to the dark corners of Arcavios, unseen yet ever-present.
+--------
+欧理可众密探潜伏在阿凯维沃的黑暗角落，难见踪影却无处不在。
+
+513755
+Archway Commons
+拱顶公地
+
+513756
+The Biblioplex
+茂典阁
+
+513757
+Frostboil Snarl
+霜沸魔旋
+A smoldering storm of chilling fire.
+--------
+寒冰火焰形成的闷燃风暴。
+
+513758
+Furycalm Snarl
+怒静魔旋
+A seething locus of reverent rage.
+--------
+虔静怒火形成的沸涌中心。
+
+513759
+Hall of Oracles
+圣法谕大厅
+
+513760
+Lorehold Campus
+衡鉴校区
+Mage-students obsessed with the secrets of the past choose Lorehold, the college of archaeomancy.
+--------
+着迷过往的修习法师，会选读究古学院衡鉴，深研历史之谜。
+
+513761
+Necroblossom Snarl
+死华魔旋
+A hungry lair of flourishing rot.
+--------
+盎然凋败形成的饥饿巢穴。
+
+513762
+Prismari Campus
+粹丽校区
+Mage-students who see spellcraft as the highest form of expression choose Prismari, the college of elemental arts.
+--------
+热爱咒艺的修习法师，会选读元素学院粹丽，再创展现之威。
+
+513763
+Quandrix Campus
+量析校区
+Mage-students who see the beauty in patterns and equations choose Quandrix, the college of numeromancy.
+--------
+醉心算式的修习法师，会选读数法学院量析，探寻规律之美。
+
+513764
+Shineshadow Snarl
+亮影魔旋
+A flickering beacon of righteous corruption.
+--------
+正气堕落形成的闪烁信标。
+
+513765
+Silverquill Campus
+银毫校区
+Mage-students drawn to the power of language choose Silverquill, the college of eloquence.
+--------
+沉溺言辞的修习法师，会选读宏辩学院银毫，掌握文笔之力。
+
+513766
+Vineglimmer Snarl
+藤烁魔旋
+A verdant paradox of primal logic.
+--------
+原始逻辑形成的新绿矛盾。
+
+513767
+Witherbloom Campus
+靡华校区
+Mage-students fascinated by the energies of life and death choose Witherbloom, the college of essence studies.
+--------
+痴狂生死的修习法师，会选读知命学院靡华，深耕菁华之能。
+
+516678
+Plains
+平原
+
+516679
+Plains
+平原
+
+516680
+Island
+海岛
+
+516681
+Island
+海岛
+
+516682
+Swamp
+沼泽
+
+516683
+Swamp
+沼泽
+
+516684
+Mountain
+山脉
+
+516685
+Mountain
+山脉
+
+516686
+Forest
+树林
+
+516687
+Forest
+树林
+
+========

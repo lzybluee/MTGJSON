@@ -1,0 +1,2114 @@
+489674
+Karn Liberated
+重获自由的卡恩
+
+489675
+Alabaster Mage
+洁白法师
+"We hold sacred the powers of light and life. Truth and honor are our greatest weapons."
+—Alabaster creed
+--------
+「光明与生命是我们坚守的力量。真理与荣誉是我们最强的武器。」
+～洁白信条
+
+489676
+Ancestral Blade
+祖传宝刃
+
+489677
+Angel of the Dawn
+黎明天使
+She sings for all those who have been silenced.
+--------
+她为被噤声者而歌。
+
+489678
+Archangel of Thune
+图恩大天使
+Even the wicked have nightmares.
+--------
+即使是邪恶之徒也有噩梦。
+
+489679
+Auriok Salvagers
+欧瑞克修护士
+"Memnarch or the vedalken salvage most of the large machines, leaving us only scraps. Scraps are enough."
+--------
+「大型机械几乎都被蒙纳珂或是维多肯族回收利用，我们只有废铁可捡。但废铁便已堪用了。」
+
+489680
+Austere Command
+严峻指命
+
+489681
+Avacyn, Angel of Hope
+希望天使艾维欣
+A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.
+--------
+金色螺旋自狱窖疾升入空。巨大银体在惊雷爆炸中碎裂，艾维欣终于自牢狱中脱困。
+
+489682
+Blade Splicer
+锋刃接合师
+"Flesh is a betrayal of the self."
+--------
+「肉体是对自我的背叛。」
+
+489683
+Boon Reflection
+恩泽映象
+Twice brewed and twice blessed, the remedy restores both body and mind.
+--------
+两次酿造双重祝福，身体心灵皆得恢复。
+
+489684
+Council's Judgment
+众议裁定
+When its power is threatened, the council speaks with a unified voice.
+--------
+当议会威权受到挑战时，其间众口会以同声回敬。
+
+489685
+Crib Swap
+暗中掉包
+
+489686
+Crusader of Odric
+欧吉克圣战军
+"We are Odric's sword. We strike without fear, for his mind has divined how our foe will be slain."
+--------
+「我们是欧吉克的长剑。出击从不带疑惧，因为他早已算准敌人将如何受死。」
+
+489687
+Ethersworn Canonist
+乙金盟法规师
+"The noble work of our order is to infuse all life on Esper with etherium. Our goal will be reached more rapidly if new life is . . . suppressed."
+--------
+「本教派的崇高目标，就是将乙金注入艾斯波所有生命中。让目标加速达成的方法就是. . .抑制新生命。」
+
+489688
+Fencing Ace
+击剑高手
+His prowess gives the guildless hope that they can hold out against tyranny.
+--------
+他的英勇让无所属者有希望，让他们得以坚决抵抗暴行。
+
+489689
+Flickerwisp
+明灭翔灵
+Its wings disturb more than air.
+--------
+其翅翼比所卷起的气流更扰乱人心。
+
+489690
+Fortify
+筑起工事
+"Where metal is tainted and wood is scarce, we are best armed by faith."
+—Tavalus, acolyte of Korlis
+--------
+「金属腐坏，木材短缺，信念是我们最好的武器。」
+～寇利斯侍僧塔瓦勒
+
+489691
+Glint-Sleeve Artisan
+晶袖会工匠
+"Shine bright, bolts tight."
+--------
+「光芒耀眼，螺栓牢固。」
+
+489692
+Kemba, Kha Regent
+摄政狮王肯芭
+"I am not Raksha. I never will be. But I refuse to be the kha who watched her pride be torn asunder."
+--------
+「我不是拉夏。我永远都不会是。而我拒绝担任眼见自己狮群分裂的狮王。」
+
+489693
+Land Tax
+抽地税
+
+489694
+Leonin Abunas
+狮族高僧
+Only leonin clerics who can survive the Razor Fields for one turning of the suns can stand in the Cave of Light.
+--------
+能在锐草原野中活过一次四阳轮转的狮族僧侣，才有资格进入明光洞窟。
+
+489695
+Master Splicer
+接合大师
+With Phyrexia's victory at hand, each sect began perfecting its vision.
+--------
+非瑞克西亚的胜利已在眼前，旗下每个分部已开始整顿基础。
+
+489696
+Myrsmith
+秘耳工匠
+The Auriok see the artificer as a conduit, beckoning new creations into the world.
+--------
+欧瑞克人将神器师看作渠道，将新的造物吸引至世界。
+
+489697
+Open the Vaults
+打开地窖
+When the vaults are empty, everyone is rich.
+--------
+等地窖搬空，大家就都不愁吃穿了。
+
+489698
+Path to Exile
+流放之径
+
+489699
+Puresteel Paladin
+净钢神圣武士
+
+489700
+Remember the Fallen
+追忆逝者
+When the Mirrans had fallen, Planeswalkers carried the burden of remembrance.
+--------
+当秘罗人一一倒下，鹏洛客得扛起追忆的负担。
+
+489701
+Revoke Existence
+撤销存在
+"The time has come for us to throw off the chains of tyrannical gods and antiquated superstitions."
+—Tikaia, disciple of Uremides
+--------
+「这天已经到来：吾辈苦于专横神明与陈腐迷信的桎梏，如今该挺身破除这一切。」
+～乌瑞弥得斯学徒提卡伊亚
+
+489702
+Sanctum Gargoyle
+圣所石像鬼
+As their supplies of etherium dwindled, mechanists sent gargoyles farther and farther afield in search of salvage.
+--------
+机械师在乙金存量不足时，会派出石像鬼到遥远彼方搜寻可用材料。
+
+489703
+Sanctum Spirit
+圣所精怪
+"When history becomes too mournful, even good souls may choose to forget."
+—Shalai, voice of Plenty
+--------
+「当历史太过哀伤，就连善良的灵魂也会选择遗忘。」
+～众生使者莎黎
+
+489704
+Stoneforge Mystic
+锻石秘教徒
+
+489705
+Stonehewer Giant
+劈岩巨人
+"No matter how strong, an unarmed fighter is no more than a fool."
+--------
+「不论体格多壮，没带武装的战士只不过是个蠢蛋。」
+
+489706
+Strength of Arms
+兵器之力
+"We fight not for Avacyn, but for her ideals; not for the church, but for its people."
+—Thalia, Guardian of Thraben
+--------
+「我们作战，不是为了艾维欣，而是为了她的理念；不是为了教会，而是为了人民。」
+～瑟班守护者莎利雅
+
+489707
+Tempered Steel
+精炼钢
+"Death shall prevail as long as our will falls to rust. May necessity anneal our resolve."
+—Ghalma the Shaper
+--------
+「如果我们的意志生锈，死亡便将横行无阻；但愿困境能激励我们的决心。」
+～塑型师佳玛
+
+489708
+Thraben Inspector
+瑟班巡检官
+"If you've been at this as long as I have, nothing can surprise you. That's the hope, at least."
+--------
+「如果你也和我一样在这行干了这么多年，那应该没东西能吓到你了。至少这也算是希望吧。」
+
+489709
+Topple the Statue
+推倒塑像
+Bolas cared little when his statue fell, thinking it a useful distraction, underestimating the surge of resolve it gave his opponents.
+--------
+波拉斯眼见大军推翻自己塑像，只当它成功拖住敌军脚步而不以为意，却忽略了对方由此涌升的必胜信念。
+
+489710
+Valor in Akros
+阿喀洛斯骁勇
+There's no stronger armor than the bravery of those beside you.
+--------
+勇猛同伴更胜坚厚铠甲。
+
+489711
+Valorous Stance
+英勇以对
+"Every choice alters the path of fate."
+—Sarkhan Vol
+--------
+「每个选择都会影响命途走向。」
+～萨坎沃
+
+489712
+Wrath of God
+神之愤怒
+
+489713
+Apprentice Wizard
+魔术师学徒
+Aspiring wizards must demonstrate basic levels of willpower and mental discipline to even be considered for an apprenticeship.
+--------
+立志咒艺者必先展现出基本的意志力和精神自制力，才有资格成为学徒。
+
+489714
+Arcum Dagsson
+阿肯达格森
+"Artifice sundered the world. It shall not again wreak such sorrow."
+--------
+「奇械曾撕裂这世界。此般悲剧将不再发生。」
+
+489715
+Argivian Restoration
+阿基夫的修复术
+"The Argivian University taught me two things: always look to the past, and never dismiss what appears useless."
+—Hanna, Weatherlight navigator
+--------
+「阿基夫的大学教了我两件事：其一是要时时回顾过去，其二是切莫轻视看似无用之物。」
+～晴空号领航员哈娜
+
+489716
+Braids, Conjurer Adept
+咒法专家布蕾德
+The rifted multiverse became a sea of conflicting realities, each peopled by possible versions of every living being.
+--------
+受时缝影响的多重宇宙里，现实彼此冲突，挤满了每个生灵各种可能成为的样貌。
+
+489717
+Brainstorm
+脑力激荡
+The mizzium-sphere array drove her mind deep into the thought field, where only the rarest motes of genius may be plucked.
+--------
+整排的米捷球助她的心灵深探思想领域，寻访其间智慧灵光。
+
+489718
+Cloudreader Sphinx
+识云史芬斯
+
+489719
+Corridor Monitor
+长廊监卫
+Castle Vantress has no locks on its doors, but interlopers rarely make it past the foyer.
+--------
+虽然凡翠丝堡的大门从不上锁，但鲜有擅入者见过门厅之外的模样。
+
+489720
+Cyclonic Rift
+龙卷裂空
+The Izzet specialize in unnatural disaster.
+--------
+伊捷以非天然灾害为业。
+
+489721
+Deepglow Skate
+渊光鳐
+Its graceful glide paints the ocean floor with strokes of luminescence.
+--------
+优雅曳动，缀海床以流光。
+
+489722
+Esperzoa
+艾斯波佐雅
+The more metal it digests, the more its jelly will fetch on the alchemists' market.
+--------
+它吃得越多，体内胶质在炼金术士市场上就能卖得更好。
+
+489723
+Faerie Mechanist
+仙灵机械师
+
+489724
+Force of Will
+意志之力
+"I alone determine my destiny."
+--------
+「我命由我不由天。」
+
+489725
+Frogify
+变蛙咒
+That gnat was still hovering by the venison, and now both looked delicious.
+--------
+刚刚鹿肉上还有恼人蚊虫飞舞，现在这两样东西看起来都很美味。
+
+489726
+Grand Architect
+高位构念师
+
+489727
+Hinder
+阻碍
+"Do not react to force in kind. Turn it aside. Direct it to where it can do no harm."
+—Meloku the Clouded Mirror
+--------
+「勿以横暴回敬强蛮；应将其导引至无害之处。」
+～昙镜梅洛古
+
+489728
+Inkwell Leviathan
+墨涌海怪
+"Into its maw went the seventh sea, never to be seen again while the world remains."
+—Esper fable
+--------
+「第七海入其咽喉，从此世上不复见。」
+～艾斯波寓言
+
+489729
+Jace, the Mind Sculptor
+心灵塑师杰斯
+
+489730
+Master of Etherium
+乙金大师
+"Only a mind unfettered with the concerns of the flesh can see the world as it truly is."
+--------
+「未受肉身束缚的心灵，才得见世界真貌。」
+
+489731
+Master Transmuter
+易质大师
+"Wasted potential surrounds us. Lend me that bauble, and let me see what it can be made to be."
+--------
+「我们四周充满了未发掘的潜力。把那饰品递过来，让我瞧瞧它能给造成什么东西。」
+
+489732
+Metallic Rebuke
+聚金拒斥
+"Too little, too late. The machine is in motion."
+—Tezzeret
+--------
+「可惜来不及了。机械已开始运转。」
+～泰兹瑞
+
+489733
+Parasitic Strix
+寄生枭
+After finding no sustenance on the edges of Grixis, it turned to the skies of Bant.
+--------
+它发现格利极的边界找不到粮食，于是转向飞往班特的天空。
+
+489734
+Phyrexian Metamorph
+非瑞克西亚蜕变妖
+
+489735
+Pongify
+猿化术
+Some spellcrafting mistakes go on to become spells of their own.
+--------
+某些操弄咒法的错误经演进而自成一格。
+
+489736
+Relic Runner
+亡命窃宝客
+Her knack for tampering with wards got her kicked out of the academy, but they also got her back in.
+--------
+她精于干扰法术守护，因而被逐出学院；但这能耐让她来去自如。
+
+489737
+Reshape
+重新塑型
+"Today's paperweight, tomorrow's leveler."
+—Bruenna, Neurok leader
+--------
+「今日的小小纸镇，明日可能变成夷平者。」
+～纽若克统领布威娜
+
+489738
+Riddlesmith
+谜题工匠
+The Neurok see the artificer as an archaeologist, clearing away falsehoods to see the truth hidden beneath.
+--------
+纽若克人将神器师看作考古学家，厘清谬误好看见底下埋藏的事实。
+
+489739
+Rush of Knowledge
+知识涌升
+"Limitless power is glorious until you gain limitless understanding."
+—Ixidor, reality sculptor
+--------
+「求得无穷的悟解之后，无穷的力量便不再引人。」
+～实相塑师意悉多
+
+489740
+Sentinel of the Pearl Trident
+珍珠三叉戟哨卫
+
+489741
+Serra Sphinx
+撒拉史芬斯
+Sphinxes drink from the mystic meres of Serra's realm, where their keen eyes watch reflections of what is and what is yet to come.
+--------
+史芬斯在撒拉的圣域之神秘小湖饮水，锐利眼光凝视着事物目前与即将呈现的样貌。
+
+489742
+Sift
+详查
+Dwell longest on the thoughts that shine brightest.
+--------
+愈有吸引力的念头愈需三思。
+
+489743
+Steel Sabotage
+捣毁钢铁
+"You are hopelessly obsolete, my brothers. Come and join the Great Work."
+—Rhmir, Hand of the Augur
+--------
+「兄弟啊，你完全脱节了。加入伟大志业的行列吧。」
+～卜算手信众卢米
+
+489744
+Thirst for Knowledge
+渴求知识
+Lymph, the fluid essence of blinkmoths, is prized by wizards for the rush of intellect it provides.
+--------
+光蛾的液态精华称作清芙，能够带来大量的知识，是法术师眼中的珍品。
+
+489745
+Thought Reflection
+心念映象
+Only when two oracles speak in unison is an omen accepted as truth.
+--------
+但有两位先知同声预测，所见预兆便真如事实。
+
+489746
+Treasure Mage
+宝物法师
+
+489747
+Vedalken Infuser
+维多肯灌输师
+"All plans begin as dreams. I intend to awaken them."
+--------
+「所有计划刚开始都是梦想。而我要将它们唤醒。」
+
+489748
+Well of Ideas
+灵感之井
+
+489749
+Ad Nauseam
+倒胃口
+When the task spilled over into undeath, he stopped calling it his life's work.
+--------
+当任务在他死后的生涯仍需持续，他便不再称此为「终生使命」。
+
+489750
+Beacon of Unrest
+不息信标
+"The light of my master's guidance traverses all boundaries, even those separating life and death."
+--------
+「我主指引的明光遍及所有地界，即使隔绝生死的领域都能到达。」
+
+489751
+Bone Picker
+食骨鸟
+They are the first to greet dissenters on their journey into exile.
+--------
+它们是逆徒在流放路途中的首批访客。
+
+489752
+Cast Down
+湮灭
+"Your life is finished, your name lost, and your work forgotten. It is as though Mazeura never existed."
+—Chainer's Torment
+--------
+「你的生命已终结，你的名字已失佚，你的成就已湮没。仿佛马佐拉从未存在。」
+～《崔纳的绝境》
+
+489753
+Costly Plunder
+昂贵劫夺
+No lock of iron is a match for Vraska's will of stone.
+--------
+铁质锁具挡不住瓦丝卡的铁石心肠。
+
+489754
+Dark Confidant
+黑暗亲信
+Greatness, at any cost.
+--------
+追求卓越，不计代价。
+
+489755
+Death's Shadow
+死亡阴影
+The shadow of the candle looms tall even as its light grows dim.
+--------
+蜡烛火光渐弱，而其阴影愈显高大。
+
+489756
+Defiant Salvager
+无畏回收师
+"I didn't survive that crash just so I could fall to the likes of you."
+--------
+「我在那次坠毁中幸存，可不是为了变成你们之流。」
+
+489757
+Dire Fleet Hoarder
+焦炬舰队匿宝客
+Among the pirates of the Brazen Coalition, the only thing more dangerous than failure is success.
+--------
+对于莽霸联盟的海盗而言，只有成功比失败更难熬。
+
+489758
+Disciple of Bolas
+波拉斯信徒
+"Lord Bolas has shown me how each miserable little life holds untold resources."
+--------
+「波拉斯大人向我展示过低贱的生命如何掩饰秘密。」
+
+489759
+Disciple of the Vault
+黯窖门徒
+He stands in the shadow of his lord, Geth, drinking in the dark energies of the Vault.
+--------
+他在其主盖司的阴影庇护下，畅饮黯窖的黑暗能源。
+
+489760
+Divest
+褫夺
+Flittersprites collect unusually valuable things: coins of fallen empires, baby teeth, and memories of treasured names.
+--------
+迅舞仙子收集格外珍贵的东西：堕落王朝的钱币，乳齿，以及对珍贵名字的记忆。
+
+489761
+Doomed Necromancer
+败亡死灵术士
+Many necromancers share the same last words—the ones that conclude the undeath ritual.
+--------
+许多死灵术士的遗言是同一句～用来结束亡物仪式的那句。
+
+489762
+Dread Return
+颤栗再现
+Those who forget the horrors of the past are doomed to re-meet them.
+--------
+忘却过往梦魇的人，注定倒霉要再度碰上。
+
+489763
+Driver of the Dead
+亡者车夫
+Some vampires resorted to corpse trading after cathars burned their estates and drove them from their ancestral feeding grounds.
+--------
+有些吸血鬼被护教军烧毁庄园、驱离祖传猎食地，改靠尸体交易过活。
+
+489764
+Drown in Sorrow
+陷入悲痛
+"The sad truth is that the whip of Erebos is long enough to wrap around all our throats."
+—Perisophia the philosopher
+--------
+「不幸的是，厄睿柏斯的鞭子长到足以勒住我们所有人的脖子。」
+～哲人珀里索菲娅
+
+489765
+Executioner's Capsule
+刽子手坠盒
+There is always a moment of trepidation before opening a message capsule, for fear of the judgment that might be contained within.
+--------
+打开这坠盒之前总会不自主地颤抖，深怕其中可能承载的裁决。
+
+489766
+Fatal Push
+送终一击
+
+489767
+Geth, Lord of the Vault
+黯窖之王盖司
+
+489768
+Glaze Fiend
+嵌璃邪鬼
+Before the zealots of the Ethersworn came to power, Esper illusionists dreamed up creations to mimic a variety of substances.
+--------
+在乙金盟由狂热派掌权之前，艾斯波的幻影师梦想着用造物来模仿各种物质。
+
+489769
+Heartless Pillage
+无情劫掠
+
+489770
+Magus of the Abyss
+深渊贤者
+He climbs a staircase of falling souls, fighting the continuous pull of the void.
+--------
+他在沉降深渊的灵魂之间拾级而上，抵抗着虚空从不间断的拉扯。
+
+489771
+Magus of the Will
+意志贤者
+"These eyes have shown me the flaws of flesh."
+--------
+「这双眼睛向我展现出肉身的瑕疵。」
+
+489772
+Morkrut Banshee
+穆坎女妖
+"Let go your grudges, or risk wandering the bogs forever in a murderous rage."
+—Hildin, priest of Avacyn
+--------
+「抛弃你的嫌隙，否则小心会落入抱着恨意永远在沼地徘徊的地步。」
+～艾维欣僧侣西汀
+
+489773
+Oubliette
+密牢囚禁
+
+489774
+Ovalchase Daredevil
+逐榄道铁胆车手
+"Let me guess. You thought I was dead."
+--------
+「我猜猜。你以为我死了。」
+
+489775
+Painsmith
+苦痛工匠
+The Moriok see the artificer as a taskmaster, forcing lazy metal into more potent shapes.
+--------
+莫锐可人将神器师看作工头，逼迫懒惰的金属成为更加强劲的形状。
+
+489776
+Ravenous Trap
+贪婪陷阱
+
+489777
+Salvage Titan
+废品泰坦
+
+489778
+Silumgar Scavenger
+席穆嘉族食腐鸟
+
+489779
+Skirsdag High Priest
+史革达高阶僧侣
+"Thraben's pleas fall on deaf ears. Ours do not."
+--------
+「瑟班的祈祷无人听闻。我们的可不会。」
+
+489780
+Skithiryx, the Blight Dragon
+枯萎巨龙极兹锐
+
+489781
+Supernatural Stamina
+非凡耐力
+"All are not equal—neither in life nor after death. Bontu's favorites will stand highest in eternity."
+—Senifet, vizier of Bontu
+--------
+「众生非平等～无论是生前还是死后。受芭图眷宠者会永远屹立巅峰。」
+～芭图维齐尔瑟尼法
+
+489782
+Thoughtseize
+攫取思绪
+"Any dream is a robust harvest. Still, I prefer the timeworn dreams, heavy with import, that haunt the obsessive mind."
+--------
+「任何眠梦都是醇厚的收获。不过，我还是偏好被时间消蚀、折磨着受苦心灵又充满含义的梦想。」
+
+489783
+Toxic Deluge
+毒雨倾盆
+"It's a difficult task to quarantine a plague that moves with the clouds."
+—Esara, healer adept
+--------
+「隔离随云漂移的瘟疫是至难之业。」
+～治疗专家易萨拉
+
+489784
+Twisted Abomination
+曲恶憎恨兽
+
+489785
+Vampire Hexmage
+邪术吸血鬼
+When the blood hunt lost its thrill, she looked for less tangible means of domination.
+--------
+当鲜血狩猎失去了刺激感，她便开始寻求不那么具象的支配方式。
+
+489786
+Wound Reflection
+伤痛映象
+The greater the suffering, the sweeter the taste.
+--------
+痛苦越深，滋味越甜。
+
+489787
+Abrade
+风化侵蚀
+The desert is a voracious beast, devouring both flesh and stone.
+--------
+沙漠是一头贪餍的野兽，能将骨肉砂石悉数吞没。
+
+489788
+Balduvian Rage
+博都维之怒
+"Let your heartbeat be the thunder in the valley. Let your swords be the lightning on the peaks."
+—Lothar Lovisason, Balduvian chieftain
+--------
+「你心底鼓动将如谷间雷鸣。你手中长剑将似峰顶疾电。」
+～博都维酋长洛瑟罗维莎森
+
+489789
+Battle-Rattle Shaman
+战响祭师
+The shaman rattles not to inspire a battle fury but to drown out the shrieks of those fleeing the Eldrazi.
+--------
+祭师发出的吵杂声音并不是用来激起战意，而是要盖掉那些被奥札奇吓跑者的尖叫。
+
+489790
+Blasphemous Act
+渎神行径
+"Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything."
+—Thalia, Knight-Cathar
+--------
+「圣地不再免于死亡沾惹，死亡也不再免于任何沾惹。」
+～护教军骑士莎利雅
+
+489791
+Blood Moon
+腥红之月
+Heavy light flooded across the landscape, cloaking everything in deep crimson.
+--------
+阴沉光芒遍洒大地，一片深红笼罩着万物。
+
+489792
+Bloodshot Trainee
+血丝学员
+"Just think how strong I'll be if my arms don't tear off!"
+--------
+「如果我的手臂没断掉，想想看我会是多强！」
+
+489793
+Brimstone Volley
+硫磺射击
+Peace had failed. War had failed. There was only one option left.
+--------
+和平终告失败。战争亦未成功。只剩一个选择。
+
+489794
+Cathartic Reunion
+感人重逢
+The chasm of years and worlds collapsed under the power of their embrace.
+--------
+只消紧紧拥抱，多少岁月与世界的隔阂都会烟消云散。
+
+489795
+Cragganwick Cremator
+喀干伟火葬师
+Each night that his bowl fills, a village mourns.
+--------
+在他享受丰盛晚餐时，会有个村子整夜哀悼。
+
+489796
+Dismantle
+解体
+"If only the living were so easily salvaged."
+—Memnarch
+--------
+「若活物也能这样回收利用，该有多好。」
+～蒙纳珂
+
+489797
+Dualcaster Mage
+复咏法师
+"It has been my experience that disasters like to strike in pairs."
+--------
+「根据经验判断，灾祸永不单行。」
+
+489798
+Galvanic Blast
+电流冲击波
+Mirrodin has little weather, but it certainly has lightning.
+--------
+秘罗地不常有坏天气，但确实会打雷。
+
+489799
+Goblin Gaveleer
+挥槌鬼怪
+"When everything looks like a nail, you really need to get yourself a hammer."
+—Krol, goblin furnace-priest
+--------
+「当每件东西看来都像钉子，你真的该替自己找把槌子。」
+～鬼怪熔炉僧克罗
+
+489800
+Goblin Guide
+鬼怪向导
+"I've been all over this world. I even remember some of those places."
+--------
+「我到过世界各处。我还可以记得其中的一些地方。」
+
+489801
+Godo, Bandit Warlord
+山贼王伍堂
+
+489802
+Grim Lavamancer
+狰狞熔岩术士
+"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper."
+--------
+「愚人挖地找水，尸体，或是金子。大地的真正宝藏要埋得更深。」
+
+489803
+Heat Shimmer
+热光烁影
+"Better to flare out than to gutter."
+—Flamekin expression
+--------
+「宁可烧尽，切勿熄灭。」
+～炎身用语
+
+489804
+Imperial Recruiter
+近卫队
+A passionate recruiter will win a war before the first arrow flies.
+--------
+最热忱的近卫募官在开战之前就能奠定胜局。
+
+489805
+Ion Storm
+离子风暴
+When enough artifacts lie too long in the same place, their magical radiation weakens reality, opening rifts of unpredictable destructive power.
+--------
+若许多神器长久聚集一处，所放出的法术辐射将析离实界，招引难以预期之毁灭力量。
+
+489806
+Kazuul's Toll Collector
+克卒的强征员
+Travelers are advised to bring extra swords, preferably shiny ones.
+--------
+建议旅行者携带额外刀具，闪亮者为佳。
+
+489807
+Kuldotha Flamefiend
+库度沙炎魔
+
+489808
+Lightning Axe
+闪电斧
+"A gargoyle's meat can be carved with an ordinary cleaver, but for its petrous hide . . ."
+—Asmoranomardicadaistinaculdacar,
+The Underworld Cookbook
+--------
+「石像鬼的肉可以用一般的切肉刀削开，至于它的石皮. . .」
+～阿司魔拉诺马尔迪卡带斯提纳酷达卡，
+《地底世界食谱》
+
+489809
+Mana Echoes
+魔法力共鸣
+When the ground is saturated with mana, even the lightest footstep can bring it to the surface.
+--------
+当大地饱含着法术力，即使最轻的脚步也能使其溢出地表。
+
+489810
+Orcish Vandal
+莽撞半兽人
+Every ancient relic is a weapon if you throw it hard enough.
+--------
+只要用足力气投掷，每个远古遗物都能成为武器。
+
+489811
+Pyrewild Shaman
+葬火林祭师
+
+489812
+Rage Reflection
+愤怒映象
+Make every blow count.
+--------
+必须刀刀见血。
+
+489813
+Rapacious Dragon
+贪宝巨龙
+"Surely it won't notice if I take—"
+—Theria the Sly, last words
+--------
+「我拿走几个它肯定也不会发～」
+～妙手赛莉娅的遗言
+
+489814
+Ravenous Intruder
+贪婪入侵者
+"I've made some fine acquisitions of late, so I'm planning to make commensurate improvements to my security systems. I have a consultant coming tomorrow."
+—Kurna Majan, Luminary League
+--------
+「余近日购得珍玩数件，故欲将保全系统修葺一新，以相般配。明日已约顾问前来洽谈。」
+～名仕盟的库纳默金
+
+489815
+Rolling Earthquake
+地动山摇
+An empire can take centuries to build but mere moments to destroy.
+--------
+王朝奠基数百载，社稷倾崩转眼间。
+
+489816
+Salivating Gremlins
+垂涎怪灵
+If an elf can dream it, a dwarf can build it, and a gremlin can eat it.
+--------
+如果妖精能构想它，矮人就能建造它，怪灵就能吃掉它。
+
+489817
+Skinbrand Goblin
+烙肤鬼怪
+"These Gruul skin-runes—discern whether their patterns evoke streets, leylines, or both. You have four days."
+—Niv-Mizzet, to his assistant
+--------
+「这些古鲁皮肤符文～找出其图案能呼唤街道、地脉，还是两者都能。你有四天时间。」
+～尼米捷告诉其助手
+
+489818
+Sneak Attack
+偷袭
+
+489819
+Temur Battle Rage
+铁木尔战怒
+
+489820
+Thopter Engineer
+振翼机工程师
+
+489821
+Trash for Treasure
+废物利用
+Goblins generally have two possessions: one per hand.
+--------
+鬼怪的双手通常各有主见。
+
+489822
+Tuktuk the Explorer
+探险家图图
+Remade by Eldrazi magic, Tuktuk inspired an entire clan of misguided goblins.
+--------
+图图被奥札奇法术重制之后，点醒了一整族被带入歧途的鬼怪。
+
+489823
+Weapon Surge
+武力翻腾
+
+489824
+Ancient Stirrings
+唤醒古物
+
+489825
+Avenger of Zendikar
+赞迪卡复仇者
+
+489826
+Awakening Zone
+觉醒区域
+The ground erupted in time with the hedron's thrum, a dirge of the last days.
+--------
+晶石的响声有如末世挽歌，让大地随此节奏爆发。
+
+489827
+Bloodbriar
+血荆灵
+"There is a sourness here that I don't understand. When the land reaches out to me, I hesitate to reach back."
+—Nissa Revane
+--------
+「此地有一股令我不解的酸涩。大地向我伸出手，而我犹豫是否该回应。」
+～妮莎瑞文
+
+489828
+Bloodspore Thrinax
+血孢叉齿蜥
+
+489829
+Champion of Lambholt
+羊屯斗士
+
+489830
+Chatter of the Squirrel
+松鼠的絮聒
+
+489831
+Chord of Calling
+和声召集
+
+489832
+Clear Shot
+精准一击
+"What worked to bring down angels will do the same for these horrors."
+—Rem Karolus, Slayer of Eldrazi
+--------
+「能射下天使的方法对这些邪物同样有效。」
+～奥札奇克星连卡洛
+
+489833
+Conclave Naturalists
+盟会归真师
+"Your swords and wards have no power here."
+--------
+「你的剑和魔法在此毫无用处。」
+
+489834
+Crop Rotation
+轮耕法
+Zendikar's elves have developed innovative methods to mitigate the effects of the Roil.
+--------
+赞迪卡的妖精已活用新颖方法，以减轻狂搅造成的影响。
+
+489835
+Crushing Vines
+藤蔓压溃
+"Your veil's curse won't stop me, deathmage. I have taken down countless night hunters. This dark plane is not big enough for you to hide."
+—Garruk Wildspeaker, to Liliana Vess
+--------
+「死亡法师，你的面纱诅咒可挡不住我。我击败过无数的暗夜猎人，这黑暗时空还没大到能让你躲藏。」
+～召兽使贾路斥喝莉莲娜维斯
+
+489836
+Death-Hood Cobra
+亡者头套眼镜蛇
+"Size alone does not guarantee survival."
+—Vorinclex, Voice of Hunger
+--------
+「个子大并不一定活得久。」
+～饥饿之声弗霖凯
+
+489837
+Doubling Season
+倍产旺季
+
+489838
+Elvish Aberration
+畸变妖精
+
+489839
+Enlarge
+增大
+For Mittens, it was just another day at the beach.
+--------
+在小绒爪看来，只不过又是海滩上稀松平常的一天。
+
+489840
+Exploration
+探险
+"Only when we journey into the unknown can we find the impossible."
+—Cyrul the Wanderer
+--------
+「我们只有进入未知之境，才能发现不可能之事。」
+～云游法师希禄
+
+489841
+Fierce Empath
+好斗共感者
+
+489842
+Gelatinous Genesis
+凝胶创生
+Even as the world was left cracked and gory by the marauding Eldrazi, new life began to drip from its wounds.
+--------
+即使这世界已被侵袭的奥札奇撕裂，新生命依旧从其伤口降临世间。
+
+489843
+Greater Good
+牺牲小我
+"There's wisdom to be gained in death—whether it be one's own or someone else's."
+—Jarad, Golgari Lich-Lord
+--------
+「死亡之中可以获得知识～无论是自己的还是别人的。」
+～葛加理巫妖领主贾雷
+
+489844
+Heartbeat of Spring
+春之鼓动
+"It is true that we monks hold the key to paradise, but most don't understand that the paradise we guard is the one within."
+—Diary of Azusa
+--------
+「修行僧的确掌握了天堂的入口；但大多数人并不了解，我们所护卫的天堂就存于众生心中。」
+～梓纱的日记
+
+489845
+Invigorate
+鼓舞
+
+489846
+Kozilek's Predator
+寇基雷猎者
+It's difficult to outwit something that doesn't speak, strategize, or even think.
+--------
+很难去智取不说话、不算计，甚至不思考的东西。
+
+489847
+Liege of the Tangle
+铬铜林王侯
+
+489848
+Mana Reflection
+魔力映象
+The greatest wonders of nature are found in the smallest saplings straining toward the canopy.
+--------
+柔弱树苗长成参天大树，便是自然界最宏伟的奇迹。
+
+489849
+Might of the Masses
+众人之力
+The Joraga elves never need ask a troll to leave their territory. They merely grant it their combined strength, and it can't resist embarking on a merry rampage.
+--------
+玖瑞加妖精从未要求巨魔离开其领土。他们只是将集体之力量赋予它身上，使它忍不住要展开快乐的暴冲旅程。
+
+489850
+Noble Hierarch
+贵族大主教
+She protects the sacred groves from blight, drought, and the Unbeholden.
+--------
+她守护神圣树丛，将枯萎、干旱与失格者摒除在外。
+
+489851
+Reclamation Sage
+复碧智者
+"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth."
+--------
+「无论是由石匠塑造，由铁匠锻造，或由法师赐予生命者，我都会让它们重归大地怀抱。」
+
+489852
+Shamanic Revelation
+祭师启示
+First, whispers of ancient days. Then, visions of things to come.
+--------
+先是呢喃细语述说远古过往。后有万千景象展现动荡未来。
+
+489853
+Skullmulcher
+掩颅灵
+
+489854
+Sylvan Might
+森林之力
+
+489855
+Terastodon
+撼地象
+
+489856
+Thragtusk
+犄牙兽
+"Always carry two spears."
+—Mokgar, Kalonian hunter
+--------
+「一定要带两支矛。」
+～卡隆尼亚猎人默卡
+
+489857
+Ulvenwald Mysteries
+沃文森谜团
+
+489858
+Vengevine
+复仇藤蔓
+Leave but a shred of root and it will return, bursting with vigor.
+--------
+就算只留下一小片根，它也会精神十足地再度冒出来。
+
+489859
+Veteran Explorer
+资深探险家
+
+489860
+Whisperer of the Wilds
+蛮荒低语者
+She speaks only in whispers but can be heard over the fiercest storm.
+--------
+她总是轻声细语，但即使在最猛烈的风暴中也清晰可闻。
+
+489861
+Woodland Champion
+林地斗士
+"Every footfall on the forest floor is a heartbeat sending strength into my veins."
+--------
+「树林间传来的每一声足音，都是心跳鼓动，将力量贯通我全身。」
+
+489862
+Arixmethes, Slumbering Isle
+静眠岛屿阿力马昔斯
+
+489863
+Atraxa, Praetors' Voice
+魔判官之声亚崔夏
+
+489864
+Baleful Strix
+恶邪枭
+Its beak rends flesh and bone, exposing the tender marrow of dream.
+--------
+它用喙扯碎骨肉，让梦想柔髓暴露于外。
+
+489865
+Breya, Etherium Shaper
+乙金塑师布莱娅
+
+489866
+Brudiclad, Telchor Engineer
+钛可工程师布迪凯
+
+489867
+Deathreap Ritual
+掠亡仪式
+"All who set foot in Paliano are pawns in someone's play for power."
+—Marchesa, the Black Rose
+--------
+「帕兰诺城中的每一个人都是他者篡权大局中的一枚棋子。」
+～黑蔷薇玛切莎
+
+489868
+Falkenrath Aristocrat
+伐肯纳豪族
+"Your blood is quite pleasing. A pity there's not enough for both of us."
+--------
+「你的血相当令我满意。只可惜份量不够我俩共享。」
+
+489869
+Fulminator Mage
+雷鸣法师
+"Burn, suffer, and trouble me no more."
+--------
+「燃烧吧，痛苦吧，别再来烦我。」
+
+489870
+Geist of Saint Traft
+圣沙弗的游魂
+
+489871
+Ghor-Clan Rampager
+狂暴高尔族
+"The Simic come from the cold slow depths. How could they understand the fire in a wild heart?"
+—Kroshkar, Gruul shaman
+--------
+「析米克来自寒冷迟滞的深渊。他们如何能理解狂野心灵之火？」
+～古鲁祭师克许卡
+
+489872
+Glassdust Hulk
+玻璃尘巨汉
+
+489873
+Hanna, Ship's Navigator
+领航员哈娜
+"I never thought I'd spend my life fighting. I'm a maker, not a destroyer."
+--------
+「我竟会将生命虚掷于战斗中。我该作的是创造，而不是破坏。」
+
+489874
+Hidden Stockpile
+秘藏备品
+
+489875
+Izzet Charm
+伊捷护符
+
+489876
+Jhoira, Weatherlight Captain
+晴空号船长尤依拉
+As she took the wheel of the Weatherlight for the first time in a millennium, Jhoira knew she'd been right to restore the ship. Anything was possible now.
+--------
+当尤依拉千年以来首次亲手掌控晴空号的舵轮之时，她意识到修复飞船乃是正确决定。如今一切皆有可能。
+
+489877
+Kaalia of the Vast
+穹境的卡莉雅
+"I'll have my revenge if I have to call on every force from above and below."
+--------
+「倘我动员上天下地每一分力量，复仇势必成功。」
+
+489878
+Karrthus, Tyrant of Jund
+勇得暴君卡瑟
+
+489879
+Maelstrom Nexus
+涡心连结点
+
+489880
+Maelstrom Pulse
+涡心鼓动
+During the collision of the shards, entire ways of life disappeared without a trace.
+--------
+在断片会聚之时，许多的生命型态就此消失无踪。
+
+489881
+Manamorphose
+魔力塑型
+"Master the chaotic forces of nature, and you shall master magic."
+—Yare-Tiva, warden of Gramur forest
+--------
+「通晓自然的混沌之力，你就能掌握魔法。」
+～格拉莫树林守卫叶提娃
+
+489882
+Mazirek, Kraul Death Priest
+刻洛死亡僧侣马兹瑞
+The clicks and buzz of the undercity proclaim him the incarnation of decay.
+--------
+地底城每阵喀声嗡响都宣告着他即是腐坏的化身。
+
+489883
+Meddling Mage
+扰咒法师
+"This violent wasteland is an indictment of its people. These cowards lack the will to oppose disorder."
+--------
+「这暴烈荒地正是对其住民的审判。这些懦夫缺乏对抗失序的意志。」
+
+489884
+Merciless Eviction
+无情驱赶
+
+489885
+Progenitor Mimic
+先祖拟妖
+
+489886
+Rhys the Redeemed
+复耀黎兹
+Whole again in honor and horn.
+--------
+名声重挽，犄角复归。
+
+489887
+Riku of Two Reflections
+复影黎库
+
+489888
+Savageborn Hydra
+蛮生多头龙
+
+489889
+The Scarab God
+甲虫神
+
+489890
+Selesnya Guildmage
+瑟雷尼亚公会法师
+
+489891
+Sen Triplets
+三胞仙
+They are the masters of your mind.
+--------
+她们是你心灵的导师。
+
+489892
+Sharuum the Hegemon
+支配者韶伦
+To gain audience with the hegemon, one must bring a riddle she has not heard.
+--------
+为了赢得支配者的青睐，必得准备一则她没听过的谜语。
+
+489893
+Sphinx Summoner
+史芬斯召唤师
+
+489894
+Swiftblade Vindicator
+雪恨快剑手
+A swiftblade is an artist, each fiery trail of their blades a fleeting masterpiece traced on the air.
+--------
+快剑手挥洒如艺师，每道迅猛的剑光都会在空中留下一副转瞬即逝的杰作。
+
+489895
+Thopter Foundry
+振翼机锻炉
+"Etherium is limited. Innovation is not."
+—Tezzeret
+--------
+「乙金有限。创意无限。」
+～泰兹瑞
+
+489896
+Time Sieve
+时间筛子
+"I pray that I am never considered useless or old."
+—Sharuum the Hegemon
+--------
+「但愿我永远不会给当成无用或老朽。」
+～支配者韶伦
+
+489897
+Unlicensed Disintegration
+私自分解
+"I'd stand back if I were you."
+--------
+「如果我是你，就会往后退。」
+
+489898
+Vexing Shusher
+嘘声捣乱人
+The stench of bloodcap mushrooms on the breath is enough to ward off even the most potent magics, especially when combined with a special chant: "Hushhh."
+--------
+只要闻一闻血帽蘑菇的臭味，就足以挡下大部分的强大咒语，尤其是配合上特殊的歌词之后：「嘘～」。
+
+489899
+Vish Kal, Blood Arbiter
+鲜血仲裁者威许卡尔
+
+489900
+Voice of Resurgence
+复苏之音
+
+489901
+Weapons Trainer
+武器训练师
+"When I'm done training you, anything will be a deadly weapon."
+--------
+「你完成训练之后，任何东西都能成为致命兵器。」
+
+489902
+Yavimaya's Embrace
+亚维马雅之拥
+
+489903
+Accomplished Automaton
+高明机械兽
+Was it just lonely, or was some form of evolution inevitable?
+--------
+只是因为它孤单，还是说某种进化已成必然？
+
+489904
+Adaptive Automaton
+适境机械兽
+Such loyalty can only be made.
+--------
+此等忠诚绝非天然。
+
+489905
+Basalt Monolith
+玄武巨石
+
+489906
+Basilisk Collar
+蜥怪颈环
+During their endless travels, the mages of the Goma Fada caravan have learned ways to harness both life and death.
+--------
+在无尽头的旅程中，哥马法达商队的法师学到了各种运用生命与死亡的方法。
+
+489907
+Batterskull
+颅击槌
+
+489908
+Blightsteel Colossus
+歼铁巨像
+
+489909
+Bosh, Iron Golem
+铁魔像霸西
+As Glissa searches for the truth about Memnarch, Bosh searches to unearth the secrets of his past.
+--------
+当格莉莎四处打探关于蒙纳坷的事，霸西也自脑海深处翻拣长埋的记忆。
+
+489910
+Cathodion
+负极兽
+Instead of creating a tool that would be damaged by heat, the Thran built one that was charged by it.
+--------
+不去制作会被热所损伤的工具，索蓝王国改去建造可以此来充能者。
+
+489911
+Chief of the Foundry
+铸造厂主管
+The foundries of Kaladesh run like clockwork under the supervision of their formidable overseers.
+--------
+卡拉德许的铸造厂在其强横的主管监督下，如钟表装置般规律地运转。
+
+489912
+Chromatic Star
+五彩星
+
+489913
+Chrome Mox
+五彩玛珂
+
+489914
+Clone Shell
+仿生外壳
+
+489915
+Cogwork Assembler
+齿轮组装工
+Duplication is neither thievery nor flattery. It is efficiency.
+--------
+复制既不算剽窃也不算奉承。它意味着效率。
+
+489916
+Conjurer's Closet
+咒法师之柜
+"Tomorrow wears yesterday's face."
+—Kordel the Cryptic
+--------
+「明日戴上昨日面容。」
+～隐者寇岱
+
+489917
+Coretapper
+核心聚能机
+It converts the faintest surges of power from Mirrodin's core into usable energy, providing endless power for Memnarch's creations on the surface.
+--------
+它将秘罗地核心散乱的能量翻腾转换为可利用的能量，让蒙纳坷的造物得以在地表上运转不懈。
+
+489918
+Cranial Plating
+颅骨护甲
+
+489919
+Culling Dais
+牲祭高台
+"Forswear the flesh and you will truly see."
+—Jin-Gitaxias, Core Augur
+--------
+「抛弃肉身，你就能得到真知。」
+～核心卜算师金吉塔厦
+
+489920
+Darksteel Axe
+玄铁斧
+Heavier than it looks, tricky to wield, guaranteed to last.
+--------
+拿起来比外表更重，挥动需要技巧，且保证耐用。
+
+489921
+Darksteel Forge
+玄铁锻冶炉
+"It is as if this world has been expecting our blessings."
+—Elesh Norn, Grand Cenobite
+--------
+「仿佛这个世界一直希望得到我们的祝福。」
+～大修道士艾蕾侬
+
+489922
+Duplicant
+窃形兽
+
+489923
+Eager Construct
+热切组构体
+Loyal to a fault, it anticipates its master's
+every need.
+--------
+它绝对忠诚，甚至会预测主人的
+需要。
+
+489924
+Endless Atlas
+无垠图集
+Guarded by cartographers, disdained by warlords, coveted by adventurers.
+--------
+制图师守护之，拥兵者鄙视之，探险家觊觎之。
+
+489925
+Engineered Explosives
+密设爆裂物
+
+489926
+Ensnaring Bridge
+陷阱桥
+"When I said I needed a hand, I didn't mean this."
+—Gerrard Capashen
+--------
+「我说给搭个手的时候，没想着真会来只手。」
+～杰拉尔德卡帕轩
+
+489927
+Everflowing Chalice
+汩汩圣杯
+
+489928
+Expedition Map
+探险地图
+"I use maps to find out where explorers have already been. Then I go the other way."
+—Javad Nasrin, Ondu relic hunter
+--------
+「我使用地图来确认探险家曾到过哪些地方。然后我就走别的路。」
+～昂度猎宝人贾维纳金
+
+489929
+Flayer Husk
+劫掠空壳
+
+489930
+Gleaming Barrier
+金光屏障
+"Gold without freedom might as well be lead."
+—Angrath
+--------
+「不能自由搬运的黄金，便连铅块都不如。」
+～安戈斯
+
+489931
+Golem Artisan
+魔像工匠
+Better living through metallurgy.
+--------
+藉由冶金改善生活。
+
+489932
+Golem-Skin Gauntlets
+魔像壳护手
+
+489933
+Hammer of Nazahn
+纳札之锤
+
+489934
+Ichor Wellspring
+脓水涌泉
+"Our glorious infection has taken hold."
+—Elesh Norn, Grand Cenobite
+--------
+「我们光耀的感染已经掌握大局。」
+～大修道士艾蕾侬
+
+489935
+Iron Bully
+铸铁恶霸
+"Why would someone have built . . . wait, never mind. Send it to the front lines!"
+—Commander Grozdan
+--------
+「为什么会有人造出这种. . .等等，没事了。把它派到前线去！」
+～指挥官戈洛兹丹
+
+489936
+Iron League Steed
+铁盟驹
+The Iron League prides itself on its metal-shaping techniques.
+--------
+铁盟以其塑金技术为傲。
+
+489937
+Isochron Scepter
+等时权杖
+
+489938
+Jhoira's Familiar
+尤依拉的佣兽
+"You could say it was my pet project."
+—Jhoira
+--------
+「不妨说它是我的钟爱设计。」
+～尤依拉
+
+489939
+Kuldotha Forgemaster
+库度沙锻冶主
+The goblins say it used to be larger, before it began to stoke the Great Furnace with pieces of itself.
+--------
+鬼怪说它过去要大得多，因为它已开始用自己的部件来烧热大熔炉。
+
+489940
+Lightning Greaves
+迅雷护胫
+After lightning struck the cliffs, the ore became iron, the iron became steel, and the steel became greaves. The lightning never left.
+--------
+闪电击中山崖后，矿石成铁，铁成钢，钢成护胫。迅雷长存其间。
+
+489941
+Lux Cannon
+光贯炮
+There are few problems that can't be solved by putting a hole in the world.
+--------
+在世界上打出个洞还无法解决的问题并不多。
+
+489942
+Magnifying Glass
+放大镜
+Knight-Inquisitors of Saint Raban delve deep into mysteries best left unexplored.
+--------
+圣拉班的骑士审判官在深入调查最好不要深究的谜团。
+
+489943
+Mana Crypt
+魔法力墓穴
+
+489944
+Masterwork of Ingenuity
+巧手神兵
+"The crucible yields what you have forged in your mind. You need only reach in and draw the masterwork forth."
+—Wahara, Keeper of the Crucible
+--------
+「心中神兵锤炼，都在熔炉之中。只需伸手入内，就能将之取出。」
+～熔炉看守瓦哈拉
+
+489945
+Mesmeric Orb
+催眠珠
+A step in one direction is two steps away from another.
+--------
+往正确的方向踏一步，便会比往其他方向多出两步之远。
+
+489946
+Metalspinner's Puzzleknot
+金旋师谜结
+
+489947
+Mishra's Bauble
+米斯拉的饰品
+"Arcum is a babbling fool! Phyrexian technology is our greatest blessing. Take this delightful trinket for instance . . ."
+—Heidar, Rimewind master
+--------
+「阿肯真是爱唠叨的蠢材！非瑞克西亚的技术是上天送来的宝贵礼物。比如这精致的饰品. . .」
+～霜风会首领亥达
+
+489948
+Mox Opal
+蛋白玛珂
+The suns of Mirrodin have shone upon perfection only once.
+--------
+秘罗地诸阳只映照在一个完美杰作上。
+
+489949
+Myr Battlesphere
+秘耳斗球
+
+489950
+Myr Retriever
+回收秘耳
+Mephidross gives up treasure easily . . . as long as you take its place.
+--------
+蔓非沼乐于提供宝藏. . .只要你乐于顶替其位置。
+
+489951
+O-Naginata
+大薙刀
+
+489952
+Oblivion Stone
+遗忘石
+
+489953
+Peace Strider
+和平神行客
+"The Vanished must have sent it from beyond to aid us in this struggle."
+—Kessla, Sylvok shaman
+--------
+「这必定是消失的一代从彼方送来，好助我们渡过此劫。」
+～希沃克祭师凯丝拉
+
+489954
+Pentad Prism
+五色棱镜
+
+489955
+Phyrexian Revoker
+非瑞克西亚断念妖
+"To be in the presence of a revoker is to be truly alone."
+—Kara Vrist, Neurok agent
+--------
+「在断念妖的面前才是真正的孤独。」
+～纽若克密探凯拉黎
+
+489956
+Pyrite Spellbomb
+黄铁咒击弹
+"Melt that which was never frozen."
+—Spellbomb inscription
+--------
+「熔解，从未冷凝。」
+～咒击弹铭文
+
+489957
+Ratchet Bomb
+棘齿炸弹
+
+489958
+Sandstone Oracle
+砂岩先知
+
+489959
+Sculpting Steel
+塑型钢
+An artificer once dropped one in a vault full of coins. She has yet to find it.
+--------
+某位神器师不慎把它掉落在摆满钱币的地窖中。她到现在还没能把它找出来。
+
+489960
+Sickleslicer
+镰切装
+
+489961
+Skinwing
+皮翼装
+
+489962
+Spellskite
+蔑咒兽
+"Let's show Vorinclex that progress doesn't always need teeth or claws."
+—Malcator, Executor of Synthesis
+--------
+「让弗霖凯瞧瞧，进展不一定需要尖牙利爪。」
+～合成执行人麻卡特
+
+489963
+Sphinx of the Guildpact
+十会盟史芬斯
+
+489964
+Springleaf Drum
+春叶鼓
+"The music is in the drum. I simply coax it out to be heard."
+--------
+「音乐就在鼓里。我只是诱哄它出来给人听。」
+
+489965
+Sundering Titan
+裂地泰坦
+"Even if we defeat it, what remains to be saved?"
+—Glissa Sunseeker
+--------
+「就算我们击败了它，又还能救下什么东西？」
+～寻日者格莉莎
+
+489966
+Sunforger
+铸阳锤
+
+489967
+Surge Node
+翻腾节点
+Without a foe to focus on, the machine priests had time to indulge in new sciences.
+--------
+没有仇敌可供投注精力，机械牧师便有时间沉迷于新科学。
+
+489968
+Sword of Body and Mind
+身灵剑
+
+489969
+Sword of Feast and Famine
+丰馑剑
+
+489970
+Sword of Fire and Ice
+炽寒剑
+
+489971
+Sword of Light and Shadow
+天冥剑
+
+489972
+Sword of the Meek
+驯良之剑
+
+489973
+Sword of War and Peace
+战宁剑
+
+489974
+Throne of Geth
+盖司王座
+At the heart of Ish Sah, Geth stokes the dark fires of Phyrexia.
+--------
+在伊沙中心，盖司燃烧着非瑞克西亚的黑暗火焰。
+
+489975
+Treasure Keeper
+宝藏守卫
+
+489976
+Trinisphere
+三定法球
+
+489977
+Tumble Magnet
+翻倒磁铁
+Magnetic devices that keep massive golems and structures standing can also be used for the opposite purpose.
+--------
+让巨大魔像与构造体能保持矗立的磁力装置，也可以用在相反用途上。
+
+489978
+Vulshok Gauntlets
+瓦许克护手
+
+489979
+Walking Ballista
+自行弩炮
+
+489980
+Welding Jar
+焊熔坛
+The wires crawl over broken metal and heat themselves to melting, filling cracks quickly and efficiently.
+--------
+缆线跨过破裂金属并自行加热熔化，迅速有效地修补裂隙。
+
+489981
+Wurmcoil Engine
+亚龙卷引擎
+
+489982
+Academy Ruins
+大学院废墟
+Its secrets once wrought the greatest artifice ever known. Now crabs loot the rubble to decorate their shells.
+--------
+其间秘密曾雕琢出不二奇械。尔今螃蟹捞捡其间瓦砾来装饰外壳。
+
+489983
+Ash Barrens
+灰烬瘠地
+
+489984
+Blinkmoth Nexus
+光蛾连结点
+
+489985
+Buried Ruin
+深埋遗迹
+History has buried its treasures deep.
+--------
+历史深埋其宝藏。
+
+489986
+Cascade Bluffs
+飞瀑绝壁
+Travelers bathe in the falls to wash away curses from the pucas who lurk nearby.
+--------
+旅人在瀑布中沐浴，好涤清附近出没的铺卡所施之诅咒。
+
+489987
+Dark Depths
+黑暗深渊
+
+489988
+Darksteel Citadel
+玄铁殿堂
+Structures built from darksteel yield to neither assault nor age.
+--------
+玄铁所建之物，不受战事侵袭，不留岁月痕迹。
+
+489989
+Fetid Heath
+恶臭荒原
+"Do not linger in such places, child. There the gwyllions dance. If they find you, you will join in their revels for eternity."
+—Talara, elvish safewright
+--------
+「孩子，别到这种地方逗留。山妪在此狂舞，如果给她们发现，就永远无法脱离这场欢宴。」
+～妖精美境卫塔萝拉
+
+489990
+Fire-Lit Thicket
+火光杂木林
+Occupancy of the den changes from night to night as boggart gangs fight for control of a place they aren't willing to simply eat.
+--------
+波尬各帮争夺这不只能用来吃饱肚子的地方，因此洞穴的主人每晚都会换。
+
+489991
+Flooded Grove
+潮没树丛
+At full moon, the river seeps over its banks and crawls through the woods like a blanket of serpents.
+--------
+河流在圆月时溢出堤防，如聚蛇成毯地蜿行于林地间。
+
+489992
+Glimmervoid
+烁光荒野
+An empty canvas holds infinite possibilities.
+--------
+空白的画布蕴藏着无限可能。
+
+489993
+Graven Cairns
+铭刻石标
+"Here did the Extinguisher steal the light from the world. Here will we sacrifice her to bring the Great Rekindling to our people."
+—Illulia of Nighthearth
+--------
+「在此地，熄焰者将世界的光明偷走。在此地，我们终能将其献祭，让伟大重燃者重归族人。」
+～夜炉的伊璐里
+
+489994
+High Market
+最高市场
+If it can't be had here, it can't be had on any world.
+--------
+若是还有这里弄不到的东西，那么恐怕走遍天下也弄不着了。
+
+489995
+Maze of Ith
+伊斯的迷宫
+
+489996
+Mishra's Factory
+米斯拉的工厂
+
+489997
+Mystic Gate
+神秘门户
+The gate of every kithkin doun is a cunning trap, intended to spill visitors into an oubliette from which there is no escape.
+--------
+每个洁英小镇的门都是精心设计的陷阱，好让外来客摔到没有出口的地牢中。
+
+489998
+Rugged Prairie
+崎岖沃原
+Hobs bury their kin far from home. They believe the dry, open ground keeps hags from stealing the bones and gwyllions from stealing the spirits.
+--------
+大鬼怪将亲人葬在远处。他们相信在这种干燥又广阔的地方，巫婆无法偷取遗骨，山妪不能窃走灵魂。
+
+489999
+Sunken Ruins
+沉没废墟
+Without the care of the tideshapers, the Lanes lie neglected. Some have flooded entire towns; others dried to cracked mud.
+--------
+渠道没有了塑潮师的维护，就此弃置。有些将整个村镇淹没；其他的则干涸成龟裂的泥巴。
+
+490000
+Thespian's Stage
+悲剧舞台
+Amid rumors of war, the third act of The Absolution of the Guildpact was quickly rewritten as a tragedy.
+--------
+在战争的流言中，《十会盟之赦免》的第三幕很快被改写为悲剧。
+
+490001
+Twilight Mire
+暮色泥沼
+As their roots soaked in a weak tea of bogwater and decay, the trees absorbed the essence of death into their living tissue.
+--------
+树木根部浸在沼泥与腐物的混合水体，所吸收的死亡精华已渗入活体组织。
+
+490002
+Urza's Mine
+克撒的矿脉
+In his hunger for power and knowledge, Urza dug deep into Dominaria's ancient past.
+--------
+克撒渴求力量与知识，深掘多明纳里亚古老的过往。
+
+490003
+Urza's Power Plant
+克撒的动力炉
+Urza threw himself into his research, pushing the boundaries of both possibility and morality.
+--------
+克撒全力投入其研究，一再突破可能性与道德的边界。
+
+490004
+Urza's Tower
+克撒的塔
+Urza studied the creations of the Thran not simply to learn from them, but to surpass them.
+--------
+克撒钻研索蓝造物，不仅从中学习，更欲凌驾其上。
+
+490005
+Wooded Bastion
+林木堡垒
+The elves of Wilt-Leaf Wood continually expand the palisade surrounding the sanctuary. They hope to one day enclose the entire forest within its walls.
+--------
+枯叶林妖精继续扩建围护避难所的栅栏。他们希望有一天能将整座树林都用墙包起来。
+
+========

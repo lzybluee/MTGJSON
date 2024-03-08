@@ -1,0 +1,1965 @@
+534751
+Adeline, Resplendent Cathar
+华辉护教军艾德琳
+
+534752
+Ambitious Farmhand
+雄心农工
+
+534753
+Seasoned Cathar
+干练护教军
+"The cathars have taught me many things, but I will never forget the hard, honest work that first callused my hands."
+--------
+「虽然我也在护教军中久经历练，但看到手上老茧，却总会想起我人生中的那第一份粗活苦工。」
+
+534754
+Beloved Beggar
+受宠乞丐
+Charity is rare on Innistrad, but kindness is always repaid.
+--------
+依尼翠人并不好心，但善举总有回报。
+
+534755
+Generous Soul
+慷慨魂灵
+As long as evil threatens his town, the Blessed Sleep can wait.
+--------
+只要小镇仍受邪恶威胁，他就还不急于得享受福安眠。
+
+534756
+Bereaved Survivor
+丧亲幸存者
+"With Avacyn gone, I no longer knew who to pray to. Alone, I wept for a sister who would never return."
+--------
+「艾维欣离去之后，我不知道该向谁祈祷。只得孤身一人，独自为逝去姐妹伤心落泪。」
+
+534757
+Dauntless Avenger
+不屈复仇者
+"It was Sigarda who lifted me from despair and gave me the strength to fight on."
+--------
+「是席嘉妲引导我走出绝望深渊，赐予我继续作战的力量。」
+
+534758
+Blessed Defiance
+受福反抗
+"If I'm going, I'm taking you with me!"
+--------
+「如果我活不了，就带你一起走！」
+
+534759
+Borrowed Time
+暂免危难
+Teferi stepped calmly into the fray. Suddenly the sun paused in the sky and the werewolves' snarls froze on their faces.
+--------
+泰菲力平静地踏入战局。空中太阳登时停滞不前，狼人脸上狰狞面容也凝固不动。
+
+534760
+Brutal Cathar
+护教蛮兵
+
+534761
+Moonrage Brute
+月怒蛮狼
+
+534762
+Candlegrove Witch
+烛光林巫婆
+"Like a thousand candles fighting back the darkness, we are strongest when we stand together."
+--------
+「烛光千缕便能照退黑暗，同心一致才能展现雄威。」
+
+534763
+Candletrap
+烛光陷阱
+
+534764
+Cathar Commando
+护教军突击兵
+"Honorable tactics are for honorable foes. These werewolves are preying on innocent travelers. I'll stab them in the back while they sleep if I have to."
+--------
+「正经战术是留给正经敌人用的。狼人滥捕无辜旅人，就算他们睡着我也会在他们后背捅上一刀。」
+
+534765
+Cathar's Call
+护教军召令
+Some cathars succumbed to despair at Avacyn's unmaking. The rest redoubled their efforts to carry out her work.
+--------
+艾维欣离去后，有些护教军就此深陷绝望。而有些则加倍努力完成她未竟之事。
+
+534766
+Celestus Sanctifier
+穹天祝圣僧
+
+534767
+Chaplain of Alms
+礼拜救济僧
+
+534768
+Chapel Shieldgeist
+礼拜堂盾游魂
+
+534769
+Clarion Cathars
+司号护教军
+The sound of the trumpet is both warning and comfort: it tells of approaching danger but also reminds the village folk that someone is there to stand against it.
+--------
+号角之声既引人担心，又令人宽慰：它虽是威胁来袭的警告，却也提醒村民尚有人挺身抗击。
+
+534770
+Curse of Silence
+封口诅咒
+
+534771
+Duelcraft Trainer
+战艺训练师
+"It's all in the follow-through."
+--------
+「顺势那一下才是重点。」
+
+534772
+Enduring Angel
+永续天使
+
+534773
+Angelic Enforcer
+执法天使
+
+534774
+Fateful Absence
+命定空棺
+Sensing a plot, Sorin raced to his grandfather's resting-crypt. But someone else had gotten there first.
+--------
+索霖感觉有诈，便急忙赶往祖父安息陵墓；但已然有人捷足先登。
+
+534775
+Flare of Faith
+信念闪光
+"I fell to my knees. I called out to Sigarda. And then I saw my tormentors blaze with blessed sunlight."
+--------
+「我屈身双膝跪地。我虔诚向席嘉妲祈祷。然后我就看到施虐恶物在受福阳光下熊熊燃烧。」
+
+534776
+Gavony Dawnguard
+加渥尼护晓兵
+
+534777
+Gavony Silversmith
+加渥尼银匠
+More than heat and the strength of his arm, it was his faith that gave the blade its unyielding edge.
+--------
+令其手中刀刃锐利无匹的，并非只是熊熊炉火或精巧手艺，还有虔诚信念。
+
+534778
+Gavony Trapper
+加渥尼布陷人
+The elite cathars of the Parish-Blades train in all manner of techniques designed to delay and frustrate the beasts that hunt the crossways.
+--------
+护教军集结精锐组成教区尖刃队，学习各式能够拖延或阻挠猎道野兽的布陷技艺。
+
+534779
+Hedgewitch's Mask
+祝仪巫婆面具
+In Kessig, even celebration wears a fearsome face.
+--------
+在凯锡革，就连庆典也笼罩恐怖气氛。
+
+534780
+Homestead Courage
+护家之勇
+"C'mon, fiend. I'll carve you up like a Harvesttide ham."
+--------
+「尽管过来，魔鬼。看我把你当成收成节的火腿一样剁。」
+
+534781
+Intrepid Adversary
+无畏仇敌
+
+534782
+Loyal Gryff
+忠诚骏鹭
+Silverstreak had lost her rider, but not her instinct to help humankind.
+--------
+虽然银纹失去了背上骑手，但并未忘记救助人类的本能。
+
+534783
+Lunarch Veteran
+月主教长师
+"Even in our darkest times, Avacyn's light still guides us."
+--------
+「纵使在至暗时刻，艾维欣的光芒依然为吾人照亮前路。」
+
+534784
+Luminous Phantom
+月辉幽魅
+
+534785
+Mourning Patrol
+哀夜巡卫
+"It's creepy out here, isn't it, boy? I always feel like someone's watching us."
+--------
+「小子，这里还挺吓人的，不是吗？我总觉得有人在看着我们。」
+
+534786
+Morning Apparition
+啼晓亡灵
+"You could see the spirits all along, couldn't you? Well, now I can too."
+--------
+「你是不是一直都看得见鬼魂？现在我也能看见了。」
+
+534787
+Odric's Outrider
+欧吉克的前导兵
+Terms like "safe route" and "cleared district" are a source of dark humor to the cathars who patrol the ruins of Thraben.
+--------
+像「安全路线」、「区域无事」这样的回报，都是巡守瑟班遗迹的护教军口中黑色幽默的来源。
+
+534788
+Ritual Guardian
+仪式守护者
+"By ancient magics, by angels' grace, we will survive this night."
+--------
+「得远古魔法加护，承天使恩典保佑，我们定能挺过长夜。」
+
+534789
+Ritual of Hope
+祈望仪式
+"Tonight, we can be anything."
+--------
+「今晚，我们就是一切。」
+
+534790
+Search Party Captain
+搜救队长
+"Werewolves leave messy trails. Easy to follow. Hard to forget."
+--------
+「狼人所到之处必留下混乱痕迹。这虽然方便追踪他们，但破坏惨状难以忘怀。」
+
+534791
+Sigarda's Splendor
+席嘉妲辉耀
+
+534792
+Sigardian Savior
+席嘉妲济世使
+"Begone, moon-cursed! These folk are no prey of yours."
+--------
+「月诅邪物退散！这些人不是你们的猎物。」
+
+534793
+Soul-Guide Gryff
+导灵骏鹭
+It conducts the souls of the righteous to their blessed rest and the spirits of the evil to justice.
+--------
+它引导善魂前往受福歇息，押解恶灵接受正义审判。
+
+534794
+Sungold Barrage
+旭金齐射
+Heida allowed herself a moment of satisfaction as she watched the beast fall, then turned to seek another foe. It would be a long, long night.
+--------
+在野兽倒下那一瞬间，亥妲放开紧绷神经沉浸这一胜利时刻，然后便转头去找下一个敌人。这注定会是个漫漫长夜。
+
+534795
+Sungold Sentinel
+旭金哨卫
+
+534796
+Sunset Revelry
+日落狂欢
+
+534797
+Thraben Exorcism
+瑟班式驱魔
+Chandra, Teferi, and Arlinn sought clues to the Moonsilver Key's whereabouts while Kaya dispatched the spirits obstructing their path.
+--------
+茜卓、泰菲力和雅琳四处搜寻月银钥下落的线索，而卡娅却不时派出灵魂加以阻挠。
+
+534798
+Unruly Mob
+粗野群众
+"We survived the Travails! Killer angels! Horrors from beyond the moon! Now some big werewolves think they can scare us? Let 'em try."
+--------
+「我们挺过了癫狂劫！杀人天使！月亮背面的异境惧物！现在有些大狼人觉得他们能吓到我们？但来无妨。」
+
+534799
+Vanquish the Horde
+歼灭尸群
+Odric took no joy in violence but neither did he mourn for the twisted things he dispatched. All that mattered were the lives he had saved.
+--------
+欧吉克并未因暴力而欢喜，也没替除掉的扭曲怪物而伤悲。眼下最重要的，是他亲手救出的鲜活生命。
+
+534800
+Baithook Angler
+饵钩钓客
+Geor was determined to stay out until he got a bite from something big.
+--------
+吉奥原本打定主意通宵垂钓，直到有大东西咬钩为止。
+
+534801
+Hook-Haunt Drifter
+祟钩漂泊灵
+Even in death, he casts his lines, forever fishing for reasons long forgotten.
+--------
+就算在死后，他仍不断放饵、继续垂钓，但却早已忘记自己为何坚持。
+
+534802
+Component Collector
+材料搜集妖
+"Keep master busy with new bits or else maybe she wonders if I'm made of bits too."
+--------
+「要让主人忙着处理新材料，不然她或许会以为我也是材料。」
+
+534803
+Consider
+详加考虑
+Ivold gasped in surprise. Either a very strange insect had crawled onto one of the lenses or he was seeing geists at last!
+--------
+伊沃德吓得吸了一口气：除非是有特别怪异的虫子爬到镜头前，否则他总算是亲眼看到了游魂！
+
+534804
+Covetous Castaway
+贪婪遭黜人
+
+534805
+Ghostly Castigator
+魂魅涤除灵
+
+534806
+Curse of Surveillance
+监视诅咒
+For every eye gouged out, two blinked open.
+--------
+每挖去一只眼，就会睁开两只来。
+
+534807
+Delver of Secrets
+掘密师
+"If my hypothesis is correct . . ."
+--------
+「如果我的假设是对的话…」
+
+534808
+Insectile Aberration
+昆虫变体
+"Aha! Yes! Now I hear it, the beautiful poetry of the lights in the sky. I must reach the moon and ask what it all means!"
+--------
+「啊哈！没错！天空闪光组成的美丽诗篇，如今已尽收耳底。我必须飞向月亮，求问其中含义！」
+
+534809
+Devious Cover-Up
+暗地掩饰
+Widow Weber's new scarecrow seemed to attract more crows than it scared off.
+--------
+寡妇温博新设的稻草人似乎是在招乌鸦，不是赶乌鸦。
+
+534810
+Dissipate
+云消雾散
+"Morning light, morning light,
+Chase away the fears of night."
+—Gavony children's rhyme
+--------
+「天光光，亮光光，
+黑夜怪物驱光光。」
+～加渥尼童谣
+
+534811
+Drownyard Amalgam
+沉船地拼合怪
+When human corpses are in short supply, stitchers get creative.
+--------
+当缺少人类尸体时，拼接师就会发挥创意。
+
+534812
+Fading Hope
+渐失希望
+"At least I won't become one of . . . those things."
+--------
+「至少我不会成为…他们同类。」
+
+534813
+Falcon Abomination
+雄鹰憎恨兽
+The foulest of fowl.
+--------
+禽类中的禽兽。
+
+534814
+Firmament Sage
+究天智者
+The cause remained unclear, but the fact was undeniable: nights were lengthening faster than in any autumn past.
+--------
+虽然原因不甚明朗，但事实已在眼前：秋季黑夜正以前所未有的速度变长。
+
+534815
+Flip the Switch
+拨动开关
+"Works every time! Well, every time they don't explode, anyway."
+—Barton, stitcher
+--------
+「每次都有用！好吧，是每次没爆炸的时候。」
+～拼接师巴顿
+
+534816
+Galedrifter
+萧风骏鹰
+"If you're lost in a storm, follow a gryff. They always know which way calmer waters lie."—Geor, Havengul fisher
+--------
+「如果你在风暴中迷失了方向，就跟着骏鹭。它们总能知道哪里有风平浪静的地方。」
+～海温古渔夫吉奥
+
+534817
+Waildrifter
+啸嚎骏妖
+"Wait! That's no gryff—at least not anymore."—Geor, Havengul fisher
+--------
+「等等！那不是骏鹭～至少不再是了。」
+～海温古渔夫吉奥
+
+534818
+Geistwave
+游魂波涛
+Necro-alchemists gained popular support during the Travails, when geist-fueled weapons helped defend towns against mad cultists and Eldrazi monstrosities.
+--------
+死灵炼金术士在癫狂劫时期颇具声望。他们会用游魂武器协防城镇，保护民众免遭疯狂教徒与奥札奇恶怪侵扰。
+
+534819
+Grafted Identity
+身份强殖
+Autonomy is only skin deep.
+--------
+自主仅存肌肤表面。
+
+534820
+Larder Zombie
+食橱灵俑
+The cathars arrived at the abandoned lab to find many of the unfinished projects gnawing on one another.
+--------
+护教军来到废弃实验室，只发现许多未完成的作品在互相啃食。
+
+534821
+Lier, Disciple of the Drowned
+翻涌神信徒列尔
+Beneath the waves, lost gods stir in their slumber.
+--------
+浪潮之下，遗世神明在沉睡中动身。
+
+534822
+Locked in the Cemetery
+锁入墓地
+"Help! I'm not a zombie! Let me out!"
+--------
+「救命！我不是灵俑！让我出去！」
+
+534823
+Malevolent Hermit
+歹心隐者
+
+534824
+Benevolent Geist
+善心游魂
+All his old grudges suddenly seemed laughably petty. So he laughed.
+--------
+所有陈年旧恨突然之间变得非常可笑。因此他便喜上眉梢。
+
+534825
+Memory Deluge
+记忆奔腾
+
+534826
+Mysterious Tome
+玄奇巨著
+The villagers pored through the old storybook, hoping that one of the tales within might hold some clue to saving the fading sun.
+--------
+村民来回翻阅这本古老的故事书，希望能从其中众多传说里面找到能够阻止日暮西山的线索。
+
+534827
+Chilling Chronicle
+玄冰编年史
+But every story ended the same way: the countryside was captured in the icy grip of winter and darkened by eternal night.
+--------
+但所有故事均以同样的结局收尾：乡村被寒冷冬天吞噬，笼罩在永夜黑暗之中。
+
+534828
+Nebelgast Intruder
+鬼雾入侵灵
+
+534829
+Ominous Roost
+恶兆宿巢
+"One raven is a bad omen. Two are a curse. I don't know what this is, but it can't be good."
+—Verna, priest of Sigarda
+--------
+「一只乌鸦是凶兆，两只乌鸦是诅咒。我不知道这算什么，但反正不是好事。」
+～席嘉妲僧侣文娜
+
+534830
+Organ Hoarder
+器官匿集怪
+The stitcher died years ago, but her dutiful assistant still keeps the laboratory well stocked.
+--------
+虽然拼接师许多年前就已逝去，但她的忠诚助手仍尽心确保实验室材料充足。
+
+534831
+Otherworldly Gaze
+异界凝视
+
+534832
+Overwhelmed Archivist
+过负书库辖员
+"Bah! As if I had time to preserve everything."
+--------
+「哈！说得好像我有时间把所有东西都留好。」
+
+534833
+Archive Haunt
+书库祟灵
+Cleaning up his life's work was his afterlife's work.
+--------
+清理一生心血，正是他来生工作。
+
+534834
+Patrician Geist
+显贵游魂
+He rides in agitated circles, snapping orders at servants who've long since found their peace.
+--------
+他焦躁不安地骑马踱圈，接连不断向早已安息的仆人发号施令。
+
+534835
+Phantom Carriage
+幽魅马车
+Passage to the abyss is free, but the return trip will cost you.
+--------
+去往深渊票价免费，但回来这程得搭上你的命。
+
+534836
+Poppet Stitcher
+偶俑拼接师
+
+534837
+Poppet Factory
+偶俑工厂
+It may have been a mistake to give them minds of their own.
+--------
+让它们具有自我意识，可能是个错误。
+
+534838
+Revenge of the Drowned
+溺亡者复仇
+A heavy net doesn't always mean a good catch.
+--------
+沉重渔网不一定是有好收成。
+
+534839
+Secrets of the Key
+钥匙奥秘
+As Sigarda and Sorin battled, Arlinn and Teferi recovered the key from the Markov catacombs.
+--------
+趁着席嘉妲和索霖交锋时，雅琳和泰菲力趁机从马可夫家墓穴中取回了钥匙。
+
+534840
+Shipwreck Sifters
+船难筛寻灵
+A loyal crew sticks together, even after death.
+--------
+忠心水手始终相伴，死后亦然。
+
+534841
+Skaab Wrangler
+尸嵌驯师
+After Uda's hat boutique in Selhoff was destroyed by werewolves, she relocated outside of town and took up a new type of sewing.
+--------
+乌妲在塞贺开的精品帽屋毁于狼人之手后，她便搬出城镇，决心展现自己另一门缝纫手艺。
+
+534842
+Sludge Monster
+泥泞怪物
+Tracking it isn't the hard part.
+--------
+追踪它并不难。
+
+534843
+Spectral Adversary
+幽魂仇敌
+
+534844
+Startle
+惊跳
+
+534845
+Stormrider Spirit
+驭霆精怪
+The weary travelers mistook the flickering lights for a candleguide pointing the way to Harvesttide. Their relief turned to terror as lightning lit the sky.
+--------
+疲惫旅人看到闪光，以为自己见到了指向收成节的引路烛光。但这份放松心情在看到闪电大作后就化为恐惧。
+
+534846
+Suspicious Stowaway
+可疑偷渡客
+
+534847
+Seafaring Werewolf
+远洋狼人
+
+534848
+Triskaidekaphile
+十三痴迷客
+She's always willing to lend a hand. It just won't be her own.
+--------
+她总愿意出手相助。反正不是自己的手。
+
+534849
+Unblinking Observer
+凝目观客
+"Day 77: The homunculus within the crystal continues to mimic my every movement. I wonder what they are writing?"
+—Laboratory notes of Yzlkpk
+--------
+「第77天：水晶内的造妖仍继续模仿我的一举一动。我好奇他们会写什么呢？」
+～耶泽萍的实验室纪录
+
+534850
+Vivisection
+活体解剖
+Though their work is widely reviled, stitchers see themselves as being on the cutting edge of science.
+--------
+虽然拼接师的工作遭人唾弃，但他们觉得自己在引领技术尖端。
+
+534851
+Arrogant Outlaw
+傲慢亡命客
+The debased remnants of the Falkenrath bloodline prowl the passes near their ruined castles.
+--------
+伐肯纳血脉的落魄遗民仍围聚自家城堡废墟附近，于周遭通路徘徊。
+
+534852
+Baneblade Scoundrel
+灾刃恶棍
+"I was a mere cutpurse until I learned the going rate for fresh corpses."
+--------
+「我原本只是做着小偷小摸的勾当，直到有天我知道新鲜尸体行价可观。」
+
+534853
+Baneclaw Marauder
+灾爪劫狼
+
+534854
+Bat Whisperer
+通蝠客
+"My little winged friends tell me which of these townsfolk are worth tasting for myself."
+--------
+「我的有翼伙伴会给出建议，哪些镇民值得去亲自品尝。」
+
+534855
+Bladebrand
+炙烤剑尖
+Skirsdag cultists believe that the right poison "purifies" a tainted soul before it makes its way to Ormendahl.
+--------
+史革达教众相信，在污化灵魂见到欧魔达之前，用对毒药便能将其「净化」。
+
+534856
+Blood Pact
+鲜血契约
+Griselbrand's defeat did not mark the end of the Skirsdag cult. They simply turned their worship to the next demon to emerge from the shadows bearing offers of power.
+--------
+棘泽边落败并非史革达教派的终点。他们就只是转而崇拜黯影中崛起的另一位恶魔，同样祈求对方赐予力量。
+
+534857
+Bloodline Culling
+汰除血脉
+"Forget your human ancestors. You're part of my family now."
+--------
+「忘记你的人类族谱吧。你现在是我家的人了。」
+
+534858
+Bloodtithe Collector
+血税征收员
+For the more refined vampire, breaking a victim's will is far more satisfying than simply taking their blood.
+--------
+对于有讲究的吸血鬼而言，粉碎心智要比单纯吸血更具乐趣。
+
+534859
+Champion of the Perished
+墓躯斗士
+He rose from the graf for every cobbler, tanner, and fool who'd been slaughtered in the parish—and they rose and shambled after him.
+--------
+他从埋葬教区里每一个遇难鞋匠，染匠，以及愚人的墓地中爬起～而他们也跟随挺身。
+
+534860
+Covert Cutpurse
+隐踪扒手
+
+534861
+Covetous Geist
+隐匿游魂
+"It has no need of wealth in the afterlife. It steals and kills purely for its own spiteful amusement."—Kaya
+--------
+「它死后不再需要财富，一切偷盗和杀戮都只是为了满足自身的恶毒趣味。」
+～卡娅
+
+534862
+Crawl from the Cellar
+爬出地窖
+
+534863
+Curse of Leeches
+血蛭诅咒
+
+534864
+Leeching Lurker
+吮血潜伏妖
+First darkness falls. Then it burrows in.
+--------
+先是黑暗降临，它便随之潜入。
+
+534865
+Defenestrate
+扔出窗外
+The chaplain would perhaps have found some small comfort had he known that the replacement window would be named in his honor.
+--------
+如果教士知道新换的楼窗会冠上他的名字，兴许还会好受一些。
+
+534866
+Diregraf Horde
+战墓大群
+
+534867
+Dreadhound
+恐惧猎犬
+It herds souls toward eternal torment.
+--------
+它把灵魂赶向无限苦难。
+
+534868
+Duress
+逼从
+The Voldaren torture pits are so expansive that prisoners have a nasty tendency to be forgotten for years.
+--------
+沃达连地下刑房空间广阔，因此其中不乏关押数年都无人过问的囚人。
+
+534869
+Eaten Alive
+生吞活剥
+"If you hear a groaning noise in the cellar, don't investigate. Don't split up. Just lock the door and barricade it."
+—Emili, guard captain
+--------
+「如果你听见地窖传出呻吟声，不要好奇妄动。不要分头行事。只管闩紧门口，全力顶住。」
+～守卫队长艾蜜莉
+
+534870
+Ecstatic Awakener
+狂喜觉醒师
+"Great Ormendahl, I kneel before you, a fragment of your will, a servant of your tyranny. I beg you, release the strength within me!"
+--------
+「欧魔达魔神在上，吾在你面前屈膝：承载共通意志，甘愿俯身为奴。在此虔诚请求，释吾内在之威！」
+
+534871
+Awoken Demon
+醒觉恶魔
+Bones cracked, flesh split apart, and the screams of euphoric agony gave way to unholy laughter.
+--------
+颅脑迸裂，骨肉四散，狂喜尖啸就此转变为邪恶咆哮。
+
+534872
+Foul Play
+恶劣犯行
+The evidence was overwhelming. Tovolar's howlpack was getting bolder, smarter, and stronger.
+--------
+眼前证据已说明一切：托瓦拉嚎群越来越大胆、越来越聪明，也越来越强大。
+
+534873
+Ghoulish Procession
+食尸鬼行列
+It was a family reunion to die for.
+--------
+归家团圆，虽死无憾。
+
+534874
+Gisa, Glorious Resurrector
+荣光复活师基沙
+
+534875
+Graveyard Trespasser
+墓地擅闯客
+
+534876
+Graveyard Glutton
+墓地饱食兽
+
+534877
+Heirloom Mirror
+家传魔镜
+"Speak my name thrice, and be rewarded."
+--------
+「喊名三声，即得回报。」
+
+534878
+Inherited Fiend
+镜中邪鬼
+"Well done, young fool, well done! Now for your reward."
+--------
+「做得好，小傻瓜，做得好！这就是你的回报。」
+
+534879
+Hobbling Zombie
+蹒跚灵俑
+"I see someone tried to stop you, my pet. How delightful."
+—Ghoulcaller Gisa
+--------
+「好像有人想要阻止你，宝贝。真有趣。」
+～尸鬼牧者基沙
+
+534880
+Infernal Grasp
+炼狱之攫
+Ancient evils dwell within the burning chasm called the Ashmouth, ever ready to devour those foolish enough to travel alone.
+--------
+人称烬口的喷火裂谷内住有古老邪物，随时准备吞噬胆敢单独上路的愚蠢旅人。
+
+534881
+Jadar, Ghoulcaller of Nephalia
+涅非利亚尸鬼牧者贾达
+"Rise, my pretty thing. Why rot in the river when you can serve at my bidding?"
+--------
+「起身，我的宝贝。如果你能服侍我，又何必烂在河里？」
+
+534882
+Jerren, Corrupted Bishop
+腐化主教耶仑
+
+534883
+Ormendahl, the Corrupter
+腐化恶魔欧魔达
+"Ah, Jerren. You've been such a faithful, useful insect."
+--------
+「啊，耶仑。你真是一只忠实可靠的虫子。」
+
+534884
+Lord of the Forsaken
+弃世之王
+
+534885
+Mask of Griselbrand
+棘泽边的面具
+The legacy of evil lives on.
+--------
+邪恶遗物得以继续流传。
+
+534886
+The Meathook Massacre
+肉钩大屠杀
+
+534887
+Morbid Opportunist
+病态投机者
+On Innistrad, one person's windfall usually starts with another person lying face down in the mud.
+--------
+在依尼翠，横财往往由他人倒毙泥中而起。
+
+534888
+Morkrut Behemoth
+穆坎贝西摩斯
+"Let's see my brother's stitched-up little toys compete with this."
+—Ghoulcaller Gisa
+--------
+「我倒要看看弟弟拼接出来的小玩具有没有这东西厉害。」
+～尸鬼牧者基沙
+
+534889
+Necrosynthesis
+死冥聚合
+
+534890
+No Way Out
+无路可逃
+In the maze-like passages of the Erdwal, a wrong turn can be fatal.
+--------
+尔卓道上通路交错颇似迷宫，一拐错弯可能就会丧命。
+
+534891
+Novice Occultist
+新手神秘学者
+All across Gavony, in shuttered bedrooms and locked barns, young people seek the answers their elders failed to provide.
+--------
+在整个加渥尼，都有年轻人将自己关在紧闭卧室与上锁谷仓之中，致力搜寻前一辈人未能给出的答案。
+
+534892
+Olivia's Midnight Ambush
+奥莉薇亚午夜突袭
+"And you were almost finished with that ritual, weren't you, darling? How very rude of me. To make it up to you, I'll send you an invitation to my wedding."
+--------
+「亲爱的，你是不是差点就完成仪式了？瞧瞧我真是粗鲁。你们会收到我的婚礼邀请函，算是我的一点心意。」
+
+534893
+Rotten Reunion
+腐身重逢
+Aunt and Uncle Greyfeld loved dinner guests.
+--------
+格雷非舅舅夫妇喜欢晚餐宴客。
+
+534894
+Shady Traveler
+阴沉旅人
+The stranger spoke to no one, and the townspeople gladly returned the favor.
+--------
+陌生人没有跟任何人搭话，村民也乐得不用搭理他。
+
+534895
+Stalking Predator
+潜行掠狼
+Tomorrow a new village, and new victims.
+--------
+新的一天，新的村庄，新的受害者。
+
+534896
+Siege Zombie
+围城灵俑
+A barricade only buys time. So the wealthy buy more barricades.
+--------
+工事只能拖延时间。所以富人买下了更多工事。
+
+534897
+Slaughter Specialist
+斩杀专家
+From every kill, a gruesome trophy.
+--------
+每杀一人，就多一件骇人纪念品。
+
+534898
+Stromkirk Bloodthief
+溪堡血贼
+With House Voldaren ascendant, some members of the Stromkirk line took it upon themselves to "borrow" from the blood tithes.
+--------
+随着沃达连家族地位日渐提高，溪堡血脉中开始有人主动上门「预支」血税。
+
+534899
+Tainted Adversary
+败坏仇敌
+
+534900
+Vampire Interloper
+迳闯吸血鬼
+The Voldaren have begun demanding blood offerings from the villagers in their territory. Their agents arrive from the sky to collect the ceremonial bowls in eerie silence.
+--------
+沃达连血脉开始要求辖内村民供奉鲜血。其代表悄然从天而降，将各地祭祀钵收归囊中。
+
+534901
+Vengeful Strangler
+怨恨受绞囚
+As the flames consumed the killer, his eyes remained fixed on the executioner's face, his hands twitching like angry spiders.
+--------
+火舌逐渐吞没凶手，但后者眼睛仍死死盯着刽子手面庞，双手如愤怒蜘蛛一般不停抽搐。
+
+534902
+Strangling Grasp
+绞首之攫
+The next day, the executioner was found with ashen handprints on his throat.
+--------
+第二天，人们发现刽子手脖子周围满是灰白手印。
+
+534903
+Abandon the Post
+逃离哨位
+You don't have to outrun the werewolf; you only have to outrun your fellow guard.
+--------
+你不用跑得比狼人快；你只要跑得比同伴快就行。
+
+534904
+Ardent Elementalist
+热诚元素师
+While the Dawnhart witches focus their magic on nature and community, other covens consort with devils and twist the elements to their will.
+--------
+曙鹿集女巫将魔法聚焦于自然与社群，其他女巫集群则选择与魔共舞或曲物自用。
+
+534905
+Bloodthirsty Adversary
+嗜血仇敌
+
+534906
+Brimstone Vandal
+硫磺破坏魔
+
+534907
+Burn Down the House
+焚毁房屋
+
+534908
+Burn the Accursed
+焚净遭诅者
+Nothing remained but a few drifting embers and the smell of smoldering hair.
+--------
+火光之后，唯有几缕余火和毛发烧焦气味尚存。
+
+534909
+Cathartic Pyre
+净灵葬火
+"Leave behind the sorrow of this body. Be blessed, being of light."
+--------
+「愿你忘却肉身所历伤悲。愿你蒙受祝福，化身光辉。」
+
+534910
+Curse of Shaken Faith
+屈志诅咒
+Even within the chapel's hallowed halls, the devils' laughter pierced his prayers.
+--------
+纵使是在礼拜堂的神圣大厅中，魔鬼邪笑仍能盖过他的祷告。
+
+534911
+Electric Revelation
+电激启示
+
+534912
+Falkenrath Perforator
+伐肯纳尖刃客
+"Lady Anje sends her regards. I'll carve the rest of her message into your skin."
+--------
+「安姬大人来信致意。我会把信中其他内容刻在你肌肤上。」
+
+534913
+Falkenrath Pit Fighter
+伐肯纳死斗士
+In the arena, vampires set aside all pretense of honor or civilization and fight like the predators they know themselves to be.
+--------
+在斗技场中，吸血鬼撕下所有荣誉和斯文的伪装，像潜藏在心底深处的捕食者一般搏斗。
+
+534914
+Famished Foragers
+饥馑搜血客
+Furious to find the workshop empty, the starving vampires flew into a frenzy.
+--------
+在愤怒地发现作坊内空无一人后，饥肠辘辘的吸血鬼顿时狂躁起来。
+
+534915
+Fangblade Brigand
+尖牙刃强盗
+As long as the sun is up, you'll only lose your purse.
+--------
+只要太阳还在天上，你会丢掉的就只有钱包。
+
+534916
+Fangblade Eviscerator
+尖牙刃剔骨兽
+
+534917
+Festival Crasher
+收成节破坏魔
+So many candles. So many flammables. So little time.
+--------
+蜡烛很多，能烧的很多，时间太少。
+
+534918
+Flame Channeler
+火焰联能师
+At the edge of night, on the cusp of winter, the allure of fire grows ever stronger.
+--------
+在夜幕初临、寒冬迫近时刻，火焰显得愈发诱人。
+
+534919
+Embodiment of Flame
+烈焰具象
+Never again would she fear the dusk.
+--------
+她从此再也不惧怕黄昏。
+
+534920
+Geistflame Reservoir
+游魂焰贮库
+
+534921
+Harvesttide Infiltrator
+收成节渗透人
+He was one masked stranger among many. Blending in was child's play.
+--------
+在人群之中，他不过是个戴着面具的陌生人。混迹其间简直易如反掌。
+
+534922
+Harvesttide Assailant
+收成节袭击兽
+When Tovolar's howl sounded from the woods, it was answered from the heart of the festival.
+--------
+当听闻托瓦拉林中嚎叫，收成节中心便响起回应。
+
+534923
+Immolation
+赤炎献祭
+Nothing is funnier to a devil than setting someone—anyone—on fire.
+--------
+对魔鬼来说，最有趣的事情莫过于把人点着～谁都行。
+
+534924
+Lambholt Harrier
+羊屯猎兔犬
+"This Tovolar is no brainless brute. He sends his howling minions to terrorize a village for months. Sleepless nights and fear take their toll. Only then, when morale is at its worst, does he strike."
+—Barnes, village watch
+--------
+「这个托瓦拉并非无脑蛮汉。他会派遣手下嚎群接连数月侵扰村庄，让民众夜夜无眠，恐惧气息逐步蔓延。等到士气最低落时才会出手袭击。」
+～村庄守夜人巴恩斯
+
+534925
+Light Up the Night
+照亮黑夜
+
+534926
+Lunar Frenzy
+映月狂热
+In the adrenaline-fueled chaos, she hadn't even felt the bite.
+--------
+在充满紧张氛围的混乱当中，她甚至没感觉自己已经被咬。
+
+534927
+Moonrager's Slash
+月怒狼挥击
+The cathars fell like leaves as Tovolar himself joined the fray.
+--------
+待托瓦拉亲自上阵，便如同秋风扫落叶一般将护教军彻底击溃。
+
+534928
+Moonveil Regent
+月帷龙侯
+
+534929
+Mounted Dreadknight
+乘驹恐惧骑士
+Markov vampires cultivate an image of such decadent elegance that it can be easy to forget they can field a deadly fighting force.
+--------
+马可夫吸血鬼营造出的颓废而不失优雅形象，常让人们忘记他们尚有致命战力。
+
+534930
+Neonate's Rush
+稚儿血欲
+"We spend our entire existence pursuing the joy of our first night's feast."
+—Anje Falkenrath
+--------
+「我们存在的意义，便是为了追求首夜盛宴的欢愉。」
+～安姬伐肯纳
+
+534931
+Obsessive Astronomer
+偏执星象家
+"Sleep? I can sleep when I'm dead!"
+--------
+「睡觉？死了之后有的是时间睡！」
+
+534932
+Pack's Betrayal
+狼群背叛
+Tovolar's howl of command was too much to resist, even for Arlinn's own loyal pack.
+--------
+托瓦拉号令狼嚎难以抗拒，纵连雅琳自己的忠诚狼群亦为之动摇。
+
+534933
+Play with Fire
+戏火作乐
+Devils find human dwellings to be oppressively cold, dark, and unburnt.
+--------
+魔鬼发现人类居所过于寒冷、黑暗、缺乏火光生机。
+
+534934
+Purifying Dragon
+净焰巨龙
+
+534935
+Raze the Effigy
+夷毁肖像
+The folk of Kessig build up their courage by burning effigies of the things they fear.
+--------
+凯锡革民众将自己惧怕之物作成肖像并一焚了之，借此壮胆。
+
+534936
+Reckless Stormseeker
+鲁莽逐风客
+
+534937
+Storm-Charged Slasher
+风雷斩击兽
+
+534938
+Seize the Storm
+掌握风暴
+
+534939
+Smoldering Egg
+闷燃龙卵
+
+534940
+Ashmouth Dragon
+烬口巨龙
+A dragon is born. A province burns.
+--------
+巨龙诞生，行省遭焚。
+
+534941
+Spellrune Painter
+咒符缀身人
+
+534942
+Spellrune Howler
+咒符嚎狼
+
+534943
+Stolen Vitality
+窃取活力
+"There's nothing like a good meal to really lift the spirit."
+--------
+「还是饱餐一顿最提神。」
+
+534944
+Sunstreak Phoenix
+旭缕凤凰
+
+534945
+Tavern Ruffian
+酒馆恶徒
+She dispatched every challenger with a sickening snap of bone.
+--------
+所有向她挑战的人，都在一声骇人折骨声响后败下阵来。
+
+534946
+Tavern Smasher
+酒馆破坏兽
+With every arm in sight broken, she turned her attention to the furniture.
+--------
+在掰坏所有人手腕之后，她便将注意力转移到了家具上。
+
+534947
+Thermo-Alchemist
+热力炼金术士
+"Madness can't touch a mind ignited by genius."
+--------
+「被灵光点燃的大脑不受疯狂的侵扰。」
+
+534948
+Village Watch
+村庄守夜人
+"You have my word. You'll see no wolf attacks while we're around!"
+--------
+「我向你们保证。只要我们在，村庄就不会受到狼群袭击！」
+
+534949
+Village Reavers
+村庄裂肢兽
+With no guards to be seen, the cobbled streets of Gatstaf echoed with howls.
+--------
+守夜人已然不见踪影，只剩狼嚎在卡兹特街头回荡。
+
+534950
+Voldaren Ambusher
+沃达连伏击客
+"Gotcha."
+--------
+「逮到你了。」
+
+534951
+Voldaren Stinger
+沃达连刺棘客
+A duel to first blood means something very different when a vampire is involved.
+--------
+见血即止的决斗规矩，在有吸血鬼参与的情况下其意义已大不相同。
+
+534952
+Augur of Autumn
+暮秋卜算师
+
+534953
+Bird Admirer
+爱鸟人
+She won't rest until she's collected specimens of every bird on Innistrad.
+--------
+她立志集齐依尼翠上所有鸟类标本，不达目的誓不罢休。
+
+534954
+Wing Shredder
+碎翼兽
+Her hunger won't be sated until she's tasted every bird on Innistrad.
+--------
+她立志尝遍依尼翠上所有鸟类滋味，不达目的誓不罢休。
+
+534955
+Bounding Wolf
+弹跃狼
+With their usual prey scared off by werewolves, the wolves of the Ulvenwald adopted inventive new hunting techniques.
+--------
+在平常猎物都被狼人吓跑之后，沃文森的狼不得不创新捕猎技巧。
+
+534956
+Bramble Armor
+刺藤甲
+
+534957
+Briarbridge Tracker
+荆桥追迹人
+
+534958
+Brood Weaver
+守巢编蛛
+Travelers in the Somberwald scan the ground for werewolves and other threats, unaware of what lurks above.
+--------
+进到松柏森的旅人通常会仔细检查地面，查看有无狼人或其他威胁痕迹，而忽略了头顶动向。
+
+534959
+Burly Breaker
+粗鲁破坏人
+
+534960
+Dire-Strain Demolisher
+怖狼脉粉碎兽
+
+534961
+Candlelit Cavalry
+烛光骑兵
+"On this night, the dark will fear us."
+--------
+「今晚，该黑暗惧怕我们。」
+
+534962
+Clear Shot
+精准一击
+As werewolf attacks increased, brutal weapons not seen since the Travails were dusted off and put to work.
+--------
+随着狼人袭击渐频，癫狂劫后就未见过的强力武器又被取出清洁，重新服役。
+
+534963
+Consuming Blob
+噬物黏浆
+
+534964
+Contortionist Troupe
+柔术艺团
+"Welcome to the greatest show in Kessig!"
+--------
+「欢迎来到凯锡革最精彩的演出现场！」
+
+534965
+Dawnhart Mentor
+曙鹿集导师
+
+534966
+Dawnhart Rejuvenator
+曙鹿集回春师
+"Wherever there is life, there is power for one who knows the old ways."
+--------
+「但凡有生命之处，知晓古道之人就能积聚力量。」
+
+534967
+Deathbonnet Sprout
+毒顶菇新芽
+
+534968
+Deathbonnet Hulk
+毒顶菇巨怪
+They grow up so fast.
+--------
+它们长得飞快。
+
+534969
+Defend the Celestus
+守卫穹天仪
+Witch, werewolf, and cathar stood shoulder to shoulder around the Sungold Lock at the center of the ritual, ready to stop Tovolar's assault—or die trying.
+--------
+女巫、狼人和护教军并肩站在仪式中心的旭金锁周围，准备誓死抵御托瓦拉的袭击。
+
+534970
+Dryad's Revival
+树灵复生
+"Pleased to meet you, Seven."
+--------
+「很高兴认识你，小七。」
+
+534971
+Duel for Dominance
+夺权决斗
+
+534972
+Eccentric Farmer
+古怪农夫
+"Careful now. Don't want to get the seeds stuck to your feelers like last time."
+--------
+「这次慢点吃。别像上次那样把南瓜籽沾得满触角都是。」
+
+534973
+Harvesttide Sentry
+收成节哨卫
+She patrols the darkness so that others can forget their worries for one bright evening.
+--------
+她在黑暗中巡逻，好让他人能够忘却烦恼，尽情享受光明傍晚。
+
+534974
+Hound Tamer
+猎犬驯师
+"You and me, we're not built for captivity."
+--------
+「你和我一样，天性不该受人使唤。」
+
+534975
+Untamed Pup
+未驯幼狼
+
+534976
+Howl of the Hunt
+狩猎威嚎
+
+534977
+Might of the Old Ways
+古道之力
+Brimming with power from their disrupted ritual, the Dawnhart witches lashed out at the werewolf intruders.
+--------
+曙鹿集女巫浑身满盈从遭阻仪式中获得的力量，奋起反击狼人入侵者。
+
+534978
+Outland Liberator
+离乡救难人
+"Just hold still. I'll help you."
+--------
+「别动。我来救你。」
+
+534979
+Frenzied Trapbreaker
+狂热破笼兽
+
+534980
+Path to the Festival
+收成节光道
+
+534981
+Pestilent Wolf
+瘟疫狼
+Wolves that feast on zombie flesh and survive carry the foul diseases of the dead wherever they roam.
+--------
+吃过灵俑而幸存的狼群，会将亡者腐疫播散到它们所经之处。
+
+534982
+Plummet
+铅直落下
+"A creature of stone was never meant to fly. And I see the Ulvenwald agrees with me."
+—Halana, Kessig ranger
+--------
+「石头变成的生物本该不能飞。原来沃文森看法跟我一样。」
+～凯锡革护林者荷拉娜
+
+534983
+Primal Adversary
+原初仇敌
+
+534984
+Return to Nature
+回返自然
+"Even steel and stone return to Ghrin-Danu in time."
+—Katilda, Dawnhart Prime
+--------
+「就算是顽石寒钢，最终也会回归吉琳达努怀抱。」
+～曙鹿集巫首凯蒂妲
+
+534985
+Rise of the Ants
+蚁群崛起
+
+534986
+Saryth, the Viper's Fang
+毒蛇之牙萨黎丝
+
+534987
+Shadowbeast Sighting
+亲睹黯影兽
+"Werewolves leave tracks. Vampires leave wrung-out corpses. This is something else."
+—Paulin, trapper of Somberwald
+--------
+「狼人留下踪迹。吸血鬼留下干尸。这是其他东西留下的。」
+～松柏森布陷人堡霖
+
+534988
+Snarling Wolf
+咆哮狼
+"Oh, thank the angels. It's not a werewolf, just a regular wo—"
+—Bruno, Ulvenwald guide, last words
+--------
+「噢，感恩天使。它不是狼人，只是头普通的拉～」
+～沃文森向导布鲁诺的遗言
+
+534989
+Storm the Festival
+冲击收成节
+
+534990
+Tapping at the Window
+轻敲窗户
+
+534991
+Timberland Guide
+林地向导
+Hiring an experienced wilderness guide isn't cheap, but it costs less than a search party. Or a funeral.
+--------
+虽然雇佣一位经验丰富的荒郊向导并不便宜，但总比叫上搜救队来得划算。或是葬礼。
+
+534992
+Tireless Hauler
+不倦搬运工
+The new hire proved more than enough to replace the three farmhands who disappeared the week before.
+--------
+新雇上这位工人干的活，比上周失踪的三名农工加起来还要多。
+
+534993
+Dire-Strain Brawler
+怖狼脉斗兽
+A few townsfolk had their suspicions, but none dared accuse him openly.
+--------
+虽然有的镇民心存疑虑，但谁也不敢公开指控。
+
+534994
+Tovolar's Huntmaster
+托瓦拉猎师
+"Do you smell that, friends? Fear and despair."
+--------
+「闻到了吗，伙计们？恐惧和绝望。」
+
+534995
+Tovolar's Packleader
+托瓦拉群首
+
+534996
+Turn the Earth
+翻松土壤
+
+534997
+Unnatural Growth
+超凡成长
+With the cycles of day and night unspooled, the twisted sway of the moon only grew. And grew.
+--------
+随着昼夜轮回消失，月亮的扭曲影响逐渐加剧。而且愈演愈烈。
+
+534998
+Willow Geist
+祟柳游魂
+Die beneath a tree, wake up a part of it.
+--------
+死于树下，醒来时便融为一体。
+
+534999
+Wrenn and Seven
+芮恩与七树妖
+
+535000
+Angelfire Ignition
+燃亮天使焰
+"My angel is the flint, and I am her steel."
+--------
+「天使燃我战意，我愿当其尖刀。」
+
+535001
+Arcane Infusion
+玄秘灌输
+
+535002
+Arlinn, the Pack's Hope
+狼群之望雅琳
+
+535003
+Arlinn, the Moon's Fury
+皎月之怒雅琳
+
+535004
+Bladestitched Skaab
+刀扎尸嵌
+The surviving militia members reunited with their fallen comrades sooner than they'd hoped.
+--------
+幸存民兵队员与过世战友的重逢之日，来得比他们想象的要早一些。
+
+535005
+Can't Stay Away
+难以抗拒
+Death is no impediment to dinner.
+--------
+死亡不妨碍进食。
+
+535006
+Corpse Cobble
+拼凑尸身
+
+535007
+Croaking Counterpart
+呱叫反身
+Frog is the sincerest form of flattery.
+--------
+青蛙是最真诚的奉承。
+
+535008
+Dawnhart Wardens
+曙鹿集护卫
+"The balance of day and night is shattered. We must find the Moonsilver Key."
+--------
+「昼夜平衡已被破坏，我们必须找到月银钥。」
+
+535009
+Dennick, Pious Apprentice
+虔敬新兵丹尼克
+
+535010
+Dennick, Pious Apparition
+虔敬新魂丹尼克
+
+535011
+Devoted Grafkeeper
+虔诚守墓人
+
+535012
+Departed Soulkeeper
+离世守魂灵
+
+535013
+Dire-Strain Rampage
+怖狼脉狂愤
+
+535014
+Diregraf Rebirth
+战墓再生
+
+535015
+Faithful Mending
+虔心修补
+"What has been looted can be restored. The church lives on within us."
+--------
+「遭掠之处可以复原。而教会长存心中。」
+
+535016
+Fleshtaker
+采肉人
+A soulless husk of endless hunger.
+--------
+无魂躯壳具有无尽饥渴。
+
+535017
+Florian, Voldaren Scion
+沃达连后裔华伦安
+
+535018
+Galvanic Iteration
+电流迭变
+Better potent than predictable.
+--------
+宁要威力，不要规律。
+
+535019
+Ghoulcaller's Harvest
+尸鬼牧者收成
+
+535020
+Grizzly Ghoul
+灰尸熊
+The hunters spent the evening celebrating their kill and the rest of the night running from it.
+--------
+猎人傍晚还在为狩猎庆功，之后整晚都被所猎之物追捕、疲于奔命。
+
+535021
+Hallowed Respite
+神佑暂息
+
+535022
+Hungry for More
+饥渴无边
+
+535023
+Join the Dance
+携手共舞
+"We can go into the dark hand-in-hand or alone. I know which I prefer."
+--------
+「黑暗降临之时，我们可以携手同行，也可孑然面对。我知道我会选哪样。」
+
+535024
+Katilda, Dawnhart Prime
+曙鹿集巫首凯蒂妲
+"The angels may have abandoned us, but Ghrin-Danu has not."
+--------
+「天使或许已经抛弃我们，但吉琳达努还没有。」
+
+535025
+Kessig Naturalist
+凯锡革归真师
+"Far from home, little one? I know the feeling."
+--------
+「你也是背井离乡吗，小家伙？我知道你的感受。」
+
+535026
+Lord of the Ulvenwald
+沃文森首领
+
+535027
+Liesa, Forgotten Archangel
+遗世大天使莉艾莎
+
+535028
+Ludevic, Necrogenius
+死灵奇才卢德维
+
+535029
+Olag, Ludevic's Hubris
+卢德维巨作欧拉格
+
+535030
+Old Stickfingers
+老枯指
+
+535031
+Rem Karolus, Stalwart Slayer
+不渝克星连卡洛
+
+535032
+Rite of Harmony
+和谐仪式
+Nature bends to the witches' call.
+--------
+自然听从女巫号令。
+
+535033
+Rite of Oblivion
+逐世仪式
+Revenge is a circle without end.
+--------
+复仇是个没有尽头的循环。
+
+535034
+Rootcoil Creeper
+缠根匐行怪
+
+535035
+Sacred Fire
+圣洁火焰
+"Do not confuse justice with mercy."
+—Odric, Order of Saint Traft
+--------
+「切勿将正义与怜悯混为一谈。」
+～圣沙弗骑士团的欧吉克
+
+535036
+Sigarda, Champion of Light
+明光斗士席嘉妲
+
+535037
+Siphon Insight
+吸取视界
+
+535038
+Slogurk, the Overslime
+流浆王斯罗咕
+
+535039
+Storm Skreelix
+暴风嘶奇黎
+
+535040
+Sunrise Cavalier
+日升骑兵
+"Like us, the morning fights for survival."
+--------
+「跟我们一样，清晨也在艰苦求存。」
+
+535041
+Teferi, Who Slows the Sunset
+延日泰菲力
+
+535042
+Tovolar, Dire Overlord
+怖狼首领托瓦拉
+
+535043
+Tovolar, the Midnight Scourge
+午夜灾祸托瓦拉
+
+535044
+Unnatural Moonrise
+异常月升
+
+535045
+Vadrik, Astral Archmage
+星相大法师瓦垂格
+
+535046
+Vampire Socialite
+名流吸血鬼
+
+535047
+Wake to Slaughter
+醒转屠戮
+
+535048
+Winterthorn Blessing
+冬棘祝福
+
+535049
+The Celestus
+穹天仪
+
+535050
+Crossroads Candleguide
+岔路烛光向导
+Do the candleguides' heads turn to follow you as you pass, or is it merely a trick of the flickering light?
+--------
+到底是烛光向导在你经过时扭头看了你，还是仅为闪烁烛光引起的错觉？
+
+535051
+Jack-o'-Lantern
+南瓜灯
+By the end of the festival, it was the only thing still grinning.
+--------
+收成节落幕时，只有它上面还挂着笑脸。
+
+535052
+Moonsilver Key
+月银钥
+To restore the day-night balance, the Celestus mechanism's Sungold Lock must be reunited with its long-lost key.
+--------
+要恢复日夜平衡，就必须用遗失已久的钥匙去打开穹天仪的核心机关～旭金锁。
+
+535053
+Mystic Skull
+神秘饰首
+It waited on the barn wall for decades, forgotten, looking for the perfect opportunity.
+--------
+数十年来，它一直无人问津，静静挂在谷仓墙上等待完美时机。
+
+535054
+Mystic Monstrosity
+神秘巨兽
+Under the light of an unnatural moon, it walked out on legs of straw with joints of hinges ripped from the barn doors.
+--------
+于异常之月的光芒下，它借助谷仓大门铰链与稻草拼合而成的四肢昂首挺立。
+
+535055
+Pithing Needle
+穿髓金针
+Occasionally a skaab remembers too much of its former life. Luckily, there's an easy cure.
+--------
+有的时候尸嵌会记得前生太多往事。幸运的是，有种办法可以简单解决。
+
+535056
+Silver Bolt
+银弩矢
+"When a werewolf charges, you'll only have time for one shot. Best make it count."
+—Captain Eberheart
+--------
+「狼人冲锋后，你只有射一箭的机会。不要浪费。」
+～船长艾博汉
+
+535057
+Stuffed Bear
+填充熊
+It takes a taxidermist of unusual skill to cleanly stuff and mount a beast without severing its primal, predatory drive.
+--------
+仔细填充野兽尸身令其站立，同时又不失却其原初猎捕本能，这需要超凡技艺的标本师才能做到。
+
+535058
+Deserted Beach
+荒废沙滩
+Drownyard floods and unnatural frost made the once peaceful boardwalk deceptively treacherous.
+--------
+沉船地的洪流和诡异冰霜，让这原本平稳的木板路径也变得颇为凶险。
+
+535059
+Evolving Wilds
+成形野地
+"Stensia blazes with new heat. Nephalia's tides are chaotic. And everywhere, this unnatural frost. The land is sending a warning."
+—Katilda, Dawnhart Prime
+--------
+「史顿襄新焰熊熊。涅非利亚乱浪滔滔。诡异冰霜肆虐四境。大地在发出警告。」
+～曙鹿集巫首凯蒂妲
+
+535060
+Field of Ruin
+战场遗迹
+
+535061
+Haunted Ridge
+闹鬼山脊
+Swirling eddies of ash hide crumbling cliffs, treacherous drops, and the slavering maws of unknown evils.
+--------
+漩涡灰雾之下，藏着的是崩毁山崖、险峻峭壁和恶物血口。
+
+535062
+Hostile Hostel
+异烁驿所
+
+535063
+Creeping Inn
+悚动旅店
+
+535064
+Overgrown Farmland
+蔓生农地
+A few weed-choked gourd patches are all that remain of the proud, thriving farms that once blanketed the province.
+--------
+覆盖行省的傲人沃田如今已然荒芜，只剩丛生杂草点缀其间。
+
+535065
+Rockfall Vale
+落石山谷
+Cries of panic echo along Kessig's narrow ravines as howlpacks herd their prey.
+--------
+嚎群在凯锡革狭窄山谷间追捕猎物，惊慌哀号回荡此处经久不绝。
+
+535066
+Shipwreck Marsh
+碎船沼地
+The bones of doomed ships jut out from the muck while the bones of their sailors molder below.
+--------
+遭难船只船身突出淤泥，船员尸身则在底下腐烂。
+
+538227
+Plains
+平原
+
+538228
+Plains
+平原
+
+538229
+Island
+海岛
+
+538230
+Island
+海岛
+
+538231
+Swamp
+沼泽
+
+538232
+Swamp
+沼泽
+
+538233
+Mountain
+山脉
+
+538234
+Mountain
+山脉
+
+538235
+Forest
+树林
+
+538236
+Forest
+树林
+
+538337
+Plains
+平原
+
+538338
+Island
+海岛
+
+538339
+Swamp
+沼泽
+
+538340
+Mountain
+山脉
+
+538341
+Forest
+树林
+
+========

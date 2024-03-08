@@ -1,0 +1,1826 @@
+476252
+Alseid of Life's Bounty
+丰穰蔻灵
+"Dawn-kissed, he nourishes the golden grain."
+—Psemilla, Meletian poet
+--------
+「他挥洒晨光，滋养世间谷物。」
+～迈勒提斯诗人普塞弥拉
+
+476253
+Archon of Falling Stars
+星落统领
+"The archon fell like a star from the sky, meeting the rising sun at the horizon's edge."
+—The Cosmogony
+--------
+「统领如流星从苍穹坠落，会旭日于天际。」
+～《天地起源论》
+
+476254
+Archon of Sun's Grace
+阳华统领
+
+476255
+Banishing Light
+驱逐明光
+The Champion reached for a stone, and Heliod placed the sun into her hand.
+—The Theriad
+--------
+天尊伸手想要去拿石块，赫利欧德则将整个太阳递到她掌心。
+～《塞洛亚特》
+
+476256
+The Birth of Meletis
+迈勒提斯创城史
+
+476257
+Captivating Unicorn
+魅力独角兽
+"Gazing at the unicorn, I felt closer to the majesty of Nyx than I ever had before."
+—Oineus, traveling merchant
+--------
+「我与独角兽对视时，感觉自己从未与尼兹神域如此接近。」
+～云游商人俄涅乌斯
+
+476258
+Commanding Presence
+指挥存形
+"In every one of you I see a hero's heart."
+--------
+「我看出你们人人都有一颗英勇雄心。」
+
+476259
+Dawn Evangel
+黎明福音师
+Is there a greater promise than the glory of the sunrise?
+--------
+还有什么承诺，比许你日升之耀更伟大？
+
+476260
+Daxos, Blessed by the Sun
+阳神祝佑的达克索斯
+
+476261
+Daybreak Chimera
+破晓盖美拉
+
+476262
+Dreadful Apathy
+可怖漠然
+Those whose lives were uninspired are doomed to the wretched tedium of Phylias in death.
+--------
+活着虚度光阴的人，死后必会坠入虚妄境费拉司继续蹉跎岁月。
+
+476263
+Eidolon of Obstruction
+扰生幻灵
+Death turned admirable conviction into pointless intransigence.
+--------
+令人钦佩的虔诚信念，在死后就变成了毫无意义的固执坚持。
+
+476264
+Elspeth Conquers Death
+艾紫培转生纪
+
+476265
+Elspeth, Sun's Nemesis
+破日死敌艾紫培
+
+476266
+Favored of Iroas
+伊洛安斯恩眷兵
+"The promise of victory fills my heart. There is no room for fear."
+--------
+「胜利许诺充盈内心，毫无怯惧容身之地。」
+
+476267
+Flicker of Fate
+明灭命运
+An infinite journey in an infinitesimal time.
+--------
+无穷短时间内的一次无限长旅行。
+
+476268
+Glory Bearers
+荣光护持僧
+"We are bearers of the ancient light, keepers of sun-crowned Heliod's blessings. Fight, and the light will protect you!"
+--------
+「吾人乃是远古之光的护持僧、日冠赫利欧德祝福的守护者。勇敢作战吧，明光定会庇护你！」
+
+476269
+Heliod, Sun-Crowned
+日冠赫利欧德
+
+476270
+Heliod's Intervention
+赫利欧德的干预
+"I bring a dawn that no night can follow."
+--------
+「我降下破晓曙光，纵暗夜亦不能掩。」
+
+476271
+Heliod's Pilgrim
+赫利欧德的朝圣客
+
+476272
+Heliod's Punishment
+赫利欧德的惩罚
+
+476273
+Hero of the Pride
+狮族勇士
+Leonin fight for neither god nor polis; their loyalty is to their pride.
+--------
+狮族既不忠于神明，也不隶属城邦；他们只为自己族群而战。
+
+476274
+Hero of the Winds
+风袭勇士
+To tame a griffin is to ride into legend.
+--------
+驯服狮鹫，就能飞往传奇。
+
+476275
+Idyllic Tutor
+田园导师
+"You are loved, child."
+--------
+「孩子，你拥有爱。」
+
+476276
+Indomitable Will
+大无畏精神
+"Charge bravely. Fight selflessly. Act honorably. Iroas will watch over you."
+—Verenis, priest of Iroas
+--------
+「勇敢冲锋，无私作战，公义行事。伊洛安斯与你同在。」
+～伊洛安斯的僧侣维瑞尼斯
+
+476277
+Karametra's Blessing
+卡拉美特拉的祝福
+
+476278
+Lagonna-Band Storyteller
+拉苟那族说书人
+"Our stories are full of ancient wisdom; they tell us who we are."
+--------
+「吾人的故事当中充满先人智慧；我们引以为鉴认清自身。」
+
+476279
+Leonin of the Lost Pride
+逝群狮族
+Leonin band together in the Underworld, taking solace in their strength until, at last, both pride and self are forgotten.
+--------
+在冥界当中狮族也会聚作狮群，从集体力量寻得慰藉，直到最后群体与自身皆被遗忘。
+
+476280
+Nyxborn Courser
+天裔骏马
+"Storms drove them westward to Ketaphos;
+  wide plains shimmered in starlight.
+Centaurs greeted them, offering
+  gold-hued apples and grain-cakes."
+—The Callapheia
+--------
+「狂风吹袭迫使众人西行来到刻塔福司；
+  这里平原广阔天地合一四处星光熠熠。
+热情的半人马簇拥上前欢迎来客到访，
+  备好金色苹果与米谷蛋糕作离别饯礼。」
+～《卡莱斐纪》
+
+476281
+Omen of the Sun
+太阳神的预兆
+"My time will come, when every soul will bask in my glory and obey my law."
+--------
+「我的时刻终将到来，届时众生将浴我荣光、从我律法。」
+
+476282
+Phalanx Tactics
+方阵兵团战法
+Every soldier has a place to stand and a role to play.
+--------
+每个士兵在阵中都有自己的位置和作用。
+
+476283
+Pious Wayfarer
+虔敬旅人
+Every footstep is a prayer, every road a temple.
+--------
+每步一诵拜，路路皆神庙。
+
+476284
+Reverent Hoplite
+虔诚重装步兵
+"Zeal is the sharpest blade, and piety the strongest shield."
+--------
+「热诚是最锋利的尖刀，虔敬是最坚实的护盾。」
+
+476285
+Revoke Existence
+撤销存在
+"The time has come for us to throw off the chains of tyrannical gods and antiquated superstitions."
+—Tikaia, disciple of Uremides
+--------
+「这天已经到来：吾辈苦于专横神明与陈腐迷信的桎梏，如今该挺身破除这一切。」
+～乌瑞弥得斯学徒提卡伊亚
+
+476286
+Rumbling Sentry
+隆响哨兵
+"To provoke the mountain is to invite the avalanche."
+—Perisophia the philosopher
+--------
+「激怒大山就是把山崩请上门。」
+～哲人珀里索菲娅
+
+476287
+Sentinel's Eyes
+哨卫之眼
+
+476288
+Shatter the Sky
+天界崩毁
+When the gods go to war, mortals pay the highest price.
+--------
+神界混战时，最惨痛的代价往往要由凡界承担。
+
+476289
+Sunmane Pegasus
+阳鬃飞马
+Chosen by Heliod, Daxos approached the pegasus without fear, and rode it without saddle or reins.
+--------
+达克索斯被赫利欧德选中后，毫无畏惧地走向飞马，未着鞍辔即能自如驾驭。
+
+476290
+Taranika, Akroan Veteran
+阿喀洛斯老兵塔若妮卡
+"I like to think Kytheon keeps watch over all of us."
+--------
+「我更愿相信是库忒昂在一直守护我们。」
+
+476291
+Transcendent Envoy
+入圣使节
+"The first griffins were made by the gods to capture falling stars; they were given the keenest eyes and the swiftest wings, and sent to keep watch above the clouds."
+—The Cosmogony
+--------
+「诸神想要阻止流星再度坠地，便创造了狮鹫行守护之责；他们赋予狮鹫锐利双目与疾速翅膀，令其驻守云端随时戒备。」
+～《天地起源论》
+
+476292
+Triumphant Surge
+战意翻涌
+Not even death can quench a hero's inner fire.
+--------
+死亡也无法浇熄英雄的内心火焰。
+
+476293
+Alirios, Enraptured
+映影痴阿里流士
+"Why would I ever want to look away?"
+--------
+「还有什么值得我移开目光？」
+
+476294
+Ashiok's Erasure
+安梭苛的抹消
+
+476295
+Brine Giant
+海洋巨人
+The oracles of Meletis foresaw neither its rise from the depths nor the destruction it would leave in its wake.
+--------
+迈勒提斯的先知既没有预见到会有巨人从深洋现身，更没料想到它会留下满目疮痍。
+
+476296
+Callaphe, Beloved of the Sea
+海神爱护的卡莱斐
+
+476297
+Chain to Memory
+往事留链
+Those who do not learn from their mistakes are bound to relive them.
+--------
+从未自错误中汲取教训的人，必将重蹈覆辙。
+
+476298
+Deny the Divine
+否认神性
+"A great wave crashed, and a mighty wind blew out the stars."
+—The Cosmogony
+--------
+「巨浪冲袭天界，劲风吹散群星。」
+～《天地起源论》
+
+476299
+Eidolon of Philosophy
+哲理幻灵
+"And what did Erekastos teach us is the nature of the soul?"
+--------
+「难道厄勒卡托斯教导我们的，真是灵魂本质？」
+
+476300
+Elite Instructor
+精英讲师
+The greatest minds in Meletis study under the masters at the Dekatia, a renowned school of magic and philosophy.
+--------
+得卡提亚学院是教导魔法与哲理的知名学府，迈勒提斯最顶尖的智者都云集于此拜师深造。
+
+476301
+Glimpse of Freedom
+瞥视自由
+"Freedom lies in accepting a single path."
+—Nyklos, Meletian philosopher
+--------
+「认定方向一往无前，便能求得自由出路。」
+～迈勒提斯哲人倪克洛斯
+
+476302
+Ichthyomorphosis
+化鱼术
+Tycthis's military career was a flop.
+--------
+提克提斯的军旅生涯就此扑腾落地。
+
+476303
+Kiora Bests the Sea God
+奇奥拉力克海神
+
+476304
+Medomai's Prophecy
+墨冬迈的预言
+
+476305
+Memory Drain
+汲取记忆
+Alythos sat and stared blankly out over the glassy oceans of Nerono, trying in vain to remember what he knew he had forgotten.
+--------
+阿吕托斯呆坐着，无神目光投向奈洛诺的平静汪洋。他明知自己已遗忘一切，却仍徒劳地想要唤醒回忆。
+
+476306
+Nadir Kraken
+天底巨海兽
+
+476307
+Naiad of Hidden Coves
+秘窟水灵
+"Wave-borne, he watches over secrets of the shore."
+—Psemilla, Meletian poet
+--------
+「他生自波涛，守护岸边秘密。」
+～迈勒提斯诗人普塞弥拉
+
+476308
+Nyxborn Seaguard
+天裔海卫
+"Storm-tossed and broken, Callaphe
+  cried out to deep-dwelling Thassa.
+Tritons came swiftly to save her,
+  bringing her north to the Lindus."
+—The Callapheia
+--------
+「卡莱斐一行突遭遇暴风侵袭巨浪拍打，
+  她情急下疾呼塔萨，祈求救其命于绝地。
+海中屈东闻讯急忙赶到助其挺过难关，
+  之后护送船队向北，指引她前往林都司。」
+～《卡莱斐纪》
+
+476309
+Omen of the Sea
+海神的预兆
+"My time will come, when the rising tide will surge above the tallest mountain."
+--------
+「我的时刻终将到来，届时汹涌潮水将吞没巍峨高山。」
+
+476310
+One with the Stars
+星辰加身
+"Take your place among the stars."
+—Kruphix, god of horizons
+--------
+「安身于群星之位。」
+～天际神克罗芬斯
+
+476311
+Protean Thaumaturge
+变幻奇术师
+"Once you see past the veil we call ʻreality,' altering your own shape is elementary."
+--------
+「等你能够看穿这道称为『现实』的帘幕，就会发现变幻自身形态实属稀松平常。」
+
+476312
+Riptide Turtle
+急流龟
+"As the storm waves crushed my sailors, I cried out to Thassa. The next time I saw them, hard shells encased them, and they swam away to safety."
+—Siona, captain of the Pyleas
+--------
+「当我的水手被狂风巨浪卷走时，我一时情急便向塔萨大声求援。转眼之间，只见硬壳海龟从海中出现将他们包住，缓缓游向安全之地。」
+～皮勒阿斯号船长西俄娜
+
+476313
+Sage of Mysteries
+奥秘智者
+"I see destruction, suffering, and one tormented glimmer of hope."
+--------
+「我看到了毁灭、折磨，还有苦难中些微的希望。」
+
+476314
+Sea God's Scorn
+海神的轻蔑
+Instead of performing their daily devotions, Heliod's acolytes spent the morning picking strands of kelp off the altar.
+--------
+今天早晨，赫利欧德的侍僧并未按例礼拜，而是忙于清理祭坛周围的海藻。
+
+476315
+Shimmerwing Chimera
+星翼盖美拉
+It swims upon the winds and soars through the waves.
+--------
+它畅游风中，翱翔浪间。
+
+476316
+Shoal Kraken
+暗礁巨海兽
+It eats the things that eat the things that are drawn to the light.
+--------
+有东西被光束吸引，继而被其他东西吃掉，其他东西继而被它吃掉。
+
+476317
+Sleep of the Dead
+亡者沉眠
+Normally, a cerberus sleeps one head at a time.
+--------
+一般来说，地狱犬每次只有一颗头睡觉。
+
+476318
+Starlit Mantle
+繁星斗篷
+
+476319
+Stern Dismissal
+严正驱离
+Cities offer tribute to Ephara and carve her image into their walls, imploring her to protect them from the dangers of the wild.
+--------
+各个城市都会敬奉厄芳拉，并将其形象刻画于墙上，以此恳求她保佑全城免遭荒野侵袭。
+
+476320
+Stinging Lionfish
+螯刺狮鱼
+Starfish are its favorite prey.
+--------
+海星是其最爱的猎物。
+
+476321
+Sweet Oblivion
+忘之如饴
+When memory is torment, oblivion is bliss.
+--------
+当记忆成了折磨，忘却便是美事。
+
+476322
+Thassa, Deep-Dwelling
+深洋塔萨
+
+476323
+Thassa's Intervention
+塔萨的干预
+"I bring a flood that nothing can withstand."
+--------
+「我洒下汹涌洪流，纵万物亦不能挡。」
+
+476324
+Thassa's Oracle
+塔萨的先知
+
+476325
+Thirst for Meaning
+渴求真知
+A sip of recollection, an ocean of regrets.
+--------
+轻啜往昔回忆，跌落悔恨汪洋。
+
+476326
+Threnody Singer
+悼挽塞连
+
+476327
+Thryx, the Sudden Storm
+疾风暴特律克斯
+Even in their mountain fortresses, the Akroans have learned not to anger Thassa.
+--------
+即便躲在山脉要塞当中，阿喀洛斯人也学会了不要激怒塔萨。
+
+476328
+Towering-Wave Mystic
+扬啸秘教徒
+Thassa's favor followed him to the Underworld. Even the waves of Nerono obeyed his will.
+--------
+塔萨的眷顾随着他进到冥界。就连奈洛诺境的波涛也听其号令。
+
+476329
+Triton Waverider
+驭浪屈东
+"You can no more stop me than you can halt the tide."
+--------
+「你挡不住潮汐，更挡不住我。」
+
+476330
+Vexing Gull
+乱心海鸥
+"May the skies be clear of gales and gulls."
+—Meletian prayer
+--------
+「愿风平浪静，海鸥不现。」
+～迈勒提斯祷文
+
+476331
+Wavebreak Hippocamp
+裂波鱼驹
+Tritons search for omens in its wake.
+--------
+屈东随其行迹寻找预兆。
+
+476332
+Whirlwind Denial
+疾风拒斥
+"No, no, and . . . no."
+--------
+「不准，不准，还是. . .不准。」
+
+476333
+Witness of Tomorrows
+来日见证人
+"As the future slips its way into the present, it ceases to be my concern."
+--------
+「随着未来缓慢融入现在，我不再担忧来日。」
+
+476334
+Agonizing Remorse
+苦痛悔恨
+The sharp memory of Daxos's death stabbed into Elspeth's soul.
+--------
+达克索斯殒命的尖锐记忆深深刺入了艾紫培的灵魂。
+
+476335
+Aphemia, the Cacophony
+乱调娥菲弥娅
+"Sing, beauty. Sing for death, and for the dead."
+—Ashiok
+--------
+「美人啊，放声歌唱吧。为死亡而歌，为逝者而唱。」
+～安梭苛
+
+476336
+Aspect of Lamprey
+鳃鳗形体
+"Some aspire to be mighty like the lion or the hydra. I am the parasite that feeds on them all."
+--------
+「有人希望成为狮子或多头龙一样的猛兽。而我宁作啃咬猛兽的寄生虫。」
+
+476337
+Blight-Breath Catoblepas
+荒息牛身妖瞳
+Wherever it walks, famine follows behind.
+--------
+所到之处，饥荒随行。
+
+476338
+Cling to Dust
+执持化尘
+In bleak Tizerus, all hope crumbles in your grasp.
+--------
+在阴黯的提泽拉司境内，所有希望都会在你掌心化作尘埃。
+
+476339
+Discordant Piper
+走调吹笛手
+The death of the party.
+--------
+盛宴死亡之源。
+
+476340
+Drag to the Underworld
+拖入冥界
+The more you struggle against death, the tighter its grip becomes.
+--------
+你挣扎得越狠，死亡便扯得越紧。
+
+476341
+Eat to Extinction
+饕餮灭迹
+"Kroxa devours what he may—not for sustenance or pleasure, but because it is his nature. He is unending hunger given form."
+—Klothys, god of destiny
+--------
+「克罗刹吞得了他能吃下的所有东西～这并非为了求生或取乐，而只是天性使然。他正是无尽饥饿的具现。」
+～命运神克洛缇丝
+
+476342
+Elspeth's Nightmare
+艾紫培的梦魇
+
+476343
+Enemy of Enlightenment
+启蒙天敌
+"Evil flourishes where ignorance thrives."
+—Perisophia the philosopher
+--------
+「无知遍行之处，邪恶随之昌盛。」
+～哲人珀里索菲娅
+
+476344
+Erebos, Bleak-Hearted
+冥黯厄睿柏斯
+
+476345
+Erebos's Intervention
+厄睿柏斯的干预
+"I bring a death none can escape."
+--------
+「我取下苍生性命，纵英杰亦不能逃。」
+
+476346
+Final Death
+终极死亡
+The Underworld erodes memory, identity, and eventually the physical form, leaving only crumbling statues called misera—hollow monuments to mortal futility.
+--------
+冥界会逐渐侵蚀亡者的记忆、身分乃至实体，最终只留下一尊脆弱悲像，作为凡人徒劳求生的空洞纪念。
+
+476347
+Fruit of Tizerus
+提泽拉司境果实
+One spiny tree with bitter fruit grows in the realm of Tizerus, outside the palace of Erebos.
+--------
+在提泽拉斯境内、厄睿柏斯宫殿之外，长着一棵多刺果树，结出苦涩果实。
+
+476348
+Funeral Rites
+送葬仪式
+Funerary masks help the newly dead resist the erosion of memory and identity in the Underworld.
+--------
+亡者身边的葬仪面具，能帮助他们在刚入冥界之时抵御此处对记忆和身分的侵蚀。
+
+476349
+Gravebreaker Lamia
+破坟拉弥亚
+
+476350
+Gray Merchant of Asphodel
+安福陵的暗贾
+
+476351
+Grim Physician
+冷酷医师
+The Returned retain no memory of their identities, but sometimes they mindlessly attempt familiar tasks.
+--------
+转世者没有其身分的任何记忆，但有时仍会不由自主地作起熟悉的事情。
+
+476352
+Hateful Eidolon
+愤恨幻灵
+From the echoes of a violent life, a terrible foe is born.
+--------
+从暴躁生命的回响中，一位可怖劲敌逐渐成形。
+
+476353
+Inevitable End
+定数难逃
+"How many more will die before you accept your fate?"
+—Erebos, god of the dead
+--------
+「你在接受自己的命运之前，会牺牲多少条性命？」
+～死神厄睿柏斯
+
+476354
+Lampad of Death's Vigil
+念亡冥灵
+"Grief-struck, she weeps for each mortal's final death."
+—Psemilla, Meletian poet
+--------
+「她满怀悲痛，泪悼凡人殒命。」
+～迈勒提斯诗人普塞弥拉
+
+476355
+Minion's Return
+奴仆复生
+As a mortal, Phenax was the first to escape the Underworld. As a god, he brings his pawns along the same dark path.
+--------
+当他还是凡人时，斐纳克第一个逃出冥界。当他身为神明后，他引领自己走卒依同样道路回生。
+
+476356
+Mire Triton
+泥沼屈东
+Caught between life and death, between land and sea, between thought and oblivion.
+--------
+徘徊在生与死、地与海、忆与忘之间。
+
+476357
+Mire's Grasp
+泥沼之攫
+Those caught attempting to escape the Underworld spend the rest of their existence trapped in the Mire of Punishment.
+--------
+试图逃离冥界而被抓到者，其接下来实体仍存的时光，都是被埋在惩戒泥沼中度过。
+
+476358
+Mogis's Favor
+墨癸斯的眷顾
+Rage-crowned Mogis swiftly rewards the virtue of brutality.
+--------
+怒冕墨癸斯很快就让暴力美德得到嘉奖。
+
+476359
+Nightmare Shepherd
+梦魇牧者
+
+476360
+Nyxborn Marauder
+天裔劫掠者
+"Callaphe guided them into the
+  darkness of Hetos, the bleak mire;
+Blood-horned minotaurs circled them,
+  axes aglimmer in shadow."
+—The Callapheia
+--------
+「卡莱斐率领手下来到黑暗泥沼赫托泽，
+  此处空有明月高悬，却依然是黯淡无光。
+血角牛头怪忽然出现将众人团团围住，
+  纵使八方黑影幢幢，仍见利斧星光闪亮。」
+～《卡莱斐纪》
+
+476361
+Omen of the Dead
+死神的预兆
+"My time will come, when life's frantic striving will fade into the boundless quiet of death."
+--------
+「我的时刻终将到来，届时聒絮生机将化作静寂死亡。」
+
+476362
+Pharika's Libation
+芳瑞卡的奠酒式
+"If you will not pour your drink out for me, I shall pour mine out for you."
+--------
+「如果你不为我倒干佳酿，那就换我为你倒干杯中一切。」
+
+476363
+Pharika's Spawn
+芳瑞卡的后裔
+
+476364
+Rage-Scarred Berserker
+怒痕狂战士
+The fury of the slaughter god Mogis burns within him.
+--------
+屠戮神墨癸斯的怒火在他体内燃烧。
+
+476365
+Scavenging Harpy
+拾荒哈痞
+Desecrating the dead is a convenient way for harpies to expand their foul collections.
+--------
+亵渎亡者，是哈痞增加自己秽物收藏的快捷方式。
+
+476366
+Soulreaper of Mogis
+墨癸斯的刈魂客
+"We offer to Mogis the blood of the weak, and in return he makes us strong."
+--------
+「我们向墨癸斯献上弱者鲜血，他以让我们变强为报。」
+
+476367
+Temple Thief
+殿堂窃贼
+"I don't know if the gods watch over their temples, but I figure it's best to be stealthy just in case."
+--------
+「我不知道神明是否会照看自己的殿堂，但我最好还是悄悄行动以防万一。」
+
+476368
+Treacherous Blessing
+变节祝福
+Phenax is generous with gifts and unforgiving of debts.
+--------
+斐纳克赋礼从不严格，还愿从不宽容。
+
+476369
+Tymaret Calls the Dead
+提玛瑞召亡录
+
+476370
+Tymaret, Chosen from Death
+死神擢拔的提玛瑞
+
+476371
+Underworld Charger
+冥界战马
+
+476372
+Underworld Dreams
+地底幻梦
+Dreams are just one more form of torment.
+--------
+梦境不过是另一种形式的折磨。
+
+476373
+Venomous Hierophant
+剧毒法皇
+"Many have sought snake-twined Pharika's panacea. Do you wish to share their fate?"
+--------
+「许多人都在苦苦寻求缠蛇芳瑞卡的万灵药。你也想加入他们吗？」
+
+476374
+Woe Strider
+悲哀神行客
+
+476375
+The Akroan War
+阿喀洛斯战记
+
+476376
+Anax, Hardened in the Forge
+熔锻锤炼的阿那克斯
+
+476377
+Arena Trickster
+斗技场诈术师
+"It's not enough to surprise your opponent. You have to delight the crowd as well."
+--------
+「光吓到对手还不够。你还得乐到观众。」
+
+476378
+Aspect of Manticore
+蝎狮外貌
+
+476379
+Blood Aspirant
+鲜血求索客
+It's a small step from revel to bloodbath.
+--------
+从狂欢盛宴到血色浸染不过一步之遥。
+
+476380
+Careless Celebrant
+无忌主祭
+"Renata was mesmerized by the satyr's dance of gleeful indifference, of reckless grace and bright disaster."
+—Luphea of Setessa, Histories
+--------
+「羊蹄人的舞蹈在冷漠中流露欢欣，在美善中夹杂无情，在灾难中体现希望，瑞娜塔就此沉迷其中。」
+～瑟特萨的吕菲娅，《史典》
+
+476381
+Dreamshaper Shaman
+塑梦祭师
+Magic is the true artist's medium.
+--------
+真正的艺术家以魔法作媒材。
+
+476382
+Dreamstalker Manticore
+伏梦蝎狮
+Purphoros forged the manticore's tail from bronze, its teeth from silver, and its heart from hate.
+--------
+普罗烽斯在铸造蝎狮时，以青铜作尾，白银当牙，仇恨为心。
+
+476383
+Escape Velocity
+逸脱极速
+"Not even death can catch me now!"
+--------
+「现在就连死亡也留不住我！」
+
+476384
+Fateful End
+宿命终结
+"Everything will be put back in its proper place."
+—Klothys, god of destiny
+--------
+「万物都将回归正位。」
+～命运神克洛缇丝
+
+476385
+Final Flare
+终命火光
+Those who fought without honor in life are taken to Agonas and doomed to fight forever in its arenas.
+--------
+生前在战斗中苟且之人，死后会坠入阿戈纳司境内的竞技场里战斗不休。
+
+476386
+Flummoxed Cyclops
+困惑的独眼巨人
+"A cyclops thinks slowly but strikes quickly. Try to keep it thinking."
+—Brigone, soldier of Meletis
+--------
+「独眼巨人动脑慢，但下手快。想办法让它一直动脑。」
+～迈勒提斯士兵布莉戈涅
+
+476387
+Furious Rise
+怒火昂扬
+Klothys set out to mend the destiny of Theros, her fury guiding every stitch.
+--------
+克洛缇丝着手修补塞洛斯的命运，每针都由怒火引线。
+
+476388
+Hero of the Games
+竞技会勇士
+Winners of the Iroan Games are forever remembered as heroes of their people.
+--------
+伊洛安斯竞技会的冠军，会被人民当作英雄永远铭记。
+
+476389
+Heroes of the Revel
+欢宴勇士
+Brashness is close enough to bravery.
+--------
+莽勇勉强也算一种「勇」。
+
+476390
+Impending Doom
+悲剧临头
+"Feast, for your next meal may be your last!"
+--------
+「下顿也许就是最后一顿，现在尽情吃喝吧！」
+
+476391
+Incendiary Oracle
+焰相先知
+The flamespeakers of Akros live passionately, devoted to Purphoros and the cycle of destructive creation.
+--------
+阿喀洛斯的焰语者生性热情，将身心都献给了普罗烽斯与创灭循环。
+
+476392
+Infuriate
+触怒
+"Renata launched a dozen arrows into the minotaur's thick hide, but the monster didn't slow its charge. The fury of Mogis was upon it."
+—Luphea of Setessa, Histories
+--------
+「瑞娜塔接连向牛头怪射出十余支箭。虽然每箭都准确命中牛头怪的躯体，但其冲锋速度丝毫未减。此刻它正有墨癸斯怒火加身。」
+～瑟特萨的吕菲娅，《史典》
+
+476393
+Iroas's Blessing
+伊洛安斯的祝福
+The blessing is not the strength itself, but the knowledge of how to use it.
+--------
+这份祝福并非赐你力量，而是赐你学会如何发力。
+
+476394
+Irreverent Revelers
+无拘狂欢人
+To some satyrs, only blasphemy is sacred.
+--------
+对部分羊蹄人而言，只有亵渎神明才是致敬。
+
+476395
+Nyxborn Brute
+天裔蛮汉
+"One-eyed and frightful, the cyclops
+  lifted a boulder and hurled it
+seaward from cliff's edge, shattering
+  masts and scattering sailors."
+—The Callapheia
+--------
+「这个巨人仅有一眼，故承名库克洛普斯，
+  惟其体魄孔武有力，纵远隔也令人胆颤。
+只见他站在悬崖边，举起巨石掷向海面，
+  桅杆遭袭应声碎裂，甲板水手四下逃散。」
+～《卡莱斐纪》
+
+476396
+Omen of the Forge
+熔锻神的预兆
+"My time will come, when all the world will be reforged in the fires of my invention."
+--------
+「我的时刻终将到来，届时创生烈焰将重铸世间一切。」
+
+476397
+Oread of Mountain's Blaze
+峰焰山灵
+"Flame-wrapped, she dances a burning swath amid the clouds."
+—Psemilla, Meletian poet
+--------
+「她伴火共舞，焰迹遍现云端。」
+～迈勒提斯诗人普塞弥拉
+
+476398
+Ox of Agonas
+阿戈纳司境蛮牛
+
+476399
+Phoenix of Ash
+灰烬凤凰
+
+476400
+Portent of Betrayal
+背叛征兆
+Mogis can fan a small flame of resentment into an inferno of madness.
+--------
+墨癸斯能将怨恨星火化作狂愤炼狱。
+
+476401
+Purphoros, Bronze-Blooded
+铜血普罗烽斯
+
+476402
+Purphoros's Intervention
+普罗烽斯的干预
+"I bring a fire to recast all the world."
+--------
+「我引下熊熊烈火，纵现世亦能重铸。」
+
+476403
+Satyr's Cunning
+羊蹄人狡计
+It's hard to keep a satyr down, even in the Underworld.
+--------
+要让羊蹄人冷静下来很难，在冥界也一样。
+
+476404
+Skophos Maze-Warden
+斯科福司迷宫护卫
+
+476405
+Skophos Warleader
+斯科福司战领
+The minotaur polis of Skophos boasts grand temples to the god of slaughter.
+--------
+牛头怪城邦斯科福司内有一座供奉屠戮神的巨大神庙，整个城邦都以此为荣。
+
+476406
+Stampede Rider
+狂奔骑行客
+To a satyr, a stampede is just another kind of revelry.
+--------
+对羊蹄人而言，狂奔不过是另一种狂欢。
+
+476407
+Storm Herald
+风暴传令使
+
+476408
+Storm's Wrath
+风暴之怒
+Distant thunder rumbled, a dread forewarning of Keranos's displeasure.
+--------
+远处雷鸣隆响，正是刻拉诺斯不悦的恐怖前兆。
+
+476409
+Tectonic Giant
+地壳巨人
+
+476410
+Thrill of Possibility
+快意拼搏
+"Right now, in these first moments of creation, it is simultaneously nothing and everything."
+--------
+「眼下，在这创造的最初时刻，灿烂成果或破烂废铁就在一念之间。」
+
+476411
+The Triumph of Anax
+阿那克斯凯旋志
+
+476412
+Underworld Breach
+冥界裂隙
+
+476413
+Underworld Fires
+冥界业火
+The Underworld is anything but a resting place.
+--------
+冥界唯独不是安息之所。
+
+476414
+Underworld Rage-Hound
+冥界怒犬
+
+476415
+Wrap in Flames
+火焰包覆
+Bright flames quell the darkest nightmares.
+--------
+明亮的火焰能消除最黑暗的梦魇。
+
+476416
+Arasta of the Endless Web
+无尽缠丝阿拉斯塔
+Her webs, spun from her own hair, reach from Nyx to the mortal world and even into the Underworld.
+--------
+她以万千青丝织成重重罗网，从尼兹直垂凡间，乃至深入冥界。
+
+476417
+The Binding of the Titans
+链缚泰坦录
+
+476418
+Chainweb Aracnir
+链网冥蛛
+
+476419
+Destiny Spinner
+编命师
+
+476420
+Dryad of the Ilysian Grove
+依吕夏林地树灵
+"Vine-wreathed, he nurtures life among the dead."
+—Psemilla, Meletian poet
+--------
+「他遍身碧蔓，培育冥界新生。」
+～迈勒提斯诗人普塞弥拉
+
+476421
+The First Iroan Games
+第一届伊洛安斯竞技会
+
+476422
+Gift of Strength
+力量赋礼
+The Nessian Wood is never without defenders.
+--------
+奈西安树林从缺少守卫者。
+
+476423
+Hydra's Growth
+多头龙式生长
+
+476424
+Hyrax Tower Scout
+许拉兹塔斥候
+The scouts of Hyrax Tower keep watch at the edge of Setessan territory, protecting the polis from inhuman monsters and enemy armies.
+--------
+许拉兹塔斥候看守瑟特萨领地边境，保护城邦免受怪兽与敌军滋扰。
+
+476425
+Ilysian Caryatid
+依吕夏女像柱
+Those who die as heroes are permitted to dwell in Ilysia, a protected realm of the Underworld as tranquil and vibrant as the rest is bleak.
+--------
+被尊为英雄者死后可进入安宁兴盛的依吕夏境内。此处为少有的安全境域，与冥界他处的黑暗阴沉形成鲜明对比。
+
+476426
+Inspire Awe
+引致敬畏
+Nylea appeared amid the howl of a hundred beasts.
+--------
+百兽齐鸣，倪勒娅现身。
+
+476427
+Klothys's Design
+克洛缇丝的构想
+The god of destiny grants her followers vision deeper than sight.
+--------
+命运神会让追随者窥探未来预示，其间景象远超双眼所见。
+
+476428
+Loathsome Chimera
+恶憎盖美拉
+"I see . . . elk? And lion? And . . . teeth! A lot of teeth!"
+—Teraklos of Meletis
+--------
+「我看到的这是. . .麋鹿？和狮子？还有. . .牙齿！好多的牙齿！」
+～迈勒提斯的忒拉罗斯
+
+476429
+Mantle of the Wolf
+狼身斗篷
+"Be fearless, for a furious rebirth awaits you."
+—Nylea, god of the hunt
+--------
+「无畏向前，迎接凶猛重生。」
+～猎神倪勒娅
+
+476430
+Moss Viper
+苔癣蛇
+Nylea watches over all the creatures of the forest except for the snakes. Blessed by Pharika, they can take care of themselves.
+--------
+倪勒娅照管树林中的所有生物，唯独蛇类除外。因为它们受芳瑞卡庇佑，可自立维生。
+
+476431
+Mystic Repeal
+神秘抗力
+"No power is too great to be undone."
+—Karametra, god of harvests
+--------
+「没有哪种力量能强到撤销不了。」
+～丰收神卡拉美特拉
+
+476432
+Nessian Boar
+奈西安野猪
+Renata led the best hunters in all of Theros on a quest to bring down the terror of the Setessan wilds.
+--------
+塞洛斯全境优秀猎人集结瑞娜塔麾下，力图消灭瑟特萨荒野的恐惧之源。
+
+476433
+Nessian Hornbeetle
+奈西安角虫
+"The first rule of politics can be learned from a lowly hornbeetle: it is wise to cultivate powerful friends."
+—Pythamon, sage of Meletis
+--------
+「我们可以从弱小的角虫处领悟到政治学的首要准则：培养一位强力的同伴。」
+～迈勒提斯智者皮塔摩恩
+
+476434
+Nessian Wanderer
+奈西安漫游客
+
+476435
+Nexus Wardens
+交汇点守卫
+The Summer Nexus is a holy grove in Setessa where the starfields of Nyx glitter in the shadows.
+--------
+「盛夏交汇点」是瑟特萨内一处神圣林地，你可以在此处树荫之中见到尼兹星域闪光。
+
+476436
+Nylea, Keen-Eyed
+锐目倪勒娅
+
+476437
+Nylea's Forerunner
+倪勒娅的前锋
+Where its feet tread, the thunder of many others will follow.
+--------
+它开拓之处，必有雷鸣蹄声相随。
+
+476438
+Nylea's Huntmaster
+倪勒娅的猎师
+Nature is stillness and savagery in equal measure.
+--------
+自然既有平静祥和，也会翻腾显威。
+
+476439
+Nylea's Intervention
+倪勒娅的干预
+"I bring a wilderness no law can tame."
+--------
+「我驱下凶猛野兽，纵规绳亦不能驯。」
+
+476440
+Nyx Herald
+尼兹传令使
+"A piercing call, bright as the stars, rang out across the valley, calling the Pheres band to war, to blood and savagery."
+—Luphea of Setessa, Histories
+--------
+「刺耳号声响起，绽放耀眼星光，传彻整片山谷。斐力兹族就此现身，共同浴血奋战。」
+～瑟特萨的吕菲娅，《史典》
+
+476441
+Nyxbloom Ancient
+天华先人
+Ancient yet ever-young, it is wise and subtle—and cruel and reckless as the spring itself.
+--------
+它既古老又年轻，既睿智又机敏～还跟春天一样既残酷又无情。
+
+476442
+Nyxborn Colossus
+天裔巨汉
+"Tree-tall giants confronted her,
+  fiercely demanding her tribute;
+Fox-cunning Callaphe's slippery
+  speaking entangled their senses . . ."
+—The Callapheia
+--------
+「身高齐树的壮硕巨汉挡在卡莱斐面前，
+  凶猛拦住去路要求留下贡品方可通过。
+但她灵思如狐想出巧妙之策加以应对，
+  利用雄辩口才迷惑对方思绪趁乱逃脱. . .」
+～《卡莱斐纪》
+
+476443
+Omen of the Hunt
+猎神的预兆
+"My time will come, when no road will divide the endless verdure of the trees."
+--------
+「我的时刻终将到来，届时漫天葱翠将无人辟路穿行。」
+
+476444
+Pheres-Band Brawler
+斐力兹族好斗者
+
+476445
+Plummet
+铅直落下
+An arrow from Nylea's bow never fails to find its mark.
+--------
+倪勒娅神弓射出的箭从不错失目标。
+
+476446
+Relentless Pursuit
+不懈追击
+Calix was patient, steadily following Elspeth until their destined confrontation.
+--------
+凯利斯不急不躁，他一直暗中跟踪艾紫培的动向，直到宿命的交锋时刻。
+
+476447
+Renata, Called to the Hunt
+猎神召唤的瑞娜塔
+
+476448
+Return to Nature
+回返自然
+"Far-seeing Kruphix glimpsed the end: Heliod's spear cast down and broken."
+—The Cosmogony
+--------
+「看透未来的克罗芬斯已预见这一结果：赫利欧德的长矛直坠而下断成数截。」
+～《天地起源论》
+
+476449
+Setessan Champion
+瑟特萨斗士
+"A blessing is not a gift. It is a duty."
+--------
+「蒙神赐福并非领受赠礼，而是承担责任。」
+
+476450
+Setessan Petitioner
+瑟特萨祈愿人
+"Cypress leaves for family, larkspur for protection, amaranth for a bountiful harvest."
+--------
+「刺柏叶保佑家人健康，飞燕草庇护自身平安，皱果苋祈求大地丰收。」
+
+476451
+Setessan Skirmisher
+瑟特萨侦卫
+Bassara, the tower of the fox, houses the elite skirmishers who guard the Nessian Wood against trespassers.
+--------
+巴萨剌塔又名狐狸之塔，看守奈西安树林的精英侦卫驻扎于此，保护其免遭外敌入侵。
+
+476452
+Setessan Training
+瑟特萨式训练
+In the heart of Setessa, the warriors of Leina Tower defend the polis and train its daughters.
+--------
+莱纳塔位于瑟特萨中心，其间勇士保护城邦，训练其女儿成长。
+
+476453
+Skola Grovedancer
+斯科拉林舞者
+"From the ashes of last night's revel, I bring the dawn of new growth."
+--------
+「从昨夜欢宴的余烬中，我带来了新生长的黎明。」
+
+476454
+Voracious Typhon
+贪魇堤丰
+A typhon's escape from the Underworld makes armies flee and kingdoms fall.
+--------
+堤丰从冥界逃出的消息令军队闻风而逃，王国不战而衰。
+
+476455
+Warbriar Blessing
+战茨祝福
+
+476456
+Wolfwillow Haven
+狼林庇护地
+
+476457
+Acolyte of Affliction
+折磨侍僧
+The best healers are intimately familiar with death.
+--------
+最优秀的医者，都与死亡有过亲密接触。
+
+476458
+Allure of the Unknown
+未知诱惑
+The light of hope blinded Pantor to the ills of the world.
+--------
+潘托拉眼中只看到这道希望光芒，全然不顾由此引发的世间灾祸。
+
+476459
+Ashiok, Nightmare Muse
+梦魇缪司安梭苛
+
+476460
+Atris, Oracle of Half-Truths
+虚实先知阿提理斯
+
+476461
+Bronzehide Lion
+铜皮狮
+
+476462
+Calix, Destiny's Hand
+命运之手凯利斯
+
+476463
+Dalakos, Crafter of Wonders
+奇械巧匠达拉科斯
+His imagination soars from the depths of the sea to the heights of the heavens.
+--------
+他的丰富想象从海底深渊直冲天际云霄。
+
+476464
+Devourer of Memory
+吞忆魔
+It slips silently through the still waters of the Labyrinth of Memories to feed.
+--------
+它无声滑过悲忆迷宫的死水，自在觅食。
+
+476465
+Dream Trawler
+曳梦史芬斯
+
+476466
+Enigmatic Incarnation
+秘态转生
+
+476467
+Eutropia the Twice-Favored
+双神眷恩尤托皮娅
+Nylea speaks to her in the windblown leaves; Thassa in the rushing tides.
+--------
+倪勒娅借清风拂叶向她传话；塔萨则靠汹涌洪流对她发声。
+
+476468
+Gallia of the Endless Dance
+不休欢舞伽利娅
+"There's no success like excess!"
+--------
+「没有最欢乐，只有太欢乐！」
+
+476469
+Haktos the Unscarred
+历战无伤哈克托斯
+"Many have sought my weakness. All have failed."
+--------
+「很多人想要找到我的弱点。他们都失败了。」
+
+476470
+Hero of the Nyxborn
+天裔勇士
+Heroic deeds inspire new heroes.
+--------
+英雄勇行鼓舞新一代英雄出现。
+
+476471
+Klothys, God of Destiny
+命运神克洛缇丝
+
+476472
+Kroxa, Titan of Death's Hunger
+冥餍泰坦克罗刹
+
+476473
+Kunoros, Hound of Athreos
+雅睿欧斯猎犬库诺罗斯
+Three sharp barks announce an attempt to escape the Underworld. Three sharp bites end it.
+--------
+三声尖锐犬吠表示有人想要逃离冥界。三下锐利撕咬终结妄想。
+
+476474
+Mischievous Chimera
+恼人盖美拉
+Some curiosities are best left alone.
+--------
+有些好奇心最好别去满足。
+
+476475
+Polukranos, Unchained
+脱缰的波禄卡诺斯
+
+476476
+Rise to Glory
+重生争耀
+A hero dies, and a legend arises.
+--------
+英雄殒命，传奇诞生。
+
+476477
+Siona, Captain of the Pyleas
+皮勒阿斯号船长西俄娜
+
+476478
+Slaughter-Priest of Mogis
+墨癸斯的屠戮僧
+"Mogis is pleased by this offering. Bring him more!"
+--------
+「墨癸斯很喜欢这件供品。继续奉上！」
+
+476479
+Staggering Insight
+惊奇洞察
+"Only cowards flee from the truth."
+—Perisophia the philosopher
+--------
+「只有懦夫才逃避真相。」
+～哲人珀里索菲娅
+
+476480
+Uro, Titan of Nature's Wrath
+天怒泰坦乌洛
+
+476481
+Warden of the Chained
+受链者守卫
+"Strength, skill, rage—all have their limits, but patience can be infinite."
+--------
+「力量、技艺、愤怒～这些都有限，而耐心无限。」
+
+476482
+Altar of the Pantheon
+诸神祭坛
+
+476483
+Bronze Sword
+青铜剑
+Every strike of the smith's hammer infuses a sword with the determination of its creator.
+--------
+铁匠每次敲击手中锤子，都为所铸宝剑注入一分信念。
+
+476484
+Entrancing Lyre
+摄魂竖琴
+Its strings are wayward threads of fate.
+--------
+这把琴以命运的任性脉络为弦。
+
+476485
+Mirror Shield
+明镜之盾
+
+476486
+Nyx Lotus
+尼兹莲花
+
+476487
+Shadowspear
+蔽影矛
+A weapon of darkness for a warrior of light.
+--------
+光明斗士手中的黑暗武器。
+
+476488
+Soul-Guide Lantern
+导灵明灯
+
+476489
+Thaumaturge's Familiar
+奇术师的佣兽
+Meletian mages can't claim the title of thaumaturge until they have received a gift or omen from the gods. Ephara likes to give tangible tokens of her favor.
+--------
+只有在获得神明赋力或预示之后，迈勒提斯的法师才能真正成为奇术师。厄芳拉的赋礼就比较具体。
+
+476490
+Thundering Chariot
+雷鸣战车
+In times of conflict, the philosophers of Meletis trade their podiums for conveyances of war.
+--------
+战争期间，迈勒提斯的哲人将讲坛换成作战载具。
+
+476491
+Traveler's Amulet
+旅人护身符
+A vision of home, and a glimpse of hope.
+--------
+家园一景，希望所存。
+
+476492
+Wings of Hubris
+狂妄之翼
+Dalakos's invention worked . . . until it didn't.
+--------
+达拉科斯的发明很有用. . .直到它不能用为止。
+
+476493
+Field of Ruin
+战场遗迹
+
+476494
+Labyrinth of Skophos
+斯科福司迷宫
+For centuries, the minotaur polis of Skophos was unknown to humans. It remains unexplored.
+--------
+数百年来，人类完全不知道牛头怪城邦斯科福司的存在。直到现今仍未曾有人到过此地。
+
+476495
+Temple of Abandon
+离弃殿堂
+
+476496
+Temple of Deceit
+诡诈殿堂
+
+476497
+Temple of Enlightenment
+启蒙殿堂
+
+476498
+Temple of Malice
+恶意殿堂
+
+476499
+Temple of Plenty
+丰足殿堂
+
+476500
+Unknown Shores
+无闻海岸
+"Callaphe gazed on the coastline,
+  certain her destiny called her
+here, where the mist-shrouded rocks sang,
+  promising glories undreamed of."
+—The Callapheia
+--------
+「卡莱斐伫立于高处，出神凝望静谧湾岸，
+  她遵命运之声召唤，来到这片神秘海域。
+眼见峭壁迷雾缭绕，耳闻山岩曼语轻歌，
+  种种异象许下承诺：自己命定非凡荣誉。」
+～《卡莱斐纪》
+
+476501
+Plains
+平原
+
+476502
+Island
+海岛
+
+476503
+Swamp
+沼泽
+
+476504
+Mountain
+山脉
+
+476505
+Forest
+树林
+
+479156
+Athreos, Shroud-Veiled
+灵帷雅睿欧斯
+
+479167
+Elspeth, Undaunted Hero
+无畏英雄艾紫培
+
+479168
+Eidolon of Inspiration
+壮志幻灵
+"Agios was felled by a minotaur's blade, but I swear I have seen him since—in the midst of battle, wherever help is needed most."
+—Phrokos, soldier of Akros
+--------
+「虽然阿伊奥斯死在牛头怪刀下，但我发誓在那之后还见过他的身影～在战况最激烈、同袍最需要帮助的时刻。」
+～阿喀洛斯士兵佛罗科斯
+
+479169
+Elspeth's Devotee
+艾紫培的信徒
+"For her, I would gladly die again."
+--------
+「为了她，我愿再度赴死。」
+
+479170
+Sunlit Hoplite
+阳辉重装步兵
+"Even in her absence, the light Elspeth
+kindled in our hearts never faltered."
+--------
+「就算艾紫培已不在，她所激发的
+内心明光也从未消逝。」
+
+479171
+Ashiok, Sculptor of Fears
+恐惧塑师安梭苛
+
+479172
+Swimmer in Nightmares
+梦魇潜探客
+Ashiok's minions plumb the depths of the ocean and the psyche.
+--------
+安梭苛的手下既能畅游深洋，也能究索心灵。
+
+479173
+Mindwrack Harpy
+窥心哈痞
+Harpies are among the most detested creatures in all of Theros . . . and they thoroughly deserve it.
+--------
+要说塞洛斯全境都遭人痛恨的生物，自非哈痞莫属. . .而它们当之无愧。
+
+479174
+Ashiok's Forerunner
+安梭苛的先驱
+"Every dream is a doorway."
+--------
+「每个梦境都是通路。」
+
+479175
+Plains
+平原
+
+479176
+Plains
+平原
+
+479177
+Island
+海岛
+
+479178
+Island
+海岛
+
+479179
+Swamp
+沼泽
+
+479180
+Swamp
+沼泽
+
+479181
+Mountain
+山脉
+
+479182
+Mountain
+山脉
+
+479183
+Forest
+树林
+
+479184
+Forest
+树林
+
+479046
+Grasping Giant
+攫戾巨人
+Mirinthes thought death was seconds away when the giant's fist closed around him. Two days later, he was praying for death's release.
+--------
+当弥林忒斯被巨人一手抓住时，他以为自己死期已到。两天之后，他还在祈祷死期快到。
+
+479047
+Victory's Envoy
+捷报使节
+Her paean is the clash of spears, her prayer a battle cry.
+--------
+矛枪铿锵，正是圣歌旋律；战吼震天，正是祈念祷文。
+
+479048
+Sphinx Mindbreaker
+碎灵史芬斯
+Riddles draw you in, paradoxes hold you fast, and answers shatter your perceptions.
+--------
+谜题引你深入，悖论令你驻足，答案毁你认知。
+
+479049
+Serpent of Yawning Depths
+裂渊巨蛇
+"Gleams like moonlight on water drew us through the storm and toward our doom."
+—Siona, captain of the Pyleas
+--------
+「海面泛着粼粼波光，好似朗月当空，引我们穿过风暴、驶向灭亡。」
+～皮勒阿斯号船长西俄娜
+
+479050
+Demon of Loathing
+仇世恶魔
+Hatred is a potent ally, but an insatiable master.
+--------
+仇恨虽能为你达成目标提供助力，但也会令你屈从其间无法自拔。
+
+479051
+Underworld Sentinel
+冥界哨兵
+Deathless soldiers called phylaskia guard the borders of the Underworld.
+--------
+这些不死哨兵唤作「冥卫」，随时把守冥界边境防止有人逃离。
+
+479052
+Deathbellow War Cry
+亡啸谷战呼
+Deathbellow Canyon echoes with the roars of minotaurs calling each other to battle.
+--------
+牛头怪群的备战咆哮此起彼伏，回荡整个亡啸山谷。
+
+479053
+Terror of Mount Velus
+维鲁斯山骇龙
+The forge of Purphoros burns in the heart of Mount Velus, attracting dragons with its blistering heat.
+--------
+普罗烽斯的锻炉座落在维鲁斯山脉核心之中，其熊熊烈焰吸引四方巨龙探访。
+
+479054
+Ironscale Hydra
+铁鳞多头龙
+"Put down your bows, you fools! Arrows only make it angry!"
+—Callia, Hyrax Tower scout
+--------
+「把弓放下，你们这些蠢货！箭矢只会激怒它！」
+～许拉兹塔斥候卡莱娅
+
+479055
+Treeshaker Chimera
+撼树盖美拉
+The wisdom of the past is written on the bones of ancients.
+--------
+往昔智慧全都刻进了祖兽骨头里。
+
+========

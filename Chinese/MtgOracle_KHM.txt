@@ -1,0 +1,1913 @@
+503605
+Axgard Braggart
+艾席嘉吹嘘人
+"Heavy? Ha! The Trollking of Mossrun was heavy, and I tossed him five miles!"
+--------
+「重？哈！莫森兰巨魔王也很重，但我可是把他丢出去五哩远！」
+
+503606
+Battershield Warrior
+盾击战士
+"I need no axe to best these weaklings."
+--------
+「我不用斧子也能制服这帮软脚虾。」
+
+503607
+Battlefield Raptor
+战场猎鸟
+It wheeled upward, away from the shrieks and thunder. It reached the point where sky met smoke, and, with but a glance at the horizon, aimed itself and dove.
+--------
+它盘旋而上，远离战场喧嚣与雷鸣轰响。待飞至云烟交际之处，它匆匆一瞥彼方景色，便又瞄准敌人俯冲直下。
+
+503608
+Beskir Shieldmate
+贝斯奇持盾手
+"If we fall today, let us fall with honor, defending our realm from the horrors that would defile it. Forward, shieldmates! To Starnheim!"
+--------
+「就算我们今天命尽于此，也要奋力抗击肆虐国境的可怖怪兽，光荣成仁。持盾手们，前进！斯达海姆在呼唤我们！」
+
+503609
+Bound in Gold
+黄金束缚
+"Trespassers will be smelted."
+—Axgard inscription
+--------
+「擅闯者送冶金重铸。」
+～艾席嘉铭文
+
+503610
+Clarion Spirit
+鸣号精怪
+To the living, the horn sounds faint and mournful, but to the spirits of Istfell, it is a thunderous call that must be obeyed.
+--------
+在生者听来，这号声像是凄凉婉转的悲歌；但伊斯费幽魅所闻则是雷鸣贯耳的谕令。
+
+503611
+Codespell Cleric
+源法咒僧
+"Today we are not Beskir or Tuskeri. We must fight as one clan, shoulder to shoulder, to defend our rightful home!"
+--------
+「今天我们没有贝斯奇与塔科力之分。必须团结如一，并肩奋战，才能共同保卫我们的家园！」
+
+503612
+Divine Gambit
+神圣计策
+There are rules, and then there are gods.
+--------
+世界原来就有规则，但后来又有了神明。
+
+503613
+Doomskar
+末日劫难
+The realms crashed together, with Bretagard at the center of the calamity.
+--------
+境域交汇，碧塔嘉顿成灾难中心。
+
+503614
+Doomskar Oracle
+末日劫先知
+"Giants and monsters loom on the horizon, and the elves plan to murder our gods!"
+--------
+「天边已然隐现巨人怪物，而妖精居然还想去弑神！」
+
+503615
+Giant Ox
+巨牛
+"How strong is he? Well, I once lost control of the plow, and he carved a furrow right through my house! Didn't even slow down."
+—Guldir, Beskir farmer
+--------
+「他有多强壮？有一次我没管住犁头，他就硬生生地在我房子中间挖了条沟过去！一点都没有慢下来。」
+～贝斯奇农夫古迪尔
+
+503616
+Glorious Protector
+荣光卫护使
+
+503617
+Gods' Hall Guardian
+诸神大厅守护者
+Not a single rat has been seen in Istfell since the gods moved in.
+--------
+自从诸神搬过来后，伊斯费再也没见过哪怕一只老鼠。
+
+503618
+Goldmaw Champion
+金戈牧斗士
+"That was nothing. I once took down a frost giant with a spoon!"
+--------
+「这算什么。我之前光用勺子就打倒了霜巨人！」
+
+503619
+Halvar, God of Battle
+战斗神哈尔瓦
+
+503620
+Sword of the Realms
+诸境之剑
+It cuts through the Cosmos itself, carving new Omenpaths between the realms.
+--------
+它能劈开寰宇，在境域之间辟出新的预兆径路。
+
+503621
+Invoke the Divine
+召现神力
+"Let's see how brave you really are behind all that oak and steel."
+--------
+「我们来看看躲在木盾铁甲背后的你们到底有多勇敢。」
+
+503622
+Iron Verdict
+铸铁裁定
+"You'll raid nothing but mist in Istfell."
+--------
+「你能从伊斯费抢走的只有迷雾。」
+
+503623
+Kaya's Onslaught
+卡娅出击
+"Your trail ends here."
+--------
+「你的命途到此为止。」
+
+503624
+Master Skald
+北地诗宗
+"All my scars have stories to tell."
+--------
+「每道伤疤都是一则故事。」
+
+503625
+Rally the Ranks
+集结军伍
+Halvar united the spirits of all the clans into a single, devastating force.
+--------
+哈尔瓦一统各部亡魂，将其集聚成团结力量，所向披靡。
+
+503626
+Reidane, God of the Worthy
+英灵神瑞丹妮
+
+503627
+Valkmira, Protector's Shield
+卫护之盾瓦米拉
+
+503628
+Resplendent Marshal
+华辉统帅使
+
+503629
+Revitalize
+再现活力
+Esika alone knows how to distill the essence of the World Tree into the Cosmos Elixir, a magical substance which grants the Skoti god-family immortality.
+--------
+世间唯有埃西卡知晓将世界树菁华提炼成寰宇琼浆的方法，斯科提神族也凭此魔法物质得以永生。
+
+503630
+Righteous Valkyrie
+正气女武神
+
+503631
+Rune of Sustenance
+坚韧符文
+
+503632
+Runeforge Champion
+铸符斗士
+
+503633
+Search for Glory
+寻觅荣光
+
+503634
+Shepherd of the Cosmos
+寰宇牧生使
+
+503635
+Sigrid, God-Favored
+神灵眷恩西格莉德
+Never alone, never afraid.
+--------
+从不孤单，从无畏惧。
+
+503636
+Spectral Steel
+幽灵钢锋
+
+503637
+Stalwart Valkyrie
+忠贞女武神
+"Only the worthy may pass."
+--------
+「唯有英灵方能通过此地。」
+
+503638
+Starnheim Courser
+斯达海姆飞马
+Every worthy warrior who arrives in Starnheim is gifted a mount befitting their heroism, a mighty pegasus raised and trained by the valkyries.
+--------
+每位来到斯达海姆的英灵战士都会获赠一匹与其辉煌事迹相称飞马坐骑。这些飞马由女武神亲自豢养训练，因而强大异常。
+
+503639
+Starnheim Unleashed
+斯达海姆总攻击
+
+503640
+Story Seeker
+故事追求者
+Dwarven skalds are the most renowned storytellers in all of Kaldheim. They travel across the realms, seeking out heroic deeds and chronicling them in epic sagas.
+--------
+矮人北地诗人是全凯德海姆最有名的说书人。他们踏遍每处境域，探寻英雄事迹，将之编入竞相传颂的宏伟诗篇。
+
+503641
+Usher of the Fallen
+领途导灵
+"I have led ten thousand through these mists and never lost the way."
+--------
+「我曾带领上万亡者穿越迷雾，从未迷失前路。」
+
+503642
+Valkyrie's Sword
+女武神之剑
+
+503643
+Valor of the Worthy
+英灵之勇
+"If I am to die, let it be a hero's death!"
+--------
+「就算我要死，也要像个英雄一般上路！」
+
+503644
+Warhorn Blast
+战号齐鸣
+"Mead down! Swords up!"
+--------
+「蜜酒下肚！刀剑上手！」
+
+503645
+Wings of the Cosmos
+寰宇羽翼
+The wolf's startled yelp changed quickly to a howl of elation as she soared over her envious packmates.
+--------
+这只狼在同伴艳羡的目光下逐渐飞升，起初的惊恐吠声很快变成了喜悦嚎叫。
+
+503646
+Alrund, God of the Cosmos
+寰宇神艾朗德
+
+503647
+Hakka, Whispering Raven
+细语乌鸦哈卡
+Alrund's raven soars between realms; no secret is beyond his grasp.
+--------
+艾朗德派乌鸦翱翔诸境，所有秘密尽收眼底。
+
+503648
+Alrund's Epiphany
+艾朗德的顿悟
+
+503649
+Annul
+抹除
+"Many giants have tried to crush me with their hammers. You'll never stop me with that little toy."
+—Stigur of the Omenseekers
+--------
+「曾有无数巨人想用手中巨锤把我砸扁。你那小玩具可拦不住我。」
+～预兆觅径人斯提格
+
+503650
+Ascendant Spirit
+羽化幽仙
+
+503651
+Augury Raven
+卜算乌鸦
+Some ravens collect shiny baubles; others hoard omens and secrets.
+--------
+有些乌鸦喜欢收集闪亮饰品；还有一些则喜欢收集预兆秘密。
+
+503652
+Avalanche Caller
+雪崩唤师
+
+503653
+Behold the Multiverse
+感临多重宇宙
+Countless worlds unfolded before Niko, every one in need of heroes.
+--------
+尼科面前出现了无数世界，每个世界都需要英雄。
+
+503654
+Berg Strider
+冰山神行客
+
+503655
+Bind the Monster
+束缚怪兽
+Sarulf's snarl of rage shook the World Tree.
+--------
+萨茹夫的怒嚎连世界树都为之一震。
+
+503656
+Brinebarrow Intruder
+盐晶墓入侵者
+Locked in the ice of Karfell, the treasures of ancient nobles await in ruins guarded by the dead.
+--------
+在卡尔费冰层底下的遗迹中，有无数由亡灵看管的远古贵族珍宝待人去发现。
+
+503657
+Cosima, God of the Voyage
+远行神寇西玛
+
+503658
+The Omenkeel
+预兆方舟
+
+503659
+Cosmos Charger
+寰宇战马
+
+503660
+Cyclone Summoner
+气旋召唤师
+Frost giants study for centuries in isolation, honing their ability to harness elemental mayhem.
+--------
+霜巨人闭门研习数百年，练就一身掌控元素造成破坏的本领。
+
+503661
+Depart the Realm
+穿离境域
+"My home calls to me. I must go."
+--------
+「家园在召唤我。我得走了。」
+
+503662
+Disdainful Stroke
+倨傲击
+"The skald boasted that he could outsing the sea. Cosima heard him, and drowned his village with a single wave."
+—Longbeard Saga
+--------
+「曾有一位北地诗人夸下海口，号称自己歌声能胜过汪洋。这件事情传到寇西玛耳中后，他便用一道巨浪将其村庄淹没。」
+～《长须传》
+
+503663
+Draugr Thought-Thief
+窃念尸鬼
+The worst part is that you won't even remember how much he's taken from you.
+--------
+最惨的地方在于，你甚至不会记得被他偷走了多少。
+
+503664
+Frost Augur
+冰霜卜算师
+From the barest crack in the ice, she teases forth a swirling, living map of the Cosmos.
+--------
+哪怕冰面只有一道光秃裂痕，她也能从其上闪转腾挪，演绎出一幅活灵活现的寰宇地图。
+
+503665
+Frostpeak Yeti
+霜峰雪怪
+Some heroes line their coats with yeti fur. More yetis line their bellies with heroes.
+--------
+有些英雄用雪怪皮毛填充衣物。但更多雪怪用英雄尸体填饱肚子。
+
+503666
+Frostpyre Arcanist
+霜焰奥术师
+
+503667
+Giant's Amulet
+巨人护身符
+
+503668
+Glimpse the Cosmos
+瞥视寰宇
+
+503669
+Graven Lore
+铭刻传说
+The runes glow beneath the snow, bearing memories of a time when the old gods ruled the realms.
+--------
+石上符文记号在积雪底下闪耀光辉，记载着古神统领境域的远古记忆。
+
+503670
+Icebind Pillar
+冰缚石柱
+"Oh, Valki. I'm disappointed in you. How could the god of lies be so gullible?"
+—Tibalt
+--------
+「噢，瓦尔基。你太令我失望了。你尊为谎言神，怎会如此容易受骗？」
+～提勃
+
+503671
+Icebreaker Kraken
+破冰巨海兽
+
+503672
+Inga Rune-Eyes
+符眼茵嘉
+Every path ever charted by an Omenseeker is etched into her eyes.
+--------
+预兆觅径人编绘的每条径路，都深深蚀刻在她眼中。
+
+503673
+Karfell Harbinger
+卡尔费先兆师
+"This is a realm of the living. King Narfi's legion is coming to change that."
+--------
+「这里是生者的境域。但奈尔非国王的军团一到，就会将这点改写。」
+
+503674
+Littjara Kinseekers
+利雅拉寻亲人
+Like calls to like, and none are forgotten.
+--------
+同族互唤，永不相忘。
+
+503675
+Mists of Littjara
+利雅拉迷雾
+The Skelle raiders boasted that nothing could stop them, certainly not a bit of fog.
+--------
+斯凯尔劫掠者声称什么都挡不住他们，区区雾气更不在话下。
+
+503676
+Mistwalker
+迷雾行者
+"To escape Littjara, follow a bird."
+—Tuskeri folklore
+--------
+「要离利雅拉，务必跟鸟走。」
+～塔科力民间传说
+
+503677
+Mystic Reflection
+神秘映影
+
+503678
+Orvar, the All-Form
+万形归一欧瓦尔
+
+503679
+Pilfering Hawk
+偷窃翔鹰
+"Well, at least it left us a mouse in exchange. Er . . . ugh . . . make that half a mouse."
+—Binhald, Beskir veteran
+--------
+「好吧，至少它还留了只老鼠当作交换。呃…呕…是半只老鼠。」
+～贝斯奇老兵宾哈德
+
+503680
+Ravenform
+乌鸦形体
+
+503681
+Reflections of Littjara
+利雅拉映影
+The masks float downstream toward the Mirrorlake, where faces arise to wear them.
+--------
+面具顺流而下直达镜湖，湖中浮出面容欣然戴上。
+
+503682
+Run Ashore
+冲袭拍岸
+"Which one of you slug-brained milksops forgot to make an offering to Cosima?"
+—Jolkur, navigator
+--------
+「你们哪个无脑懦夫忘记供奉寇西玛了？」
+～领航员乔克尔
+
+503683
+Rune of Flight
+翔空符文
+
+503684
+Saw It Coming
+早知如此
+"How predictable."
+--------
+「不出所料。」
+
+503685
+Strategic Planning
+战略计划
+Alrund sees the future as a whorl of signs and symbols, omens interwoven in an intricate knotwork only he can decipher.
+--------
+艾朗德眼中的未来，是一个满是符号与标志的漩涡；各式预兆交织其间形成繁复编结，唯有他才能解读其中奥妙。
+
+503686
+Undersea Invader
+海底入侵客
+"The currents are strange today, and the fish are fearful. Something's stirring in the depths."
+—Rathstaf, Kannah fisherman
+--------
+「今日洋流有异，鱼群惊慌失措。海底可能有什么动静。」
+～卡纳渔夫拉斯塔弗
+
+503687
+Blood on the Snow
+血洒雪原
+
+503688
+Bloodsky Berserker
+腥天狂战士
+"Who's next?!"
+--------
+「下一个到谁？！」
+
+503689
+Burning-Rune Demon
+焚符恶魔
+
+503690
+Crippling Fear
+恐惧缚身
+Panic spread like wildfire as the demons of Immersturm poured into Bretagard, slaughtering as they came.
+--------
+无尽风暴的恶魔涌入碧塔嘉一路烧杀，惊恐便如同野火一般迅速蔓延开来。
+
+503691
+Deathknell Berserker
+凶讯狂战士
+"Sven felled the elf with an arrow through the chest, but moments later, the corpse rose with a sneer to fight again."
+—Longbeard Saga
+--------
+「斯温一箭射穿妖精胸膛将他放倒，但没过多久那具尸体便起身再战，脸上还带着一丝轻蔑笑容。」
+～《长须传》
+
+503692
+Demonic Gifts
+恶魔赠礼
+It began as a flavor on the tongue, like a bloody morsel of roast boar—but soon the power was a conflagration in her veins.
+--------
+开始先是口中涌现血腥滋味，像是吃下一块渗血未熟透的烤野猪肉～但这股力量很快就烧遍周身经脉。
+
+503693
+Dogged Pursuit
+顽固追击
+Kaya had stalked countless horrific foes, but never one that killed with such callous precision and twisted creativity.
+--------
+虽然卡娅也曾追踪过数不清的可怕敌手，但遇到下手如此精准而又别出心裁的却是头一遭。
+
+503694
+Draugr Necromancer
+尸鬼死灵术士
+
+503695
+Draugr Recruiter
+尸鬼招募员
+"You cannot stand against us, but when you fall, you will stand with us!"
+--------
+「你不是我们的对手，但等你死后，就会成为我们的帮手！」
+
+503696
+Draugr's Helm
+尸鬼头盔
+
+503697
+Dread Rider
+恐惧魂骑
+"What kind of monstrous grave robber leaves the treasures, but takes the bodies?"
+—Fjall, Beskir elder
+--------
+「哪门子的盗墓贼会把珍宝留下，而把尸体带走？」
+～贝斯奇长老弗亚尔
+
+503698
+Dream Devourer
+吞梦魔
+
+503699
+Duskwielder
+舞影黯击客
+"My shadow alone will slay you."
+--------
+「光靠我的影子就能宰了你。」
+
+503700
+Egon, God of Death
+死亡神埃甘
+Egon ages backward, his wisdom soured by youthful spite.
+--------
+埃甘的岁数随年头递减，其沉稳睿智也越来越受其年轻气盛的影响。
+
+503701
+Throne of Death
+死亡神王座
+It offers all the warmth and comfort of the grave.
+--------
+墓地的温度与体感之完美重现。
+
+503702
+Elderfang Disciple
+寰宇蛇信徒
+"One day, the great serpent will rejoin us on Skemfar, and those who've wronged us will taste of our venom."
+--------
+「总有一天，伟大盘蛇将在斯肯法与我们重聚，届时所有伤害过我们的人都将尝到毒液滋味。」
+
+503703
+Eradicator Valkyrie
+诛世女武神
+
+503704
+Feed the Serpent
+喂食盘蛇
+He spent the final moments of his existence tumbling down the length of the serpent's jaws, driven mad by the magnitude of the Cosmos.
+--------
+他生命最后光阴就在跌落盘蛇巨口后的下坠过程中度过，时间长到足以让他因寰宇之大而发狂。
+
+503705
+Grim Draugr
+残酷尸鬼
+She was a ragged shadow of her living form, but she had lost none of her deadly prowess.
+--------
+如今只能从她残缺的阴影中瞥见她生前的样貌，不过她致命的本领一点没丢。
+
+503706
+Hailstorm Valkyrie
+冰暴女武神
+When the path to Starnheim was opened, vengeance rained down upon the enemies of Bretagard.
+--------
+通往斯达海姆的道路出现之时，复仇冰霜在碧塔嘉境敌人的头顶倾泻。
+
+503707
+Haunting Voyage
+乱心旅途
+
+503708
+Infernal Pet
+炼狱宠物
+"Here, my pet. Another little light for you to snuff out."
+—Kzarakh, Immersturm gamekeeper
+--------
+「来，小可爱。也把这点光亮掐灭吧。」
+～无尽风暴猎场看守人卡札剌
+
+503709
+Jarl of the Forsaken
+遭弃者领主
+
+503710
+Karfell Kennel-Master
+卡尔费育兽师
+Trapped in a realm of dead flesh and scarce hunting, the ravenous wolves of Karfell follow the Dread Marn to warm game.
+--------
+卡尔费此境域满是不死生物，几乎无从狩猎；被困于此的贪食狼群只得跟随玛恩惧怖军来活动筋骨。
+
+503711
+Koma's Faithful
+寇玛坚信者
+"Great Serpent, hear my song! We wait, our faith unshaken, for your glorious return."
+--------
+「伟大盘蛇，且听我一曲！吾人笃信如初，待你荣光归返。」
+
+503712
+Poison the Cup
+杯中投毒
+Dark schemes cut down what armies cannot.
+--------
+阴谋能解决军队所解决不了的问题。
+
+503713
+Priest of the Haunted Edge
+祟锋僧侣
+
+503714
+Raise the Draugr
+召起尸鬼
+"King Narfi calls. We go to war!"
+--------
+「奈尔非国王号令。我们征战沙场！」
+
+503715
+Return Upon the Tide
+随潮归去
+
+503716
+Rise of the Dread Marn
+玛恩惧怖军崛起
+
+503717
+Rune of Mortality
+夺命符文
+
+503718
+Skemfar Avenger
+斯肯法复仇者
+Stripped of their divinity, the elves of Skemfar channeled their rage and sorrow into bloody brutality.
+--------
+斯肯法妖精原本崇拜的神明遭逐后，他们便借助血腥暴行来宣泄愤怒及悲恸。
+
+503719
+Skemfar Shadowsage
+斯肯法影智者
+
+503720
+Skull Raid
+直取头颅
+
+503721
+Tergrid, God of Fright
+惊惶神特格莉德
+Fear is her one true companion.
+--------
+恐惧是她唯一良伴。
+
+503722
+Tergrid's Lantern
+特格莉德的提灯
+When Tergrid was a child, her shadow tried to kill her. Only her lantern keeps it at bay.
+--------
+在特格莉德年幼时，她的影子曾想置她于死地。唯靠手中提灯才令其无从近身。
+
+503723
+Tergrid's Shadow
+特格莉德怖影
+Tergrid, god of fright, never acknowledges her own shadow . . . or its murderous deeds.
+--------
+惊惶神特格莉德从不承认自己有影子…也不承认其犯下的谋杀行径。
+
+503724
+Valki, God of Lies
+谎言神瓦尔基
+
+503725
+Tibalt, Cosmic Impostor
+寰宇冒名客提勃
+
+503726
+Varragoth, Bloodsky Sire
+腥天君父威拉格斯
+"I waded through a river of fire to bring death to Bretagard."
+--------
+「我涉越火焰河流，以令死亡降临碧塔嘉。」
+
+503727
+Vengeful Reaper
+复仇索命使
+"Starnheim is closed to you, coward."
+--------
+「懦夫，斯达海姆不向你开放。」
+
+503728
+Village Rites
+村民仪式
+The Skelle raise scorn poles in conquered villages—cursed totems of wood and bone that sap survivors of physical strength and the will to fight back.
+--------
+斯凯尔人每征服一处村庄，都会在当地立起兽头棒～这种利用木棒与骨头制成的诅咒图腾像能够削弱幸存者的力气和反抗意志。
+
+503729
+Weigh Down
+沉底
+The draugr often drown intruders. Years later, their corpses rise from the depths to join the ranks of the Dread Marn.
+--------
+尸鬼通常会将入侵者沉入水底。多年之后，尸体便会浮出深渊，来为玛恩惧怖军效力。
+
+503730
+Withercrown
+枯萎头冠
+"We'll see each other again soon."
+—Egon, god of death
+--------
+「我们很快会再见。」
+～死亡神埃甘
+
+503731
+Arni Brokenbrow
+断角亚尼
+"I headbutted a troll. And won."
+--------
+「巨魔挨了我一记头锤。我就赢了。」
+
+503732
+Axgard Cavalry
+艾席嘉骑兵
+Riding the goat
+—Dwarven expression meaning
+"a foolhardy act of bravery"
+--------
+骑羊当马
+～矮人用语，意指
+「愚勇之举」
+
+503733
+Basalt Ravager
+玄武岩噬汉
+
+503734
+Birgi, God of Storytelling
+叙事神碧尔琪
+"This is a tale to make all Kaldheim tremble . . ."
+--------
+「这个故事能让整个凯德海姆都为之一震…」
+
+503735
+Harnfel, Horn of Bounty
+丰足觥号亨费尔
+Like her well of stories, Birgi's horn never runs dry.
+--------
+碧尔琪故事灵思如泉涌，她的觥号内蜜酒永不断。
+
+503736
+Breakneck Berserker
+断颈狂战士
+"Go for the knees! The last giant who tried to get past us got rolled back down the mountain in a dozen pieces."
+--------
+「照着膝盖砍过去！上一个想要跨过我们的巨人，就是被砍得滚落高山不得好死。」
+
+503737
+Calamity Bearer
+散灾巨人
+He'd ignite the World Tree itself if he could.
+--------
+他恨不得去亲手把世界树点燃。
+
+503738
+Cinderheart Giant
+烬心巨人
+What fire giants lack in arcane prowess, they make up for with reckless, explosive rage.
+--------
+火巨人并不善使奥术秘法，但他们会用鲁莽爆怒来弥补。
+
+503739
+Craven Hulk
+怯懦巨汉
+Abandoned at birth, the giant was raised by goats. Ironically, it grew up to be the most cautious member of the herd.
+--------
+这巨人生来便被抛弃，此后便由山羊抚养至今。讽刺的是，长大后的他成了整个羊群中最小心的人。
+
+503740
+Crush the Weak
+碾压弱者
+
+503741
+Demon Bolt
+恶魔电击
+"Burn them from the sky."
+—Varragoth
+--------
+「把他们从天上烧下来。」
+～威拉格斯
+
+503742
+Doomskar Titan
+末日劫泰坦
+
+503743
+Dragonkin Berserker
+龙伴狂战士
+
+503744
+Dual Strike
+接连掷击
+
+503745
+Dwarven Hammer
+矮人战锤
+
+503746
+Dwarven Reinforcements
+矮人增援
+"Orders? We don't wait for orders!"
+--------
+「命令？我们从不等命令！」
+
+503747
+Fearless Liberator
+无惧解救者
+"No one else had the spine for it, so I ran right between that giant's legs and hauled poor Valdir back to Axgard!"
+--------
+「眼看其他人都畏缩不前，于是我就看准巨人两腿之间的空档直冲过去，把可怜的瓦迪尔拖回了艾席嘉！」
+
+503748
+Fearless Pup
+无惧幼狼
+"Awooo!"
+--------
+「嗷呜！」
+
+503749
+Frenzied Raider
+狂热劫掠者
+"Arrogant maggot. You won't be so proud when I rip out your tongue and drink from your skull!"
+--------
+「你这些不自量力的蛆虫。等我把你的舌头扯下，把你的头当杯子来喝酒后，看你还有多神气！」
+
+503750
+Frost Bite
+冰霜噬咬
+"Don't wander far—it's a bit nippy out there!"
+—Leidurr, expedition leader
+--------
+「别走太远～外面寒风有点刺骨！」
+～探险队长蕾达儿
+
+503751
+Goldspan Dragon
+跨金桥巨龙
+
+503752
+Hagi Mob
+哈吉暴群
+"Graarg!"
+--------
+「嘎！」
+
+503753
+Immersturm Raider
+无尽风暴劫掠者
+The demons took no captives and claimed no spoils; they sought only to destroy.
+--------
+恶魔不留俘虏，不取财物；他们只求破坏。
+
+503754
+Magda, Brazen Outlaw
+莽勇狂徒玛格妲
+
+503755
+Open the Omenpaths
+打开预兆路
+
+503756
+Provoke the Trolls
+激怒巨魔
+"I like burning and pillaging as much as anyone, but sometimes it's just easier to throw a rock and let the trolls do the work."
+—Urik, Tuskeri raid leader
+--------
+「我跟你们一样喜欢打砸抢烧，但有的时候丢颗石头出去让巨魔来代劳更方便。」
+～塔科力突击团长乌力克
+
+503757
+Quakebringer
+撼地狂汉
+
+503758
+Reckless Crew
+鲁莽船员
+"Boat's burning! Row faster!"
+--------
+「船起火了！快划桨！」
+
+503759
+Run Amok
+横冲直撞
+"A Tuskeri never shrinks from battle! Quite the opposite in fact."
+—Arni Brokenbrow
+--------
+「畏缩的不是塔科力人，是脚下战场。」
+～断角亚尼
+
+503760
+Rune of Speed
+极速符文
+
+503761
+Seize the Spoils
+大有斩获
+"Grab what you want and burn the rest. Leave nothing behind."
+--------
+「把想要的都带走，剩下的全烧掉。什么都别留下。」
+
+503762
+Shackles of Treachery
+变节枷锁
+In that instant, Toralf felt only the power of the storm and the need to destroy.
+--------
+在那一瞬间，托拉夫只感受到风暴的力量和破坏的渴望。
+
+503763
+Smashing Success
+锤碎成果
+"Who said there's no profit in destruction?"
+—Magda, brazen outlaw
+--------
+「谁说破坏没好处？」
+～莽勇狂徒玛格妲
+
+503764
+Squash
+压扁
+The troll had recently crushed a human in much the same way. Sadly, he expired too quickly to appreciate the irony.
+--------
+这巨魔最近刚以同样方式压扁了一个人类。可惜的是，他还没来得及感叹报应就咽了气。
+
+503765
+Tibalt's Trickery
+提勃的诈术
+
+503766
+Toralf, God of Fury
+怒火神托拉夫
+
+503767
+Toralf's Hammer
+托拉夫之锤
+
+503768
+Tormentor's Helm
+折磨者头盔
+
+503769
+Tundra Fumarole
+苔原火孔
+The only thing that smells worse than troll is burnt troll.
+--------
+比巨魔更难闻的，就只有烧焦了的巨魔。
+
+503770
+Tuskeri Firewalker
+塔科力火行客
+"Toralf blessed me with fire. I am worthy of Starnheim!"
+--------
+「托拉夫以火光为我祝福。我够格荣升斯达海姆！」
+
+503771
+Vault Robber
+墓穴劫匪
+The dwarves believe works of art should be passed down the generations, not buried with the dead.
+--------
+矮人觉得工艺品应该代代相传，而不是和死人埋在一起。
+
+503772
+Arachnoform
+蜘蛛形体
+Deep within endless webs of clinging silk, the weaver waits.
+--------
+在无尽缠丝组成的层层罗网深处，编织者在静静等待猎物落网。
+
+503773
+Battle Mammoth
+战斗长毛象
+
+503774
+Blessing of Frost
+冰霜祝福
+A friend of Jorn is never cold.
+--------
+约恩的朋友永远不会觉得寒冷。
+
+503775
+Blizzard Brawl
+暴雪争斗
+
+503776
+Boreal Outrider
+北境前导兵
+
+503777
+Broken Wings
+翅翼断裂
+"Fynn climbed the highest peak and waited, still and silent, until the falling snow had hidden him entirely. When the great eagle flew past, the hunter's aim was true."
+—Saga of the Wisdom Seeker
+--------
+「芬恩爬上山峰之巅，在此静心等候。他屏息凝神丝毫不动，直到落雪覆遍周身与山脉同成白皑一体。正当巨鹰飞过之时，他准确出手命中目标。」
+～《智者传》
+
+503778
+Elderleaf Mentor
+古叶居导师
+"Our ancestors grew complacent in their divinity, allowing their lessers to topple them. Never again."
+--------
+「我们的祖先高居神位却骄纵自满，让逆贼得以篡位夺势。绝不容许此事再度发生。」
+
+503779
+Elven Bow
+妖精曲弓
+
+503780
+Elvish Warmaster
+善战妖精
+
+503781
+Esika, God of the Tree
+世界树神埃西卡
+"I know this world, from canopy to roots."
+--------
+「从树根到树梢，我通晓这世界每处角落。」
+
+503782
+The Prismatic Bridge
+虹彩桥
+Starnheim awaits.
+--------
+斯达海姆在彼方等待。
+
+503783
+Esika's Chariot
+埃西卡的战车
+
+503784
+Fynn, the Fangbearer
+持牙人芬恩
+"Come, Koma, and reclaim what you lost! Or does the great serpent fear a rematch?"
+--------
+「寇玛，来啊，来夺回你丢失的东西啊！难道伟大盘蛇会害怕与我再战一回？」
+
+503785
+Glittering Frost
+彩华冰霜
+At last, the storm's rage subsided, leaving silent, frozen beauty in its wake.
+--------
+最后风暴消退，留下一片静谧的冰封美景。
+
+503786
+Gnottvold Recluse
+诺特瓦遁蛛
+Fed up with webs impeding travelers in other realms, Kolvori banished the giant spiders to Gnottvold, where their webs snare only the occasional rampaging troll.
+--------
+蔻沃莉在其他境域中看够了蛛网阻挡旅人的事情，于是她将巨型蜘蛛全都逐往诺特瓦，这样它们还能帮忙缠住偶尔发狂的巨魔。
+
+503787
+Grizzled Outrider
+灰熊前导兵
+"Sure, a horse might be faster. But I'd like to see a horse take the head clean off a troll in one swipe!"
+--------
+「没错，骑马也许是能快一点。但我倒想知道哪种马能一爪就把巨魔的脑袋给削下来！」
+
+503788
+Guardian Gladewalker
+渡林守护者
+The raiders' only warning was a whisper floating through the mist: "Trespassers."
+--------
+劫掠者听到的唯一警告，就只是迷雾中传出的这句游荡幽声：「有入侵者。」
+
+503789
+Horizon Seeker
+天际探寻者
+"A five-day climb? Ha! I'll do it in two."
+--------
+「你说要爬五天？哈！我两天就能登顶。」
+
+503790
+Icehide Troll
+披冰巨魔
+A troll's greatest weapon is its ability to emerge unexpectedly from the landscape.
+--------
+巨魔最得意的武器，莫过于能从地表任何地方突然窜出的本事。
+
+503791
+In Search of Greatness
+循迹觅伟
+
+503792
+Jaspera Sentinel
+雅斯佩树哨卫
+The arrows of the elvish elite strike as true and deadly as the fangs of the Cosmos Serpent they revere.
+--------
+妖精菁英射出的箭矢又准又狠，如同他们崇敬的寰宇盘蛇毒牙一般致命。
+
+503793
+Jorn, God of Winter
+凛冬神约恩
+"Wherever snow falls, I am home."
+--------
+「下雪之处便是家园。」
+
+503794
+Kaldring, the Rimestaff
+霜冰杖考德霖
+As the sagas tell it, Jorn collects a sliver of ice from every realm he visits.
+--------
+一如史记所述，约恩每到一处境域，就会收集一片当地的冰晶。
+
+503795
+King Harald's Revenge
+哈拉德国王复仇
+"We will destroy the pretenders and reclaim the divinity of the Einir."
+--------
+「我们必将消灭伪神，让妖精古神回归正位。」
+
+503796
+Kolvori, God of Kinship
+亲缘神蔻沃莉
+
+503797
+The Ringhart Crest
+林哈特饰冠
+Kolvori's love for her family knows no bounds.
+--------
+蔻沃莉对家族的爱永无止境。
+
+503798
+Littjara Glade-Warden
+利雅拉林地护卫
+In every tree, a restless spirit.
+--------
+每株树内，都有一个不息的灵魂。
+
+503799
+Mammoth Growth
+长毛象增巨
+Thus the longhall became a flathall.
+--------
+从此立会厅便成了评会厅。
+
+503800
+Masked Vandal
+覆面破坏者
+
+503801
+Old-Growth Troll
+原生林巨魔
+
+503802
+Path to the World Tree
+世界树径路
+
+503803
+Ravenous Lindwurm
+贪食鳞龙
+"I'm no coward, but I'd sooner tangle with a rampaging Torga troll than a hungry lindwurm!"
+—Yegar, Beskir warrior
+--------
+「我不是懦夫，但我宁愿和莽闯的托尔嘉巨魔缠斗，也不愿遇上饥饿的鳞龙！」
+～贝斯奇战士耶格尔
+
+503804
+Realmwalker
+境域行者
+
+503805
+Rootless Yew
+无根紫杉
+"We are bound to wander this forest forever. Sometimes I think it wanders with us."
+—Ogni, Kannah scout
+--------
+「我们怕是要在这树林里走上一辈子。有时候我觉得是树林在带着我们走。」
+～卡纳斥候欧格妮
+
+503806
+Roots of Wisdom
+智慧缠根
+Though imprisoned in Jaspera trees, the elvish gods known as the Einir still whisper through the ages.
+--------
+虽然称作埃尼尔神族的妖精古神被禁锢在雅斯佩树中，但他们的低语依旧能穿越时代。
+
+503807
+Rune of Might
+蛮力符文
+
+503808
+Sarulf's Packmate
+萨茹夫的狼伴
+
+503809
+Sculptor of Winter
+凛冬塑师
+"I and my kin remember the old ways. The frost whispers to me in a language too ancient for the Skoti usurpers to comprehend."
+--------
+「我和族人依旧记得古法。冰霜用着斯科提逆神一族无法理解的古老语言，向我述说一切。」
+
+503810
+Snakeskin Veil
+蛇皮帘幕
+"Does a serpent roar and chase its prey? No. A serpent waits silently for oblivious prey to draw near."
+--------
+「巨蛇会边叫着边追踪猎物吗？不会。它们只是静等无知猎物送上门来。」
+
+503811
+Spirit of the Aldergard
+艾登嘉熊灵
+
+503812
+Struggle for Skemfar
+斯肯法之争
+
+503813
+Toski, Bearer of Secrets
+密讯信使托斯奇
+
+503814
+Tyvar Kell
+泰瓦科尔
+
+503815
+Vorinclex, Monstrous Raider
+畸巨劫怪弗霖凯
+
+503816
+Aegar, the Freezing Flame
+冰冻烈焰埃加尔
+
+503817
+Arni Slays the Troll
+亚尼诛戮巨魔
+
+503818
+Ascent of the Worthy
+英灵升殿
+
+503819
+Battle for Bretagard
+碧塔嘉保卫战
+
+503820
+Battle of Frost and Fire
+霜与火之战
+
+503821
+The Bears of Littjara
+利雅拉诸熊录
+
+503822
+Binding the Old Gods
+禁锢古神记
+
+503823
+The Bloodsky Massacre
+腥天大屠杀
+
+503824
+Fall of the Impostor
+冒名客之死
+
+503825
+Firja, Judge of Valor
+英勇判官菲妍
+She is both shepherd and reaper, and her judgment is final.
+--------
+既是护生使，又是索命官，她的裁决即刻定谳。
+
+503826
+Firja's Retribution
+菲妍的报偿
+
+503827
+Forging the Tyrite Sword
+钛晶剑锻造志
+
+503828
+Harald, King of Skemfar
+斯肯法国王哈拉德
+
+503829
+Harald Unites the Elves
+哈拉德一统妖精
+
+503830
+Immersturm Predator
+无尽风暴掠食者
+
+503831
+Invasion of the Giants
+巨人入侵记
+
+503832
+Kardur, Doomscourge
+末日灾祸卡尔杜
+
+503833
+Kardur's Vicious Return
+卡尔杜恶毒复生
+
+503834
+Kaya the Inexorable
+无踪卡娅
+
+503835
+King Narfi's Betrayal
+奈尔非国王叛行谱
+
+503836
+Koll, the Forgemaster
+锻造大师寇尔
+Using tyrite from a fallen Cosmos monster, Koll forged a weapon to awe Halvar himself.
+--------
+为能亲自折服哈尔瓦，寇尔利用从死去寰宇怪物体内提炼的钛晶打造出一把绝世神兵。
+
+503837
+Koma, Cosmos Serpent
+寰宇盘蛇寇玛
+
+503838
+Maja, Bretagard Protector
+碧塔嘉卫士玛娅
+"Our enemies have breached our realm. To survive, the clans must fight as one!"
+--------
+「我境已遭外敌入侵。若想要活下来，各部落必须团结迎战！」
+
+503839
+Moritte of the Frost
+冰霜摩立特
+
+503840
+Narfi, Betrayer King
+叛世国王奈尔非
+To serve the god of death, Narfi forfeited the warmth of life.
+--------
+为能侍奉死亡之神，奈尔非甚至抛弃了生命的温暖。
+
+503841
+Niko Aris
+尼科阿理斯
+
+503842
+Niko Defies Destiny
+尼科逆命记
+
+503843
+The Raven's Warning
+乌鸦示警
+
+503844
+Sarulf, Realm Eater
+噬境巨狼萨茹夫
+
+503845
+Showdown of the Skalds
+北地诗人赛诗会
+
+503846
+Svella, Ice Shaper
+塑冰者斯娃拉
+
+503847
+The Three Seasons
+三季变换
+
+503848
+The Trickster-God's Heist
+诈术神骗局
+
+503849
+Vega, the Watcher
+灵枭看守维嘉
+One eye sees the past, one the present, and one the future—and none can be deceived.
+--------
+一眼看向过去，一眼紧盯现在，一眼预视将来～每只眼睛都能洞悉真相。
+
+503850
+Waking the Trolls
+唤醒巨魔
+
+503851
+Bloodline Pretender
+血脉顶替客
+
+503852
+Colossal Plow
+巨犁
+
+503853
+Cosmos Elixir
+寰宇琼浆
+The Skoti owe their immortality to the elixir, and the manner of its creation is their most closely guarded secret.
+--------
+斯科提神族正是靠此琼浆得享永生，因此对其提炼方式三缄其口，唯恐秘密旁落。
+
+503854
+Funeral Longboat
+葬仪长舟
+"Cast onto the windless water, he drifted until the sea turned to sky."
+—Saga of the Lost King
+--------
+「随舟漂流无风洋，逐波沧海变蓝天。」
+～《先王传》
+
+503855
+Goldvein Pick
+金脉镐
+
+503856
+Maskwood Nexus
+覆面林连结点
+
+503857
+Pyre of Heroes
+英雄葬火
+
+503858
+Raiders' Karve
+劫掠者卡筏
+
+503859
+Raven Wings
+乌鸦羽翼
+"There are some places even our ships cannot travel. I would know their secrets too."
+—Inga Rune-Eyes
+--------
+「世界上还有我们航遍天涯也到不了之处。而我也想知晓存于该处的秘密。」
+～符眼茵嘉
+
+503860
+Replicating Ring
+复造指环
+
+503861
+Runed Crown
+缀符皇冠
+
+503862
+Scorn Effigy
+轻蔑草人像
+It remembers every wound it has seen or suffered—and nothing else.
+--------
+它记得自己见过或受过的所有创伤～除此之外眼中别无他物。
+
+503863
+Weathered Runestone
+老旧符文石
+
+503864
+Alpine Meadow
+高寒草地
+"Here perished Rognar the Reckless after his hundred-day battle with the Ironmaw Dragon. We raised these stones to mark his resting place."
+—Iskene, Kannah storyteller
+--------
+「勇莽洛格纳在与铁口巨龙大战百日之后咽气于此。我们在他安息之处周围设立石碑以资纪念。」
+～卡纳说书人伊斯琴
+
+503865
+Arctic Treeline
+极地林线
+"When the Light of Starnheim shines here, every frost-edged needle glitters with the reflected glory of the Cosmos."
+—Iskene, Kannah storyteller
+--------
+「一旦斯达海姆之光照耀此地，覆霜草叶尖端全都染上亮泽，共同闪烁寰宇荣辉。」
+～卡纳说书人伊斯琴
+
+503866
+Axgard Armory
+艾席嘉军械库
+
+503867
+Barkchannel Pathway
+树渠通路
+"Listen! The trees tell tales of their ancestors in the whisper-song of leaves."—Inga Rune-Eyes
+--------
+「仔细听！落叶扑簌成曲，树木正借此歌颂先祖传说。」
+～符眼茵嘉
+
+503868
+Tidechannel Pathway
+潮渠通路
+"Trust in the path, and it will bear you to safety."—Inga Rune-Eyes
+--------
+「相信径路，它便会将你带至安全之所。」
+～符眼茵嘉
+
+503869
+Blightstep Pathway
+枯阶通路
+"The waters smell oddly sweet, but do not be enticed. You don't want to meet what lurks below the surface."—Solrun, Beskir warrior
+--------
+「此处池水虽散发出奇异甜美气息，但切勿受其迷惑。你不会想遇上藏身水面下的东西。」
+～贝斯奇战士索兰
+
+503870
+Searstep Pathway
+炙阶通路
+"Our brave Tuskeri brethren blaze new trails, and we follow, mapping the routes of those who survive."—Solrun, Beskir warrior
+--------
+「我们勇敢的塔科力兄弟开辟出新的路径，而我们跟随而上，沿着幸存者的脚步绘出行路地图。」
+～贝斯奇战士索兰
+
+503871
+Bretagard Stronghold
+碧塔嘉城塞
+
+503872
+Darkbore Pathway
+黯隧通路
+"Hush, and stay still. No matter how dreary the darkness, a light in the Skelle Mire is never a good sign."—Haugar, Kannah wayfinder
+--------
+「嘘，站定别动。尽管置身死寂般黑暗并不好受，但在斯凯尔泥沼见到亮光绝不是什么好兆头。」
+～卡纳引路人豪格
+
+503873
+Slitherbore Pathway
+曲隧通路
+"The Cosmos Serpent carved these tunnels, and his echo remains, a twisting aura of ferocity and boundless growth."—Haugar, Kannah wayfinder
+--------
+「这些隧道乃是由寰宇盘蛇辟就，因此带来的扭曲影响依旧回荡其间，引致万物迅猛成长永不停歇。」
+～卡纳引路人豪格
+
+503874
+Faceless Haven
+无面者庇护地
+It is everywhere and nowhere, a place unbound by logic, just beyond the real.
+--------
+这里既是所有地方，又不是任何地方；它不受逻辑束缚，乃是一处超越实界的存在。
+
+503875
+Gates of Istfell
+伊斯费境门
+
+503876
+Glacial Floodplain
+冰川漫原
+"A cliff once rose from the surf here—until Bjora Dawn-Greeter declared that it was blocking her view and pulled it down bare-handed."
+—Iskene, Kannah storyteller
+--------
+「此处波涛拍岸，经年累月曾积起高耸冰崖～但有天报晓者碧约拉嫌它妨碍视线，便徒手将其夷为平地。」
+～卡纳说书人伊斯琴
+
+503877
+Gnottvold Slumbermound
+诺特瓦眠丘
+
+503878
+Great Hall of Starnheim
+斯达海姆正殿
+
+503879
+Hengegate Pathway
+柱扉通路
+"I cannot read these runes, yet somehow they seem like a warning. Have we passed unknowingly into a new realm?"—Ekken, Omenseeker navigator
+--------
+「我读不懂这些文字，但它们看起来像是某种警告。难道我们在不知不觉间来到了新的境域？」
+～预兆觅径人领航员埃肯
+
+503880
+Mistgate Pathway
+雾扉通路
+"I've never seen mist so unnaturally thick as this—where does the sea end and the sky begin?"—Ekken, Omenseeker navigator
+--------
+「我从未见过如此不自然的浓雾～大海止于何方，天空又始于何处？」
+～预兆觅径人领航员埃肯
+
+503881
+Highland Forest
+高地树林
+"Tread carefully! The last time I walked this path, half the snowdrifts were, in fact, sleeping trolls. I've never run so fast in my life!"
+—Iskene, Kannah storyteller
+--------
+「下脚的时候当心点！我上次走这条路时，这里至少有一半的雪堆是熟睡的巨魔。我这辈子从没跑得那么快！」
+～卡纳说书人伊斯琴
+
+503882
+Ice Tunnel
+寒冰隧道
+"The ice cracked underfoot; strange shapes swam beneath the surface. Who else has walked this blighted path?"
+—Iskene, Kannah storyteller
+--------
+「冰面在脚下裂开，奇异形体在水底游动。你们还有谁走过这条诅咒之路？」
+～卡纳说书人伊斯琴
+
+503883
+Immersturm Skullcairn
+无尽风暴骨冢
+
+503884
+Littjara Mirrorlake
+利雅拉镜湖
+
+503885
+Port of Karfell
+卡尔费港口
+
+503886
+Rimewood Falls
+霜林瀑布
+"For a fortnight, our warband lay still beneath the icy waters, breathing through reeds as we waited for the great bear to appear."
+—Iskene, Kannah storyteller
+--------
+「我们的部队整整在此埋伏了十四天，隐身于寒冷彻骨的水面之下借助苇杆呼吸，静静等待巨熊出现。」
+～卡纳说书人伊斯琴
+
+503887
+Shimmerdrift Vale
+烁迹山谷
+Reflections from the wind-sculpted snow gleam with every color of the rainbow.
+--------
+寒风塑造的多样积雪折射出彩虹的斑斓光辉。
+
+503888
+Skemfar Elderhall
+斯肯法长老厅
+
+503889
+Snowfield Sinkhole
+雪原地坑
+"Young Vitima bellowed to the Cosmos, daring the gods to punish her hubris! Well, she got their attention, as you can see."
+—Iskene, Kannah storyteller
+--------
+「年轻的维提玛曾向寰宇狂啸，想看看自己的无礼行为会不会受到诸神惩罚。正如你们所见，诸神听到了她的要求。」
+～卡纳说书人伊斯琴
+
+503890
+Sulfurous Mire
+硫磺雪沼
+"In my youth, we used to best each other at hopping rabbit-fast between the lava spouts, the burning tar spattering our legs."
+—Iskene, Kannah storyteller
+--------
+「年轻的时候，我们曾把岩浆口当作格子比谁能跳得更快，全然不顾飞溅到腿上的滚烫焦油。」
+～卡纳说书人伊斯琴
+
+503891
+Surtland Frostpyre
+瑟特兰霜焰
+
+503892
+Tyrite Sanctum
+钛晶圣所
+
+503893
+Volatile Fjord
+险恶峡湾
+"I watched with my own eyes as Jari Eagle-Caller fell from these cliffs, only to be snatched from the air by a giant bird!"
+—Iskene, Kannah storyteller
+--------
+「我曾亲眼见到唤鹰师耶力从峭壁顶端跌落，不过转眼之间就有只大鸟从天而降把他接住！」
+～卡纳说书人伊斯琴
+
+503894
+Woodland Chasm
+林地冰峡
+"Is this the grave of a god? A tunnel carved by the Cosmos Serpent? It matters not. It is no place for us."
+—Iskene, Kannah storyteller
+--------
+「这里是神的墓地？还是寰宇盘蛇辟出的隧道？这些都不重要。我只知道这里不属于我们。」
+～卡纳说书人伊斯琴
+
+503895
+The World Tree
+世界树
+
+503896
+Snow-Covered Plains
+覆雪平原
+
+503897
+Snow-Covered Plains
+覆雪平原
+
+503898
+Snow-Covered Island
+覆雪海岛
+
+503899
+Snow-Covered Island
+覆雪海岛
+
+503900
+Snow-Covered Swamp
+覆雪沼泽
+
+503901
+Snow-Covered Swamp
+覆雪沼泽
+
+503902
+Snow-Covered Mountain
+覆雪山脉
+
+503903
+Snow-Covered Mountain
+覆雪山脉
+
+503904
+Snow-Covered Forest
+覆雪树林
+
+503905
+Snow-Covered Forest
+覆雪树林
+
+506916
+Valkyrie Harbinger
+先兆女武神
+Where she flies, the Light of Starnheim shines.
+--------
+她翅翼所及，便是斯达海姆光芒耀威之地。
+
+506917
+Surtland Elementalist
+瑟特兰元素师
+
+506918
+Cleaving Reaper
+挥扫索命使
+"I won't pollute my blade with your blood, demon. You'll die by your own axe!"
+--------
+「恶魔，我不会让你的污血沾染我的宝剑；而会用你的利斧来取你性命！」
+
+506919
+Surtland Flinger
+瑟特兰投掷客
+Victory before camaraderie.
+--------
+胜利更比情谊贵。
+
+506920
+Canopy Tactician
+林冠策士
+"Death and life are two ends of the same spear."
+--------
+「长矛两端，各司生死之命。」
+
+506921
+Armed and Armored
+全副武装
+The dwarves of Axgard seldom have reason to leave their impregnable underground kingdom—but when they do, they go in force.
+--------
+艾席嘉矮人平时不常需要离开自己坚不可摧的地底王国～当他们真有需要时，必会武装稳妥。
+
+506922
+Starnheim Aspirant
+斯达海姆求索客
+"I do not fear death. I know my soul will rise to Starnheim, where I will feast forever among valkyries and heroes. Can you say the same?"
+--------
+「我并不惧怕死亡。我知道自己的灵魂必将荣升斯达海姆，同女武神与众英雄永享盛筵。你可有此等自信？」
+
+506923
+Warchanter Skald
+颂战北地诗人
+"Who will be the hero of my tale?"
+--------
+「谁会是我诗篇的主人公？」
+
+506924
+Youthful Valkyrie
+年轻女武神
+Before she is admitted to the host of Starnheim, a young valkyrie must learn a thousand tales of her ancestors.
+--------
+年轻女武神必须先了解宗祖的千则传说，才有机会成为斯达海姆盛筵主宾。
+
+506925
+Absorb Identity
+吸收身分
+
+506926
+Giant's Grasp
+巨人之攫
+"Behave and you'll be a fine pet. Bite me and you're ammunition."
+--------
+「要是听话，我就把你好好养着。敢要乱咬，我就把你扔得远远。」
+
+506927
+Elderfang Ritualist
+寰宇蛇仪式师
+Her fingers stiffened as the shrouded corpse stirred. Her final, ragged breath was one of triumph. "Return, my chosen, and grant our people victory!"
+--------
+随着裹尸布下的尸体开始扭动，她的指节动作逐渐变得僵硬。当她咽下最后一口气时，脸上露出成功的喜悦：「回来吧，受福者，带领人民走向胜利！」
+
+506928
+Renegade Reaper
+变节索命使
+
+506929
+Thornmantle Striker
+披荆打击客
+
+506930
+Bearded Axe
+钩斧
+Every dwarven artisan spends the first hundred years of their life forging a single weapon and infusing it with runic magic.
+--------
+每位矮人工匠的一生，都会先花上百年时间来打造一柄无双精兵，并将符文魔法灌注其中。
+
+506931
+Fire Giant's Fury
+火巨人之怒
+So ended the feast, the hall, and the clan.
+--------
+盛宴就此付之一炬，连同大厅和整个部落。
+
+506932
+Gilded Assault Cart
+镶金矿工车
+
+506933
+Elven Ambush
+妖精伏击
+"No elf can match a Tuskeri in combat. Why not charge?"
+—Knorjolvin, Tuskeri raider
+--------
+「塔科力人单挑一定赢妖精。直接冲锋不就好了？」
+～塔科力突击兵诺约尔温
+
+506934
+Gladewalker Ritualist
+渡林仪式师
+"We are all."
+--------
+「吾人即万物。」
+
+506935
+Rampage of the Valkyries
+女武神显威
+"This is a foul place. Cleanse it."
+--------
+「此地污秽不堪。速速净化。」
+
+507585
+Plains
+平原
+
+507586
+Island
+海岛
+
+507587
+Swamp
+沼泽
+
+507588
+Mountain
+山脉
+
+507589
+Forest
+树林
+
+========

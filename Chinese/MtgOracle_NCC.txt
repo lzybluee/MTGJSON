@@ -1,0 +1,445 @@
+559653
+Anhelo, the Painter
+华艺家安海洛
+Every work of art is a hit.
+--------
+每件作品都让人感动到死。
+
+559654
+Henzie "Toolbox" Torre
+万金油亨齐托雷
+
+559655
+Kamiz, Obscura Oculus
+秘闻帮天眼卡蜜兹
+
+559656
+Kitt Kanto, Mayhem Diva
+破坏歌伶琪特坎托
+
+559657
+Perrie, the Pulverizer
+暴冲汉佩力
+
+559708
+The Beamtown Bullies
+钢梁镇恶棍组
+
+559709
+Kros, Defense Contractor
+承判盾商库罗斯
+
+559710
+Parnesse, the Subtle Brush
+工笔画匠帕涅丝
+
+559711
+Phabine, Boss's Confidant
+首脑亲信法嫔
+
+559712
+Tivit, Seller of Secrets
+密报商棣维特
+
+598125
+Aerial Extortionist
+翔空勒赎手
+
+598126
+Angelic Sleuth
+天使侦员
+Some crime scenes' secrets can only be discerned from an angel's-eye view.
+--------
+某些隐藏在犯罪现场的秘密只能从天使的视角看清。
+
+598127
+Boss's Chauffeur
+首脑司机
+
+598128
+Contractual Safeguard
+外判护卫
+
+598129
+Damning Verdict
+厄亡裁决
+"Guilty as charged!"
+--------
+「控告罪名全数成立！」
+
+598130
+Grand Crescendo
+渐强终响
+The roar of applause drowned out the melee raging in the lobby.
+--------
+如雷掌声让大厅混战无人听闻。
+
+598131
+Jailbreak
+灵巧脱狱
+Obscura spies rarely stay locked up long enough to make it to trial.
+--------
+秘闻帮的间谍很少能被关押到开庭审判的那一刻。
+
+598132
+Master of Ceremonies
+典礼司仪
+
+598133
+Resourceful Defense
+机智防御
+
+598134
+Skyboon Evangelist
+天恩传音师
+
+598135
+Smuggler's Share
+走私客分赃
+One way or another, everyone gets paid what they're owed.
+--------
+每个人都想方设法得到了亏欠自己的那一份。
+
+598136
+Aven Courier
+艾文讯使
+
+598137
+Cephalid Facetaker
+夺面章人
+Few think to look past a familiar face and a friendly smile.
+--------
+少有人想去看穿熟悉又友善的脸孔底下藏着什么。
+
+598138
+Change of Plans
+改变计划
+
+598139
+Extravagant Replication
+奢豪复造
+"Just one aether tiger? What do I look like, a peasant?"
+--------
+「才一头乙太虎？我看上去像是农村来的吗？」
+
+598140
+Flawless Forgery
+无瑕仿制
+
+598141
+In Too Deep
+牵扯太深
+
+598142
+Mask of the Schemer
+阴谋家面具
+
+598143
+Shield Broker
+后盾扶济商
+
+598144
+Sinister Concierge
+助恶门房
+
+598145
+Skyway Robber
+空道劫匪
+
+598146
+Storm of Forms
+表单风暴
+Beware the fine print.
+--------
+留心细则。
+
+598147
+Bellowing Mauler
+嚎吼舞锤汉
+He's pretty sure he can't get charged with murder if he calls it "organic demolition."
+--------
+他相信如果坚称自己只是在「肉身拆迁」，就不会被控谋杀。
+
+598148
+Body Count
+清点遗体
+"Your friends stayed quiet, and look what happened to them. You feeling a little more talkative yet?"
+--------
+「你朋友什么话都没说，看看他们的下场。你现在有没有想说几句？」
+
+598149
+Dogged Detective
+盯梢侦探
+
+598150
+Lethal Scheme
+夺命阴谋
+
+598151
+Make an Example
+以儆效尤
+As the Adversary's influence grew, the conflicts between families escalated.
+--------
+随着魔头的影响力逐渐提升，家族间的冲突也日趋高升。
+
+598152
+Misfortune Teller
+厄运占师
+
+598153
+Protection Racket
+保护费
+
+598154
+Waste Management
+残料管理
+
+598155
+Wave of Rats
+老鼠波群
+
+598156
+Writ of Return
+还复令状
+
+598157
+Xander's Pact
+尚夺尔的契约
+
+598158
+Audacious Swap
+斗胆掉包
+
+598159
+Determined Iteration
+定念迭代
+"Only a fool believes they have nothing left to learn."
+--------
+「只有蠢货才会觉得自己已经学透了。」
+
+598160
+Indulge // Excess
+过度 // 放纵
+
+598160
+Indulge // Excess
+过度 // 放纵
+
+598161
+Industrial Advancement
+工业进展
+
+598162
+Life of the Party
+派对化身
+
+598163
+Mezzio Mugger
+梅齐奥袭劫客
+
+598164
+Rain of Riches
+金如雨下
+
+598165
+Rose Room Treasurer
+蔷薇间司库
+
+598166
+Seize the Spotlight
+夺取焦点
+
+598167
+Spellbinding Soprano
+魔韵女高音
+
+598168
+Turf War
+地盘之争
+
+598169
+Bribe Taker
+受贿战士
+In New Capenna, it's survival of the richest.
+--------
+在新卡佩纳，富者生存。
+
+598170
+Caldaia Guardian
+柯达亚守护者
+
+598171
+Crash the Party
+喧犀夺主
+The profits from that night barely paid for the damages.
+--------
+当晚的利润完全不足以支付蒙受的损失。
+
+598172
+Dodgy Jalopy
+多奇破烂车
+
+598173
+Family's Favor
+家族之威
+
+598174
+First Responder
+应急队员
+
+598175
+Killer Service
+犀心款待
+
+598176
+Next of Kin
+近亲传承
+
+598177
+Park Heights Maverick
+高地园独行侠
+
+598178
+Scepter of Celebration
+庆典权杖
+
+598179
+Vivien's Stampede
+薇薇安的狂奔
+
+598180
+Agent's Toolkit
+密探工具箱
+
+598181
+Bess, Soul Nourisher
+沁魂厨师蓓丝
+
+598182
+Brokers Confluence
+扶济社交会
+
+598183
+Cabaretti Confluence
+乐舞会交会
+
+598184
+Cryptic Pursuit
+隐密追击
+
+598185
+Denry Klin, Editor in Chief
+报社主编丹瑞科林
+
+598186
+Grime Gorger
+污秽吞噬妖
+Sometimes the trash throws you out.
+--------
+有时候是垃圾倒你。
+
+598187
+Jolene, the Plunder Queen
+劫夺拳后乔琳
+
+598188
+Life Insurance
+生命保险
+All the money in the world won't buy back a pulse.
+--------
+举世财富也买不回心跳。
+
+598189
+Maestros Confluence
+绝艺盟交会
+
+598190
+Obscura Confluence
+秘闻帮交会
+
+598191
+Oskar, Rubbish Reclaimer
+复旧专家欧斯卡
+"So many fools think throwing something away is the same as disposing of it."
+--------
+「许多蠢货以为把东西扔掉就算处理了。」
+
+598192
+Prosperous Partnership
+美满结对
+Partners in love, partners in life, and partners in crime.
+--------
+恋爱同心，人生同行，犯罪同伴。
+
+598193
+Riveteers Confluence
+勤工联交会
+
+598194
+Syrix, Carrier of the Flame
+载火凤凰塞蕊兹
+
+598195
+Currency Converter
+货币兑换机
+
+598196
+False Floor
+活动地板
+"That performance was truly the pits."
+—Jetmir
+--------
+「那演出根本就是个坑。」
+～杰米尔
+
+598197
+Gavel of the Righteous
+正气法槌
+
+598198
+Smuggler's Buggy
+走私客金龟车
+
+598199
+Weathered Sentinels
+褪色哨卫
+
+559565
+Bennie Bracks, Zoologist
+动物学家班尼布拉克
+His enthusiastic curiosity puts even the most fearsome of beasts at ease.
+--------
+他好奇心极度旺盛，就连最凶猛的野兽都招架不住。
+
+559566
+Tenuous Truce
+薄冰休战
+
+559567
+Swindler's Scheme
+骗子阴谋
+
+559568
+Mari, the Killing Quill
+夺命笔锋玛丽
+
+559569
+Spiteful Repossession
+含怨收回
+Late payment shall be extracted however they see fit.
+--------
+如款项逾期未付，甲方得以其认为适当之方式索取。
+
+559570
+Boxing Ring
+拳击擂台
+
+559571
+Vazi, Keen Negotiator
+尖刻谈判员法琪
+
+559572
+Threefold Signal
+三路红绿灯
+
+========

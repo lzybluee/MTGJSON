@@ -1,0 +1,306 @@
+531830
+Galea, Kindler of Hope
+燃望者盖莉娅
+
+531831
+Prosper, Tome-Bound
+书契坡斯博
+
+531832
+Sefris of the Hidden Ways
+密宗法师塞弗莉丝
+
+531833
+Vrondiss, Rage of Ancients
+先祖之怒沃隆迪斯
+
+531910
+Fey Steed
+妖精荒野骏鹿
+Ride into legend.
+--------
+奔向传奇。
+
+531911
+Holy Avenger
+神圣复仇者
+Divine light forged in steel.
+--------
+钢铁铸成的神圣辉光。
+
+531912
+Immovable Rod
+不动权杖
+
+531913
+Mantle of the Ancients
+先贤披风
+
+531914
+Radiant Solar
+辉光炽天神侍
+
+531915
+Revivify
+回生神术
+
+531916
+Robe of Stars
+星光法袍
+
+531917
+Thorough Investigation
+详细调查
+
+531918
+Valiant Endeavor
+顽强勇进
+"Only victory shall stop our charge!"
+--------
+「只有胜利才是停止冲锋的讯号！」
+
+531919
+Arcane Endeavor
+秘法勇进
+Late at night, when dreams touch a studious mind, bouts of inspiration strike.
+--------
+夜深人静时，当勤学思绪触碰梦乡，灵感随之迸发。
+
+531920
+Diviner's Portent
+预言师示兆
+
+531921
+Minn, Wily Illusionist
+老成幻术师珉恩
+
+531922
+Netherese Puzzle-Ward
+耐瑟瑞尔谜团结界
+Each configuration reveals a potential future.
+--------
+每种配置均揭示未来的一种可能。
+
+531923
+Phantom Steed
+魅影驹
+
+531924
+Rod of Absorption
+吸收法力权杖
+
+531925
+Winged Boots
+飞翼靴
+Get carried away.
+--------
+随风飞舞。
+
+531926
+Bag of Devouring
+吞噬袋
+
+531927
+Danse Macabre
+骷髅之舞
+
+531928
+Death Tyrant
+死亡暴君
+
+531929
+Grave Endeavor
+肃穆勇进
+Not alive, not dead, but definitely furious.
+--------
+不算活，没死透，但绝对怒气十足。
+
+531930
+Grim Hireling
+残酷雇工
+
+531931
+Hellish Rebuke
+炼狱叱喝
+"Then we burn together!"
+--------
+「让我们一起受此煎熬！」
+
+531932
+Lorcan, Warlock Collector
+邪术师收集魔洛坎
+
+531933
+Wand of Orcus
+欧库斯之杖
+
+531934
+Berserker's Frenzy
+狂战士狂热
+
+531935
+Chaos Dragon
+混乱巨龙
+
+531936
+Fiendlash
+魔鞭
+A fiery scourge for both flesh and soul.
+--------
+它的猛烈鞭笞不仅触及肉体，更深入心灵。
+
+531937
+Maddening Hex
+癫狂巫咒
+Much more painful than mere regret.
+--------
+比区区悔恨更痛苦万倍。
+
+531938
+Reckless Endeavor
+鲁莽勇进
+Which burns more fiercely? Your ambition, or the flame?
+--------
+猜猜哪个烧得更旺，是你的野心，还是这团烈焰？
+
+531939
+Share the Spoils
+分享战利品
+
+531940
+Vengeful Ancestor
+复仇先祖
+
+531941
+Wild-Magic Sorcerer
+狂乱魔法术士
+
+531942
+Bag of Tricks
+魔术袋
+From fuzzy to ferocious in an instant.
+--------
+眨眼之间便从可爱变成可憎。
+
+531943
+Belt of Giant Strength
+巨力腰带
+
+531944
+Druid of Purification
+净化之德鲁伊
+"Return to the earth and the wind."
+--------
+「回归大地，散入清风。」
+
+531945
+Indomitable Might
+不屈勇武
+
+531946
+Neverwinter Hydra
+绝冬之森多头蛇蜥
+
+531947
+Song of Inspiration
+激灵曲
+
+531948
+Wild Endeavor
+狂野勇进
+The wilds consume, but they also create.
+--------
+荒野虽吞噬万物，却也创造生机。
+
+531949
+Catti-brie of Mithral Hall
+秘银厅的凯蒂布莉儿
+
+531950
+Dragonborn Champion
+龙裔斗士
+"I was raised on the stories of my ancestors, and I want to write my own pages in the tales."
+--------
+「我听着先人的故事长大，现在要来书写属于自己的篇章。」
+
+531951
+Extract Brain
+夺脑
+No thought is as succulent as a secret.
+--------
+没有什么思想能比秘密更鲜美。
+
+531952
+Fevered Suspicion
+狂热怀疑
+
+531953
+Hurl Through Hell
+直坠噩梦
+No one returns unchanged.
+--------
+回来的人都从此大不相同。
+
+531870
+Karazikar, the Eye Tyrant
+巨眼暴君卡拉兹卡
+
+531871
+Klauth, Unrivaled Ancient
+旷代古龙克劳斯
+
+531954
+Klauth's Will
+克劳斯的意志
+
+531955
+Midnight Pathlighter
+午夜引路人
+
+531872
+Nihiloor
+奈席洛
+
+531956
+Ride the Avalanche
+山崩之威
+The mountain will build your cairn of snow and ice and stone.
+--------
+高山会用霜雪、寒冰与石块来为你筑好坟冢。
+
+531873
+Storvald, Frost Giant Jarl
+霜巨人头目斯托瓦
+
+531957
+Wulfgar of Icewind Dale
+冰风谷的沃夫加
+
+531958
+Bucknard's Everfull Purse
+巴克娜的满溢钱包
+As long as it's never left empty, this magic pouch produces coins every dawn.
+--------
+只要不把这魔法钱包掏空，它每天清晨都会生出金币。
+
+531959
+Clay Golem
+黏土魔像
+
+531960
+Component Pouch
+材料包
+
+531961
+Ebony Fly
+黑檀苍蝇
+
+531962
+Sword of Hours
+日晷魔剑
+
+531963
+Underdark Rift
+幽暗地域裂缝
+
+========

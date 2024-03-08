@@ -1,0 +1,121 @@
+497161
+Flooded Strand
+潮没水滨
+
+497162
+Polluted Delta
+聚污三角洲
+
+497163
+Bloodstained Mire
+血斑泥沼
+
+497164
+Wooded Foothills
+繁茂丘陵
+
+497165
+Windswept Heath
+风袭荒地
+
+497166
+Marsh Flats
+沼地平野
+
+497167
+Scalding Tarn
+沸腾山湖
+
+497168
+Verdant Catacombs
+新绿陵墓
+
+497169
+Arid Mesa
+不毛高地
+
+497170
+Misty Rainforest
+雾漫雨林
+
+497171
+Seachrome Coast
+铬亮海岸
+
+497172
+Darkslick Shores
+暗光海滨
+
+497173
+Blackcleave Cliffs
+暗峰山崖
+
+497174
+Copperline Gorge
+铜索峡谷
+
+497175
+Razorverge Thicket
+锐草陲灌丛
+
+497176
+Sea of Clouds
+无际云海
+
+497177
+Morphic Pool
+塑境秘潭
+
+497178
+Luxury Suite
+奢华包厢
+
+497179
+Spire Garden
+尖塔花园
+
+497180
+Bountiful Promenade
+繁盛步道
+
+497181
+Ancient Tomb
+古墓
+
+497182
+Cavern of Souls
+灵魂洞窟
+
+497183
+Celestial Colonnade
+天界柱廊
+
+497184
+Creeping Tar Pit
+恶心焦油坑
+
+497185
+Grove of the Burnwillows
+焰柳树丛
+
+497186
+Horizon Canopy
+遍野林冠
+
+497187
+Prismatic Vista
+澈光远景
+
+497188
+Strip Mine
+废矿
+
+497189
+Valakut, the Molten Pinnacle
+熔天顶瓦拉库
+
+497190
+Wasteland
+荒原
+
+========

@@ -1,0 +1,193 @@
+553668
+Chishiro, the Shattered Blade
+碎剑治郎
+
+553669
+Kotori, Pilot Prodigy
+奇驭科托莉
+"Some people test limits. I prefer to demolish them."
+--------
+「有人爱挑战极限，我宁愿冲破极限。」
+
+553690
+Kaima, the Fractured Calm
+碎宁怪磨
+
+553691
+Shorikai, Genesis Engine
+创机胜利械
+
+553902
+Aerial Surveyor
+翔空勘机
+
+553903
+Drumbellower
+擂鼓灵
+By the second night after the kami had drifted into town, the local general store was completely sold out of earplugs.
+--------
+神明漂流到城镇还不到第二天晚上，当地杂货店的耳塞就已完全售罄。
+
+553904
+Ironsoul Enforcer
+铁魂执法者
+"You break it, you buy it. You steal it, I find it."
+--------
+「弄坏就要赔，敢偷就倒楣。」
+
+553905
+Organic Extinction
+生体绝灭
+"Technology evolves faster than a blade can swing."
+—Arima, lead inventor of the Futurists
+--------
+「科技的进步可比挥剑要迅速。」
+～赛博派首席发明家有马
+
+553906
+Release to Memory
+放归记忆
+"Those who have passed are beyond war, beyond suffering. Mourn them, envy them, but above all, remember them."
+—Light-Paws, Imperial advisor
+--------
+「往生之人已远离战争，不再受难。在哀悼与钦羡之余，我们更该记住他们。」
+～皇室参谋轻脚
+
+553907
+Swift Reconfiguration
+迅速重配
+On the bright side, the bear now had cupholders.
+--------
+往好处想，那头熊现在有了杯架。
+
+553908
+Access Denied
+拒绝接触
+The Saiba Futurists guard their secret experiments with ever-evolving networks of cutting-edge defensive technology.
+--------
+赛博派以不断演进的尖端防御技术网络来守护其秘密实验。
+
+553909
+Cyberdrive Awakener
+赛能醒眠体
+
+553910
+Imposter Mech
+代形机体
+The best way to fight evil is with its own weapons.
+--------
+师恶长技以制恶。
+
+553911
+Kappa Cannoneer
+驮炮河童
+
+553912
+Katsumasa, the Animator
+灵机贺津间佐
+
+553913
+Research Thief
+研究窃贼
+The Futurists eagerly supplement their research with their rivals' closely guarded secrets.
+--------
+赛博派追逐竞争对象严守的秘密，以此精进自己的研究。
+
+553914
+Universal Surveillance
+全域监视
+Few outside the Saiba Futurists know the true extent of their data-extraction network.
+--------
+除了赛博派之外，很少有人知道数据采集网络的实际范围有多广。
+
+553915
+Akki Battle Squad
+恶鬼战斗小队
+
+553916
+Collision of Realms
+两界相叠
+
+553917
+Kami of Celebration
+庆典神
+
+553918
+Komainu Battle Armor
+貊犬战甲
+
+553919
+Smoke Spirits' Aid
+幽魂相助
+
+553920
+Unquenchable Fury
+难熄暴怒
+
+553921
+Ascendant Acolyte
+入圣侍僧
+"Limits exist solely to test the will."
+--------
+「界限的意义，仅在于考验意志。」
+
+553922
+Concord with the Kami
+人神和睦
+
+553923
+Kosei, Penitent Warlord
+悔罪军头恒征
+
+553924
+One with the Kami
+心神合一
+
+553925
+Rampant Rejuvenator
+丛生复碧兽
+
+553926
+Silkguard
+缠丝护身
+
+553927
+Tanuki Transplanter
+移生貉
+
+553580
+Myojin of Blooming Dawn
+绽晓明神
+
+553581
+Yoshimaru, Ever Faithful
+忠犬义丸
+Day after day he sat there, knowing that the Wanderer would soon be back for him.
+--------
+他终日端坐，深信飘萍很快便会回来相聚。
+
+553582
+Myojin of Cryptic Dreams
+诡梦明神
+
+553583
+Myojin of Grim Betrayal
+离叛明神
+
+553584
+Ruthless Technomancer
+绝情科技冥师
+
+553585
+Myojin of Roaring Blades
+咆刃明神
+
+553586
+Go-Shintai of Life's Origin
+命源御神体
+
+553587
+Myojin of Towering Might
+雄力明神
+
+========

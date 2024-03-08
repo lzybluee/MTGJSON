@@ -1,0 +1,439 @@
+518307
+Breena, the Demagogue
+煽动师布莉娜
+
+518308
+Felisa, Fang of Silverquill
+银毫之牙斐莉莎
+
+518309
+Veyran, Voice of Duality
+二元之声薇兰
+
+518310
+Zaffai, Thunder Conductor
+雷鸣通导师冉非
+
+518311
+Gyome, Master Chef
+主厨纪尧姆
+
+518312
+Willowdusk, Essence Seer
+菁华预言师柳霞
+
+518313
+Alibou, Ancient Witness
+远古见证人阿力布
+
+518314
+Osgir, the Reconstructor
+重建师奥席格
+
+518315
+Adrix and Nev, Twincasters
+双咒法师艾季与涅夫
+
+518316
+Esix, Fractal Bloom
+繁盛分灵埃席兹
+
+518407
+Angel of the Ruins
+遗迹天使
+
+518408
+Archaeomancer's Map
+古语术士地图
+
+518409
+Bronze Guardian
+黄铜守护者
+
+518410
+Combat Calligrapher
+战斗弄墨师
+
+518411
+Digsite Engineer
+挖掘点工程师
+"Dig over there, you bolthead!"
+--------
+「你个螺丝脑袋，去挖那边！」
+
+518412
+Excavation Technique
+挖掘技艺
+"Stand back. This part gets messy."
+--------
+「退后。这步容易出状况。」
+
+518413
+Guardian Archon
+守护者统领
+
+518414
+Losheel, Clockwork Scholar
+发条学者萝绣
+
+518415
+Monologue Tax
+赘言税
+"Your unsolicited words enrich us all. Please, continue."
+—Yold, professor of cryptorelicology
+--------
+「你的自说自话让大家获益匪浅。务请继续。」
+～古物密码学教授游尔德
+
+518416
+Nils, Discipline Enforcer
+规纪巡查倪尔兹
+
+518417
+Promise of Loyalty
+忠诚承诺
+"It's us against the world. Forever."
+--------
+「就由我们协力对抗全世界。矢志不渝。」
+
+518418
+Scholarship Sponsor
+奖学金资助人
+
+518419
+Commander's Insight
+指挥官洞察
+No amount of solitary studying can replace a master's tutelage.
+--------
+再努力闭门苦读，也不及大师提点。
+
+518420
+Curiosity Crafter
+好奇塑师
+
+518421
+Dazzling Sphinx
+炫目史芬斯
+
+518422
+Deekah, Fractal Theorist
+分灵理论师荻卡
+
+518423
+Inspiring Refrain
+启迪旋律
+
+518424
+Muse Vortex
+思灵漩涡
+
+518425
+Octavia, Living Thesis
+活体论文八爪薇
+
+518426
+Perplexing Test
+扰志测验
+"Your proofs were a bit nontraditional, but effective nonetheless. Full marks."
+--------
+「你的证明过程虽略别出心裁，但也一样有效。满分。」
+
+518427
+Replication Technique
+复造技艺
+
+518428
+Sly Instigator
+狡黠煽动师
+"Me? I'm just an innocent bystander!"
+--------
+「我？不过是个无辜路人罢了！」
+
+518429
+Spawning Kraken
+孳息巨海兽
+"I never imagined I'd lay eyes on a creature that makes Gyruda look small and harmless!"
+—Lukka
+--------
+「真没想过，我还能亲眼见到这么大的生物。翟鲁达比起来根本是个小可爱！」
+～卢卡
+
+518430
+Theoretical Duplication
+理论复制
+"You made it asymmetrical just to annoy me, didn't you?"
+—Imbraham, Quandrix dean
+--------
+「你故意把它弄成不对称就是成心来气我的，对吧？」
+～量析院长英巴罕
+
+518431
+Author of Shadows
+黯影著书人
+
+518432
+Blight Mound
+枯萎土丘
+Pests feed on carrion, mud, and one another.
+--------
+害虫的食物包括：腐肉、污泥、彼此。
+
+518433
+Bold Plagiarist
+大胆剽窃徒
+"I know a good idea when I see one."
+--------
+「当我遇到好想法时，我也有个好想法。」
+
+518434
+Cunning Rhetoric
+花言巧语
+
+518435
+Essence Pulse
+菁华脉动
+"There is nothing so invigorating and stubbornly belligerent as the pure energy of life."
+—Valentin, Witherbloom dean
+--------
+「生命的纯粹能量既能焕发活力，又会顽强争胜，世间无他物能及。」
+～靡华院长瓦伦丁
+
+518436
+Fain, the Broker
+掮客斐恩
+
+518437
+Incarnation Technique
+转生技艺
+"Draw out your fear, but don't let it control you. You're in charge now."
+--------
+「引出自己的恐惧，但别受其操控。现在换你试试。」
+
+518438
+Keen Duelist
+敏锐斗客
+
+518439
+Marshland Bloodcaster
+沼地鲜血法师
+Blood magic is more artery than science.
+--------
+鲜血魔法比自然科学更令人血脉贲张。
+
+518440
+Stinging Study
+刺痛苦学
+Silverquill first-years welcome discomfort in the classroom, knowing it will prepare them for the years ahead.
+--------
+虽然教室中略有不适，但银毫新生似乎并不介意，因为他们知道这能为未来学业打好基础。
+
+518441
+Tivash, Gloom Summoner
+幽光召唤师提瓦什
+
+518442
+Veinwitch Coven
+血脉巫师群
+Some Strixhaven study groups are more welcoming than others.
+--------
+斯翠海文有些学习小组比其他的更为热情。
+
+518443
+Audacious Reshapers
+斗胆重塑师
+
+518444
+Battlemage's Bracers
+战巫师护臂
+
+518445
+Creative Technique
+创新技艺
+
+518446
+Cursed Mirror
+诅咒魔镜
+
+518447
+Fiery Encore
+火热返场
+
+518448
+Inferno Project
+炼狱作品
+Art born from such raw emotion often takes on a life of its own.
+--------
+源自原初情感的艺术作品，通常会自成体裁。
+
+518449
+Laelia, the Blade Reforged
+重铸利锋拉耶梨
+
+518450
+Radiant Performer
+辐光献艺家
+
+518451
+Rionya, Fire Dancer
+舞火莉昂雅
+
+518452
+Rousing Refrain
+醒神旋律
+
+518453
+Ruin Grinder
+遗迹碾磨工
+
+518454
+Surge to Victory
+冲向胜利
+
+518455
+Blossoming Bogbeast
+繁花腐沼兽
+As subtle as a bogbeast
+—Witherbloom expression meaning
+"crude and clumsy"
+--------
+如腐沼兽般精致
+～靡华用语，意指
+「粗糙而笨拙」
+
+518456
+Ezzaroot Channeler
+埃察根通念师
+
+518457
+Fractal Harness
+分灵挽具
+
+518458
+Guardian Augmenter
+守护增现师
+After years of research, he finally unlocked the formula for the perfect punch.
+--------
+经过多年研究，他终于解开了挥出完美一拳的方程式。
+
+518459
+Healing Technique
+疗伤技艺
+
+518460
+Paradox Zone
+奇诡区域
+
+518461
+Pest Infestation
+害虫侵扰
+A thousand years of history undone by one juvenile prank.
+--------
+千年历史，全毁于一次年少轻狂的恶作剧。
+
+518462
+Ruxa, Patient Professor
+耐心教授鲁克夏
+
+518463
+Sequence Engine
+序列引擎
+"Reality, when broken down, is just math."
+—Deekah, professor of fractal theory
+--------
+「现实，你拆开来看的话，也不过全是数学。」
+～分灵理论学教授荻卡
+
+518464
+Sproutback Trudge
+孢背楚吉兽
+
+518465
+Trudge Garden
+楚吉兽花园
+"Sure, trudges smell like soggy death, but the mushrooms on their backs are the tastiest delicacy in Sedgemoor!"
+—Gyome, Witherbloom chef
+--------
+「没错，虽然楚吉兽闻上去确实有股腐臭味，但它们背上长的蘑菇可是全蓑草原最美味的东西！」
+～靡华主厨纪尧姆
+
+518466
+Yedora, Grave Gardener
+护墓灵叶朵拉
+"Even in death, we never stop growing."
+--------
+「即便死亡也不会阻止我们继续生长。」
+
+518467
+Inkshield
+弄墨成盾
+Silverquill's elite know how to offer a scathing rebuttal without uttering a word.
+--------
+银毫菁英晓得如何无声无息给出尖锐驳斥。
+
+518468
+Oversimplify
+过度简化
+"A fine example of addition by subtraction."
+—Deekah, professor of fractal theory
+--------
+「以减为加的完美示例。」
+～分灵理论学教授荻卡
+
+518469
+Reinterpret
+重新诠释
+"With just a little added flair, your work could be truly spectacular. Let me show you."
+—Nassari, Prismari dean
+--------
+「只需再多加些许天分，你的作品定能精彩绝伦。这就让你看看。」
+～粹丽院长纳撒理
+
+518470
+Revival Experiment
+复生实验
+What goes into the vivipods never quite matches what comes out.
+--------
+从胎生荚里出来的东西，总是和放进去的不太一样。
+
+518471
+Wake the Past
+唤醒过往
+"Belong in a museum? I think we should let relics belong wherever they please!"
+—Quintorius, Lorehold mage-student
+--------
+「放进博物馆？我觉得我们应让遗宝去到它们自己想去的地方！」
+～衡鉴修习法师昆托力
+
+518472
+Elementalist's Palette
+元素师材料盘
+
+518473
+Geometric Nexus
+几何连接点
+
+518474
+Tempting Contract
+惑诱契约
+"Don't think of it as debt. Think of it as an investment in yourself."
+—Diriga, demon bursar
+--------
+「不要把这想成是债务。而是把它当作对你自己的投资。」
+～恶魔司库迪利伽
+
+518475
+Triplicate Titan
+三联泰坦
+
+518476
+Study Hall
+自修学堂
+
+518477
+Witch's Clinic
+巫师诊所
+Students from other colleges are invited to visit Witherbloom's medical facilities. Not many do.
+--------
+靡华学院广邀其他学院学生前来自己的医疗设施参观。应约者寥寥无几。
+
+========

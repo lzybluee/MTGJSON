@@ -1,0 +1,86 @@
+508147
+Lathril, Blade of the Elves
+妖精之刃拉席莉
+
+508148
+Ranar the Ever-Watchful
+永恒守护拉纳尔
+
+508149
+Cosmic Intervention
+寰宇干预
+
+508150
+Hero of Bretagard
+碧塔嘉勇士
+
+508151
+Stoic Farmer
+寡欲农夫
+
+508152
+Sage of the Beyond
+彼方智者
+
+508153
+Spectral Deluge
+幽灵漫天
+
+508154
+Tales of the Ancestors
+先祖传说
+
+508155
+Pact of the Serpent
+盘蛇盟约
+"Our quarrels behind us. Our foes before us. Death or triumph for us all!"
+--------
+「纷争先放脑后，敌人就在眼前。成功成仁在此一搏！」
+
+508156
+Ruthless Winnower
+绝情筛除者
+"I count the usurpers with my dagger, one death blow at a time."
+--------
+「我用手中匕首来点算逆贼人头，一刀下去算一个。」
+
+508157
+Serpent's Soul-Jar
+盘蛇魂瓶
+The coils spiral like time itself, carrying spirits back around from death to reawakening.
+--------
+蛇形环绕就如同时间轮回本身，带领灵魂由死亡回到苏生。
+
+508158
+Bounty of Skemfar
+斯肯法恩泽
+Even war cannot dull Skemfar's beauty.
+--------
+连绵战火也抹不去斯肯法的美丽。
+
+508159
+Crown of Skemfar
+斯肯法之冠
+Lathril, queen of the ancient Einir, left a powerful legacy for her mortal descendants.
+--------
+妖精古神女王拉席莉留下一件强大遗宝，由其凡人后裔世代传承。
+
+508160
+Wolverine Riders
+狼獾骑兵
+"We'll break their lines. The rest of you, follow!"
+--------
+「我们会冲破他们防线。你们剩下的赶紧跟上！」
+
+508161
+Elderfang Venom
+寰宇蛇毒液
+"The Cosmos Serpent favored us with his venom. As thanks, we sink fangs into those who dishonor the old ways."
+--------
+「寰宇盘蛇将其毒液恩赐于吾人，于是我们便将利齿刺入亵渎古法者，以资回报。」
+
+508162
+Ethereal Valkyrie
+虚相女武神
+
+========

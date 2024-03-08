@@ -1,0 +1,1936 @@
+522077
+Abiding Grace
+恒久美善
+"Into the smothering dark, Serra spoke a single word: ‘Hope.'"
+—Song of All, canto 2
+--------
+「撒拉迈入窒息黯境，双唇微吐二字：『希望』。」
+～《万物之歌》，2节
+
+522078
+Arcbound Javelineer
+能缰标枪手
+
+522079
+Arcbound Mouser
+能缰捕鼠猫
+It doesn't purr. It hums.
+--------
+它不呼噜，只作嗡响。
+
+522080
+Arcbound Prototype
+能缰原型兽
+It flickered to life, saw itself alone, and began to build.
+--------
+它一闪入魂，有感形单影只，便开始建造。
+
+522081
+Barbed Spike
+麦芒刺
+
+522082
+Blacksmith's Skill
+铁匠技艺
+Before he was subjugated by demonic forces, Dakkon was a master smith of unrivaled artistry.
+--------
+在屈从于恶魔势力之前，达肯曾是名技艺过人的铁匠大师。
+
+522083
+Blossoming Calm
+繁花定静
+
+522084
+Break Ties
+断牵绊
+
+522085
+Caprichrome
+铬身羊
+It is what it eats.
+--------
+它形如其食。
+
+522086
+Constable of the Realm
+世境保安官
+
+522087
+Disciple of the Sun
+旭日信徒
+Heart of a titan, faith as bright as the dawn.
+--------
+雄心堪比泰坦，信念光耀如晨。
+
+522088
+Esper Sentinel
+艾斯波哨卫
+The more Esper changes, the more he refuses to.
+--------
+艾斯波改变得越多，他就越加抗拒改变。
+
+522089
+Fairgrounds Patrol
+展区巡卫
+"No signs of any suspicious activity. Yet."
+--------
+「没有任何可疑活动的迹象。暂时还没。」
+
+522090
+Glorious Enforcer
+辉煌执法使
+"You are unworthy of life, but take heart. You have earned a clean death."
+--------
+「你不配活着，但别气馁。你能死得干脆。」
+
+522091
+Guardian Kirin
+执守麒麟
+Followed the kirin
+—Ojutai expression meaning
+"died a hero's death"
+--------
+随麒麟仙游
+～欧祝泰族用语，意指
+「英勇成仁」
+
+522092
+Healer's Flock
+治疗师鹰群
+The sight of a flock overhead is bittersweet. It means many are wounded, but it also means help is on the way.
+--------
+看到鹰群飞过，让人五味杂陈。这既意味着受伤者众，但也意味着援助将至。
+
+522093
+Knighted Myr
+骑士秘耳
+"This one fights like a leonin!"
+—Jor Kadeen
+--------
+「这位打起仗来像狮族一样！」
+～尤克定
+
+522094
+Landscaper Colos
+犁地寇骡
+
+522095
+Late to Dinner
+迟归晚餐
+"I knew you were set in your ways, friend, but even I didn't expect you to keep our engagement, under the circumstances."
+--------
+「朋友，我知道你习惯从不轻改，但没想到在这种情况下，你竟然还能赴约。」
+
+522096
+Lens Flare
+镜聚火光
+The key to surviving a war is never becoming its focus.
+--------
+想活过战争，关键就是切莫成其焦点。
+
+522097
+Marble Gargoyle
+云岩石像鬼
+"Once past the stony exterior, the meat is exquisite and can be stuffed with thallids or simmered in a broth of manticore venom."
+—Asmoranomardicadaistinaculdacar, The Underworld Cookbook
+--------
+「去掉硬实外皮后，内层肉质绝佳，可向肚中填塞散绿菌做馅料，或以蝎狮毒液文火慢炖。」
+～阿司魔拉诺马尔迪卡带斯提纳酷达卡，《地底世界食谱》
+
+522098
+Nykthos Paragon
+尼索斯典范
+Though Heliod turned against humanity in his hunger for power, the ideals he once championed still stand strong.
+--------
+尽管赫利欧德因追求力量而背叛人类，但他所推崇的理想仍屹立不摇。
+
+522099
+Out of Time
+超脱时间
+
+522100
+Piercing Rays
+穿刺射线
+The forecast calls for pain.
+--------
+预报痛苦将至。
+
+522101
+Prismatic Ending
+虹彩终局
+Right before his demise, he experienced a shattering revelation.
+--------
+就在临死前，他获得了惊天大启示。
+
+522102
+Resurgent Belief
+信念复苏
+
+522103
+Sanctifier en-Vec
+维克族祝圣僧
+
+522104
+Scour the Desert
+搜遍荒漠
+Even in the most barren wastelands, every death feeds more life.
+--------
+即使在最贫瘠的荒地，一场死亡也可以喂饱更多生命。
+
+522105
+Search the Premises
+全屋探寻
+"To halt these lurid practices, Geralf must be found and made an example of."
+—Inquisitor Delmund
+--------
+「必须找出基拉夫严惩以儆效尤，才能遏止这类骇人恶行。」
+～审判官戴曼德
+
+522106
+Serra's Emissary
+撒拉密使
+Where swords fail, faith transcends.
+--------
+刀剑无力时，信念胜出。
+
+522107
+Skyblade's Boon
+飞空剑恩泽
+
+522108
+Solitude
+幽寂
+
+522109
+Soul of Migration
+候鸟灵
+
+522110
+Thraben Watcher
+瑟班戒护使
+"Fear not the angels' constant eyes,
+E'er on watch from lightless skies;
+Eternal vigil will we keep,
+Protectors of the Blessed Sleep."
+--------
+「勿惧天使无间注目，
+黯淡黑夜时刻看护；
+永恒守夜保障万全，
+卫佑众生受福安眠。」
+
+522111
+Timeless Dragon
+不休巨龙
+
+522112
+Unbounded Potential
+无拘潜能
+
+522113
+Aeromoeba
+空生阿米巴
+Some clouds heed no wind.
+--------
+有些云不会随风飘动。
+
+522114
+Burdened Aerialist
+满载飞空盗
+"Curse this glorious golden weight!"
+--------
+「这些金光闪闪的东西重得该死！」
+
+522115
+Dress Down
+褪除武装
+
+522116
+Etherium Spinner
+乙金制桨师
+"Thopters from a foundry always lack that personal touch."
+--------
+「锻炉造出的振翼机总是少了几分个人特色。」
+
+522117
+Filigree Attendant
+丝金随员
+"The perfect assistant is one that's responsive, dexterous, and capable of reaching all the high shelves." 
+—Coruk, Esper artificer
+--------
+「最完美的助理要反应快，手工巧，还能摸到架子最高处。」 
+～艾斯波神器师寇路
+
+522118
+Floodhound
+寻水猎犬
+The thief doubled back twice, doused herself with perfume, crossed the ocean, and still woke up with her pursuer close on her heels.
+--------
+小偷两度折返迂回，香水洒满身，还横渡海洋，但醒来时追踪者依然紧随她身后。
+
+522119
+Foul Watcher
+邪秽监鸦
+
+522120
+Fractured Sanity
+裂崩心智
+The body grows stronger under stress. The mind does not.
+--------
+压力越大，身体越壮。心智则不然。
+
+522121
+Ghost-Lit Drifter
+漂泊灯魂
+
+522122
+Hard Evidence
+铁证实据
+The investigator felt a pinch on his ankle. When he looked down, something glittered in the sand.
+--------
+调查员感到脚踝有阵刺痛。他低头一瞧，发现沙堆中有东西闪闪发光。
+
+522123
+Inevitable Betrayal
+注定背叛
+
+522124
+Junk Winder
+垃圾盘蛇
+
+522125
+Lose Focus
+心有旁骛
+The spell wavered, caught on the tip of his tongue and at the edge of his awareness.
+--------
+咒语摇摆不定，屡受舌际与意识边缘牵引。
+
+522126
+Lucid Dreams
+清明梦
+Never be afraid to look where others can't—or won't.
+--------
+永远别害怕向他人无法或不敢关注的地方探索。
+
+522127
+Mental Journey
+心灵旅程
+"My wandering mind has always been an asset."
+--------
+「我的漫游心灵始终都是宝贵财产。」
+
+522128
+Murktide Regent
+黯潮龙侯
+
+522129
+Mystic Redaction
+神秘删订
+"I'm sorry, but this information is classified."
+--------
+「抱歉，这属于机密信息。」
+
+522130
+Parcel Myr
+信差秘耳
+"Crack it open. Maybe it knows something we can use."
+—Kara Vrist, Mirran resistance
+--------
+「打开看看。或许它知道些什么能让我们派上用场。」
+～秘罗志士凯拉黎
+
+522131
+Phantasmal Dreadmaw
+幻象血口龙
+"That was perhaps the most terrifying thing I thought I almost saw."
+—Captain Lannery Storm
+--------
+「这也许是我以为自己几乎见到的最可怕东西。」
+～兰娜莉速腾船长
+
+522132
+Raving Visionary
+狂言幻视师
+"Fear not, child. Open your eyes and witness Keranos's truth!"
+--------
+「别害怕，孩子。睁开双眼，见证刻拉诺斯的真相吧！」
+
+522133
+Recalibrate
+重新校准
+"Trial 991: Still encountering issues with accidental aetherization. Maybe if we widen the dimensional matrix to 0.7?"
+—Izzet research notes
+--------
+「尝试991：依然会遇上突发乙太化问题。不如我们把次元矩阵上调至0.7试试？」
+～伊捷研究纪录
+
+522134
+Rise and Shine
+跃动发光
+
+522135
+Rishadan Dockhand
+力夏达码头工
+It's not hard to find work in Rishada, so long as you've got a strong back and don't ask too many questions.
+--------
+在力夏达想找份工作并不难，只要扛得重货，少开尊口。
+
+522136
+Said // Done
+说到 // 做到
+
+522136
+Said // Done
+说到 // 做到
+
+522137
+Scuttletide
+迅蟹浪潮
+"We're going to need more butter."
+—Ghoulcaller Gisa
+--------
+「我们得需要更多奶油。」
+～尸鬼牧者基沙
+
+522138
+Shattered Ego
+自我破碎
+"You can't even fathom the depths of your own insignificance."
+—Geyadrone Dihada
+--------
+「你甚至无法理解自己微不足道的程度。」
+～盖雅朵妮迪哈达
+
+522139
+So Shiny
+闪闪发亮
+
+522140
+Specimen Collector
+标本收集人
+
+522141
+Steelfin Whale
+钢鳍鲸鱼
+It feeds on metal filings suspended in the water, sieving flecks of precious ore through magnetic baleen.
+--------
+它摄食悬浮水中的金属屑，以带磁鲸须筛出碎粒稀有矿石。
+
+522142
+Step Through
+跨越现身
+Doors open both ways.
+--------
+门朝两面开。
+
+522143
+Subtlety
+锐敏
+
+522144
+Suspend
+延缓
+Time moves in mysterious ways.
+--------
+时间以神秘的方式推移。
+
+522145
+Svyelun of Sea and Sky
+海空女神希亚尔
+
+522146
+Sweep the Skies
+扫荡天空
+A gleam of refracted light is often the only warning.
+--------
+一缕折射光线通常是唯一的警告。
+
+522147
+Thought Monitor
+思绪监卫
+It roams the skies over the Quicksilver Sea, alert for any hint of aberrant thought.
+--------
+它浮游水银海上空，警示任何将成形的违规思想。
+
+522148
+Tide Shaper
+塑潮人鱼
+
+522149
+Vedalken Infiltrator
+维多肯渗透者
+"An expert always keeps their tools close at hand."
+--------
+「专家手边总是备妥工具。」
+
+522150
+Archfiend of Sorrows
+致悲翼邪鬼
+
+522151
+Archon of Cruelty
+残酷统领
+Malice spreads on wings of tyranny.
+--------
+恶意承暴行之翼熏天。
+
+522152
+Bone Shards
+碎骨飞射
+In the Kathari dumping grounds known as the Boneheaps, it's not hard to improvise an offense.
+--------
+卡刹立的垃圾场又名「骨堆」，在此处加害他人不需什么事前准备。
+
+522153
+Break the Ice
+打破坚冰
+
+522154
+Cabal Initiate
+柯帮新手
+"Hear our prayers, oh Shadowed One, and bless us in bloody agony."
+--------
+「黯影之主啊，请倾听祈祷，以血腥痛苦祝福我们。」
+
+522155
+Clattering Augur
+碎响卜算师
+
+522156
+Damn
+坏透
+
+522157
+Dauthi Voidwalker
+道西虚空行者
+
+522158
+Discerning Taste
+敏锐味觉
+"Everyone loves a dash of crushed pixie . . . except the pixie."
+--------
+「用一撮碧仙肉酱提味，人人都爱…碧仙除外。」
+
+522159
+Echoing Return
+归返回响
+A single ambition unleashes a legion of horrors.
+--------
+带出恐怖大军的一股野心。
+
+522160
+Feast of Sanity
+心智盛宴
+The tastiest morsels are found in the mazes of the mind.
+--------
+最美味的佳肴藏于心灵迷宫。
+
+522161
+Flay Essence
+劫掠菁华
+"Your argument as to why I should spare you lacked substance. Now, so do you."
+—Geyadrone Dihada
+--------
+「关于我该饶你一命此事，你的论点欠缺内涵。一如现在的你。」
+～盖雅朵妮迪哈达
+
+522162
+Gilt-Blade Prowler
+金刃游掠者
+"Let's just say my people are in the business of capital acquisition and intellectual property speculation."
+—Er-Miral
+--------
+「姑且这么说，我的人手从事资产收购和知识产权投机买卖。」
+～厄米拉尔
+
+522163
+Grief
+悲恸
+
+522164
+Hell Mongrel
+地狱杂种狗
+It feeds on shadows, fear, and blood.
+--------
+它以阴影、恐惧和鲜血为食。
+
+522165
+Kitchen Imp
+厨房小恶魔
+"Order up! Ooze aspic and jellied anurid eyes!"
+--------
+「上菜！流浆肉冻佐驽蛙眼酱！」
+
+522166
+Legion Vanguard
+军团先锋
+It takes guts to be a trailblazer.
+--------
+领路人得有好胆量。
+
+522167
+Loathsome Curator
+恶憎监管妖
+She collects only the choicest of deaths.
+--------
+她只收集最精选的死者。
+
+522168
+Magus of the Bridge
+渡桥贤者
+"The dead know their place."
+--------
+「亡者都安分。」
+
+522169
+Necrogoyf
+死冥耶夫
+
+522170
+Necromancer's Familiar
+死灵术士的佣兽
+
+522171
+Nested Shambler
+巢居跛行尸
+Home is where the heart was.
+--------
+心曾所属之处便是家。
+
+522172
+Persist
+留存
+In the tight-knit doun of Mistmeadow, death is less important than duty.
+--------
+在雾牧地这样联系紧密的小镇中，职责比死亡更重要。
+
+522173
+Profane Tutor
+渎神导师
+
+522174
+Radiant Epicure
+品辉师
+Taste is not a sensation for the tongue alone.
+--------
+品味不单单是舌尖的感受。
+
+522175
+Sinister Starfish
+不祥海星
+"Throw that one back. I don't like how it's looking at me."
+—Netos, Meletian fisherman
+--------
+「把那只扔回去，我讨厌它盯着我看的样子。」
+～迈勒提斯渔夫涅托斯
+
+522176
+Sudden Edict
+瞬息勒令
+"In one future, I see glory. In the other . . . well, that's another story."
+—Whisper, blood liturgist
+--------
+「在一种未来，我瞥见荣景。至于另一种…呃，就是另一番光景。」
+～鲜血仪礼师魏飒璞
+
+522177
+Tizerus Charger
+提泽拉斯境战马
+
+522178
+Tourach, Dread Cantor
+颂惧僧妥拉克
+
+522179
+Tourach's Canticle
+妥拉克圣歌
+The same hymns Tourach sang to praise the Ebon Praetor would later be adapted to glorify Tourach himself.
+--------
+妥拉克曾啸咏黑檀手魔判官的赞歌，后经改编用以褒扬妥拉克本人。
+
+522180
+Tragic Fall
+悲剧坠落
+Every final journey begins with a single misstep.
+--------
+每段最后旅程都始于一次失足。
+
+522181
+Underworld Hermit
+冥界隐者
+Some souls yearn to escape death. Others are content to feed the wildlife.
+--------
+有些灵魂渴望从死亡中逸脱，而另一些则满足于喂养野生动物。
+
+522182
+Unmarked Grave
+无名坟墓
+"I'm sure they were once someone important, but I couldn't tell you who they were."
+—Doros, expedition guide
+--------
+「我确定他们生前都大有来头，但我没法一个个讲出名头。」
+～探险队向导多罗斯
+
+522183
+Vermin Gorger
+病媒饕客
+"Once, vampires ruled this world, commanding the fear and respect that befit our noble blood. Have we truly sunk so low?"
+—Sorin Markov
+--------
+「吸血鬼曾统治这世界，博得与我们高贵血统相称的恐惧和尊敬。难道我们已彻底堕落至此？」
+～索霖马可夫
+
+522184
+Vile Entomber
+恶毒入土师
+The dead are lonely in the crypt, and always eager for company.
+--------
+墓穴亡者甚感寂寥，时时盼望有伴相陪。
+
+522185
+World-Weary
+厌世之情
+
+522186
+Young Necromancer
+年轻死灵术士
+"Who needs imaginary friends when you've got dead ones?"
+--------
+「有了亡者朋友，谁还需要虚幻朋友？」
+
+522187
+Arcbound Slasher
+能缰爪击兽
+
+522188
+Arcbound Tracker
+能缰追猎犬
+
+522189
+Arcbound Whelp
+能缰幼龙
+
+522190
+Battle Plan
+作战计划
+
+522191
+Blazing Rootwalla
+炽焰萝特瓦拉
+
+522192
+Bloodbraid Marauder
+血辫劫掠者
+
+522193
+Breya's Apprentice
+布莱娅的学徒
+
+522194
+Calibrated Blast
+标定冲击
+
+522195
+Captain Ripley Vance
+蕾普莉凡丝船长
+The Spitfire Bastion bristles with cannons claimed from every ship she's conquered.
+--------
+喷火堡垒上林立的炮阵缴获自她征服的每艘船。
+
+522196
+Chef's Kiss
+主厨之吻
+"Cooked to perfection, of course."
+--------
+「果然是调理完美。」
+
+522197
+Dragon's Rage Channeler
+龙怒通念师
+
+522198
+Faithless Salvaging
+丧信回收
+All that's left are broken beliefs.
+--------
+此地仅余破碎信念。
+
+522199
+Fast // Furious
+速度 // 激情
+
+522199
+Fast // Furious
+速度 // 激情
+
+522200
+Flame Blitz
+烈焰闪击
+"Blast it, not again!"
+--------
+「别再烧了！」
+
+522201
+Flametongue Yearling
+初年焰舌
+
+522202
+Fury
+怒火
+
+522203
+Galvanic Relay
+电流传继
+Abandoned years ago, the experiment continues to iterate upon itself.
+--------
+多年前已遭放弃的实验仍持续自行重启。
+
+522204
+Gargadon
+乳齿巨象
+
+522205
+Glimpse of Tomorrow
+瞥视明日
+
+522206
+Goblin Traprunner
+踩陷鬼怪
+The best traprunners know exactly where to step. The others . . . do their best.
+--------
+最优秀的踩陷员很清楚哪里能踩。剩下的…就尽力学聪明。
+
+522207
+Gouged Zealot
+挖眼狂信者
+He can't fear what he can't see.
+--------
+看不见就怕不了。
+
+522208
+Harmonic Prodigy
+泛音逸才
+Each note strikes with deadly precision.
+--------
+每个音符都极度精准。
+
+522209
+Kaleidoscorch
+万花焰咒
+
+522210
+Lightning Spear
+闪电矛
+When wielded, it begs to be released.
+--------
+它舞动时亟欲脱手而出。
+
+522211
+Mine Collapse
+矿井塌方
+"Good ol' rock," muttered Rhirhok as the shaking began. "Nice ol' rock . . . ."
+--------
+「好石头，」随着矿井开始颤动，瑞虎克嘟囔道。「乖石头…」
+
+522212
+Mount Velus Manticore
+维鲁斯山蝎狮
+Born from a stray spark that flew from Purphoros's forge.
+--------
+诞生自普罗烽斯锻炉飞溅出的火花。
+
+522213
+Obsidian Charmaw
+黑曜石焰喉龙
+
+522214
+Ragavan, Nimble Pilferer
+巧手窃猴勒格文
+
+522215
+Revolutionist
+革命主义者
+
+522216
+Skophos Reaver
+斯科福司掳掠者
+"KILL! KILL FOR MOGIS!"
+--------
+「杀！为了墨癸斯杀光一切！」
+
+522217
+Slag Strider
+熔滓神行灵
+Imbued with life by a stray bolt of spellcraft, it began to wander about the foundry, to the blacksmiths' alarm.
+--------
+由打歪了的咒语赋予生命后，它开始在铸造厂里游荡，铁匠纷纷避走。
+
+522218
+Spreading Insurrection
+鼓动造反
+Everyone wants to be on the winning side.
+--------
+谁都想站在打赢那一边。
+
+522219
+Strike It Rich
+一夜暴富
+A few coins soon grow into an obsession.
+--------
+几枚硬币过后迅速上瘾。
+
+522220
+Tavern Scoundrel
+酒馆恶棍
+"No refunds. I cheated you fair and square."
+--------
+「钱不能退。我可是正正当当地作假。」
+
+522221
+Unholy Heat
+不洁热火
+"The devils use fire. Why shouldn't we?"
+--------
+「魔鬼用火。我们就不能吗？」
+
+522222
+Viashino Lashclaw
+鞭爪凡尔西诺
+"Victory is the greatest motivator of all. So sayeth the bey."
+--------
+「胜利便是最大的动力。先生是这么说的。」
+
+522223
+Abundant Harvest
+丰足收成
+"Gaea knows what you need. Do you?"
+--------
+「盖亚知道你需要什么。你自己知道吗？」
+
+522224
+Aeve, Progenitor Ooze
+流浆先祖艾夫
+
+522225
+Bannerhide Krushok
+披旗寇犀
+
+522226
+Blessed Respite
+受福歇息
+"Water the soil with blood, if you must. Eventually it must be tilled with forgiveness."
+—Greensleeves
+--------
+「你固然能拿鲜血浇灌大地，但最终仍须以原谅来耕耘。」
+～绿袖
+
+522227
+Chatterfang, Squirrel General
+松鼠将军聒牙
+
+522228
+Chatterstorm
+絮聒风暴
+"Friends, foragers, fuzzy fighters! Tonight we're after more than just acorns!"
+—Larrel, Deep Forest hermit
+--------
+「各位朋友，各位食客，各位斗士！今晚，我们的目标不仅是橡实！」
+～深林隐者拉蕾儿
+
+522229
+Chitterspitter
+叽响喷吐器
+
+522230
+Crack Open
+轰然裂开
+What no spell or lockpick could open, the forest coaxed apart.
+--------
+咒语或撬锁都束手无策之物，树林能用巧力让它自行打开。
+
+522231
+Deepwood Denizen
+深邃林居民
+"You didn't come all this way just to bother me, did you? Say your piece and be gone."
+--------
+「你大老远跑来不是只为打扰我，对吧？快说，快走。」
+
+522232
+Duskshell Crawler
+暮壳爬虫
+They often perch on street lamps, causing the poles to buckle under their weight.
+--------
+它们经常在街灯上休息，其重量把灯柱都压垮了。
+
+522233
+Endurance
+坚忍
+
+522234
+Fae Offering
+仙儿献物
+"Beware the gift when you do not know the giver."
+—Chulane, Teller of Tales
+--------
+「如果你不认识送东西的人，那就千万小心送的东西。」
+～说书人楚兰
+
+522235
+Flourishing Strike
+繁茂一击
+
+522236
+Foundation Breaker
+碎根灵
+The castle finally got vengeance for enduring years of royally bad taste.
+--------
+在忍受宫廷糟糕品味多年之后，城堡终能借机复仇。
+
+522237
+Funnel-Web Recluse
+斗网遁蛛
+It thrives on a steady diet of hastily disposed-of evidence.
+--------
+它以他人匆忙遗弃的证据为食，并借稳定供给而茁壮成长。
+
+522238
+Gaea's Will
+盖亚的意志
+
+522239
+Glimmer Bairn
+光林童子
+"Tricks and treats, souls and sweets! On wooded path, whom shall we meet?"
+--------
+「给了糖果也作坏，灵魂零食揣满怀！悠悠林间小路上，看看可有朋友来？」
+
+522240
+Glinting Creeper
+闪光匍蔓
+Natural crystalline growths filter and refract light in dazzling displays that attract pollinators and daze predators.
+--------
+自然晶体成长过程中能够滤过并折射光线，使之形成炫目色斑，由此吸引授粉者并吓阻掠食者。
+
+522241
+Herd Baloth
+巴洛西群
+Baloth social structure is simple: the biggest one's the leader.
+--------
+巴洛西社会结构很简单：体型最大的就是领袖。
+
+522242
+Ignoble Hierarch
+陋族大主教
+He protects the fetid bog from light, life, and the hideous sound of laughter.
+--------
+他守护恶臭腐沼，将光明、生命与嘲笑者摒除在外。
+
+522243
+Jade Avenger
+翠玉复仇蛙
+"Froggy fighter at the gate.
+Draw your sword and meet your fate."
+—Traditional children's rhyme
+--------
+「呱兵蛙将站门口，
+拔刀相迎把命守。」
+～传统童谣
+
+522244
+Jewel-Eyed Cobra
+珠目眼镜蛇
+"Sure, they're worth a lot, but I'd rather survive to spend my earnings."
+—Mokgar, Kalonian hunter
+--------
+「是啦，它们值很多钱，但我更愿有命来花。」
+～卡隆尼亚猎人默卡
+
+522245
+Orchard Strider
+果园神行树
+
+522246
+Rift Sower
+时缝播种客
+
+522247
+Sanctum Weaver
+圣所织叶灵
+The arrival of spring's first flowers is a sacred occasion to Karametra's acolytes, who fill the Setessan woods with song in celebration.
+--------
+对卡拉美特拉的侍僧来说，春花初绽乃是神圣时刻；每逢此景便会齐声欢歌，令整个瑟特萨森林充满节庆气氛。
+
+522248
+Scurry Oak
+繁声橡树
+
+522249
+Smell Fear
+嗅出恐惧
+"It's fun when they run a little."
+—Wasitora, Nekoru queen
+--------
+「他们跑起来的时候要有趣得多。」
+～猫龙后鹫虎
+
+522250
+Squirrel Sanctuary
+松鼠庇护地
+
+522251
+Squirrel Sovereign
+松鼠君王
+For rule of the Aldering Forest, Numstail stole the acorn from Nestwind, who stole it from Brankie, who stole it from Lightroot, who stole it from Leafpaw, who stole it from Darkfur . . .
+--------
+为了统治赤杨环树林，饭尾从巢风偷来了巢风从班奇、班奇从灵足、灵足从叶爪，以及叶爪从黑毛…等偷来的橡实。
+
+522252
+Sylvan Anthem
+森林赞美诗
+The harsher the winter, the more glorious the spring.
+—Yavimaya saying
+--------
+冬寒越凛冽，春色越辉煌。
+～亚维马雅谚语
+
+522253
+Terramorph
+地势转变
+
+522254
+Thrasta, Tempest's Roar
+暴风之吼撒塔
+
+522255
+Timeless Witness
+不休见证人
+
+522256
+Tireless Provisioner
+不倦供给人
+
+522257
+Urban Daggertooth
+城市匕牙龙
+Stop, smell the roses, eat the peoples.
+--------
+停，闻闻这玫瑰，把人都吃掉。
+
+522258
+Verdant Command
+新绿指命
+
+522259
+Wren's Run Hydra
+蒙鸠地多头龙
+The boggart hopped carelessly among the roots . . . until the roots woke up.
+--------
+波尬在根须间无忧无虑地跳跃…直到根须醒转过来。
+
+522260
+Arcbound Shikari
+能缰猎户
+
+522261
+Arcus Acolyte
+弓弧侍僧
+"Archery requires holding an enormous amount of tension and making it look effortless."
+--------
+「所谓弓术，需要你在看似不经意间把弦拉满。」
+
+522262
+Asmoranomardicadaistinaculdacar
+阿司魔拉诺马尔迪卡带斯提纳酷达卡
+
+522263
+Breathless Knight
+无息骑士
+A deadly charge in eerie silence.
+--------
+奇诡静寂中的致命冲锋。
+
+522264
+Captured by Lagacs
+勒嘎猎捕
+
+522265
+Carth the Lion
+卡萨恩隆
+
+522266
+Chrome Courier
+铬亮讯使
+
+522267
+Combine Chrysalis
+联合孵化蛹
+"What do you want to be, now that you're grown up?"
+—Yolov, Simic bioengineer
+--------
+「你已经长大了，想变作什么？」
+～析米克生物工程师约洛夫
+
+522268
+Dakkon, Shadow Slayer
+黯影克星达肯
+
+522269
+Dihada's Ploy
+迪哈达的手法
+The last piece was finally in place.
+--------
+最后一块拼图终于就位。
+
+522270
+Drey Keeper
+松鼠窝守护者
+He gave the squirrels acorns. They gave him vengeance.
+--------
+他喂松鼠橡实。松鼠为他复仇。
+
+522271
+Ethersworn Sphinx
+乙金盟史芬斯
+
+522272
+Foundry Helix
+煅炉螺旋
+Steel never forgets the strike of the forge.
+--------
+钢铁从未遗忘熔炉煅击。
+
+522273
+Garth One-Eye
+独眼嘉斯
+A humble appearance belies a master's skill.
+--------
+寻常外表掩盖大师才华。
+
+522274
+General Ferrous Rokiric
+费罗洛基理将军
+"The Boros Legion always stands for justice, but it never stands alone."
+--------
+「波洛斯教团始终伸张正义，但绝不独行。」
+
+522275
+Geyadrone Dihada
+盖雅朵妮迪哈达
+
+522276
+Goblin Anarchomancer
+鬼怪无矩术士
+A good Gruul shaman can work a whole clan into a frenzy. A great one will wait until the enemy's nearby.
+--------
+好的古鲁祭师能令整个部落陷入狂热。伟大的古鲁祭师会等到敌人靠近后再这么作。
+
+522277
+Graceful Restoration
+优雅复归
+
+522278
+Grist, the Hunger Tide
+饥潮格蕊斯
+
+522279
+Lazotep Chancellor
+拉佐特督长
+"Cease all psychic attacks pending intel on enemy countermeasures."
+—Dimir communiqué
+--------
+「暂时停止一切心灵攻击，待有敌方反制手段情报后再做打算。」
+～底密尔公报
+
+522280
+Lonis, Cryptozoologist
+隐匿动物学家罗尼斯
+
+522281
+Master of Death
+死亡大师
+Coming back from the dead, like most things, gets easier with practice.
+--------
+死后复生跟其他大多数事情一样，讲究熟能生巧。
+
+522282
+Moderation
+适度施予
+"Good things come to those who are judicious in their appetites."
+—The Book of Bruna
+--------
+「能明智审度自身欲求者，终有好事相报。」
+～《布鲁娜教诲录》
+
+522283
+Piru, the Volatile
+躁龙琵露
+Chasms of dueling energies course within her.
+--------
+多股互斥相抗的能量在她体内流窜。
+
+522284
+Priest of Fell Rites
+邪仪祭司
+
+522285
+Prophetic Titan
+预言泰坦
+
+522286
+Rakdos Headliner
+拉铎司头牌
+Caution: Audience in front row may have throats ripped out.
+--------
+提醒：前排观众的喉咙可能会被扯开。
+
+522287
+Ravenous Squirrel
+贪食松鼠
+"Nope, no monsters in the forest. Nothing in there but squirrels."
+—Joskun, An-Havva constable
+--------
+「不，树林里没有怪物。那里只有松鼠。」
+～安哈瓦保安官约昆
+
+522288
+Road // Ruin
+道路 // 废墟
+
+522288
+Road // Ruin
+道路 // 废墟
+
+522289
+Storm God's Oracle
+风暴神先知
+The lives of Keranos's chosen are brief and brilliant as lightning.
+--------
+刻拉诺斯爱民的生命如闪电一般短暂而辉煌。
+
+522290
+Sythis, Harvest's Hand
+丰收之手叙提丝
+"Through every verdant field, every bough that hangs heavy with fruit, Karametra shows her love."
+--------
+「这片片青葱田野，那根根硕果枝桠，一切都是卡拉美特拉的关爱具现。」
+
+522291
+Terminal Agony
+终极苦痛
+His mouth melted to slag, yet somehow he kept screaming.
+--------
+虽然嘴已遭熔毁，但他仍在狂啸。
+
+522292
+Territorial Kavu
+据地卡甫
+
+522293
+Wavesifter
+筛浪精
+
+522294
+Yusri, Fortune's Flame
+命运烈焰亚司利
+
+522295
+Academy Manufactor
+大学院制造工人
+Automated systems at the Tolarian Academy sort new acquisitions for optimal use, determining which should be studied, eaten, or sold.
+--------
+陶拉里亚大学院的自动系统会对新获物品作最优分类，以期物尽其用：它能决定物品是拿来研究、食用还是卖掉。
+
+522296
+Altar of the Goyf
+耶夫祭坛
+"What dies grows the illegible"
+—Clawed-out statue inscription
+--------
+「死者壮大了损迹」
+～爪扰毁损的雕像铭文
+
+522297
+Batterbone
+骨击槌
+
+522298
+Bottle Golems
+瓶子魔像
+Reinforcements and refreshments!
+--------
+增援也是点心！
+
+522299
+Brainstone
+脑力荡石
+One day, it might provide a flash of insight that turns the tide of battle. Meanwhile, it looks lovely on an end table.
+--------
+或许会有那么一天，这石头能够激发认知灵感从而扭转战局。不过在此之前，在茶几上的它也挺可爱的。
+
+522300
+Dermotaxi
+兽皮车
+
+522301
+Diamond Lion
+钻石雄狮
+"The merchant asked for riches no one had ever dreamed of. The djinn, smiling, granted his wish."
+—Afari, Tales
+--------
+「商人许愿索取无人敢想的财富。巨灵微笑着满足了他的愿望。」
+～雅法莉，《故事集》
+
+522302
+Fodder Tosser
+炮灰抛掷器
+"In event of siege, load copiously with: hot oil, cannonballs, caltrops, rubble, old swords, mess-hall leftovers, chamber pots, broken chairs, salt, cousin Furt . . ."
+—Trebuchet instructions
+--------
+「若要攻城，往里装满：热油、炮弹、刺球、碎石、旧剑、剩菜、马桶、破椅、盐粒、外甥发特…」
+～抛石机说明
+
+522303
+Kaldra Compleat
+卡尔札之完化体
+
+522304
+Liquimetal Torque
+液金领圈
+"Weaponized jewelry has a long and respected history."
+—Ervos Trax
+--------
+「把首饰用作武器，已有悠久历史。」
+～埃沃卓克斯
+
+522305
+Monoskelion
+独臂铁人
+An unfinished body with unfinished business.
+--------
+躯体尚未完工，使命亦未完成。
+
+522306
+Myr Scrapling
+翻拣秘耳
+"They're useful creatures, but quite replaceable. I find it best not to get too attached."
+—Pontifex, elder researcher
+--------
+「这些生物很合用，但也极易取代。千万不要舍不得。」
+～大学者庞棣飞
+
+522307
+Nettlecyst
+荨麻囊肿
+
+522308
+Ornithopter of Paradise
+天堂扑翼机
+"Through even our darkest days, we must never cease creating. Each new invention brings value to the world, be it beauty, utility, or both."
+—Rashmi, aether-seer
+--------
+「即便是在最黑暗的岁月之中，也绝不能停下手中创作。每件新发明都会给世界带来价值：或精致，或实用，或兼而有之。」
+～乙太预言师列施蜜
+
+522309
+Sanctuary Raptor
+圣殿猎鸟
+The song of the Worldsoul can take on life in the most unlikely places.
+--------
+世界之魂咏颂会在出其不意间展现生命之威。
+
+522310
+Scion of Draco
+骸龙后裔
+
+522311
+Sojourner's Companion
+旅居者行侣
+Before Phyrexia's corruption, many of Mirrodin's creatures were more curious than cruel.
+--------
+在遭非瑞克西亚腐化之前，秘罗地上的生物大多抱持好奇之情，而非残忍之心。
+
+522312
+Sol Talisman
+阳光饰符
+
+522313
+Steel Dromedary
+钢铁单峰驼
+
+522314
+Sword of Hearth and Home
+桑梓剑
+
+522315
+Tormod's Cryptkeeper
+托玛墓穴守卫
+It guards not a body, but a secret.
+--------
+它守护的不是尸首，而是秘密。
+
+522316
+The Underworld Cookbook
+地底世界食谱
+
+522317
+Vectis Gloves
+纬提手套
+Thieves love technological innovations almost as much as artificers do.
+--------
+窃贼追求技术创新的热情可不输给神器师。
+
+522318
+Void Mirror
+虚空魔镜
+"A mirror does more than reflect reality—it shapes it."
+—Niko Aris
+--------
+「这面镜子不仅反映现实～还塑造现实。」
+～尼科阿理斯
+
+522319
+Zabaz, the Glimmerwasp
+烁光怪蜂札巴兹
+
+522320
+Arid Mesa
+不毛高地
+
+522321
+Darkmoss Bridge
+暗苔结桥
+The path to power is forged in ruthlessness.
+--------
+谋权通途，无情铸之。
+
+522322
+Drossforge Bridge
+蔓炉结桥
+The path to ruin is forged in pain.
+--------
+毁灭通途，苦痛铸之。
+
+522323
+Goldmire Bridge
+金沼结桥
+The path to glory is forged in ambition.
+--------
+荣光通途，野心铸之。
+
+522324
+Marsh Flats
+沼地平野
+
+522325
+Mistvault Bridge
+雾窖结桥
+The path to knowledge is forged in hunger.
+--------
+求知通途，渴学铸之。
+
+522326
+Misty Rainforest
+雾漫雨林
+
+522327
+Power Depot
+贮能所
+
+522328
+Razortide Bridge
+锐潮结桥
+The path to unity is forged in understanding.
+--------
+团结通途，理解铸之。
+
+522329
+Rustvale Bridge
+锈谷结桥
+The path to strength is forged in stability.
+--------
+积力通途，恒心铸之。
+
+522330
+Scalding Tarn
+沸腾山湖
+
+522331
+Silverbluff Bridge
+银崖结桥
+The path to genius is forged in creativity.
+--------
+天才通途，创新铸之。
+
+522332
+Slagwoods Bridge
+熔林结桥
+The path to action is forged in confidence.
+--------
+行动通途，信心铸之。
+
+522333
+Tanglepool Bridge
+铜池结桥
+The path to change is forged in insight.
+--------
+改变通途，细察铸之。
+
+522334
+Thornglint Bridge
+荆烁结桥
+The path to growth is forged in balance.
+--------
+生长通途，平衡铸之。
+
+522335
+Urza's Saga
+克撒传
+
+522336
+Verdant Catacombs
+新绿陵墓
+
+522337
+Yavimaya, Cradle of Growth
+育苗摇篮亚维马雅
+"Multani's heart is a seed, and all of Yavimaya is its flower. There is as much life here as in the rest of Dominaria together."
+—Karn
+--------
+「穆塔尼的心是种子，整个亚维马雅都是它开出的花朵。此处的生命和多明纳里亚其他地方加起来的一样多。」
+～卡恩
+
+526233
+Angelic Curator
+天国监护使
+"Do not treat your people as you treat your artifacts. Let them go, and they will live; seal them here, and they will die."
+—Urza, to Radiant
+--------
+「切勿像对待器物般来对待你的子民。让他们离开，他们就能活下来；强留他们在此，他们终免不了一死。」
+～克撒致蕾荻安
+
+526234
+Karmic Guide
+宿命导士
+
+526235
+Seal of Cleansing
+净化之缄印
+"I am the purifier, the light that clears all shadows."
+—Seal inscription
+--------
+「吾乃净化之源，是为驱离所有暗影之明光。」
+～缄印铭文
+
+526236
+Solitary Confinement
+单独拘禁
+
+526237
+Soul Snare
+灵魂圈套
+"Shackle the body, and the anguish lasts only until death. Shackle the soul, and the wicked can be punished for eternity."
+—Inquisitor Laerin
+--------
+「禁锢肉身，痛苦至死便消。禁锢灵魂，方能永世惩恶。」
+～审判官蕾琳
+
+526238
+Counterspell
+反击咒语
+
+526239
+Sea Drake
+海龙兽
+Highly territorial, they often attack boats whose colors too closely resemble those of other drakes.
+--------
+它们有着强烈的领地意识，经常会攻击颜色近似其他龙兽的船只。
+
+526240
+Seal of Removal
+移除之缄印
+"I am the unraveler, the loosened thread that will not hold."
+—Seal inscription
+--------
+「吾乃解结者，是为无法缠持之松绳。」
+～缄印铭文
+
+526241
+Upheaval
+动荡
+The calm comes after the storm.
+--------
+暴风后终归宁静。
+
+526242
+Wonder
+神奇
+"It fell silently from the sky and broke the surface without a ripple. Was it even here at all?"
+—Fisherman's journal
+--------
+「它悄然从天而降，撞破水面却不起涟漪。它真的出现过吗？」
+～渔夫日志
+
+526243
+Bone Shredder
+碎骨者
+
+526244
+Braids, Cabal Minion
+柯帮干部布蕾德
+"Home is where you can find a decent graveyard and strangers can disappear without awkward questions."
+--------
+「家园，是指可以找到像样的墓场，且陌生人无故消失也不会有人问东问西的地方。」
+
+526245
+Greed
+贪婪
+What is a sliver of one's soul compared to unimaginable wealth?
+--------
+与超乎想象的巨额财富相比，微乎其微的高贵心灵又值几何？
+
+526246
+Patriarch's Bidding
+教父邀令
+"There's some new darkness in the air tonight. If I were you, I'd stay home and lock the doors."
+—Ferrick, village warden
+--------
+「今晚空中又新添几分晦气。换作我的话，就会留在家里，锁紧房门。」
+～村庄护卫费利克
+
+526247
+Skirge Familiar
+斯克魔佣兽
+"The skirges screech along with the bone saw. It makes a terrible racket, but they seem to enjoy it."
+—Keskit, the Flesh Sculptor
+--------
+「斯克魔骨头相磨作响，伴以尖啸阵阵。虽然这噪音别人难以忍受，但他们似乎乐在其中。」
+～血肉雕匠刻兹杰
+
+526248
+Chance Encounter
+机缘
+"What are the odds, indeed?"
+—Yusri, to Desera
+--------
+「认真说，得有多巧？」
+～尤司理致德塞拉
+
+526249
+Flame Rift
+天火断空
+"You might want to step back."
+—Jaya Ballard, task mage
+--------
+「你可能要靠后点。」
+～特务巫师雅亚巴拉德
+
+526250
+Goblin Bombardment
+鬼怪轰炸
+With one motion, a pest is removed and a scourge inflicted.
+--------
+只见扳机一动，消灭一只害虫，造成一场灾难。
+
+526251
+Gorilla Shaman
+大猩猩祭师
+"Frankly, destruction is best left to professionals."
+—Jaya Ballard, task mage
+--------
+「老实说，破坏就该交给专家来作。」
+～特务巫师雅亚巴拉德
+
+526252
+Imperial Recruiter
+近卫队
+A passionate recruiter will win a war before the first arrow flies.
+--------
+最热忱的近卫募官在开战之前就能奠定胜局。
+
+526253
+Mogg Salvage
+莫葛式抢救
+Three moggs, one treasure, too bad.
+--------
+三个莫葛遇上一个宝物，真糟糕。
+
+526254
+Enchantress's Presence
+咒术师的风采
+"The wise learn from successes as well as mistakes."
+--------
+「不论成功或失败，智者都能从中学习。」
+
+526255
+Hunting Pack
+行猎兽群
+There is no "I" in "team," but there is definitely "meat."
+--------
+单人无众威，双人尝肉味。
+
+526256
+Quirion Ranger
+奎利恩流浪汉
+"Respect the earth, for it will one day be your shield and another day your blanket."
+—Liefellen, Quirion exarch
+--------
+「尊敬大地，因有一天它将是你的盾；而另一天将是你的被。」
+～奎利恩至尊赖费伦
+
+526257
+Squirrel Mob
+松鼠暴群
+An army of squirrels is still an army.
+--------
+虽只由松鼠组成，军队仍是军队。
+
+526258
+Titania, Protector of Argoth
+亚格斯守护灵泰坦尼亚
+
+526259
+Yavimaya Elder
+亚维马雅长者
+
+526260
+Chainer, Nightmare Adept
+梦魇专家崔纳
+
+526261
+Fire // Ice
+热火 // 寒冰
+
+526261
+Fire // Ice
+热火 // 寒冰
+
+526262
+Mirari's Wake
+映奇宝珠的余韵
+Even after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her.
+--------
+就算伪神已将多明纳里亚的魔法破坏殆尽，弑杀她的映奇宝珠剑上依旧传出能量照耀四方。
+
+526263
+Shardless Agent
+无断片密探
+
+526264
+Sterling Grove
+银光树丛
+
+526265
+Vindicate
+雪恨
+
+526266
+Cursed Totem
+诅咒图腾像
+"Sorry, Great One, but did I hear correctly? I'm to entrust this powerful artifact to our worst researchers?"
+—Flesdrim, Cabal servant
+--------
+「大人，恕我直言，我没听错吧？你是要我把这个强大的神器交给我们最差劲的研究员？」
+～柯帮仆从弗莱谦
+
+526267
+Extruder
+冲锋机械
+As the invasion drew closer, Urza's means began to resemble Phyrexia's end.
+--------
+随着侵略的逐步接近，克撒的目标开始朝向如何终结非瑞克西亚。
+
+526268
+Millikin
+石磨人偶
+"Another failure," grumbled the toymaker. She slammed the door with such gusto that she failed to notice the eyes watching her.
+--------
+「又失败了，」玩具师傅嘟囔着。她失望地甩上房门，却全然没注意到玩具的眼睛在看着她。
+
+526269
+Nevinyrral's Disk
+妮维亚洛之碟
+Nevinyrral's final act of spite was to make sure all of his magic was destroyed along with him.
+--------
+妮维亚洛临终的泄愤之举，仅为确保能带着毕生魔法心血一起消亡。
+
+526270
+Patchwork Gnomes
+拼装侏儒
+One wizard's trash is another wizard's roving gang of abominations.
+--------
+一位法师眼中的垃圾，却是另一位法师手下流窜怪物。
+
+526271
+Zuran Orb
+祖尔的法球
+"Obsession is Zur's one flaw as a magic user. His total preoccupation with immortality has become an affliction for his otherwise brilliant mind."
+—Jodah, Archmage Eternal
+--------
+「祖尔作为魔法师，心有执念是他的一大缺点。他虽绝顶聪明，但却将毕生心血全部投入在追求不朽上面，令其心灵备受折磨。」
+～永世大法师裘达
+
+526272
+Cabal Coffers
+柯帮金库
+Deep within the Cabal's vault, the Mirari pulsed like a dead sun—and its darkness radiated across Otaria.
+--------
+在柯帮地窖深处，映奇宝珠如逝日般脉动着～而其黑暗放射于欧塔利亚各处。
+
+526273
+Mishra's Factory
+米斯拉的工厂
+
+526274
+Riptide Laboratory
+激流实验室
+Working with the best of intentions, its researchers unwittingly unleashed a plague of troubles upon Dominaria.
+--------
+其间研究员虽抱有美好初衷，但却在不经意间将祸水引到了多明纳里亚。
+
+524948
+Plains
+平原
+
+524949
+Plains
+平原
+
+524950
+Island
+海岛
+
+524951
+Island
+海岛
+
+524952
+Swamp
+沼泽
+
+524953
+Swamp
+沼泽
+
+524954
+Mountain
+山脉
+
+524955
+Mountain
+山脉
+
+524956
+Forest
+树林
+
+524957
+Forest
+树林
+
+525097
+Sanctum Prelate
+圣所教长
+"This area is off-limits to you."
+--------
+「禁地莫入。」
+
+========
