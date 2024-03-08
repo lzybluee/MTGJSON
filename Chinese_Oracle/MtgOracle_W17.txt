@@ -1,0 +1,616 @@
+<Card>
+<SetId>W17</SetId>
+<No>1</No>
+<Name>Divine Verdict</Name>
+<ChineseName>明圣裁定</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Destroy target attacking or blocking creature.</CardText>
+<Flavor>"Guilty."</Flavor>
+<ChineseFlavor>「有罪。」</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>429890</Multiverseid>
+<Rulings>2009/10/01: An "attacking creature" is one that has been declared as an attacker this combat, or one that was put onto the battlefield attacking this combat. Unless that creature leaves combat, it continues to be an attacking creature through the end of combat step, even if the player it was attacking has left the game, or the planeswalker it was attacking has left combat.
+2009/10/01: A "blocking creature" is one that has been declared as a blocker this combat, or one that was put onto the battlefield blocking this combat. Unless that creature leaves combat, it continues to be a blocking creature through the end of combat step, even if the creature or creatures it was blocking are no longer on the battlefield or have otherwise left combat.
+2012/07/01: Destroying a blocking creature won't cause any of the creatures it was blocking to become unblocked. They won't deal combat damage to the defending player or planeswalker (unless they have trample).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>2</No>
+<Name>Glory Seeker</Name>
+<ChineseName>荣耀追求者</ChineseName>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>{1}{W}</ManaCost>
+<Flavor>"There's no contract to sign, no oath to swear. The enlistment procedure is to unsheathe your sword and point it at the enemy."</Flavor>
+<ChineseFlavor>「你不用签署合约、订立誓言。征兵程序只是拔出剑来指向敌人。」</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>429891</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>3</No>
+<Name>Serra Angel</Name>
+<ChineseName>撒拉天使</ChineseName>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>Flying, vigilance</CardText>
+<Flavor>Follow the light. In its absence, follow her.</Flavor>
+<ChineseFlavor>跟随明光。若置身黑暗，就跟随她。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>429892</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>4</No>
+<Name>Standing Troops</Name>
+<ChineseName>常驻军队</ChineseName>
+<Type>Creature — Human Soldier 1/4</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Vigilance</CardText>
+<Flavor>"Bant sentries were called the Angel Line. They never faltered, and they were ready to die defending their position."
+—Elspeth Tirel</Flavor>
+<ChineseFlavor>「班特哨兵团人称天使防线。他们从不动摇，誓死坚守阵地。」
+～艾紫培提瑞</ChineseFlavor>
+<Artist>Zoltan Boros</Artist>
+<Multiverseid>429893</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>5</No>
+<Name>Stormfront Pegasus</Name>
+<ChineseName>暴锋飞马</ChineseName>
+<Type>Creature — Pegasus 2/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Its hooves touch the earth only when a hero must rise.</Flavor>
+<ChineseFlavor>当勇士必须翱翔时，它才会驻足土地。</ChineseFlavor>
+<Artist>rk post</Artist>
+<Multiverseid>429894</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>6</No>
+<Name>Victory's Herald</Name>
+<ChineseName>胜利传令使</ChineseName>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>{3}{W}{W}{W}</ManaCost>
+<CardText>Flying
+Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.</CardText>
+<Artist>rk post</Artist>
+<Multiverseid>429895</Multiverseid>
+<Rulings>2011/06/01: Even though the triggered ability affects only attacking creatures, the bonuses will remain for the rest of the turn.
+2011/06/01: Victory's Herald also gains flying (which will likely be redundant) and lifelink if it's still attacking when the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>7</No>
+<Name>Air Elemental</Name>
+<ChineseName>大气元素</ChineseName>
+<Type>Creature — Elemental 4/4</Type>
+<ManaCost>{3}{U}{U}</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Pray that it doesn't seek the safety of your lungs.</Flavor>
+<ChineseFlavor>祈祷它不会突然关心起你的肺部健康。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>429896</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>8</No>
+<Name>Coral Merfolk</Name>
+<ChineseName>珊瑚人鱼</ChineseName>
+<Type>Creature — Merfolk 2/1</Type>
+<ManaCost>{1}{U}</ManaCost>
+<Flavor>Merfolk are best known for their subtle magic. But those who try to fight them in their own territory quickly realize that merfolk are hardly defenseless on the field of battle.</Flavor>
+<ChineseFlavor>人鱼一向以精巧的法术闻名。不过在他们地盘与之战斗的人，很快就会发现人鱼在战场上可绝不文弱。</ChineseFlavor>
+<Artist>rk post</Artist>
+<Multiverseid>429897</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>9</No>
+<Name>Drag Under</Name>
+<ChineseName>拖入汪洋</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Return target creature to its owner's hand.
+Draw a card.</CardText>
+<Flavor>Some took to their boats to escape the unfolding nightmare. The remains of their vessels now litter the shores of Nephalia.</Flavor>
+<ChineseFlavor>有些人驾船逃离日愈加剧的恶梦。那些船的残骸如今散落在涅非利亚海岸边。</ChineseFlavor>
+<Artist>Tianhua X</Artist>
+<Multiverseid>429898</Multiverseid>
+<Rulings>2016/07/13: If the targeted creature becomes an illegal target before Drag Under resolves, you won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>10</No>
+<Name>Inspiration</Name>
+<ChineseName>突发奇想</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Target player draws two cards.</CardText>
+<Flavor>"Day 31: I finally succeeded in my time reversal experiment! "Day 30: I might have a problem here."
+—Journal of the Prime Izmagnus</Flavor>
+<ChineseFlavor>「第31日：我的逆转时间实验终于成功了！
+「第30日：这下麻烦了。」
+～伊捷首法师的日记</ChineseFlavor>
+<Artist>Izzy</Artist>
+<Multiverseid>429899</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>11</No>
+<Name>Sleep Paralysis</Name>
+<ChineseName>睡眠瘫痪症</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Enchant creature
+When Sleep Paralysis enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.</CardText>
+<Artist>Josu Hernaiz</Artist>
+<Multiverseid>429900</Multiverseid>
+<Rulings>2019/07/12: If the target creature is an illegal target by the time Sleep Paralysis tries to resolve, the spell doesn't resolve. It won't enter the battlefield, so its ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>12</No>
+<Name>Sphinx of Magosi</Name>
+<ChineseName>马格西史芬斯</ChineseName>
+<Type>Creature — Sphinx 6/6</Type>
+<ManaCost>{3}{U}{U}{U}</ManaCost>
+<CardText>Flying
+{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.</CardText>
+<Flavor>"A riddle is nothing more than a trap for small minds, baited with the promise of understanding."</Flavor>
+<ChineseFlavor>「谜语只不过是对付卑微心灵的陷阱，以终能理解的承诺为诱饵。」</ChineseFlavor>
+<Artist>James Ryman</Artist>
+<Multiverseid>429901</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>13</No>
+<Name>Stealer of Secrets</Name>
+<ChineseName>刺探客</ChineseName>
+<Type>Creature — Human Rogue 2/2</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Whenever Stealer of Secrets deals combat damage to a player, draw a card.</CardText>
+<Flavor>The Dimir would hire her, if only they knew where she lived. The Azorius would condemn her, if only they knew her name.</Flavor>
+<ChineseFlavor>底密尔想雇用她，但她来去无踪。俄佐立想判决她，但她往来无名。</ChineseFlavor>
+<Artist>Michael C. Hayes</Artist>
+<Multiverseid>429902</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>14</No>
+<Name>Tricks of the Trade</Name>
+<ChineseName>行业诀窍</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+0 and can't be blocked.</CardText>
+<Flavor>"Pathetic. You might as well have protected your treasures with a paper box and some string."</Flavor>
+<ChineseFlavor>「真没用。你还不如用纸箱和细绳来保护你的珍宝。」</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>429903</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>15</No>
+<Name>Bloodhunter Bat</Name>
+<ChineseName>血猎蝙蝠</ChineseName>
+<Type>Creature — Bat 2/2</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Flying
+When Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life.</CardText>
+<Flavor>It returns eager to share the feast of blood and gore with its ghoulish master.</Flavor>
+<ChineseFlavor>他急着回来与其阴森主子共享鲜血与血块的大餐。</ChineseFlavor>
+<Artist>Tomasz Jedruszek</Artist>
+<Multiverseid>429904</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>16</No>
+<Name>Certain Death</Name>
+<ChineseName>必死无疑</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{5}{B}</ManaCost>
+<CardText>Destroy target creature. Its controller loses 2 life and you gain 2 life.</CardText>
+<Flavor>Some spirits cling to one person, feasting on the growing fear until a final moment of all-consuming terror.</Flavor>
+<ChineseFlavor>有些鬼魂会紧缠一人，以其日渐增长的恐惧为食，直到吞噬一切的终极恐怖来临。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>429905</Multiverseid>
+<Rulings>2016/07/13: The targeted creature will have already left the battlefield before its controller loses 2 life and you gain 2 life. If it has any abilities that care about gaining or losing life, they won't apply.
+2016/07/13: If the creature becomes an illegal target for Certain Death, no player gains or loses life. If it's a legal target but isn't destroyed, most likely due to having indestructible, its controller still loses 2 life and you gain 2 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>17</No>
+<Name>Nightmare</Name>
+<ChineseName>梦魇</ChineseName>
+<Type>Creature — Nightmare Horse */*</Type>
+<ManaCost>{5}{B}</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Nightmare's power and toughness are each equal to the number of Swamps you control.</CardText>
+<Flavor>The thunder of its hooves beats dreams into despair.</Flavor>
+<ChineseFlavor>它的铁蹄巨响将梦击入绝境。</ChineseFlavor>
+<Artist>Vance Kovacs</Artist>
+<Multiverseid>429906</Multiverseid>
+<Rulings>2008/04/01: If you control 0 swamps, then the Nightmare has 0 toughness and will be put into its owner's graveyard as a state-based action right before the next player gains priority.
+2009/10/01: Nightmare's power and toughness changes as the number of Swamps you control changes.
+2013/07/01: The ability that defines Nightmare's power and toughness works everywhere, not just on the battlefield.
+2013/07/01: Nightmare's ability counts all lands you control with the subtype Swamp, not just ones named Swamp.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>18</No>
+<Name>Raise Dead</Name>
+<ChineseName>起死回生</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Return target creature card from your graveyard to your hand.</CardText>
+<Flavor>The earth cannot hold that which magic commands.</Flavor>
+<ChineseFlavor>泥土无法留存魔法驱使之物。</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>429907</Multiverseid>
+<Rulings>2004/10/04: You must show the card you bring out of the graveyard to your opponent.
+2004/10/04: The creature being brought back is chosen on announcement and not on resolution of the spell because it is targeted.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>19</No>
+<Name>Sengir Vampire</Name>
+<ChineseName>辛格氏吸血鬼</ChineseName>
+<Type>Creature — Vampire 4/4</Type>
+<ManaCost>{3}{B}{B}</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.</CardText>
+<Flavor>Empires rise and fall, but evil is eternal.</Flavor>
+<ChineseFlavor>帝国兴落，邪恶永存。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>429908</Multiverseid>
+<Rulings>2007/07/15: If Sengir Vampire deals nonlethal damage to a creature and then a different effect or damage source causes that creature to be put into a graveyard later in the turn, Sengir Vampire's ability will trigger and it will get a +1/+1 counter.
+2011/09/22: Each time a creature is put into a graveyard from the battlefield, check whether Sengir Vampire had dealt any damage to it at any time during that turn. If so, Sengir Vampire's ability will trigger. It doesn't matter who controlled the creature or whose graveyard it was put into.
+2011/09/22: If Sengir Vampire and a creature it dealt damage to are both put into a graveyard at the same time, Sengir Vampire's ability will trigger, but it will do nothing when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>20</No>
+<Name>Untamed Hunger</Name>
+<ChineseName>不驯饥渴</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)</CardText>
+<Flavor>"Mindlessness is not weakness. When we are lost to hunger we are unstoppable."
+—Drana, Kalastria bloodchief</Flavor>
+<ChineseFlavor>「失心疯并非弱点。当饥渴遮蔽我们双眼时，我们无人能挡。」
+～卡列奇血侯哲娜</ChineseFlavor>
+<Artist>Willian Murai</Artist>
+<Multiverseid>429909</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>21</No>
+<Name>Falkenrath Reaver</Name>
+<ChineseName>伐肯纳裂肢兵</ChineseName>
+<Type>Creature — Vampire 2/2</Type>
+<ManaCost>{1}{R}</ManaCost>
+<Flavor>"Each day there are new reports of homes along Getander Pass and Hofsaddel falling to vampires of a more savage nature. I've even heard tell that Anje Falkenrath has returned. Please send whatever help you can."
+—Sterin Gorn, letter to Thalia</Flavor>
+<ChineseFlavor>「每天都有新的报告传来，革荡峡和霍夫撒德沿途的住户遭更蛮野的吸血鬼屠戮。我甚至听说安姬伐肯纳已经回归。请尽力派遣援兵。」
+～斯特因戈恩致莎利雅</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Multiverseid>429910</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>22</No>
+<Name>Shivan Dragon</Name>
+<ChineseName>西瓦巨龙</ChineseName>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>{4}{R}{R}</ManaCost>
+<CardText>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.</CardText>
+<Flavor>The undisputed master of the mountains of Shiv.</Flavor>
+<ChineseFlavor>西瓦山脉无庸置疑的主人。</ChineseFlavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>429911</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>23</No>
+<Name>Thundering Giant</Name>
+<ChineseName>雷动巨人</ChineseName>
+<Type>Creature — Giant 4/3</Type>
+<ManaCost>{3}{R}{R}</ManaCost>
+<CardText>Haste (This creature can attack and {T} as soon as it comes under your control.)</CardText>
+<Flavor>The giant was felt a few seconds before he was seen.</Flavor>
+<ChineseFlavor>巨人出现前几秒，你就能感觉到他。</ChineseFlavor>
+<Artist>Mark Zug</Artist>
+<Multiverseid>429912</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>24</No>
+<Name>Garruk's Horde</Name>
+<ChineseName>贾路的兽群</ChineseName>
+<Type>Creature — Beast 7/7</Type>
+<ManaCost>{5}{G}{G}</ManaCost>
+<CardText>Trample
+Play with the top card of your library revealed.
+You may cast creature spells from the top of your library. (Do this only any time you could cast that creature spell. You still pay the spell's costs.)</CardText>
+<Artist>Steve Prescott</Artist>
+<Multiverseid>429913</Multiverseid>
+<Rulings>2011/09/22: Normally, Garruk's Horde allows you to cast the top card of your library if it's a creature card, it's your main phase, and the stack is empty. If that creature card has flash, you'll be able to cast it at the time you could cast an instant, even on an opponent's turn.
+2011/09/22: You'll still pay all costs for that spell, including additional costs. You may also pay alternative costs.
+2011/09/22: If the top card of your library is Dryad Arbor (the only card that's both a creature and a land), you can't play it this way. Dryad Arbor can't be cast as a spell.
+2013/04/15: The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities.
+2013/04/15: If the top card of your library changes while you're casting a spell, playing a land, or activating an ability, the new top card won't be revealed until you finish doing so.
+2013/04/15: When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>25</No>
+<Name>Oakenform</Name>
+<ChineseName>橡树形体</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +3/+3.</CardText>
+<Flavor>"When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?"
+—Dionus, elvish archdruid</Flavor>
+<ChineseFlavor>「如果野兽藏身在雄伟橡树中，弓岂能奈他何？如果橡树有咆哮的野兽护身，斧头岂能奈他何？」
+～妖精高位德鲁伊戴欧诺</ChineseFlavor>
+<Artist>Wayne Reynolds</Artist>
+<Multiverseid>429914</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>26</No>
+<Name>Rabid Bite</Name>
+<ChineseName>狂疾啃咬</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Target creature you control deals damage equal to its power to target creature you don't control.</CardText>
+<Flavor>"You should have seen the look on *both* their faces."
+—Morkamp, Lambholt innkeeper</Flavor>
+<ChineseFlavor>「你真应该看一下双方脸上的表情。」
+～羊屯旅店主莫坎普</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Multiverseid>429915</Multiverseid>
+<Rulings>2019/07/12: If either creature is an illegal target as Rabid Bite tries to resolve, the creature you control won't deal damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>27</No>
+<Name>Rootwalla</Name>
+<ChineseName>萝特瓦拉</ChineseName>
+<Type>Creature — Lizard 2/2</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.</CardText>
+<Flavor>They make terrible pets … unless you don't like your other pets.</Flavor>
+<ChineseFlavor>它们是极糟糕的宠物...除非你不喜欢你的其他宠物。</ChineseFlavor>
+<Artist>Roger Raupp</Artist>
+<Multiverseid>429916</Multiverseid>
+<Rulings>2006/02/01: If this card's ability is activated by one player, then another player takes control of it on the same turn, the second player can't activate its ability that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>28</No>
+<Name>Stalking Tiger</Name>
+<ChineseName>潜行之虎</ChineseName>
+<Type>Creature — Cat 3/3</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Stalking Tiger can't be blocked by more than one creature.</CardText>
+<Flavor>In the Jamuraan jungles, there is often no separating beauty from danger.</Flavor>
+<ChineseFlavor>在杰姆拉丛林中，美丽与危险经常集于一体。</ChineseFlavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>429917</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>29</No>
+<Name>Stampeding Rhino</Name>
+<ChineseName>狂奔犀牛</ChineseName>
+<Type>Creature — Rhino 4/4</Type>
+<ManaCost>{4}{G}</ManaCost>
+<CardText>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)</CardText>
+<Flavor>The quickest way to get through the jungle is to agitate a rhino and run in its wake.</Flavor>
+<ChineseFlavor>穿越丛林的最快方法，是刺激一头犀牛并随其行迹奔跑。</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>429918</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>W17</SetId>
+<No>30</No>
+<Name>Wing Snare</Name>
+<ChineseName>捕鸟网</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Destroy target creature with flying.</CardText>
+<Flavor>"We are the hands of the great trees, reaching out to ensnare what threatens their branches."
+—Elvish hunter</Flavor>
+<ChineseFlavor>「我们是大树的手。伸出来捉住威胁树枝之物。」
+～妖精猎人</ChineseFlavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>429919</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Welcome Deck 2017</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

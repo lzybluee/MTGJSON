@@ -1,0 +1,3036 @@
+<Card>
+<SetId>CFX</SetId>
+<No>1</No>
+<Name>Aerie Mystics</Name>
+<ChineseName>巢居秘教徒</ChineseName>
+<Type>Creature — Bird Wizard 3/3</Type>
+<ManaCost>{4}{W}</ManaCost>
+<CardText>Flying
+{1}{G}{U}: Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)</CardText>
+<Flavor>They are cautious with their body language and facial expressions. Any stray movement could betray the positions of the troops they protect and cost many lives.</Flavor>
+<ChineseFlavor>他们运用肢体语言与面部表情时特别谨慎。 任何错误举动都可能暴露所隐蔽的部队位置，造成大量伤亡。</ChineseFlavor>
+<Artist>Mark Zug</Artist>
+<Multiverseid>153946</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>2</No>
+<Name>Asha's Favor</Name>
+<ChineseName>亚莎的恩惠</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature has flying, first strike, and vigilance.</CardText>
+<Flavor>As his new wings lifted him high above Bant, Taric felt his earthly aspirations transform into heavenly resolve.</Flavor>
+<ChineseFlavor>塔历新生之羽翼带他在班特上空翱翔，他感觉自己的尘俗志向已转化为神圣决心。</ChineseFlavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>150826</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>3</No>
+<Name>Aven Squire</Name>
+<ChineseName>艾文扈从</ChineseName>
+<Type>Creature — Bird Soldier 1/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</CardText>
+<Flavor>When the meek charge into battle, courage becomes infectious.</Flavor>
+<ChineseFlavor>当弱者冲向战阵，那股勇气会传染开来。</ChineseFlavor>
+<Artist>David Palumbo</Artist>
+<Multiverseid>184992</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>4</No>
+<Name>Aven Trailblazer</Name>
+<ChineseName>开拓艾文</ChineseName>
+<Type>Creature — Bird Soldier 2/*</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Flying
+Domain — Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.</CardText>
+<Flavor>"The bird wore the form of a man, bereft of filigree. Why do the Texts not speak of it?"
+—Belator of Esper</Flavor>
+<ChineseFlavor>「这种鸟有着人型，却不含丝金。 为何丝金录并未记载此事？」
+～艾斯波的贝拉托</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>180278</Multiverseid>
+<Rulings>2009/02/01: Aven Trailblazer's second ability is a "characteristic-defining ability." It applies at all times in all zones.
+2021/03/19: Domain abilities count the number of basic land types among lands you control, not how many lands you control or how many of any type.
+2021/03/19: The basic land types are Plains, Island, Swamp, Mountain, and Forest. Land types other than basic land types (such as Desert) don't contribute to domain abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>5</No>
+<Name>Celestial Purge</Name>
+<ChineseName>天界涤净</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Exile target black or red permanent.</CardText>
+<Flavor>"This new chaos confounds us. We must fling it into our winds, our storms. These we can control."
+—Bezzit Plar, Esper stormcaller</Flavor>
+<ChineseFlavor>「这股新兴的混乱让我们不知所措。 必须将它扔进我们的狂风与暴雨中。 这些我们还能控制得了。」
+～艾斯波召风师贝姬•彭</ChineseFlavor>
+<Artist>David Palumbo</Artist>
+<Multiverseid>183055</Multiverseid>
+<Rulings>2009/10/01: Lands are colorless (even if their frames have some colored elements to them). You can't target a Swamp, a Mountain, or any other land with Celestial Purge (unless some other effect has turned that land black or red).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>6</No>
+<Name>Court Homunculus</Name>
+<ChineseName>庭园造妖</ChineseName>
+<Type>Artifact Creature — Homunculus 1/1</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Court Homunculus gets +1/+1 as long as you control another artifact.</CardText>
+<Flavor>Mages of Esper measure their wealth and status by the number of servants in their retinues.</Flavor>
+<ChineseFlavor>艾斯波的法师衡量自身财富与地位的标准，是随员中仆从之数量。</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>182607</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>7</No>
+<Name>Darklit Gargoyle</Name>
+<ChineseName>墨曜石像鬼</ChineseName>
+<Type>Artifact Creature — Gargoyle 1/2</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Flying
+{B}: Darklit Gargoyle gets +2/-1 until end of turn.</CardText>
+<Flavor>It shines in the darkness of its master's ambitions.</Flavor>
+<ChineseFlavor>他在其主子的野心阴影中闪闪发光。</ChineseFlavor>
+<Artist>Howard Lyon</Artist>
+<Multiverseid>180334</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>8</No>
+<Name>Gleam of Resistance</Name>
+<ChineseName>反抗突现</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{4}{W}</ManaCost>
+<CardText>Creatures you control get +1/+2 until end of turn. Untap those creatures.
+Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</CardText>
+<Artist>Matt Stewart</Artist>
+<Multiverseid>179505</Multiverseid>
+<Rulings>2009/02/01: Unlike the normal cycling ability, basic landcycling doesn't allow you to draw a card. Instead, it lets you search your library for a basic land card. You don't choose the type of basic land card you'll find until you're performing the search. After you choose a basic land card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Basic landcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on a card being basic landcycled. Any ability that stops a cycling ability from being activated also stops a basic landcycling ability from being activated.
+2009/02/01: Basic landcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with basic landcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose not to find a basic land card, even if there is one in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>9</No>
+<Name>Lapse of Certainty</Name>
+<ChineseName>丧失确信</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</CardText>
+<Flavor>Without a connection of mind and body, magic is just an idea stuck in the head, a word on the tip of a tongue.</Flavor>
+<ChineseFlavor>若无法连动心灵与身体，法术只会是卡在脑中的想法，弹于舌尖的字词。</ChineseFlavor>
+<Artist>Anthony Francisco</Artist>
+<Multiverseid>175026</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>10</No>
+<Name>Mark of Asylum</Name>
+<ChineseName>避难印记</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Prevent all noncombat damage that would be dealt to creatures you control.</CardText>
+<Flavor>A paragon of honor, Galo Aher fell to a blast of fire. The Order of the White Orchid was so saddened that they forged a new sigil in his likeness.</Flavor>
+<ChineseFlavor>荣誉守护者盖洛昂在爆炸火焰中丧命。 白兰骑士团为之悲伤万分，以他的头像铸造新的印记。</ChineseFlavor>
+<Artist>Sal Villagran</Artist>
+<Multiverseid>186615</Multiverseid>
+<Rulings>2009/02/01: "Noncombat damage" is damage dealt as the result of a spell or ability. (In unusual cases involving a card like Words of War, noncombat damage can also be dealt as the result of a turn-based action.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>11</No>
+<Name>Martial Coup</Name>
+<ChineseName>军事壮举</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{W}{W}</ManaCost>
+<CardText>Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures.</CardText>
+<Flavor>Their war forgotten, the nations of Bant stood united in the face of a common threat.</Flavor>
+<ChineseFlavor>班特诸邦抛弃过往恩怨，团结面对共同威胁。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>178560</Multiverseid>
+<Rulings>2009/02/01: Martial Coup checks the number you chose for X, not the amount of mana you actually spent.
+2009/02/01: You do what the spell says in order. If X is 5 or more, you'll put the Soldier tokens onto the battlefield, then you'll destroy all other creatures.
+2009/02/01: No one can cast spells or activate abilities between the time the Soldier tokens are put onto the battlefield and the time all other creatures are destroyed. For example, you can't sacrifice one of those Soldier tokens to regenerate a Skeletal Kathari.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>12</No>
+<Name>Mirror-Sigil Sergeant</Name>
+<ChineseName>镜印士官</ChineseName>
+<Type>Creature — Rhino Soldier 4/4</Type>
+<ManaCost>{5}{W}</ManaCost>
+<CardText>Trample
+At the beginning of your upkeep, if you control a blue permanent, you may create a token that's a copy of Mirror-Sigil Sergeant.</CardText>
+<Flavor>"If I had many lives, I would give them all for Bant."</Flavor>
+<ChineseFlavor>「如果我有好几条命，也会全奉献给班特。」</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>158598</Multiverseid>
+<Rulings>2009/02/01: The "intervening 'if' clause" means that (1) the ability won't trigger at all unless you control a permanent of the specified color, and (2) the ability will do nothing unless you control a permanent of the specified color at the time it resolves.
+2009/02/01: Normally, when a token is created by this ability, it will simply be a Mirror-Sigil Sergeant, so it'll also have the token-creating ability. (See the other ruling for weird exceptions.) At the beginning of your next upkeep, if you still control the original Sergeant, the token copy, and a blue permanent, you'll get two more token copies; the turn after that you'll get four; then eight; and so on.
+2009/02/01: Here's the detailed version of what happens. As the token is created, it checks the printed values of the Mirror-Sigil Sergeant it's copying — or, if the Mirror-Sigil Sergeant whose ability triggered was itself a token, the original characteristics of that token as stated by the effect that put it onto the battlefield — as well as any copy effects that have been applied to it. It won't copy counters on the Mirror-Sigil Sergeant, nor will it copy other effects that have changed Mirror-Sigil Sergeant's power, toughness, types, color, or so on.
+2009/02/01: If Mirror-Sigil Sergeant has left the battlefield by the time its triggered ability resolves, you'll still put a token onto the battlefield. That token has the copiable values of the characteristics of Mirror-Sigil Sergeant as it last existed on the battlefield.
+2009/02/01: Here are the weird exceptions. If any copy effects have affected the Mirror-Sigil Sergeant whose ability triggered, they're taken into account when the token is created. For example: -- If Mirror-Sigil Sergeant's ability triggers, then Mirror-Sigil Sergeant temporarily becomes a copy of another creature before its ability resolves (due to Mirrorweave, perhaps), the token will be a copy of whatever creature the Mirror-Sigil Sergeant is currently a copy of. After the turn ends, the Mirrorweaved Mirror-Sigil Sergeant reverts back to what it was, but the token will stay as it is. -- If the copy ability of a creature (such as Cemetery Puca, perhaps) makes it become a copy of Mirror-Sigil Sergeant and gain another ability, the token created by this creature at the beginning of your upkeep will be a Mirror-Sigil Sergeant with that additional ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>13</No>
+<Name>Nacatl Hunt-Pride</Name>
+<ChineseName>拿卡地猎群</ChineseName>
+<Type>Creature — Cat Warrior 5/4</Type>
+<ManaCost>{5}{W}</ManaCost>
+<CardText>Vigilance
+{R}, {T}: Target creature can't block this turn.
+{G}, {T}: Target creature blocks this turn if able.</CardText>
+<Flavor>"We must hunt and kill the dragon before it can return to raze our ancient city."</Flavor>
+<ChineseFlavor>「我们必须在巨龙有机会再次蹂躏古都之前将它猎杀。」</ChineseFlavor>
+<Artist>Steve Prescott</Artist>
+<Multiverseid>138571</Multiverseid>
+<Rulings>2009/02/01: If either ability is activated after blockers have been declared, it won't cause those blocks to change.
+2009/02/01: If you attack with Nacatl Hunt-Pride, you get the chance to activate one of its abilities before blockers are declared.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>14</No>
+<Name>Paragon of the Amesha</Name>
+<ChineseName>爱米莎守护者</ChineseName>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>First strike
+{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.</CardText>
+<Flavor>"Let my lance sing with the voices of angels and the heathen cower before my shield, for I will teach this land the meaning of honor."</Flavor>
+<ChineseFlavor>「让我长枪呼应天使之声，盾牌威服异教徒；我将教导这片大地荣誉真义。」</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>179878</Multiverseid>
+<Rulings>2009/02/01: When Paragon of the Amesha's activated ability resolves, Paragon of the Amesha will gain flying and lifelink in addition to its other abilities. However, becoming an Angel will make it lose all other creature types. It will no longer be a Human or a Knight.
+2009/02/01: If Paragon of the Amesha gains flying after blockers have been declared, it won't cause those blocks to change.
+2009/10/01: You can activate Paragon of the Amesha's ability more than once during a turn. The second time it resolves, it will get another +3/+3 and gain another instance of lifelink. However, multiple instances of lifelink on the same creature are redundant so you won't gain extra life from the new one.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>15</No>
+<Name>Path to Exile</Name>
+<ChineseName>流放之径</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</CardText>
+<Artist>Todd Lockwood</Artist>
+<Multiverseid>179235</Multiverseid>
+<Rulings>2021/03/19: If the target creature is an illegal target by the time Path to Exile tries to resolve, the spell won't resolve. The creature's controller won't search for a basic land card.
+2021/03/19: The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>16</No>
+<Name>Rhox Meditant</Name>
+<ChineseName>罗克冥思者</ChineseName>
+<Type>Creature — Rhino Monk 2/4</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.</CardText>
+<Flavor>The weight of her conviction balances on the harmony of her soul.</Flavor>
+<ChineseFlavor>她信念的重量与心灵之和谐构成完美平衡。</ChineseFlavor>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>159634</Multiverseid>
+<Rulings>2009/02/01: The "intervening 'if' clause" means that (1) the ability won't trigger at all unless you control a permanent of the specified color, and (2) the ability will do nothing unless you control a permanent of the specified color at the time it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>17</No>
+<Name>Scepter of Dominance</Name>
+<ChineseName>控驭权杖</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{1}{W}{W}</ManaCost>
+<CardText>{W}, {T}: Tap target permanent.</CardText>
+<Flavor>"Whether or not you will bow to me is not open to debate. The question is, will I ever let you rise?"
+—Fridius, telemin master</Flavor>
+<ChineseFlavor>「你是否会向我屈膝这件事已有定论。 真正的问题是，我是否会让你起身？」
+～承思民大师符来图</ChineseFlavor>
+<Artist>Howard Lyon</Artist>
+<Multiverseid>174792</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>18</No>
+<Name>Sigil of the Empty Throne</Name>
+<ChineseName>虚位印记</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>Whenever you cast an enchantment spell, create a 4/4 white Angel creature token with flying.</CardText>
+<Flavor>When Asha left Bant, she ensured that the world would have protection and order in her absence.</Flavor>
+<ChineseFlavor>当亚莎离开班特时，她确信即使自己不在，这世界依旧能拥有保护与秩序。</ChineseFlavor>
+<Artist>Cyril Van Der Haegen</Artist>
+<Multiverseid>180271</Multiverseid>
+<Rulings>2021/03/19: An ability that triggers when a player casts a spell resolves before the spell that caused it to trigger, but after targets have been chosen for that spell. It resolves even if that spell is countered.
+2021/03/19: Because it's not on the battlefield yet, casting Sigil of the Empty Throne won't cause its own ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>19</No>
+<Name>Valiant Guard</Name>
+<ChineseName>英勇守卫</ChineseName>
+<Type>Creature — Human Soldier 0/3</Type>
+<ManaCost>{W}</ManaCost>
+<Flavor>As the outsiders invaded Bant, soldiers who once saw sigils as the highest marks of glory began to see the scars of battle as tokens of equal worth.</Flavor>
+<ChineseFlavor>士兵曾将印记视为最高荣誉证明；随着外来势力入侵班特，他们也开始把战争所留下的伤疤与印记同等看待。</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>184984</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>20</No>
+<Name>Wall of Reverence</Name>
+<ChineseName>崇敬之墙</ChineseName>
+<Type>Creature — Spirit Wall 1/6</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Defender, flying
+At the beginning of your end step, you may gain life equal to the power of target creature you control.</CardText>
+<Flavor>The lives of elves are long, but their memories are longer. Even after death, they do not desert their homes.</Flavor>
+<ChineseFlavor>地精的寿命很长，而记忆能流传得更久。 即使身后也不会离开家园。</ChineseFlavor>
+<Artist>Wayne Reynolds</Artist>
+<Multiverseid>189874</Multiverseid>
+<Rulings>2018/12/07: If an effect changes a creature's power "until end of turn," it will still have the modified power during your end step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>21</No>
+<Name>Brackwater Elemental</Name>
+<ChineseName>滞水元素</ChineseName>
+<Type>Creature — Elemental 4/4</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.
+Unearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>180147</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>22</No>
+<Name>Constricting Tendrils</Name>
+<ChineseName>束缚卷须</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Target creature gets -3/-0 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Flavor>Priests of Bant protect their temples with traps more elaborate than any mosaic floor.</Flavor>
+<ChineseFlavor>班特僧侣以精细尤甚镶嵌地板的陷阱保卫殿堂。</ChineseFlavor>
+<Artist>David Palumbo</Artist>
+<Multiverseid>180272</Multiverseid>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>23</No>
+<Name>Controlled Instincts</Name>
+<ChineseName>本能受制</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Enchant red or green creature
+Enchanted creature doesn't untap during its controller's untap step.</CardText>
+<Flavor>Togk Manytooth struggled helplessly as the kathari circled above him. For a warrior, immobilization is a fate worse than death.</Flavor>
+<ChineseFlavor>卡刹立在头上盘旋，而多牙拖克只能无助地挣扎。 对战士而言，动弹不得要比死亡更加难熬。</ChineseFlavor>
+<Artist>Ralph Horsley</Artist>
+<Multiverseid>183053</Multiverseid>
+<Rulings>2009/02/01: Controlled Instincts may target and may enchant an untapped creature.
+2009/02/01: Controlled Instincts can enchant only a creature that's red or green. If at any time the enchanted creature is neither red nor green, Controlled Instincts is put into its owner's graveyard as a state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>24</No>
+<Name>Cumber Stone</Name>
+<ChineseName>拖碍石</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Creatures your opponents control get -1/-0.</CardText>
+<Flavor>"The stone is more potent than ever. The flesh that creeps into our land will become even more slovenly and weak."
+—Niclavs, archmage of Esper</Flavor>
+<ChineseFlavor>「此石的影响越来越大。 出现在我们土地上的肉身人将变得越来越迟缓而贫弱。」
+～艾斯波大法师尼铬雷</ChineseFlavor>
+<Artist>Warren Mahy</Artist>
+<Multiverseid>180322</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>25</No>
+<Name>Esperzoa</Name>
+<ChineseName>艾斯波佐雅</ChineseName>
+<Type>Artifact Creature — Jellyfish 4/3</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Flying
+At the beginning of your upkeep, return an artifact you control to its owner's hand.</CardText>
+<Flavor>The more metal it digests, the more its jelly will fetch on the alchemists' market.</Flavor>
+<ChineseFlavor>他吃得越多，体内胶质在炼金术士市场上就能卖得更好。</ChineseFlavor>
+<Artist>Warren Mahy</Artist>
+<Multiverseid>180158</Multiverseid>
+<Rulings>2020/08/07: When Esperzoa's ability resolves, if you control no other artifacts, you'll have to return Esperzoa itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>26</No>
+<Name>Ethersworn Adjudicator</Name>
+<ChineseName>乙金盟裁决者</ChineseName>
+<Type>Artifact Creature — Vedalken Knight 4/4</Type>
+<ManaCost>{4}{U}</ManaCost>
+<CardText>Flying
+{1}{W}{B}, {T}: Destroy target creature or enchantment.
+{2}{U}: Untap Ethersworn Adjudicator.</CardText>
+<Flavor>Esper mages devised their weapons to be so devastating that war seemed unnecessary.</Flavor>
+<ChineseFlavor>艾斯波法师设计的武器杀伤力惊人，让战争显得不太必要。</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Multiverseid>175035</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>27</No>
+<Name>Faerie Mechanist</Name>
+<ChineseName>仙灵机械师</ChineseName>
+<Type>Artifact Creature — Faerie Artificer 2/2</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Flying
+When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>182608</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>28</No>
+<Name>Frontline Sage</Name>
+<ChineseName>前线智者</ChineseName>
+<Type>Creature — Human Wizard 0/1</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{U}, {T}: Draw a card, then discard a card.</CardText>
+<Flavor>The battle was won in the commander's head before the first weapon was drawn.</Flavor>
+<ChineseFlavor>在剑身出鞘之前，指挥官脑中的战争已然获胜。</ChineseFlavor>
+<Artist>Volkan Baǵa</Artist>
+<Multiverseid>184993</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>29</No>
+<Name>Grixis Illusionist</Name>
+<ChineseName>格利极幻影师</ChineseName>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>{T}: Target land you control becomes the basic land type of your choice until end of turn.</CardText>
+<Flavor>"It's simple, really. If they can't find us, they can't kill us."</Flavor>
+<ChineseFlavor>「道理真的很简单。 只要他们找不到我们，就杀不了我们。」</ChineseFlavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>177927</Multiverseid>
+<Rulings>2009/02/01: You choose a basic land type as the ability resolves.
+2009/02/01: The affected land loses its existing land types and any abilities printed on it. It becomes the chosen basic land type and now has the ability to tap to add one mana of the appropriate color to your mana pool. Grixis Illusionist's ability doesn't change the affected land's name or whether it's legendary or basic.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>30</No>
+<Name>Inkwell Leviathan</Name>
+<ChineseName>墨涌海怪</ChineseName>
+<Type>Artifact Creature — Leviathan 7/11</Type>
+<ManaCost>{7}{U}{U}</ManaCost>
+<CardText>Trample
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Shroud (This creature can't be the target of spells or abilities.)</CardText>
+<Flavor>"Into its maw went the seventh sea, never to be seen again while the world remains."
+—Esper fable</Flavor>
+<ChineseFlavor>「第七海入其咽喉，从此世上不复见。」
+～艾斯波寓言</ChineseFlavor>
+<Artist>Anthony Francisco</Artist>
+<Multiverseid>154081</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>31</No>
+<Name>Master Transmuter</Name>
+<ChineseName>易质大师</ChineseName>
+<Type>Artifact Creature — Human Artificer 1/2</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.</CardText>
+<Flavor>"Wasted potential surrounds us. Lend me that bauble, and let me see what it can be made to be."</Flavor>
+<ChineseFlavor>「我们四周充满了未发掘的潜力。 把那饰品递过来，让我瞧瞧它能给造成什么东西。」</ChineseFlavor>
+<Artist>Chippy</Artist>
+<Multiverseid>179252</Multiverseid>
+<Rulings>2020/08/07: Master Transmuter can be returned to its owner's hand to pay the cost of its activated ability.
+2020/08/07: The artifact card you put onto the battlefield when the ability resolves may be the same card that you returned to your hand when you paid the cost. If so, it returns to the battlefield as a new object with no relation to its previous existence.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>32</No>
+<Name>Parasitic Strix</Name>
+<ChineseName>寄生枭</ChineseName>
+<Type>Artifact Creature — Bird 2/2</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Flying
+When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.</CardText>
+<Flavor>After finding no sustenance on the edges of Grixis, it turned to the skies of Bant.</Flavor>
+<ChineseFlavor>他发现格利极的边界找不到粮食，于是转向飞往班特的天空。</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>175021</Multiverseid>
+<Rulings>2020/08/07: If you don't control a black permanent immediately after Parasitic Strix enters the battlefield, its ability doesn't trigger. If you don't control one as the ability resolves, no player loses or gains life. It doesn't have to be the same black permanent both times, however.
+2020/08/07: Parasitic Strix's ability triggers only once, no matter how many black permanents you control beyond the first.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>33</No>
+<Name>Scepter of Insight</Name>
+<ChineseName>洞察权杖</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{1}{U}{U}</ManaCost>
+<CardText>{3}{U}, {T}: Draw a card.</CardText>
+<Flavor>"The road to truth has many branches, and so must the cane with which I walk it."
+—Voln the Elder</Flavor>
+<ChineseFlavor>「迈向真理的道路有许多分支，我用以行路的手杖也须如此。」
+～长老沃伦</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>184989</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>34</No>
+<Name>Scornful Aether-Lich</Name>
+<ChineseName>讽世乙太巫妖</ChineseName>
+<Type>Artifact Creature — Zombie Wizard 2/4</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>{W}{B}: Scornful Aether-Lich gains fear and vigilance until end of turn. (Attacking doesn't cause it to tap, and it can't be blocked except by artifact creatures and/or black creatures.)</CardText>
+<Flavor>"With no flesh, there is no pain, no hesitation, no emotion of any kind. He is crafted perfection."
+—Tezzeret</Flavor>
+<ChineseFlavor>「没有肉身，也就没有痛苦、犹疑与任何情感。 他是造物的极致。」
+～泰兹瑞</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>186328</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>35</No>
+<Name>Telemin Performance</Name>
+<ChineseName>承思民献艺</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{U}{U}</ManaCost>
+<CardText>Target opponent reveals cards from the top of their library until they reveal a creature card. That player puts all noncreature cards revealed this way into their graveyard, then you put the creature card onto the battlefield under your control.</CardText>
+<Artist>Izzy</Artist>
+<Multiverseid>189085</Multiverseid>
+<Rulings>2009/02/01: If there are no creature cards in the targeted opponent's library, that player will put their entire library into their graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>36</No>
+<Name>Traumatic Visions</Name>
+<ChineseName>创伤幻象</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{U}{U}</ManaCost>
+<CardText>Counter target spell.
+Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</CardText>
+<Artist>Cyril Van Der Haegen</Artist>
+<Multiverseid>179508</Multiverseid>
+<Rulings>2009/02/01: Unlike the normal cycling ability, basic landcycling doesn't allow you to draw a card. Instead, it lets you search your library for a basic land card. You don't choose the type of basic land card you'll find until you're performing the search. After you choose a basic land card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Basic landcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on a card being basic landcycled. Any ability that stops a cycling ability from being activated also stops a basic landcycling ability from being activated.
+2009/02/01: Basic landcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with basic landcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose not to find a basic land card, even if there is one in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>37</No>
+<Name>Unsummon</Name>
+<ChineseName>反召唤</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Return target creature to its owner's hand.</CardText>
+<Flavor>"Send it back to its own strange world so we can avoid another inglorious combat with these wicked beings."
+—Captain Valek of Jhess</Flavor>
+<ChineseFlavor>「把这恶心生物送回原本的诡异世界，我们才能少打一场不光荣的战斗。」
+～介斯队长瓦列</ChineseFlavor>
+<Artist>Izzy</Artist>
+<Multiverseid>177932</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>38</No>
+<Name>View from Above</Name>
+<ChineseName>高处俯瞰</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.</CardText>
+<Flavor>"This air feels so heavy and thick. There are no winds to speak of. I fear the knowledge that comes from a place like this."</Flavor>
+<ChineseFlavor>「空气沉重腻人。 一点风都没有。 从这种地方得来的知识让我不放心。」</ChineseFlavor>
+<Artist>Howard Lyon</Artist>
+<Multiverseid>183058</Multiverseid>
+<Rulings>2009/02/01: This checks the colors of permanents you control as it resolves.
+2009/02/01: If you control a white permanent, View from Above moves from the stack to your hand as part of its resolution. It never hits the graveyard. If you don't control a white permanent, View from Above is put into the graveyard from the stack as normal.
+2009/02/01: If View from Above doesn't resolve for any reason (for example, if its target has become illegal), none of its effects happen. It will be put into your graveyard as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>39</No>
+<Name>Worldly Counsel</Name>
+<ChineseName>全世商议</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Domain — Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.</CardText>
+<Flavor>Every horizon hides a new possibility.</Flavor>
+<ChineseFlavor>每道地平线都藏着新的可能性。</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>142298</Multiverseid>
+<Rulings>2004/10/04: You choose the order on the bottom of your library.
+2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>40</No>
+<Name>Absorb Vis</Name>
+<ChineseName>吸取维质</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{6}{B}</ManaCost>
+<CardText>Target player loses 4 life and you gain 4 life.
+Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</CardText>
+<Artist>Brandon Kitkouski</Artist>
+<Multiverseid>179513</Multiverseid>
+<Rulings>2009/02/01: Unlike the normal cycling ability, basic landcycling doesn't allow you to draw a card. Instead, it lets you search your library for a basic land card. You don't choose the type of basic land card you'll find until you're performing the search. After you choose a basic land card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Basic landcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on a card being basic landcycled. Any ability that stops a cycling ability from being activated also stops a basic landcycling ability from being activated.
+2009/02/01: Basic landcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with basic landcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose not to find a basic land card, even if there is one in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>41</No>
+<Name>Corrupted Roots</Name>
+<ChineseName>根部腐化</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Enchant Forest or Plains
+Whenever enchanted land becomes tapped, its controller loses 2 life.</CardText>
+<Flavor>The bones of Jund's dead resurfaced in Naya, poisoning the jungle and killing the sunseeders' crops.</Flavor>
+<ChineseFlavor>勇得亡者的骨头在纳雅苏醒，毒化丛林，让日种的谷物死亡。</ChineseFlavor>
+<Artist>Mark Hyzer</Artist>
+<Multiverseid>183054</Multiverseid>
+<Rulings>2009/02/01: Corrupted Roots can enchant only a Forest or a Plains. It checks the enchanted land's subtypes, not its name. If at any time the enchanted land is neither a Forest nor a Plains (due to Unstable Frontier's ability, perhaps), Corrupted Roots is put into its owner's graveyard as a state-based action.
+2009/02/01: Corrupted Roots doesn't care why the enchanted land becomes tapped. If that land changes from being untapped to being tapped for any reason, the ability will trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>42</No>
+<Name>Drag Down</Name>
+<ChineseName>拖入深处</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Domain — Target creature gets -1/-1 until end of turn for each basic land type among lands you control.</CardText>
+<Flavor>The barbarians of Jund believe the bottomless tar pits extend forever into other, darker worlds.</Flavor>
+<ChineseFlavor>勇得的野蛮人相信深不见底的焦油坑会不断往下延伸，直通其他的黑暗世界。</ChineseFlavor>
+<Artist>Trevor Claxton</Artist>
+<Multiverseid>179239</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>43</No>
+<Name>Dreadwing</Name>
+<ChineseName>惧翼妖</ChineseName>
+<Type>Creature — Zombie 1/1</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>{1}{U}{R}: Dreadwing gets +3/+0 and gains flying until end of turn.</CardText>
+<Flavor>Dreadwings spring from lofty perches to surprise kathari in midflight. They smother their prey and then consume it as they glide gently toward the ground.</Flavor>
+<ChineseFlavor>惧翼妖从高处居所跃下，袭击正在飞翔的卡刹立。 他们朝着地面滑翔缓降，同时将猎物闷死吞下肚去。</ChineseFlavor>
+<Artist>Mark Hyzer</Artist>
+<Multiverseid>159629</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>44</No>
+<Name>Extractor Demon</Name>
+<ChineseName>榨取恶魔</ChineseName>
+<Type>Creature — Demon 5/5</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Flying
+Whenever another creature leaves the battlefield, you may have target player mill two cards.
+Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>189082</Multiverseid>
+<Rulings>2017/03/14: If Extractor Demon and another creature leave the battlefield at the same time, Extractor Demon's triggered ability will trigger.
+2017/03/14: You can target any player with Extractor Demon's triggered ability. The target doesn't have to be the controller of the creature that left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>45</No>
+<Name>Fleshformer</Name>
+<ChineseName>塑肌师</ChineseName>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>{W}{U}{B}{R}{G}: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.)</CardText>
+<Flavor>Necromancers who discovered the new sources of mana were quick to dream up new nightmares with them.</Flavor>
+<ChineseFlavor>发现法术力新来源的死灵术士，很快便用它们创造出新的梦魇。</ChineseFlavor>
+<Artist>Dave Kendall</Artist>
+<Multiverseid>179884</Multiverseid>
+<Rulings>2009/02/01: Fleshformer's ability has only one target: the creature. If that creature becomes an illegal target by the time Fleshformer's ability would resolve, the entire ability doesn't resolve. Fleshformer won't get +2/+2 and won't gain fear.
+2009/02/01: Fleshformer can target itself with its ability. The result is that Fleshformer gains fear, since the +2/+2 and -2/-2 parts of the effect will balance each other out. (Fleshformer's power and toughness will each momentarily go up by 2, in case anything cares about that.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>46</No>
+<Name>Grixis Slavedriver</Name>
+<ChineseName>格利极奴工头</ChineseName>
+<Type>Creature — Zombie Giant 4/4</Type>
+<ManaCost>{5}{B}</ManaCost>
+<CardText>When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie creature token.
+Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Dave Kendall</Artist>
+<Multiverseid>179804</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>47</No>
+<Name>Infectious Horror</Name>
+<ChineseName>播疫惊惧兽</ChineseName>
+<Type>Creature — Zombie Horror 2/2</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Whenever Infectious Horror attacks, each opponent loses 2 life.</CardText>
+<Flavor>Not once in the history of Grixis has anyone died of old age.</Flavor>
+<ChineseFlavor>有史以来，格利极从没人因衰老而过世。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>157732</Multiverseid>
+<Rulings>2018/07/13: In a Two-Headed Giant game, Infectious Horror's ability causes the opposing team to lose 4 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>48</No>
+<Name>Kederekt Parasite</Name>
+<ChineseName>奇登磊寄生怪</ChineseName>
+<Type>Creature — Horror 1/1</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.</CardText>
+<Flavor>When the smell of passing thoughts piques its hunger, its maw becomes primed with acid and a taste for brains.</Flavor>
+<ChineseFlavor>飘过的思绪气息撩起了饥火，它的喉头顿时充满酸液，急着品尝脑浆。</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Multiverseid>189080</Multiverseid>
+<Rulings>2009/02/01: The "intervening 'if' clause" means that (1) the ability won't trigger at all unless you control a permanent of the specified color, and (2) the ability will do nothing unless you control a permanent of the specified color at the time it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>49</No>
+<Name>Nyxathid</Name>
+<ChineseName>夜惧妖</ChineseName>
+<Type>Creature — Elemental 7/7</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>As Nyxathid enters the battlefield, choose an opponent.
+Nyxathid gets -1/-1 for each card in the chosen player's hand.</CardText>
+<Flavor>Born of volcanic forces, it thrives on the absolute panic it inspires.</Flavor>
+<ChineseFlavor>它诞生自火山之力，以自己引发的纯然惊惶为食。</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Multiverseid>186616</Multiverseid>
+<Rulings>2009/02/01: Nyxathid tracks the hand size of the chosen player even if that player ceases to be an opponent of its controller. (This could happen if that player gains control of Nyxathid, for example.)
+2009/02/01: In a multiplayer game, if the chosen player leaves the game, Nyxathid's second ability simply won't do anything anymore.
+2009/02/01: Nyxathid's two abilities are linked: The second one refers only to the player chosen by the first one. If another creature becomes a copy of Nyxathid (due to Mirrorweave, for example), the second ability won't do anything because a player was never chosen as a result of the first ability. This is true even if a different ability allowed a player to be chosen as that creature entered the battlefield.
+2009/02/01: If a spell or ability causes the chosen player to draw cards and then discard cards, Nyxathid's power and toughness changes accordingly as that spell or ability is resolving. For example, if the chosen player has five cards in hand and a spell causes that player to draw two cards then discard two cards, Nyxathid will start out as 2/2, then become 1/1, 0/0, and finally 2/2. This is because cards are always drawn one at a time, but multiple cards may be discarded at once. Although Nyxathid momentarily had 0 toughness while that spell was resolving, it isn't put into its owner's graveyard as a state-based action because state-based actions aren't checked until the spell has finished resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>50</No>
+<Name>Pestilent Kathari</Name>
+<ChineseName>瘟疫卡刹立</ChineseName>
+<Type>Creature — Bird Warrior 1/1</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{2}{R}: Pestilent Kathari gains first strike until end of turn.</CardText>
+<Artist>Dave Kendall</Artist>
+<Multiverseid>179518</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>51</No>
+<Name>Rotting Rats</Name>
+<ChineseName>腐臭老鼠</ChineseName>
+<Type>Creature — Zombie Rat 1/1</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>When Rotting Rats enters the battlefield, each player discards a card.
+Unearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Dave Allsop</Artist>
+<Multiverseid>150833</Multiverseid>
+<Rulings>2009/02/01: When Rotting Rats's enters-the-battlefield ability resolves, first the player whose turn it is chooses a card to discard, then each other player in turn order does the same, then all cards are discarded at the same time. No one sees what the other players are discarding before deciding which card to discard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>52</No>
+<Name>Salvage Slasher</Name>
+<ChineseName>废品刀客</ChineseName>
+<Type>Artifact Creature — Human Rogue 1/1</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Salvage Slasher gets +1/+0 for each artifact card in your graveyard.</CardText>
+<Flavor>Esper artificers never imagined that one day their scraps would be pressed against their soft and fragile throats.</Flavor>
+<ChineseFlavor>艾斯波神器师作梦也没想过，所丢弃的废铁居然有一天会贴在自己柔软脆弱的喉头上。</ChineseFlavor>
+<Artist>Anthony Francisco</Artist>
+<Multiverseid>179254</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>53</No>
+<Name>Scepter of Fugue</Name>
+<ChineseName>昏乱权杖</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{B}{B}</ManaCost>
+<CardText>{1}{B}, {T}: Target player discards a card. Activate only during your turn.</CardText>
+<Flavor>One goes to Tidehollow either to forget or to be forgotten. Either way, the scullers will oblige.</Flavor>
+<ChineseFlavor>前往潮窟的人，不是要忘却什么，就是想被遗忘。 不论原因为何，船夫都乐意效命。</ChineseFlavor>
+<Artist>Franz Vohwinkel</Artist>
+<Multiverseid>189084</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>54</No>
+<Name>Sedraxis Alchemist</Name>
+<ChineseName>塞卓基司炼金术士</ChineseName>
+<Type>Creature — Zombie Wizard 2/2</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>When Sedraxis Alchemist enters the battlefield, if you control a blue permanent, return target nonland permanent to its owner's hand.</CardText>
+<Flavor>The problem with a liquid that can dissolve anything is finding something to carry it in.</Flavor>
+<ChineseFlavor>能溶解一切东西的液体所造成之问题，就是该找什么东西来盛装。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Multiverseid>182306</Multiverseid>
+<Rulings>2009/02/01: The "intervening 'if' clause" means that (1) the ability won't trigger at all unless you control a permanent of the specified color, and (2) the ability will do nothing unless you control a permanent of the specified color at the time it resolves.
+2009/02/01: This ability isn't optional. When Sedraxis Alchemist enters the battlefield, if you control a blue permanent and no other player controls a nonland permanent, you'll have to target a nonland permanent you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>55</No>
+<Name>Voices from the Void</Name>
+<ChineseName>虚空之音</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Domain — Target player discards a card for each basic land type among lands you control.</CardText>
+<Flavor>As Grixis collided with the rest of Alara, the worlds began to hear the hateful whispers of the forgotten dead.</Flavor>
+<ChineseFlavor>随着格利极遭逢阿拉若的其余部份，世界开始听闻被遗忘亡者的怨恨细语。</ChineseFlavor>
+<Artist>rk post</Artist>
+<Multiverseid>150847</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>56</No>
+<Name>Wretched Banquet</Name>
+<ChineseName>卑劣者盛宴</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Destroy target creature if it has the least power or is tied for least power among creatures on the battlefield.</CardText>
+<Flavor>"The meek inherit nothing."
+—Sedris, the Traitor King</Flavor>
+<ChineseFlavor>「弱小的人什么都继承不到。」
+～叛徒之王塞基司</ChineseFlavor>
+<Artist>Nils Hamm</Artist>
+<Multiverseid>174907</Multiverseid>
+<Rulings>2009/02/01: Wretched Banquet may target any creature. The creature's power is checked only as Wretched Banquet resolves. If another creature has less power than the targeted creature at that time, Wretched Banquet does nothing.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>57</No>
+<Name>Yoke of the Damned</Name>
+<ChineseName>厄亡者枷锁</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Enchant creature
+When a creature dies, destroy enchanted creature.</CardText>
+<Flavor>The demon's yoke is part leash, part noose.</Flavor>
+<ChineseFlavor>恶魔的枷锁一部分是栓绳，一部分是套索。</ChineseFlavor>
+<Artist>Paul Bonner</Artist>
+<Multiverseid>179891</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>58</No>
+<Name>Banefire</Name>
+<ChineseName>禁咒焰</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{R}</ManaCost>
+<CardText>Banefire deals X damage to any target.
+If X is 5 or more, this spell can't be countered and the damage can't be prevented.</CardText>
+<Flavor>For Sarkhan Vol, the dragon is the purest expression of life's savage splendor.</Flavor>
+<ChineseFlavor>对萨坎•沃来说，巨龙是蛮勇生命的极致具现。</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Multiverseid>186613</Multiverseid>
+<Rulings>2018/07/13: To determine whether it can be countered and its damage can be prevented, Banefire checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal.
+2018/07/13: Banefire can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter Banefire won't do anything. Any other effects those spells have will work as normal.
+2018/07/13: If its target is illegal by the time Banefire tries to resolve, the spell isn't countered, but it doesn't resolve. The target won't be dealt damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>59</No>
+<Name>Bloodhall Ooze</Name>
+<ChineseName>血廊流浆</ChineseName>
+<Type>Creature — Ooze 1/1</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.
+At the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.</CardText>
+<Flavor>A drop of blood spilled from the first dragon.</Flavor>
+<ChineseFlavor>第一头龙流下的一滴血。</ChineseFlavor>
+<Artist>Jaime Jones</Artist>
+<Multiverseid>159610</Multiverseid>
+<Rulings>2009/02/01: The "intervening 'if' clause" means that (1) the ability won't trigger at all unless you control a permanent of the specified color, and (2) the ability will do nothing unless you control a permanent of the specified color at the time it resolves.
+2009/02/01: A permanent that's both black and green will allow both abilities to trigger (as will separate black permanents and green permanents, of course).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>60</No>
+<Name>Canyon Minotaur</Name>
+<ChineseName>峡谷牛头怪</ChineseName>
+<Type>Creature — Minotaur Warrior 3/3</Type>
+<ManaCost>{3}{R}</ManaCost>
+<Flavor>On Jund, the deep canyons were the best places to hide. When the goblins wandered into Naya, they found that was not so true.</Flavor>
+<ChineseFlavor>在勇得，深邃的峡谷是最适合藏身之处。 当精灵踏入纳雅时，他们才发现这道理没那么通用。</ChineseFlavor>
+<Artist>Steve Prescott</Artist>
+<Multiverseid>184994</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>61</No>
+<Name>Dark Temper</Name>
+<ChineseName>极度暴怒</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Dark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.</CardText>
+<Flavor>When you've got the temperament of a dragon, every argument is one you'll win.</Flavor>
+<ChineseFlavor>若你有了巨龙般的脾气，每场争论都是你会赢的那种。</ChineseFlavor>
+<Artist>Jaime Jones</Artist>
+<Multiverseid>185143</Multiverseid>
+<Rulings>2009/02/01: This checks the colors of permanents you control as it resolves.
+2009/02/01: Dark Temper has a self-replacement effect, which applies before other prevention or replacement effects would. If you control a black permanent as Dark Temper resolves, it doesn't deal damage at all (so damage prevention or redirection effects would have no effect); it simply destroys the targeted creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>62</No>
+<Name>Dragonsoul Knight</Name>
+<ChineseName>龙魂骑士</ChineseName>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>First strike
+{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.</CardText>
+<Flavor>The farther he roamed from Jund and its dragons, the more he felt their essence in himself.</Flavor>
+<ChineseFlavor>他的旅程离勇得与当地的龙越远，就越感觉到其精华尽在胸中。</ChineseFlavor>
+<Artist>Justin Sweet</Artist>
+<Multiverseid>186392</Multiverseid>
+<Rulings>2009/02/01: When Dragonsoul Knight's activated ability resolves, Dragonsoul Knight will gain flying and trample in addition to its other abilities. However, becoming a Dragon will make it lose all other creature types. It will no longer be a Human or a Knight.
+2009/02/01: If Dragonsoul Knight gains flying after blockers have been declared, it won't cause those blocks to change.
+2009/02/01: You can activate Dragonsoul Knight's ability more than once during a turn. The second time it resolves, it will probably have no visible effect other than giving Dragonsoul Knight another +5/+3.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>63</No>
+<Name>Fiery Fall</Name>
+<ChineseName>暴落</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{5}{R}</ManaCost>
+<CardText>Fiery Fall deals 5 damage to target creature.
+Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</CardText>
+<Flavor>Jund feasts on the unprepared.</Flavor>
+<ChineseFlavor>猝不及防者会是勇得的食物。</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Multiverseid>179519</Multiverseid>
+<Rulings>2009/02/01: Unlike the normal cycling ability, basic landcycling doesn't allow you to draw a card. Instead, it lets you search your library for a basic land card. You don't choose the type of basic land card you'll find until you're performing the search. After you choose a basic land card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Basic landcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on a card being basic landcycled. Any ability that stops a cycling ability from being activated also stops a basic landcycling ability from being activated.
+2009/02/01: Basic landcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with basic landcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose not to find a basic land card, even if there is one in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>64</No>
+<Name>Goblin Razerunners</Name>
+<ChineseName>焚劫精灵</ChineseName>
+<Type>Creature — Goblin Warrior 3/4</Type>
+<ManaCost>{2}{R}{R}</ManaCost>
+<CardText>{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.
+At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker.</CardText>
+<Flavor>Finding themselves in a new and unexplored world, they immediately set it on fire.</Flavor>
+<ChineseFlavor>发现自己来到新天地后，他们马上在此放火。</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Multiverseid>179487</Multiverseid>
+<Rulings>2009/02/01: You don't count how many +1/+1 counters are on Goblin Razerunners until its triggered ability resolves.
+2009/02/01: If Goblin Razerunners leaves the battlefield after its ability triggers but before it resolves, the amount of damage it deals is equal to the number of +1/+1 counters that were on it as it last existed on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>65</No>
+<Name>Hellspark Elemental</Name>
+<ChineseName>狱燎元素</ChineseName>
+<Type>Creature — Elemental 3/1</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Trample, haste
+At the beginning of the end step, sacrifice Hellspark Elemental.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Justin Sweet</Artist>
+<Multiverseid>174799</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>66</No>
+<Name>Ignite Disorder</Name>
+<ChineseName>煽动混乱</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.</CardText>
+<Flavor>"Bant is a world imprisoned by polished stone and tyrannical rule. It yearns to strike back against those who restrain it."</Flavor>
+<ChineseFlavor>「班特这世界给光亮石碑与专横规则绑得死死。 它亟欲反击那些强加束缚的人。」</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Multiverseid>183056</Multiverseid>
+<Rulings>2009/02/01: You divide the damage as you cast Ignite Disorder, not as it resolves. Each target must be assigned at least 1 damage.
+2009/02/01: The number of targets must be at least 1 and at most 3.
+2009/10/01: The number of targets chosen for Ignite Disorder must be at least 1 and at most 3. You divide the damage as you cast the spell, not as it resolves. Each target must be assigned at least 1 damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>67</No>
+<Name>Kranioceros</Name>
+<ChineseName>颅角兽</ChineseName>
+<Type>Creature — Beast 5/2</Type>
+<ManaCost>{4}{R}</ManaCost>
+<CardText>{1}{W}: Kranioceros gets +0/+3 until end of turn.</CardText>
+<Flavor>"A surly beast, the kranioceros will raise its defenses at the smallest threat. Stay out of sight and downwind, or you'll disrupt its natural migrations."
+—Ebrel, godtoucher mentor</Flavor>
+<ChineseFlavor>「颅角兽脾气暴躁，碰上再小的威胁都会准备全力反击。 远离他的视界并待在下风处，否则就会干扰他的自然迁移。」
+～神疗导师爱焙</ChineseFlavor>
+<Artist>Steve Argyle</Artist>
+<Multiverseid>177940</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>68</No>
+<Name>Maniacal Rage</Name>
+<ChineseName>狂愤</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+2 and can't block.</CardText>
+<Flavor>The spikes of sangrite made the goblin stronger, but they didn't make him any smarter.</Flavor>
+<ChineseFlavor>闪晶的尖刺使这精灵变得更强壮，但并未让他变得更聪明。</ChineseFlavor>
+<Artist>Brandon Kitkouski</Artist>
+<Multiverseid>182609</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>69</No>
+<Name>Molten Frame</Name>
+<ChineseName>熔融框架</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Destroy target artifact creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)</CardText>
+<Flavor>The metal filigree in his body glowed red-hot, and his flesh soon followed.</Flavor>
+<ChineseFlavor>他体内的丝金火热发光，血肉也随之跟进。</ChineseFlavor>
+<Artist>Izzy</Artist>
+<Multiverseid>184988</Multiverseid>
+<Rulings>2008/10/01: Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: Any permanent that's both an artifact and a creature is a legal target for Molten Frame.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>70</No>
+<Name>Quenchable Fire</Name>
+<ChineseName>可熄之火</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>Quenchable Fire deals 3 damage to target player or planeswalker. It deals an additional 3 damage to that player or planeswalker at the beginning of your next upkeep step unless that player or that planeswalker's controller pays {U} before that step.</CardText>
+<Flavor>You'd better know how to pray for rain.</Flavor>
+<ChineseFlavor>你最好知道如何祈雨。</ChineseFlavor>
+<Artist>Jean-Sébastien Rossbach</Artist>
+<Multiverseid>179440</Multiverseid>
+<Rulings>2009/02/01: After Quenchable Fire resolves, the targeted player becomes able to perform a special action of paying {U}. This action may be performed any time the player has priority, and it doesn't use the stack. It may be performed only once, and only before your next upkeep begins. If the player has performed the action by then, the "deal an additional 3 damage" ability won't trigger. Otherwise, it will. If it triggers, the player can't stop it by paying {U}.
+2009/02/01: Quenchable Fire's delayed triggered ability (and the special action of paying {U}) will affect the player who was targeted by the spell, even if the original 3 damage is prevented or redirected to a different permanent or player.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>71</No>
+<Name>Rakka Mar</Name>
+<ChineseName>拉卡玛</ChineseName>
+<Type>Legendary Creature — Human Shaman 2/2</Type>
+<ManaCost>{2}{R}{R}</ManaCost>
+<CardText>Haste
+{R}, {T}: Create a 3/1 red Elemental creature token with haste.</CardText>
+<Flavor>"The finest pawns are those with pawns of their own."
+—Nicol Bolas</Flavor>
+<ChineseFlavor>「最优秀的卒子就是拥有自己卒子者。」
+～尼可•波拉斯</ChineseFlavor>
+<Artist>Jason Chan</Artist>
+<Multiverseid>185810</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>72</No>
+<Name>Toxic Iguanar</Name>
+<ChineseName>毒巨鬣蜥</ChineseName>
+<Type>Creature — Lizard 1/1</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Toxic Iguanar has deathtouch as long as you control a green permanent. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)</CardText>
+<Flavor>There are no "weak" creatures on Jund. Even the smallest can strike a deadly blow.</Flavor>
+<ChineseFlavor>勇得没有「弱小」的生物。 就连个头最小的都能发出致命一击。</ChineseFlavor>
+<Artist>Brandon Kitkouski</Artist>
+<Multiverseid>170956</Multiverseid>
+<Rulings>2009/02/01: As long as at least one permanent you control is the specified color, the ability will "work" and grant this creature the bonus. Otherwise, it won't have the bonus.
+2009/02/01: Whether Toxic Iguanar has deathtouch matters only when it deals damage (that is, at the point when its combat damage resolves, or at the point when a spell or ability that causes it to deal damage resolves). For example, if your only green permanent is a creature that receives lethal damage at the same time Toxic Iguanar deals damage to a creature, the deathtouch ability will still apply and the creature Toxic Iguanar dealt damage to will be destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>73</No>
+<Name>Viashino Slaughtermaster</Name>
+<ChineseName>屠戮凡尔西诺</ChineseName>
+<Type>Creature — Viashino Warrior 1/1</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Double strike
+{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate only once each turn.</CardText>
+<Flavor>"I'll fight two at once, and then lick their guts from my blades."</Flavor>
+<ChineseFlavor>「我会一次对上两个，然后把他们沾在我刀刃上的肠子舔干净。」</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Multiverseid>179245</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>74</No>
+<Name>Volcanic Fallout</Name>
+<ChineseName>火山落尘</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}{R}</ManaCost>
+<CardText>This spell can't be countered.
+Volcanic Fallout deals 2 damage to each creature and each player.</CardText>
+<Flavor>"How can we outrun the sky?"
+—Hadran, sunseeder of Naya</Flavor>
+<ChineseFlavor>「我们怎么可能逃得过天空？」
+～纳雅日种群亥真</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Multiverseid>180274</Multiverseid>
+<Rulings>2009/02/01: Volcanic Fallout can be targeted by spells that try to counter it (such as Countersquall). Those spells will still resolve, but the part of their effect that would counter Volcanic Fallout won't do anything. Any other effects those spells have will work as normal.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>75</No>
+<Name>Voracious Dragon</Name>
+<ChineseName>贪餮巨龙</ChineseName>
+<Type>Creature — Dragon 4/4</Type>
+<ManaCost>{3}{R}{R}</ManaCost>
+<CardText>Flying
+Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+When Voracious Dragon enters the battlefield, it deals damage to any target equal to twice the number of Goblins it devoured.</CardText>
+<Artist>Dominick Domingo</Artist>
+<Multiverseid>186329</Multiverseid>
+<Rulings>2009/02/01: Voracious Dragon can devour any type of creatures, not just Goblins.
+2009/02/01: "The number of Goblins it devoured" means "The number of Goblins sacrificed as a result of its devour ability as it entered the battlefield." For each creature that Voracious Dragon devoured, this ability checks its creature type as it last existed on the battlefield to see if it was a Goblin at that time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>76</No>
+<Name>Wandering Goblins</Name>
+<ChineseName>漫游精灵</ChineseName>
+<Type>Creature — Goblin Warrior 0/3</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Domain — {3}: Wandering Goblins gets +1/+0 until end of turn for each basic land type among lands you control.</CardText>
+<Flavor>Tired of waiting for a dragon to eat them, some hardy goblins struck out to become meals for the unknown.</Flavor>
+<ChineseFlavor>有些大胆的精灵没耐心等着给龙吃掉，决定出发好成为未知生物的餐点。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Multiverseid>180279</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>77</No>
+<Name>Worldheart Phoenix</Name>
+<ChineseName>源核凤凰</ChineseName>
+<Type>Creature — Phoenix 2/2</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>Flying
+You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Multiverseid>175401</Multiverseid>
+<Rulings>2009/02/01: Casting Worldheart Phoenix from your graveyard by paying its alternative cost doesn't change when you can cast it. You can cast it only at the normal time you could cast a creature spell.
+2009/02/01: If you cast Worldheart Phoenix this way, it is a spell and can be countered.
+2009/02/01: As soon as you start to cast Worldheart Phoenix from your graveyard, the card moves onto the stack. At that point, it's too late for an opponent to prevent you from casting it by removing it from your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>78</No>
+<Name>Beacon Behemoth</Name>
+<ChineseName>信标贝西摩斯</ChineseName>
+<Type>Creature — Beast 5/3</Type>
+<ManaCost>{3}{G}{G}</ManaCost>
+<CardText>{1}: Target creature with power 5 or greater gains vigilance until end of turn.</CardText>
+<Flavor>When its smoky plumes light Naya's sky, every creature from the smallest pip fawn to the largest rannet heeds the warning.</Flavor>
+<ChineseFlavor>当他呼出的烟云照亮纳雅天空，不论最小的鹿或最大的拉奈兽，所有生物都收到这警讯。</ChineseFlavor>
+<Artist>Jesper Ejsing</Artist>
+<Multiverseid>177931</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>79</No>
+<Name>Cliffrunner Behemoth</Name>
+<ChineseName>奔崖巨兽</ChineseName>
+<Type>Creature — Rhino Beast 5/3</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Cliffrunner Behemoth has haste as long as you control a red permanent.
+Cliffrunner Behemoth has lifelink as long as you control a white permanent.</CardText>
+<Flavor>It's revered for its power, celebrated for its grace, and feared for the avalanches triggered by its thunderous feet.</Flavor>
+<ChineseFlavor>其力量受到景仰，高雅获致崇敬，雷动足音所引发的山崩更令人畏惧。</ChineseFlavor>
+<Artist>Wayne Reynolds</Artist>
+<Multiverseid>159612</Multiverseid>
+<Rulings>2009/02/01: As long as at least one permanent you control is the specified color, the ability will "work" and grant this creature the bonus. Otherwise, it won't have the bonus.
+2009/02/01: Whether Cliffrunner Behemoth has haste matters only when attackers are declared. Once it's been declared as an attacker, it doesn't matter if it loses haste.
+2009/02/01: Whether Cliffrunner Behemoth has lifelink matters only when it deals damage (that is, at the point when its combat damage resolves, or at the point when a spell or ability that causes it to deal damage resolves). For example, if your only white permanent is a creature that receives lethal damage at the same time Cliffrunner Behemoth deals damage, the lifelink ability will still apply and you'll gain life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>80</No>
+<Name>Cylian Sunsinger</Name>
+<ChineseName>塞利亚咏日师</ChineseName>
+<Type>Creature — Elf Shaman 2/2</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>{R}{G}{W}: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.</CardText>
+<Flavor>"The sun shines bright upon the strong."</Flavor>
+<ChineseFlavor>「太阳让强者更添光芒。」</ChineseFlavor>
+<Artist>Jesper Ejsing</Artist>
+<Multiverseid>189081</Multiverseid>
+<Rulings>2009/02/01: If Cylian Sunsinger has left the battlefield by the time its ability resolves, its ability will affect each creature whose name is the same as the name Cylian Sunsinger had as it last existed on the battlefield.
+2009/02/01: When the ability resolves, it gives the +3/+3 bonus to the source of the ability and each other creature that shares a name with that source, even if that source isn't actually named Cylian Sunsinger. This could happen if Skill Borrower gains this ability, or if Cylian Sunsinger's name is changed (due to Mirrorweave, perhaps) before the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>81</No>
+<Name>Ember Weaver</Name>
+<ChineseName>烬火编蛛</ChineseName>
+<Type>Creature — Spider 2/3</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Reach (This creature can block creatures with flying.)
+As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.</CardText>
+<Flavor>"Each night, the sun unravels and blows away. Each day, the spiders set a new one in the sky."
+—Sunseeder myth</Flavor>
+<ChineseFlavor>「每个夜晚，太阳都会崩解散落。 每个早晨，蜘蛛都将新的太阳挂上天空。」
+～日种神话</ChineseFlavor>
+<Artist>Steve Prescott</Artist>
+<Multiverseid>184990</Multiverseid>
+<Rulings>2009/02/01: As long as at least one permanent you control is the specified color, the ability will "work" and grant this creature the bonus. Otherwise, it won't have the bonus.
+2009/02/01: Whether Ember Weaver has first strike matters only at the point that the normal combat damage step would begin, and only if there hasn't already been a first-strike combat damage step that turn. If any of your creatures has first strike at that point, a first-strike combat damage step is created. -- If Ember Weaver has first strike at that point, it will assign and deal combat damage during that step (even if it loses first strike before that damage is dealt) and it won't deal combat damage during the normal combat damage step. -- If Ember Weaver doesn't have first strike at that point, it will assign and deal its combat damage during the normal combat damage step (even if it gains first strike before then).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>82</No>
+<Name>Filigree Fracture</Name>
+<ChineseName>丝金断裂</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.</CardText>
+<Flavor>The sphinx tyrannized Bant until a rhox mage tested the hardiness of her shiny parts.</Flavor>
+<ChineseFlavor>史芬斯以极权统治班特，直到某位罗克法师测试她光亮部份的硬度为止。</ChineseFlavor>
+<Artist>Howard Lyon</Artist>
+<Multiverseid>179439</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>83</No>
+<Name>Gluttonous Slime</Name>
+<ChineseName>暴食黏菌</ChineseName>
+<Type>Creature — Ooze 2/2</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Flash
+Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</CardText>
+<Flavor>On Jund, everything eventually ends up in something else's stomach.</Flavor>
+<ChineseFlavor>在勇得，各种东西到头来都会待在其他东西的胃中。</ChineseFlavor>
+<Artist>Trevor Claxton</Artist>
+<Multiverseid>179512</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>84</No>
+<Name>Matca Rioters</Name>
+<ChineseName>麻卡喧闹人</ChineseName>
+<Type>Creature — Human Warrior */*</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Domain — Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.</CardText>
+<Flavor>When outsiders interrupted the matca championship, things got ugly.</Flavor>
+<ChineseFlavor>当外来者干扰了麻卡角力冠军赛，状况就变得丑恶。</ChineseFlavor>
+<Artist>Steve Argyle</Artist>
+<Multiverseid>179248</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.
+2009/02/01: Matca Rioters' ability is a "characteristic-defining ability." It applies at all times in all zones.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>85</No>
+<Name>Might of Alara</Name>
+<ChineseName>阿拉若之力</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.</CardText>
+<Flavor>The combined strength of all five planes spawned creations none had seen before.</Flavor>
+<ChineseFlavor>从五个时空汇集之力量中，诞生了没人见过的造物。</ChineseFlavor>
+<Artist>Steve Prescott</Artist>
+<Multiverseid>150810</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>86</No>
+<Name>Nacatl Savage</Name>
+<ChineseName>粗蛮拿卡地</ChineseName>
+<Type>Creature — Cat Warrior 2/1</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Protection from artifacts</CardText>
+<Flavor>"Blades dull and armor dents. Marisi taught us that instinct is the only thing a true warrior needs."
+—Ajani</Flavor>
+<ChineseFlavor>「刀刃会钝，铠甲会凹。 马力希教导我们，真正的战士只须仰赖直觉。」
+～阿耶尼</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>183022</Multiverseid>
+<Rulings>2009/02/01: "Protection from artifacts" means the following: -- Nacatl Savage can't be blocked by artifact creatures. -- Nacatl Savage can't be equipped. It also can't be enchanted by Auras that have somehow become artifacts in addition to enchantments. -- Nacatl Savage can't be targeted by abilities from artifact sources. -- All damage that would be dealt to Nacatl Savage by artifact sources is prevented.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>87</No>
+<Name>Noble Hierarch</Name>
+<ChineseName>贵族大主教</ChineseName>
+<Type>Creature — Human Druid 0/1</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {G}, {W}, or {U}.</CardText>
+<Flavor>She protects the sacred groves from blight, drought, and the Unbeholden.</Flavor>
+<ChineseFlavor>她守护神圣树丛，将枯萎、干旱与失格者摒除在外。</ChineseFlavor>
+<Artist>Mark Zug</Artist>
+<Multiverseid>179434</Multiverseid>
+<Rulings>2020/08/07: If you declare exactly one creature as an attacker, each exalted ability on each permanent you control (including, perhaps, the attacking creature itself) will trigger.
+2020/08/07: You must attack with exactly one creature for exalted abilities to trigger. Exalted abilities won't trigger if you attack a player with one creature and a planeswalker with another, for example, or if you attack with two creatures but one is removed from combat.
+2020/08/07: Some effects put creatures onto the battlefield attacking. Since those creatures were never declared as attackers, they're ignored by exalted abilities. They won't cause exalted abilities to trigger. If any exalted abilities have already triggered (because exactly one creature was declared as an attacker), those abilities will resolve as normal even though there may now be multiple attackers.
+2020/08/07: In a Two-Headed Giant game, a creature "attacks alone" if it's the only creature declared as an attacker by your entire team. If you control that attacking creature, your exalted abilities will trigger but your teammate's exalted abilities won't.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>88</No>
+<Name>Paleoloth</Name>
+<ChineseName>古洛西</ChineseName>
+<Type>Creature — Beast 5/5</Type>
+<ManaCost>{4}{G}{G}</ManaCost>
+<CardText>Whenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.</CardText>
+<Flavor>"Gods do not sleep soundly in the earth's embrace."
+—Mayael the Anima</Flavor>
+<ChineseFlavor>「神明在大地的怀抱中无法熟睡。」
+～谕灵梅燕</ChineseFlavor>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>189873</Multiverseid>
+<Rulings>2009/02/01: If Paleoloth and another creature with power 5 or greater enter the battlefield under your control at the same time, Paleoloth's triggered ability will trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>89</No>
+<Name>Sacellum Archers</Name>
+<ChineseName>藤圣堂弓箭手</ChineseName>
+<Type>Creature — Elf Archer 2/3</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>{R}{W}, {T}: Sacellum Archers deals 2 damage to target attacking or blocking creature.</CardText>
+<Flavor>"Our arrows are aimed not at the sacred behemoths but at those who dare to dream of such a trophy."</Flavor>
+<ChineseFlavor>「我们箭头对准的目标并非神圣贝西摩斯，而是胆敢妄想猎取他们者。」</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>179488</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>90</No>
+<Name>Scattershot Archer</Name>
+<ChineseName>散射弓箭手</ChineseName>
+<Type>Creature — Elf Archer 1/2</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>{T}: Scattershot Archer deals 1 damage to each creature with flying.</CardText>
+<Flavor>To train her elves for war, Mayael would drop a sackful of acorns from the tree canopy. Each archer tried to split as many as possible before the acorns hit the forest floor below.</Flavor>
+<ChineseFlavor>为训练手下地精备战，梅燕会从树冠洒下一整袋橡实。 每位弓箭手都设法在橡实落到树林地面前多劈开几颗。</ChineseFlavor>
+<Artist>Steve Argyle</Artist>
+<Multiverseid>185828</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>91</No>
+<Name>Shard Convergence</Name>
+<ChineseName>断片交会</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards, put them into your hand, then shuffle.</CardText>
+<Flavor>Alara is broken no more.</Flavor>
+<ChineseFlavor>阿拉若已不再分裂。</ChineseFlavor>
+<Artist>Vance Kovacs</Artist>
+<Multiverseid>175034</Multiverseid>
+<Rulings>2009/02/01: You don't have to find all four cards.
+2009/02/01: Shard Convergence checks for cards with the subtypes Plains, Island, Swamp, and Mountain, not for cards with those names. You may find nonbasic land cards this way, as long as they have appropriate subtypes.
+2009/02/01: You may find "dual lands" with Shard Convergence. The Plains card you find, for example, can have a second subtype. What subtypes it has won't impact what other cards you can find. For example, you may find a Hallowed Fountain (which has subtypes Plains and Island) as the Plains card, and another Hallowed Fountain as the Island card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>92</No>
+<Name>Soul's Majesty</Name>
+<ChineseName>灵魂威严</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{G}</ManaCost>
+<CardText>Draw cards equal to the power of target creature you control.</CardText>
+<Flavor>An avatar he sculpts of wisdom and strength.</Flavor>
+<ChineseFlavor>以智慧与膂力塑造的化身。</ChineseFlavor>
+<Artist>Jesper Ejsing</Artist>
+<Multiverseid>185137</Multiverseid>
+<Rulings>2009/02/01: Soul's Majesty's only target is the creature. If that creature becomes an illegal target by the time Soul's Majesty would resolve, the entire spell doesn't resolve. You won't draw any cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>93</No>
+<Name>Spore Burst</Name>
+<ChineseName>孢子爆发</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Domain — Create a 1/1 green Saproling creature token for each basic land type among lands you control.</CardText>
+<Flavor>Seeds from Jund don't drift gently on the wind. They get up and stampede.</Flavor>
+<ChineseFlavor>出自勇得的种子不愿仅只随风飘散。 它们会起身狂奔。</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Multiverseid>185829</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>94</No>
+<Name>Sylvan Bounty</Name>
+<ChineseName>森林的恩赐</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{5}{G}</ManaCost>
+<CardText>Target player gains 8 life.
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</CardText>
+<Flavor>Some who scouted new lands chose to stay.</Flavor>
+<ChineseFlavor>有些探索到新地界的人决定留下来。</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>179523</Multiverseid>
+<Rulings>2009/02/01: Unlike the normal cycling ability, basic landcycling doesn't allow you to draw a card. Instead, it lets you search your library for a basic land card. You don't choose the type of basic land card you'll find until you're performing the search. After you choose a basic land card in your library, you reveal it, put it into your hand, then shuffle your library.
+2009/02/01: Basic landcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on a card being basic landcycled. Any ability that stops a cycling ability from being activated also stops a basic landcycling ability from being activated.
+2009/02/01: Basic landcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with basic landcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not.
+2009/02/01: You can choose not to find a basic land card, even if there is one in your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>95</No>
+<Name>Thornling</Name>
+<ChineseName>棘灵精怪</ChineseName>
+<Type>Creature — Elemental Shapeshifter 4/4</Type>
+<ManaCost>{3}{G}{G}</ManaCost>
+<CardText>{G}: Thornling gains haste until end of turn.
+{G}: Thornling gains trample until end of turn.
+{G}: Thornling gains indestructible until end of turn.
+{1}: Thornling gets +1/-1 until end of turn.
+{1}: Thornling gets -1/+1 until end of turn.</CardText>
+<Artist>Kev Walker</Artist>
+<Multiverseid>180341</Multiverseid>
+<Rulings>2013/07/01: Lethal damage and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>96</No>
+<Name>Tukatongue Thallid</Name>
+<ChineseName>吐卡散绿菌</ChineseName>
+<Type>Creature — Fungus 1/1</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>When Tukatongue Thallid dies, create a 1/1 green Saproling creature token.</CardText>
+<Flavor>Jund's thallids tried to disguise their deliciousness by covering themselves in spines harvested from the tukatongue tree.</Flavor>
+<ChineseFlavor>勇得的散绿菌为了使自己看来不那么美味，用摘自吐卡树的尖刺布满全身来作伪装。</ChineseFlavor>
+<Artist>Vance Kovacs</Artist>
+<Multiverseid>184995</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>97</No>
+<Name>Wild Leotau</Name>
+<ChineseName>野生座狮</ChineseName>
+<Type>Creature — Cat 5/4</Type>
+<ManaCost>{2}{G}{G}</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.</CardText>
+<Flavor>"Leotau that were born wild make the best mounts. It's like riding a thunderstorm."
+—Rafiq of the Many</Flavor>
+<ChineseFlavor>「在野地出生的座狮会是最好的坐骑； 骑乘时就好像驾驭暴风雨一般。」
+～千印莱菲</ChineseFlavor>
+<Artist>Michael Komarck</Artist>
+<Multiverseid>179489</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>98</No>
+<Name>Apocalypse Hydra</Name>
+<ChineseName>末日多头龙</ChineseName>
+<Type>Creature — Hydra 0/0</Type>
+<ManaCost>{X}{R}{G}</ManaCost>
+<CardText>Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.
+{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: It deals 1 damage to any target.</CardText>
+<Artist>Jason Chan</Artist>
+<Multiverseid>183068</Multiverseid>
+<Rulings>2009/02/01: For example, if X is 4, Apocalypse Hydra enters the battlefield with four +1/+1 counters on it, but if X is 5, it enters the battlefield with ten +1/+1 counters on it.
+2009/02/01: The first ability checks the number you chose for X, not the amount of mana you actually spent.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>99</No>
+<Name>Blood Tyrant</Name>
+<ChineseName>嗜血暴君</ChineseName>
+<Type>Creature — Vampire 5/5</Type>
+<ManaCost>{4}{U}{B}{R}</ManaCost>
+<CardText>Flying, trample
+At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.
+Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Multiverseid>180267</Multiverseid>
+<Rulings>2009/02/01: Blood Tyrant's second ability causes each player to lose 1 life, including you. Blood Tyrant will count each player's life loss, including yours, when determining how many +1/+1 counters it gets.
+2009/02/01: Blood Tyrant's third ability will trigger no matter how a player loses the game: due to a state-based action (as a result of having a life total of 0 or less, trying to draw a card from an empty library, or having ten poison counters), a spell or ability that says that player loses the game, a concession, or a game loss awarded by a judge.
+2009/02/01: In a multiplayer game using the limited range of influence option (such as a Grand Melee game), if a spell or ability says that you win the game, it instead causes all of your opponents within your range of influence to lose the game. This is another way by which Blood Tyrant's third ability can trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>100</No>
+<Name>Charnelhoard Wurm</Name>
+<ChineseName>埋骨所亚龙</ChineseName>
+<Type>Creature — Wurm 6/6</Type>
+<ManaCost>{4}{B}{R}{G}</ManaCost>
+<CardText>Trample
+Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.</CardText>
+<Flavor>Jund's dragons hoard only sangrite crystals. Its wurms aren't so picky.</Flavor>
+<ChineseFlavor>勇得巨龙只愿意收藏闪晶。 而该地的亚龙就没那么挑。</ChineseFlavor>
+<Artist>Lars Grant-West</Artist>
+<Multiverseid>179438</Multiverseid>
+<Rulings>2009/02/01: If Charnelhoard Wurm is dealt lethal damage at the same time it deals damage to an opponent, Charnelhoard Wurm will be in your graveyard by the time you put its ability on the stack. In that case, you can target it with its own ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>101</No>
+<Name>Child of Alara</Name>
+<ChineseName>阿拉若之子</ChineseName>
+<Type>Legendary Creature — Avatar 6/6</Type>
+<ManaCost>{W}{U}{B}{R}{G}</ManaCost>
+<CardText>Trample
+When Child of Alara dies, destroy all nonland permanents. They can't be regenerated.</CardText>
+<Flavor>The progeny of the Maelstrom shows no allegiance—and no mercy—to any of the five shards.</Flavor>
+<ChineseFlavor>涡心的后裔对这五个断片毫无情感～也绝不留情。</ChineseFlavor>
+<Artist>Steve Argyle</Artist>
+<Multiverseid>180516</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>102</No>
+<Name>Conflux</Name>
+<ChineseName>聚流</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{W}{U}{B}{R}{G}</ManaCost>
+<CardText>Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards, put them into your hand, then shuffle.</CardText>
+<Flavor>After years of world-bending machinations, Bolas's triumph is at hand.</Flavor>
+<ChineseFlavor>令世界屈膝的密谋策画多年，波拉斯已然胜券在握。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Multiverseid>179437</Multiverseid>
+<Rulings>2018/03/16: You don't have to find all five cards.
+2018/03/16: You may find multicolored cards with Conflux. The white card you find, for example, can be any number of colors, as long as white is one of them. What colors it is won't impact what other cards you can find. For example, you may find a white-blue card as the white card and another white-blue card as the blue card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>103</No>
+<Name>Countersquall</Name>
+<ChineseName>反击旋风</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}{B}</ManaCost>
+<CardText>Counter target noncreature spell. Its controller loses 2 life.</CardText>
+<Flavor>Each of the twenty-three winds of Esper is named and chronicled, and every possible interaction with the flow of magic is exhaustively detailed.</Flavor>
+<ChineseFlavor>艾斯波二十三种风都有独特的名字与记录，与每道法术流动可能产生的互动也都巨细靡遗地列载。</ChineseFlavor>
+<Artist>Anthony Francisco</Artist>
+<Multiverseid>186327</Multiverseid>
+<Rulings>2018/12/07: A spell that can't be countered is a legal target for Countersquall. The spell won't be countered when Countersquall resolves, but its controller still loses 2 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>104</No>
+<Name>Elder Mastery</Name>
+<ChineseName>长老支配</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{U}{B}{R}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +3/+3 and has flying.
+Whenever enchanted creature deals damage to a player, that player discards two cards.</CardText>
+<Flavor>Taste his power, hunger for his command.</Flavor>
+<ChineseFlavor>品尝他的力量，亟欲为之效命。</ChineseFlavor>
+<Artist>Dave Allsop</Artist>
+<Multiverseid>183024</Multiverseid>
+<Rulings>2009/02/01: The last ability triggers from any damage dealt by the enchanted creature, not just combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>105</No>
+<Name>Esper Cormorants</Name>
+<ChineseName>艾斯波鱼鹰</ChineseName>
+<Type>Artifact Creature — Bird 3/3</Type>
+<ManaCost>{2}{W}{U}</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>"The smiths of this land must be mad to reach so far and so high for another creature to decorate."
+—Cagen Vargan, Jhessian sea scout</Flavor>
+<ChineseFlavor>「这大地的铸造者脑筋一定有问题，居然到那么高远的地方来装饰生物。」
+～介斯海斥候凯根•瓦肯</ChineseFlavor>
+<Artist>Warren Mahy</Artist>
+<Multiverseid>184983</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>106</No>
+<Name>Exploding Borders</Name>
+<ChineseName>暴现边境</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{R}{G}</ManaCost>
+<CardText>Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. Exploding Borders deals X damage to target player or planeswalker, where X is the number of basic land types among lands you control.</CardText>
+<Flavor>Reuniting a world is not a gentle process.</Flavor>
+<ChineseFlavor>让世界合一的过程绝不会温和。</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Multiverseid>189378</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.
+2009/02/01: You do what the spell says in order, so you'll put a new basic land card onto the battlefield before you determine the value of X.
+2009/02/01: Exploding Borders will still deal damage even if you don't put a land card onto the battlefield.
+2009/02/01: Exploding Borders has only one target: the player. If that player becomes an illegal target by the time Exploding Borders would resolve, the entire spell doesn't resolve. You won't get to search for a basic land card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>107</No>
+<Name>Fusion Elemental</Name>
+<ChineseName>融合元素</ChineseName>
+<Type>Creature — Elemental 8/8</Type>
+<ManaCost>{W}{U}{B}{R}{G}</ManaCost>
+<Flavor>As the shards merged into the Maelstrom, their mana energies fused into new monstrosities.</Flavor>
+<ChineseFlavor>随着断片向涡心聚合，其间的法术力能量融合成新种的怪兽。</ChineseFlavor>
+<Artist>Michael Komarck</Artist>
+<Multiverseid>179443</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>108</No>
+<Name>Giltspire Avenger</Name>
+<ChineseName>金辉塔复仇者</ChineseName>
+<Type>Creature — Human Soldier 2/2</Type>
+<ManaCost>{G}{W}{U}</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Destroy target creature that dealt damage to you this turn.</CardText>
+<Flavor>"To trespass so far from home is to ask for a lonesome grave."</Flavor>
+<ChineseFlavor>「离家闯荡到这么远的地方，就是为了座孤坟。」</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Multiverseid>186614</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>109</No>
+<Name>Goblin Outlander</Name>
+<ChineseName>鬼怪离乡客</ChineseName>
+<Type>Creature — Goblin Scout 2/2</Type>
+<ManaCost>{B}{R}</ManaCost>
+<CardText>Protection from white</CardText>
+<Flavor>Egbol stared in wonder at Naya's landscape. So much to eat. So much to steal.</Flavor>
+<ChineseFlavor>易柏惊异地望着纳雅的景色。 有好多东西要吃。 有好多东西要偷。</ChineseFlavor>
+<Artist>Trevor Claxton</Artist>
+<Multiverseid>185142</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>110</No>
+<Name>Gwafa Hazid, Profiteer</Name>
+<ChineseName>投机客瓜法哈基</ChineseName>
+<Type>Legendary Creature — Human Rogue 2/2</Type>
+<ManaCost>{1}{W}{U}</ManaCost>
+<CardText>{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card.
+Creatures with bribery counters on them can't attack or block.</CardText>
+<Flavor>"Everyone has a price."</Flavor>
+<ChineseFlavor>「人人都有价可询。」</ChineseFlavor>
+<Artist>Todd Lockwood</Artist>
+<Multiverseid>185811</Multiverseid>
+<Rulings>2009/02/01: If Gwafa Hazid leaves the battlefield, any bribery counters will remain where they are. However, without a Gwafa Hazid on the battlefield, creatures with bribery counters on them can attack and block as normal. If another Gwafa Hazid enters the battlefield, its ability will affect all creatures with bribery counters on them, including the ones that received counters from a different Gwafa Hazid.
+2009/02/01: Creatures with bribery counters on them can't be declared as attackers or blockers. However, if a bribery counter is put on a creature that's already been declared as an attacker or blocker, that creature will continue to attack or block that combat.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>111</No>
+<Name>Hellkite Hatchling</Name>
+<ChineseName>残虐者幼雏</ChineseName>
+<Type>Creature — Dragon 2/2</Type>
+<ManaCost>{2}{R}{G}</ManaCost>
+<CardText>Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+Hellkite Hatchling has flying and trample if it devoured a creature.</CardText>
+<Flavor>A killing machine from birth.</Flavor>
+<ChineseFlavor>生来便是杀戮机器。</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Multiverseid>189146</Multiverseid>
+<Rulings>2009/02/01: Hellkite Hatchling has flying and trample if at least one creature was sacrificed as a result of the Hatchling's devour ability as it entered the battlefield. It retains those abilities even if its +1/+1 counters are somehow removed.
+2009/02/01: If another creature becomes a copy of Hellkite Hatchling (due to Mirrorweave, for example), the second ability checks to see whether that creature — not the original Hellkite Hatchling — devoured a creature as it entered the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>112</No>
+<Name>Jhessian Balmgiver</Name>
+<ChineseName>介斯香膏僧</ChineseName>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>{1}{W}{U}</ManaCost>
+<CardText>{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+{T}: Target creature can't be blocked this turn.</CardText>
+<Flavor>"You have two choices: heed my advice now or need my healing later."</Flavor>
+<ChineseFlavor>「你有两个选择：现在听我建议，或是等下让我治伤。」</ChineseFlavor>
+<Artist>David Palumbo</Artist>
+<Multiverseid>174791</Multiverseid>
+<Rulings>2009/02/01: After blockers have been declared, activating the second ability won't cause those blocks to change.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>113</No>
+<Name>Knight of the Reliquary</Name>
+<ChineseName>圣物骑士</ChineseName>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>{1}{G}{W}</ManaCost>
+<CardText>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
+{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.</CardText>
+<Flavor>"Knowledge of Bant's landscape and ruins is a weapon that the invaders can't comprehend."
+—Elspeth</Flavor>
+<ChineseFlavor>「若能熟知班特的地势与废墟，对抗入侵者时就会成为无上利器。」
+～艾紫培</ChineseFlavor>
+<Artist>Michael Komarck</Artist>
+<Multiverseid>189145</Multiverseid>
+<Rulings>2021/03/19: Knight of the Reliquary's first ability applies only while it's on the battlefield. In all other zones, it's a 2/2 creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>114</No>
+<Name>Knotvine Mystic</Name>
+<ChineseName>结藤秘教徒</ChineseName>
+<Type>Creature — Elf Druid 2/2</Type>
+<ManaCost>{R}{G}{W}</ManaCost>
+<CardText>{1}, {T}: Add {R}{G}{W}.</CardText>
+<Flavor>The elves of Naya were the last to acknowledge the massive shift of mana in their world.</Flavor>
+<ChineseFlavor>纳雅地精是最晚才查觉世界之法术力大幅变动的一群。</ChineseFlavor>
+<Artist>Ariel Olivetti</Artist>
+<Multiverseid>180265</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>115</No>
+<Name>Maelstrom Archangel</Name>
+<ChineseName>涡心大天使</ChineseName>
+<Type>Creature — Angel 5/5</Type>
+<ManaCost>{W}{U}{B}{R}{G}</ManaCost>
+<CardText>Flying
+Whenever Maelstrom Archangel deals combat damage to a player, you may cast a spell from your hand without paying its mana cost.</CardText>
+<Flavor>There is no world where angels fear to tread.</Flavor>
+<ChineseFlavor>没有天使不敢踏入的世界。</ChineseFlavor>
+<Artist>Cyril Van Der Haegen</Artist>
+<Multiverseid>185136</Multiverseid>
+<Rulings>2009/02/01: If you want to cast a card this way, you cast it as part of the resolution of Maelstrom Angel's triggered ability. Timing restrictions based on the card's type (such as creature or sorcery) are ignored. Other casting restrictions are not (such as "Cast [this card] only before attackers are declared").
+2009/02/01: If you cast a card this way, you're casting it as a spell. It can be countered.
+2009/02/01: If you cast a card with X in its cost this way, X must be 0.
+2009/02/01: If you cast a card "without paying its mana cost," you can't choose to cast it for any alternative costs, such as evoke or the alternative cost provided by the morph ability. However, you can pay optional additional costs, such as conspire, and you must still pay mandatory additional costs, such as the one on Goldmeadow Stalwart.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>116</No>
+<Name>Magister Sphinx</Name>
+<ChineseName>范师史芬斯</ChineseName>
+<Type>Artifact Creature — Sphinx 5/5</Type>
+<ManaCost>{4}{W}{U}{B}</ManaCost>
+<CardText>Flying
+When Magister Sphinx enters the battlefield, target player's life total becomes 10.</CardText>
+<Flavor>"These benighted worlds are thick with ignorance. I will educate them. They will listen, or they will die."</Flavor>
+<ChineseFlavor>「这些黑暗世界尽是无知愚昧。 我将教化他们。 他们必得听令，否则便是寻死。」</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>179892</Multiverseid>
+<Rulings>2009/02/01: This ability is not optional.
+2009/02/01: For a player's life total to become 10, what actually happens is that the player gains or loses the appropriate amount of life. For example, if the targeted player's life total is 4 when this ability resolves, it will cause that player to gain 6 life; alternately, if the targeted player's life total is 17 when this ability resolves, it will cause that player to lose 7 life. Other cards that interact with life gain or life loss will interact with this effect accordingly.
+2010/06/15: In a Two-Headed Giant game, this ability basically causes the team's life total to become 10, but only the targeted player is considered to have actually gained or lost life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>117</No>
+<Name>Malfegor</Name>
+<ChineseName>墨非葛</ChineseName>
+<Type>Legendary Creature — Demon Dragon 6/6</Type>
+<ManaCost>{2}{B}{B}{R}{R}</ManaCost>
+<CardText>Flying
+When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.</CardText>
+<Flavor>A demon cannot be trusted, and a dragon will not be ruled.</Flavor>
+<ChineseFlavor>不可信任的恶魔，不愿听令的巨龙。</ChineseFlavor>
+<Artist>Jason Chan</Artist>
+<Multiverseid>185812</Multiverseid>
+<Rulings>2017/11/17: Malfegor's ability is not optional. You must discard your entire hand no matter how many creatures your opponents control.
+2017/11/17: After you discard your hand and the number of creatures each opponent must sacrifice has been determined, each opponent in turn order, starting with the player whose turn it is if that player is your opponent, chooses which creatures they will sacrifice, then all the chosen creatures are all sacrificed at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>118</No>
+<Name>Meglonoth</Name>
+<ChineseName>梅格诺斯</ChineseName>
+<Type>Creature — Beast 6/6</Type>
+<ManaCost>{3}{R}{G}{W}</ManaCost>
+<CardText>Vigilance, trample
+Whenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power.</CardText>
+<Flavor>When the shards merged, Mayael found herself the general of Naya's mightiest army.</Flavor>
+<ChineseFlavor>当诸断片融合时，梅燕才明白自己正是纳雅最强部队的将领。</ChineseFlavor>
+<Artist>Steve Prescott</Artist>
+<Multiverseid>179886</Multiverseid>
+<Rulings>2009/02/01: You don't check Meglonoth's power until its triggered ability resolves.
+2009/02/01: If Meglonoth leaves the battlefield after its ability triggers but before it resolves, the amount of damage it deals is equal to its power as it last existed on the battlefield.
+2009/02/01: If Meglonoth somehow blocks more than one creature, its ability will trigger once for each creature it blocks.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>119</No>
+<Name>Nacatl Outlander</Name>
+<ChineseName>拿卡地离乡客</ChineseName>
+<Type>Creature — Cat Scout 2/2</Type>
+<ManaCost>{R}{G}</ManaCost>
+<CardText>Protection from blue</CardText>
+<Flavor>Survival in the wilds of Naya left Tiyan well equipped to win the civilized battles of Bant.</Flavor>
+<ChineseFlavor>在纳雅野境的生存经验，让泰研足以应付班特的文明战斗。</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Multiverseid>185140</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>120</No>
+<Name>Nicol Bolas, Planeswalker</Name>
+<ChineseName>鹏洛客尼可波拉斯</ChineseName>
+<Type>Legendary Planeswalker — Bolas (Loyalty: 5)</Type>
+<ManaCost>{4}{U}{B}{B}{R}</ManaCost>
+<CardText>[+3]: Destroy target noncreature permanent.
+[-2]: Gain control of target creature.
+[-9]: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.</CardText>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>179441</Multiverseid>
+<Rulings>2009/02/01: The control-change effect has no duration. It will last until the game ends or the affected creature leaves the battlefield. It may be superseded by a later control-change effect.
+2012/07/01: If the damage from Nicol Bolas's third ability is prevented or redirected, the rest of the effect will still happen. Specifically, the number of cards discarded and permanents sacrificed isn't tied to the amount of damage dealt.
+2012/07/01: For the third ability, if the player is an illegal target when the ability tries to resolve, the ability doesn't resolve and none of its effects will happen. No damage will be dealt, no cards will be discarded, and no permanents will be sacrificed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>121</No>
+<Name>Progenitus</Name>
+<ChineseName>祖神兽</ChineseName>
+<Type>Legendary Creature — Hydra Avatar 10/10</Type>
+<ManaCost>{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}</ManaCost>
+<CardText>Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.</CardText>
+<Flavor>The Soul of the World has returned.</Flavor>
+<ChineseFlavor>世界的灵魂已然回归。</ChineseFlavor>
+<Artist>Jaime Jones</Artist>
+<Multiverseid>179496</Multiverseid>
+<Rulings>2009/02/01: "Protection from everything" means the following: Progenitus can't be blocked, Progenitus can't be enchanted or equipped, Progenitus can't be the target of spells or abilities, and all damage that would be dealt to Progenitus is prevented.
+2009/02/01: Progenitus can still be affected by effects that don't target it or deal damage to it (such as Day of Judgment).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>122</No>
+<Name>Rhox Bodyguard</Name>
+<ChineseName>罗克保镖</ChineseName>
+<Type>Creature — Rhino Monk Soldier 2/3</Type>
+<ManaCost>{3}{G}{W}</ManaCost>
+<CardText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+When Rhox Bodyguard enters the battlefield, you gain 3 life.</CardText>
+<Flavor>An enlightened soul caged in a body made for battle.</Flavor>
+<ChineseFlavor>悟道的心灵囚禁在为战斗而生的躯体中。</ChineseFlavor>
+<Artist>Sal Villagran</Artist>
+<Multiverseid>177924</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>123</No>
+<Name>Scarland Thrinax</Name>
+<ChineseName>痕域叉齿蜥</ChineseName>
+<Type>Creature — Lizard 2/2</Type>
+<ManaCost>{B}{R}{G}</ManaCost>
+<CardText>Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.</CardText>
+<Flavor>"There is only one way of life in Jund: feed on the weak until you are cut down by something stronger."
+—Jorshu of Clan Nel Toth</Flavor>
+<ChineseFlavor>「勇得只有一种生活方式：吞食弱者，直到你被更强者击倒为止。」
+～奈拓族的裘束</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Multiverseid>183025</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>124</No>
+<Name>Shambling Remains</Name>
+<ChineseName>跛行遗骸</ChineseName>
+<Type>Creature — Zombie Horror 4/3</Type>
+<ManaCost>{1}{B}{R}</ManaCost>
+<CardText>Shambling Remains can't block.
+Unearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</CardText>
+<Artist>Nils Hamm</Artist>
+<Multiverseid>184991</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>125</No>
+<Name>Skyward Eye Prophets</Name>
+<ChineseName>尊天先知</ChineseName>
+<Type>Creature — Human Wizard 3/3</Type>
+<ManaCost>{3}{G}{W}{U}</ManaCost>
+<CardText>Vigilance
+{T}: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.</CardText>
+<Flavor>They lament the doom that is coming to Bant without realizing the part their own leaders have played in it.</Flavor>
+<ChineseFlavor>他们悲叹着班特面临的末日，完全不知道自己的领导者也参与其间。</ChineseFlavor>
+<Artist>Matt Stewart</Artist>
+<Multiverseid>174953</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>126</No>
+<Name>Sludge Strider</Name>
+<ChineseName>泥泞跨行虫</ChineseName>
+<Type>Artifact Creature — Insect 3/3</Type>
+<ManaCost>{1}{W}{U}{B}</ManaCost>
+<CardText>Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.</CardText>
+<Flavor>Underneath the cities of Esper are cycles of life unseen by those who feed them.</Flavor>
+<ChineseFlavor>在艾斯波诸城下方，有着提供养分者从未觉察到的生命循环。</ChineseFlavor>
+<Artist>Franz Vohwinkel</Artist>
+<Multiverseid>183019</Multiverseid>
+<Rulings>2009/02/01: If Sludge Strider and another artifact enter the battlefield under your control at the same time, Sludge Strider's triggered ability will trigger. Similarly, if Sludge Strider and another artifact you control leave the battlefield at the same time, Sludge Strider's triggered ability will trigger.
+2009/02/01: If an artifact creature with 0 toughness enters the battlefield under your control, Sludge Strider's ability will trigger a total of twice: Once when that creature enters the battlefield, and once when it's put into a graveyard. Both abilities will be put on the stack after the state-based action check that puts the 0-toughness creature into the graveyard is finished.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>127</No>
+<Name>Sphinx Summoner</Name>
+<ChineseName>史芬斯召唤师</ChineseName>
+<Type>Artifact Creature — Sphinx 3/3</Type>
+<ManaCost>{3}{U}{B}</ManaCost>
+<CardText>Flying
+When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, put it into your hand, then shuffle.</CardText>
+<Artist>Jaime Jones</Artist>
+<Multiverseid>189079</Multiverseid>
+<Rulings>2009/02/01: The card you find must be both an artifact and a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>128</No>
+<Name>Suicidal Charge</Name>
+<ChineseName>自杀冲锋</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{B}{R}</ManaCost>
+<CardText>Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.</CardText>
+<Flavor>"They think they're winning. But they're just lining up to be dinner."
+—Rakka Mar</Flavor>
+<ChineseFlavor>「他们居然觉得自己会赢。 明明只是排队来变成晚餐而已。」
+～拉卡•玛</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Multiverseid>180345</Multiverseid>
+<Rulings>2009/02/01: Suicidal Charge's ability affects only the creatures your opponents control at the time it resolves. If another creature comes under the control of one of those players by the time that turn's combat step begins, it won't have to attack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>129</No>
+<Name>Vagrant Plowbeasts</Name>
+<ChineseName>漂泊犁兽</ChineseName>
+<Type>Creature — Beast 6/6</Type>
+<ManaCost>{5}{G}{W}</ManaCost>
+<CardText>{1}: Regenerate target creature with power 5 or greater.</CardText>
+<Flavor>Plowbeasts of Naya escaped their harnesses in droves, content to snack on the conveniently cultivated fields of Eos and Valeron.</Flavor>
+<ChineseFlavor>纳雅的犁兽成群挣脱了挽具，在亿欧与威烈隆已开垦的原野上满足地嚼着零食。</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Multiverseid>180344</Multiverseid>
+<Rulings>2009/02/01: This ability checks the targeted creature's power only at the time the ability is activated and at the time it resolves. The regeneration shield it creates will work no matter what that creature's power is at the time it would be destroyed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>130</No>
+<Name>Valeron Outlander</Name>
+<ChineseName>威烈隆离乡客</ChineseName>
+<Type>Creature — Human Scout 2/2</Type>
+<ManaCost>{G}{W}</ManaCost>
+<CardText>Protection from black</CardText>
+<Flavor>After years of honing her philosophy in debate with stubborn rhoxes, Niella was ready to convert any heathen.</Flavor>
+<ChineseFlavor>妮拉多年来都与顽固的罗克周旋，自认所磨炼出的辩论技巧足以说服任何异教徒。</ChineseFlavor>
+<Artist>Matt Stewart</Artist>
+<Multiverseid>185144</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>131</No>
+<Name>Vectis Agents</Name>
+<ChineseName>纬提密探</ChineseName>
+<Type>Artifact Creature — Human Rogue 4/3</Type>
+<ManaCost>{3}{U}{B}</ManaCost>
+<CardText>{U}{B}: Vectis Agents gets -2/-0 until end of turn and can't be blocked this turn.</CardText>
+<Flavor>With their life energy suppressed under their etherium enhancements, thieves from Esper found it surprisingly easy to explore the ruins of Grixis.</Flavor>
+<ChineseFlavor>由于乙金强化压迫生命能量之故，出身自艾斯波的盗贼觉得探索格利极废墟实在轻而易举。</ChineseFlavor>
+<Artist>Chippy</Artist>
+<Multiverseid>183063</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>132</No>
+<Name>Vedalken Outlander</Name>
+<ChineseName>维多肯离乡客</ChineseName>
+<Type>Artifact Creature — Vedalken Scout 2/2</Type>
+<ManaCost>{W}{U}</ManaCost>
+<CardText>Protection from red</CardText>
+<Flavor>The Seekers of Carmot searched across the unknown lands for the mystical red stone that could reforge Esper in ethereal perfection.</Flavor>
+<ChineseFlavor>致知会在未知大地上搜寻传说中的红石，要用虚相的完美重塑艾斯波。</ChineseFlavor>
+<Artist>Izzy</Artist>
+<Multiverseid>185141</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>133</No>
+<Name>Zombie Outlander</Name>
+<ChineseName>灵俑离乡客</ChineseName>
+<Type>Creature — Zombie Scout 2/2</Type>
+<ManaCost>{U}{B}</ManaCost>
+<CardText>Protection from green</CardText>
+<Flavor>The ripe smell of life drifted into Grixis. The dead caught the scent and with reckless hunger followed it back into Jund.</Flavor>
+<ChineseFlavor>生命的醇美气息飘入格利极。 怀抱无尽饥渴的亡者循着这气味来到勇得。</ChineseFlavor>
+<Artist>Nils Hamm</Artist>
+<Multiverseid>185138</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>134</No>
+<Name>Armillary Sphere</Name>
+<ChineseName>浑天仪</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.</CardText>
+<Flavor>The mysterious purpose of two of the rings had eluded Esper mages—until now.</Flavor>
+<ChineseFlavor>那两环的神秘效能始终困扰着艾斯波法师～直到现在为止。</ChineseFlavor>
+<Artist>Franz Vohwinkel</Artist>
+<Multiverseid>137936</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>135</No>
+<Name>Bone Saw</Name>
+<ChineseName>白骨锯</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{0}</ManaCost>
+<CardText>Equipped creature gets +1/+0.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</CardText>
+<Flavor>In a world where death is always violent, cruel weapons are as common as rocks.</Flavor>
+<ChineseFlavor>在死状向来惨烈的世界中，各式残酷武器就如石头般四处可见。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>189270</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>136</No>
+<Name>Font of Mythos</Name>
+<ChineseName>神赐洗礼盘</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>At the beginning of each player's draw step, that player draws two additional cards.</CardText>
+<Flavor>Those who drink from Malfegor's cup are tainted with hunger and stained with lies.</Flavor>
+<ChineseFlavor>自墨非葛杯中饮水者，都被饥饿与谎言所感染。</ChineseFlavor>
+<Artist>Dave Allsop</Artist>
+<Multiverseid>189147</Multiverseid>
+<Rulings>2013/04/15: The triggered ability is put onto the stack after you have already drawn your card for the turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>137</No>
+<Name>Kaleidostone</Name>
+<ChineseName>万花石</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>When Kaleidostone enters the battlefield, draw a card.
+{5}, {T}, Sacrifice Kaleidostone: Add {W}{U}{B}{R}{G}.</CardText>
+<Flavor>Once broken, who knows what worlds might grow from its shards?</Flavor>
+<ChineseFlavor>没人知道从这曾经分裂的断片中，会长出怎样的世界？</ChineseFlavor>
+<Artist>Chippy</Artist>
+<Multiverseid>189272</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>138</No>
+<Name>Mana Cylix</Name>
+<ChineseName>法术力钵</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>{1}, {T}: Add one mana of any color.</CardText>
+<Flavor>Those who dismiss the cylix as an ordinary wooden bowl are blind to the true measure of its worth.</Flavor>
+<ChineseFlavor>只把这钵当成一般木头碗的人，都无法查知其真正价值所在。</ChineseFlavor>
+<Artist>Howard Lyon</Artist>
+<Multiverseid>189269</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>139</No>
+<Name>Manaforce Mace</Name>
+<ChineseName>法铸锤</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Domain — Equipped creature gets +1/+1 for each basic land type among lands you control.
+Equip {3}</CardText>
+<Flavor>As the shards merged, relics once thought mundane regained forgotten powers.</Flavor>
+<ChineseFlavor>随着断片聚合，曾被当作俗物的遗宝也重获被遗忘之力量。</ChineseFlavor>
+<Artist>Jeremy Jarvis</Artist>
+<Multiverseid>180159</Multiverseid>
+<Rulings>2009/02/01: To determine the number of basic land types among lands you control, look at the lands you have on the battlefield and ask yourself whether the subtypes Plains, Island, Swamp, Mountain, and Forest appear within that group. The number of times you say yes (topping out at five) tells you how powerful your domain abilities will be.
+2009/02/01: How many lands you control of a particular basic land type is irrelevant to a domain ability, as long as that number is greater than zero. As far as domain is concerned, ten Forests is the same as one Forest.
+2009/02/01: A number of nonbasic lands have basic land types. Domain abilities don't count the number of lands you control — they count the number of basic land types among lands you control, even if that means checking the same land twice. For example, if you control a Tundra, an Overgrown Tomb, and a Madblind Mountain, you'll have a Plains, Island, Swamp, Mountain, and Forest among the lands you control. Your domain abilities will be maxed out.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>140</No>
+<Name>Obelisk of Alara</Name>
+<ChineseName>阿拉若碑</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>{1}{W}, {T}: You gain 5 life.
+{1}{U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}: Target creature gets -2/-2 until end of turn.
+{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player or planeswalker.
+{1}{G}, {T}: Target creature gets +4/+4 until end of turn.</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Multiverseid>183018</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>141</No>
+<Name>Ancient Ziggurat</Name>
+<ChineseName>远古金塔庙</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any color. Spend this mana only to cast a creature spell.</CardText>
+<Flavor>Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again.</Flavor>
+<ChineseFlavor>金塔庙原是建造来荣耀阿拉若的生物，早已消失多年。 在祖神兽苏醒后，它们再度出现。</ChineseFlavor>
+<Artist>John Avon</Artist>
+<Multiverseid>189271</Multiverseid>
+<Rulings>2009/02/01: Mana produced by Ancient Ziggurat can be spent on any part of a creature spell's total cost. This includes additional costs (such as kicker) and alternative costs (such as evoke or Worldheart Phoenix's alternative cost).
+2009/02/01: Mana produced by Ancient Ziggurat can't be spent on activated abilities that put a creature card directly onto the battlefield, such as unearth or ninjutsu.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>142</No>
+<Name>Exotic Orchard</Name>
+<ChineseName>异国果园</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any color that a land an opponent controls could produce.</CardText>
+<Flavor>"It was a strange morning. When we awoke, we found our trees transformed. We didn't know whether to water them or polish them."
+—Pulan, Bant orchardist</Flavor>
+<ChineseFlavor>「那是个奇怪的早晨。 我们醒来时，就发现树变了样子。 不晓得该要替它浇水还是把它擦亮。」
+～班特栽果人普兰</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Multiverseid>189273</Multiverseid>
+<Rulings>2009/02/01: The colors of mana are white, blue, black, red, and green. Exotic Orchard can't be tapped for colorless mana, even if a land an opponent controls could produce colorless mana.
+2009/02/01: Exotic Orchard checks the effects of all mana-producing abilities of lands your opponents control, but it doesn't check their costs. For example, Vivid Crag has the ability "{T}, Remove a charge counter from Vivid Crag: Add one mana of any color." If an opponent controls Vivid Crag and you control Exotic Orchard, you can tap Exotic Orchard for any color of mana. It doesn't matter whether Vivid Crag has a charge counter on it, and it doesn't matter whether it's untapped.
+2009/02/01: When determining what colors of mana your opponents' lands could produce, Exotic Orchard takes into account any applicable replacement effects that would apply to those lands' mana abilities (such as Contamination's effect, for example). If there are more than one, consider them in any possible order.
+2009/02/01: Exotic Orchard doesn't care about any restrictions or riders your opponents' lands (such as Ancient Ziggurat or Hall of the Bandit Lord) put on the mana they produce. It just cares about colors of mana.
+2009/02/01: Lands that produce mana based only on what other lands "could produce" won't help each other unless some other land allows one of them to actually produce some type of mana. For example, if you control an Exotic Orchard and your opponent controls an Exotic Orchard and a Reflecting Pool, none of those lands would produce mana if their mana abilities were activated. On the other hand, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard and a Reflecting Pool, then each of those lands can be tapped to produce {G}. Your opponent's Exotic Orchard can produce {G} because you control a Forest. Your Exotic Orchard and your opponent's Reflecting Pool can each produce {G} because your opponent's Exotic Orchard can produce {G}.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>143</No>
+<Name>Reliquary Tower</Name>
+<ChineseName>圣物塔</ChineseName>
+<Type>Land</Type>
+<CardText>You have no maximum hand size.
+{T}: Add {C}.</CardText>
+<Flavor>When the aven scouts located the tower in Esper, the Knights of the Reliquary set off on a righteous crusade to recover their lost treasures.</Flavor>
+<ChineseFlavor>艾文斥候发现该塔位于艾斯波，圣物骑士团随即发动了正义圣战，要取回属于他们的遗宝。</ChineseFlavor>
+<Artist>Jesper Ejsing</Artist>
+<Multiverseid>150807</Multiverseid>
+<Rulings>2009/02/01: If multiple effects modify your hand size, apply them in timestamp order. For example, if you put Null Profusion (an enchantment that says your maximum hand size is two) onto the battlefield and then put Reliquary Tower onto the battlefield, you'll have no maximum hand size. However, if those permanents enter the battlefield in the opposite order, your maximum hand size would be two.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>144</No>
+<Name>Rupture Spire</Name>
+<ChineseName>破裂尖塔</ChineseName>
+<Type>Land</Type>
+<CardText>Rupture Spire enters the battlefield tapped.
+When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.</CardText>
+<Artist>Jaime Jones</Artist>
+<Multiverseid>142301</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>CFX</SetId>
+<No>145</No>
+<Name>Unstable Frontier</Name>
+<ChineseName>不稳定边疆</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Target land you control becomes the basic land type of your choice until end of turn.</CardText>
+<Flavor>The goblins went to sleep in Jund and awoke in Grixis. They'd never seen a zombie before. They would never see one again.</Flavor>
+<ChineseFlavor>精灵在勇得入梦，于格利极苏醒。 他们从没见过灵俑。 他们也不会再见到灵俑。</ChineseFlavor>
+<Artist>John Avon</Artist>
+<Multiverseid>189078</Multiverseid>
+<Rulings>2009/02/01: You choose a basic land type as the ability resolves.
+2009/02/01: The affected land loses its existing land types and any abilities printed on it. It becomes the chosen basic land type and now has the ability to tap to add one mana of the appropriate color to your mana pool. Unstable Frontier's ability doesn't change the affected land's name or whether it's legendary or basic.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Conflux</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

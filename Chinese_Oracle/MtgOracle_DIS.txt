@@ -1,0 +1,3954 @@
+<Card>
+<SetId>DIS</SetId>
+<No>1</No>
+<Name>Aurora Eidolon</Name>
+<ChineseName>曙光幻灵</ChineseName>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>{W}, Sacrifice Aurora Eidolon: Prevent the next 3 damage that would be dealt to any target this turn.
+Whenever you cast a multicolored spell, you may return Aurora Eidolon from your graveyard to your hand.</CardText>
+<Artist>Justin Sweet</Artist>
+<Multiverseid>110639</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>2</No>
+<Name>Azorius Herald</Name>
+<ChineseName>俄佐立传令使</ChineseName>
+<Type>Creature — Spirit 2/1</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Azorius Herald can't be blocked.
+When Azorius Herald enters the battlefield, you gain 4 life.
+When Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.</CardText>
+<Flavor>"As peace should be—gentle yet unstoppable."
+—Augustin IV</Flavor>
+<ChineseFlavor>「和平便当如此～温和却无从抵抗。」
+～奥古斯汀四世</ChineseFlavor>
+<Artist>Justin Sweet</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107577</Multiverseid>
+<Rulings>2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>3</No>
+<Name>Beacon Hawk</Name>
+<ChineseName>信标翔鹰</ChineseName>
+<Type>Creature — Bird 1/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Flying
+Whenever Beacon Hawk deals combat damage to a player, you may untap target creature.
+{W}: Beacon Hawk gets +0/+1 until end of turn.</CardText>
+<Artist>William Simpson</Artist>
+<Multiverseid>111225</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>4</No>
+<Name>Blessing of the Nephilim</Name>
+<ChineseName>巨神灵加持</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +1/+1 for each of its colors.</CardText>
+<Flavor>"Before the first stone was laid or the first elf-child born, the power of the nephilim was gathering. Let that power be spread by my hands."</Flavor>
+<ChineseFlavor>「在首度奠基、地精诞生之前，巨神灵之力便已茁壮。 这力量将藉我手导引。」</ChineseFlavor>
+<Artist>Greg Hildebrandt</Artist>
+<Multiverseid>107307</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>5</No>
+<Name>Brace for Impact</Name>
+<ChineseName>抵御冲击</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{4}{W}</ManaCost>
+<CardText>Prevent all damage that would be dealt to target multicolored creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.</CardText>
+<Flavor>Flesh can be tempered by spellcraft and forged ever stronger by the hammers of foes.</Flavor>
+<ChineseFlavor>肉体固然可受咒艺锻炼，但敌手的锤炼能使其愈加坚强。</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Multiverseid>107537</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>6</No>
+<Name>Carom</Name>
+<ChineseName>借力打力</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>The next 1 damage that would be dealt to target creature this turn is dealt to another target creature instead.
+Draw a card.</CardText>
+<Flavor>Her enemy's strength is her own.</Flavor>
+<ChineseFlavor>敌人的力量使她更强壮。</ChineseFlavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Multiverseid>107310</Multiverseid>
+<Rulings>2006/05/01: If either target has left the battlefield before the damage would be dealt, that damage isn't redirected.
+2006/05/01: Carom's controller draws a card when Carom resolves, not when the damage is redirected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>7</No>
+<Name>Celestial Ancient</Name>
+<ChineseName>天界先人</ChineseName>
+<Type>Creature — Elemental 3/3</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>Flying
+Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.</CardText>
+<Flavor>"We thought the clouds had moved from the night sky. Then the night sky moved, and the horizon grew wings."
+—Josuri</Flavor>
+<ChineseFlavor>「我们以为夜空已然无云。 然后夜空消失，地平线长出了翅膀。」
+～乔苏里</ChineseFlavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>107317</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>8</No>
+<Name>Condemn</Name>
+<ChineseName>判罪</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.</CardText>
+<Flavor>"No doubt the arbiters would put you away, after all the documents are signed. But I will have justice *now*!"
+—Alovnek, Boros guildmage</Flavor>
+<ChineseFlavor>「既然需签署的文件一无遗漏，仲裁者当然会放过你。 但我现在就要主持正义！」
+～波洛斯公会法师阿劳涅</ChineseFlavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>107494</Multiverseid>
+<Rulings>2010/08/15: The affected creature's last known existence on the battlefield is checked to determine its toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>9</No>
+<Name>Freewind Equenaut</Name>
+<ChineseName>滑翔飞马骑士</ChineseName>
+<Type>Creature — Human Archer 2/2</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Flying
+As long as Freewind Equenaut is enchanted, it has "{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature."</CardText>
+<Flavor>Confront her, and feel the hooves of her steed. Ignore her, and feel the sting of her arrow.</Flavor>
+<ChineseFlavor>与她对抗，便将挨其飞蹄。  与她远离，便将受其飞箭。</ChineseFlavor>
+<Artist>Rebecca Guay</Artist>
+<Multiverseid>107253</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>10</No>
+<Name>Guardian of the Guildpact</Name>
+<ChineseName>十会盟守护者</ChineseName>
+<Type>Creature — Spirit 2/3</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Protection from monocolored</CardText>
+<Flavor>The magic of the Guildpact gives aegis to the spirits pressed into its service. Upon entering the afterlife, they find new focus and are charged with defending the Guildpact against those who would see it broken.</Flavor>
+<ChineseFlavor>十会盟的法术替受命效力的精魂提供屏障。 进入来生之后，他们找到新的目标，立志将意图破坏十会盟者全数击灭。</ChineseFlavor>
+<Artist>Fred Hooper</Artist>
+<Multiverseid>107583</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>11</No>
+<Name>Haazda Exonerator</Name>
+<ChineseName>哈资达退障师</ChineseName>
+<Type>Creature — Human Cleric 1/1</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>{T}, Sacrifice Haazda Exonerator: Destroy target Aura.</CardText>
+<Flavor>"This aura threatens the sanctity of your soul. Wrenching it free won't be easy on either of us. If you're ready, we'll begin."</Flavor>
+<ChineseFlavor>「这灵气会污染你的心灵。 若想将它褪除，对我俩均非易事。 如果你已准备妥当，我们这就开始。」</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>107467</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>12</No>
+<Name>Haazda Shield Mate</Name>
+<ChineseName>哈资达护盾手</ChineseName>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice Haazda Shield Mate unless you pay {W}{W}.
+{W}: The next time a source of your choice would deal damage to you this turn, prevent that damage.</CardText>
+<Flavor>The Haazda shield is broad, protecting both the free and the guilded.</Flavor>
+<ChineseFlavor>哈资达的盾牌不问对象，自由人与入会者均可受其庇护。</ChineseFlavor>
+<Artist>Ron Spears</Artist>
+<Multiverseid>107272</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>13</No>
+<Name>Mistral Charger</Name>
+<ChineseName>西北风战马</ChineseName>
+<Type>Creature — Pegasus 2/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Flying</CardText>
+<Flavor>Some sky steeds break from the thundering herd to ride free on the open winds.</Flavor>
+<ChineseFlavor>有些天马脱离大群，情愿随风自由翱翔。</ChineseFlavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>107260</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>14</No>
+<Name>Paladin of Prahv</Name>
+<ChineseName>布拉夫神圣武士</ChineseName>
+<Type>Creature — Human Knight 3/4</Type>
+<ManaCost>{4}{W}{W}</ManaCost>
+<CardText>Whenever Paladin of Prahv deals damage, you gain that much life.
+Forecast — {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>William Simpson</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107433</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>15</No>
+<Name>Proclamation of Rebirth</Name>
+<ChineseName>再生预言</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Return up to three target creature cards with mana value 1 or less from your graveyard to the battlefield.
+Forecast — {5}{W}, Reveal Proclamation of Rebirth from your hand: Return target creature card with mana value 1 or less from your graveyard to the battlefield. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>William Simpson</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107341</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>16</No>
+<Name>Proper Burial</Name>
+<ChineseName>厚葬</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Whenever a creature you control dies, you gain life equal to that creature's toughness.</CardText>
+<Flavor>Properly honored dead gain the peace of the grave and freedom from the call of the Ghost Quarter.</Flavor>
+<ChineseFlavor>得获光荣厚葬的逝者在坟中得享安宁，无须理会魂魅城区的呼唤。</ChineseFlavor>
+<Artist>Luca Zontini</Artist>
+<Multiverseid>107466</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>17</No>
+<Name>Soulsworn Jury</Name>
+<ChineseName>誓魂陪审员</ChineseName>
+<Type>Creature — Spirit 1/4</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Defender (This creature can't attack.)
+{1}{U}, Sacrifice Soulsworn Jury: Counter target creature spell.</CardText>
+<Flavor>In death, as in life, they protect the Grand Arbiter from exposure to contrary points of view.</Flavor>
+<ChineseFlavor>无论死后或今生，它们都将护卫大仲裁者，不使其见到矛盾观点。</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107440</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>18</No>
+<Name>Steeling Stance</Name>
+<ChineseName>坚定如钢</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}{W}</ManaCost>
+<CardText>Creatures you control get +1/+1 until end of turn.
+Forecast — {W}, Reveal Steeling Stance from your hand: Target creature gets +1/+1 until end of turn. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Randy Gallegos</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97115</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>19</No>
+<Name>Stoic Ephemera</Name>
+<ChineseName>寡欲短命客</ChineseName>
+<Type>Creature — Spirit 5/5</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Flying
+When Stoic Ephemera blocks, sacrifice it at end of combat.</CardText>
+<Flavor>"Life is fleeting, and so is death. Only the oath is eternal."</Flavor>
+<ChineseFlavor>「生命短暂，死亡亦同。 唯有誓言永恒。」</ChineseFlavor>
+<Artist>Randy Gallegos</Artist>
+<Multiverseid>107527</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>20</No>
+<Name>Valor Made Real</Name>
+<ChineseName>骁勇具现</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Target creature can block any number of creatures this turn.</CardText>
+<Flavor>"As my father taught, 'Training will raise your shield to the blow, but courage fills the gaps the shield leaves open.'"</Flavor>
+<ChineseFlavor>「我父亲教过我，『训练让你举起盾牌防身，但勇气能填补盾牌的空隙。』」</ChineseFlavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>107431</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>21</No>
+<Name>Wakestone Gargoyle</Name>
+<ChineseName>醒岩石像鬼</ChineseName>
+<Type>Creature — Gargoyle 3/4</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Defender, flying
+{1}{W}: Creatures you control with defender can attack this turn as though they didn't have defender.</CardText>
+<Flavor>Its pulsating cry shatters bonds of iron, granite, and servitude.</Flavor>
+<ChineseFlavor>其尖鸣脉动能松动钢铁、花岗岩与束缚。</ChineseFlavor>
+<Artist>Jim Murray</Artist>
+<Multiverseid>111226</Multiverseid>
+<Rulings>2006/05/01: Wakestone Gargoyle's ability allows itself to attack.
+2006/05/01: Wakestone Gargoyle's ability will affect creatures with defender that come under your control after the ability resolves but before you declare attackers (though those creatures still can't attack unless they have haste).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>22</No>
+<Name>Court Hussar</Name>
+<ChineseName>法庭轻骑兵</ChineseName>
+<Type>Creature — Vedalken Knight 1/3</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Vigilance
+When Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.
+When Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.</CardText>
+<Artist>Ron Spears</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107265</Multiverseid>
+<Rulings>2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>23</No>
+<Name>Cytoplast Manipulator</Name>
+<ChineseName>胞塑体操弄师</ChineseName>
+<Type>Creature — Human Wizard Mutant 0/0</Type>
+<ManaCost>{2}{U}{U}</ManaCost>
+<CardText>Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{U}, {T}: Gain control of target creature with a +1/+1 counter on it for as long as Cytoplast Manipulator remains on the battlefield.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107353</Multiverseid>
+<Rulings>2006/05/01: The control change lasts as long as Cytoplast Manipulator is on the battlefield. It doesn't end if the creature loses all its +1/+1 counters, it stops being a creature, or if Cytoplast Manipulator becomes untapped.
+2006/05/01: If the ability is activated and Cytoplast Manipulator leaves the battlefield before it resolves, the ability does nothing. The target creature will remain under its current controller's control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>24</No>
+<Name>Enigma Eidolon</Name>
+<ChineseName>谜样幻灵</ChineseName>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>{U}, Sacrifice Enigma Eidolon: Target player mills three cards.
+Whenever you cast a multicolored spell, you may return Enigma Eidolon from your graveyard to your hand.</CardText>
+<Artist>Shishizaru</Artist>
+<Multiverseid>110640</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>25</No>
+<Name>Govern the Guildless</Name>
+<ChineseName>指挥无所属者</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{5}{U}</ManaCost>
+<CardText>Gain control of target monocolored creature.
+Forecast — {1}{U}, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107395</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>26</No>
+<Name>Helium Squirter</Name>
+<ChineseName>氦气喷射兽</ChineseName>
+<Type>Creature — Beast Mutant 0/0</Type>
+<ManaCost>{4}{U}</ManaCost>
+<CardText>Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{1}: Target creature with a +1/+1 counter on it gains flying until end of turn.</CardText>
+<Artist>Hideaki Takamura</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107535</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>27</No>
+<Name>Novijen Sages</Name>
+<ChineseName>诺维研智者</ChineseName>
+<Type>Creature — Human Advisor Mutant 0/0</Type>
+<ManaCost>{4}{U}{U}</ManaCost>
+<CardText>Graft 4 (This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{1}, Remove two +1/+1 counters from among creatures you control: Draw a card.</CardText>
+<Artist>Luca Zontini</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97091</Multiverseid>
+<Rulings>2006/05/01: To activate the activated ability, either remove two +1/+1 counters from a single creature you control or remove one +1/+1 counter from each of two different creatures you control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>28</No>
+<Name>Ocular Halo</Name>
+<ChineseName>眼目光晕</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature has "{T}: Draw a card."
+{W}: Enchanted creature gains vigilance until end of turn.</CardText>
+<Flavor>While the soldier dreams, the eyes stand watch.</Flavor>
+<ChineseFlavor>当士兵进入梦乡，法眼便代其警戒。</ChineseFlavor>
+<Artist>Ralph Horsley</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107328</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>29</No>
+<Name>Plaxmanta</Name>
+<ChineseName>护板鳐</ChineseName>
+<Type>Creature — Beast 2/2</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Flash
+When Plaxmanta enters the battlefield, creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+When Plaxmanta enters the battlefield, sacrifice it unless {G} was spent to cast it.</CardText>
+<Artist>Alan Pollack</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107286</Multiverseid>
+<Rulings>2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>30</No>
+<Name>Psychic Possession</Name>
+<ChineseName>控驭心灵</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{U}{U}</ManaCost>
+<CardText>Enchant opponent
+Skip your draw step.
+Whenever enchanted opponent draws a card, you may draw a card.</CardText>
+<Flavor>"You will do the thinking for the both of us!"</Flavor>
+<ChineseFlavor>「你会为我们双方着想！」</ChineseFlavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>107254</Multiverseid>
+<Rulings>2006/05/01: Enchanting an opponent works very much like enchanting a permanent. The Aura spell targets the opponent. When it resolves, it enters the battlefield "attached" to that player. Once it's on the battlefield, it no longer targets that player.
+2006/05/01: Psychic Possession's controller, not the enchanted player, skips their draw step.
+2006/05/01: If Psychic Possession's controller ever happens to be the player it's enchanting, Psychic Possession will be put into its owner's graveyard as a state-based action.
+2006/05/01: An Aura with enchant opponent can't be attached to a permanent.
+2006/05/01: In a multiplayer game, if the enchanted opponent leaves the game, Psychic Possession will be put into its owner's graveyard as a state-based action. If Psychic Possession's owner leaves the game, Psychic Possession immediately leaves the game; this is not a state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>31</No>
+<Name>Silkwing Scout</Name>
+<ChineseName>丝翼斥候</ChineseName>
+<Type>Creature — Faerie Scout 2/1</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Flying
+{G}, Sacrifice Silkwing Scout: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</CardText>
+<Artist>Rebecca Guay</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107313</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>32</No>
+<Name>Skyscribing</Name>
+<ChineseName>卜空卦</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{U}{U}</ManaCost>
+<CardText>Each player draws X cards.
+Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Luca Zontini</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107449</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>33</No>
+<Name>Spell Snare</Name>
+<ChineseName>圈套咒语</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Counter target spell with mana value 2.</CardText>
+<Flavor>Every culture has its unlucky numbers. In a city where you're either alone, in a crowd, or being stabbed in the back, two is the worst number of all.</Flavor>
+<ChineseFlavor>每个文化都有独特的不祥数字。 在城市之中，不论你是独行，在人群之中，或是正遭背刺，二都是最糟糕的数字。</ChineseFlavor>
+<Artist>Hideaki Takamura</Artist>
+<Multiverseid>107281</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>34</No>
+<Name>Tidespout Tyrant</Name>
+<ChineseName>潮浪暴君</ChineseName>
+<Type>Creature — Djinn 5/5</Type>
+<ManaCost>{5}{U}{U}{U}</ManaCost>
+<CardText>Flying
+Whenever you cast a spell, return target permanent to its owner's hand.</CardText>
+<Flavor>He unmakes the world in his own image.</Flavor>
+<ChineseFlavor>他以自我形象来让这世界消失。</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Multiverseid>107408</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>35</No>
+<Name>Vigean Graftmage</Name>
+<ChineseName>维氏殖法师</ChineseName>
+<Type>Creature — Vedalken Wizard Mutant 0/0</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{1}{U}: Untap target creature with a +1/+1 counter on it.</CardText>
+<Artist>Alan Pollack</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107321</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>36</No>
+<Name>Vision Skeins</Name>
+<ChineseName>视象术缕</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Each player draws two cards.</CardText>
+<Flavor>"I could see in the other mage's eyes that he'd thought of it too. Then it became a race to exploit the knowledge first."</Flavor>
+<ChineseFlavor>「我从对面法师的眼中看出来他也想到了。 然后就变成谁能最快运用此知识的竞争。」</ChineseFlavor>
+<Artist>Aleksi Briclot</Artist>
+<Multiverseid>107397</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>37</No>
+<Name>Writ of Passage</Name>
+<ChineseName>通行令状</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature attacks, if its power is 2 or less, it can't be blocked this turn.
+Forecast — {1}{U}, Reveal Writ of Passage from your hand: Target creature with power 2 or less can't be blocked this turn. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Luca Zontini</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107413</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>38</No>
+<Name>Bond of Agony</Name>
+<ChineseName>苦痛禁锢</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{B}</ManaCost>
+<CardText>As an additional cost to cast this spell, pay X life.
+Each other player loses X life.</CardText>
+<Flavor>The Rakdos are unique in designing torture equipment they can operate while "suffering" alongside their victims.</Flavor>
+<ChineseFlavor>拉铎司门徒擅长设计的折磨器具，是在操作之余还能与受刑者同享苦痛的道具。</ChineseFlavor>
+<Artist>Luca Zontini</Artist>
+<Multiverseid>107306</Multiverseid>
+<Rulings>2006/05/01: You can't choose an X that's greater than your life total.
+2006/05/01: You can choose an X that's equal to your life total. If you do, you'll pay that much life when the spell is cast and will lose the game before it resolves.
+2013/04/15: You must pay both X life and {X}{B}. For example, if you want each other player to lose 2 life when Bond of Agony resolves, you must pay {2}{B} and 2 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>39</No>
+<Name>Brain Pry</Name>
+<ChineseName>撬脑术</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Choose a nonland card name. Target player reveals their hand. That player discards a card with that name. If they can't, you draw a card.</CardText>
+<Flavor>To the Rakdos, the fun is in the shakedown. The loot is usually discarded.</Flavor>
+<ChineseFlavor>对拉铎司门徒而言，勒索才是乐趣所在。 藉此而来的财物通常都会丢掉。</ChineseFlavor>
+<Artist>Jim Nelson</Artist>
+<Multiverseid>107340</Multiverseid>
+<Rulings>2006/05/01: You name the card during Brain Pry's resolution, then the player reveals their hand and discards if appropriate. There is no way for the player to do anything between you naming the card and the player discarding.
+2014/02/01: If you target yourself with this spell, you must reveal your entire hand to the other players just as any other player would.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>40</No>
+<Name>Crypt Champion</Name>
+<ChineseName>墓穴斗士</ChineseName>
+<Type>Creature — Zombie 2/2</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Double strike
+When Crypt Champion enters the battlefield, each player puts a creature card with mana value 3 or less from their graveyard onto the battlefield.
+When Crypt Champion enters the battlefield, sacrifice it unless {R} was spent to cast it.</CardText>
+<Artist>Pete Venters</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107336</Multiverseid>
+<Rulings>2006/05/01: The first triggered ability isn't targeted, so the creature cards aren't chosen until the ability resolves. Each player chooses which creature card from their own graveyard to return. If a player doesn't have an applicable creature card, that player does nothing. If a player does have any applicable cards, that player must return one to the battlefield.
+2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>41</No>
+<Name>Delirium Skeins</Name>
+<ChineseName>错乱术缕</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Each player discards three cards.</CardText>
+<Flavor>There came a rush, a sudden fire in the mind. Then the two saw only the sooty fog of madness, heard only the crackling of their last thoughts burning away.</Flavor>
+<ChineseFlavor>心灵突然涌现火热思绪。 之后这两人眼底仅剩疯狂的熏污漫烟，耳中仅存最后思绪焚毁的爆裂声响。</ChineseFlavor>
+<Artist>Aleksi Briclot</Artist>
+<Multiverseid>107435</Multiverseid>
+<Rulings>2017/03/14: When Delirium Skeins resolves, first the player whose turn it is chooses three cards to discard, then each other player in turn order chooses three cards to discard, then all of those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which cards to discard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>42</No>
+<Name>Demon's Jester</Name>
+<ChineseName>恶魔小丑</ChineseName>
+<Type>Creature — Imp 2/2</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Flying
+Hellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand.</CardText>
+<Flavor>They knock 'em dead, with or without the punch line.</Flavor>
+<ChineseFlavor>懂不懂笑点都该死。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107599</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>43</No>
+<Name>Drekavac</Name>
+<ChineseName>厥克维</ChineseName>
+<Type>Creature — Beast 3/3</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>When Drekavac enters the battlefield, sacrifice it unless you discard a noncreature card.</CardText>
+<Flavor>Like a vulture's scalp, the face of a drekavac is oily and hairless. The filth and disease of its carrion diet slip off its blood-slick skin.</Flavor>
+<ChineseFlavor>厥克维的脸油腻无毛，有如秃鹰头皮。 藉以维生的脏臭腐肉则使其皮肤逐渐剥落。</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>111258</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>44</No>
+<Name>Enemy of the Guildpact</Name>
+<ChineseName>十会盟大敌</ChineseName>
+<Type>Creature — Spirit 4/2</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Protection from multicolored</CardText>
+<Flavor>Guilds often exterminate those who saw or knew too much. Some vindictive souls retain their knowledge, using it in the afterlife to crush the guilded and the vile bargain that gives them power.</Flavor>
+<ChineseFlavor>公会通常会将看到或知道太多的人处决。 某些怨灵保留了生前知识，好在来生消灭入会者，以及为怨灵赋予力量的恶毒交易。</ChineseFlavor>
+<Artist>Fred Hooper</Artist>
+<Multiverseid>107342</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>45</No>
+<Name>Entropic Eidolon</Name>
+<ChineseName>熵力幻灵</ChineseName>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>{B}, Sacrifice Entropic Eidolon: Target player loses 1 life and you gain 1 life.
+Whenever you cast a multicolored spell, you may return Entropic Eidolon from your graveyard to your hand.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Multiverseid>110641</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>46</No>
+<Name>Infernal Tutor</Name>
+<ChineseName>炼狱导师</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.
+Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107308</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>47</No>
+<Name>Macabre Waltz</Name>
+<ChineseName>亡者华尔滋</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Return up to two target creature cards from your graveyard to your hand, then discard a card.</CardText>
+<Flavor>"All dead move to the hollow rhythm of necromancy."
+—Savra</Flavor>
+<ChineseFlavor>「所有亡者都随死灵术的空荡旋律起舞。」
+～撒芙儿</ChineseFlavor>
+<Artist>Jim Murray</Artist>
+<Multiverseid>97116</Multiverseid>
+<Rulings>2018/07/13: If you have no other cards in hand, you'll have to discard one of the creature cards you return to your hand.
+2018/07/13: You may cast Macabre Waltz targeting one or zero creature cards. You'll still discard a card, even if you target no creature cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>48</No>
+<Name>Nettling Curse</Name>
+<ChineseName>恼火诅咒</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Enchant creature
+Whenever enchanted creature attacks or blocks, its controller loses 3 life.
+{1}{R}: Enchanted creature attacks this turn if able.</CardText>
+<Flavor>"I call them 'Poke' and 'Prod.'"
+—Chagrach, Rakdos cursemage</Flavor>
+<ChineseFlavor>「我叫他们『戳戳』跟『刺刺』。」
+～拉铎司诅法师叉葛拉</ChineseFlavor>
+<Artist>Jeremy Jarvis & Wayne Reynolds</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107374</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>49</No>
+<Name>Nightcreep</Name>
+<ChineseName>邪夜咒</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{B}{B}</ManaCost>
+<CardText>Until end of turn, all creatures become black and all lands become Swamps.</CardText>
+<Flavor>"Please tell me I'm hallucinating. I'd rather be crazy than here."
+—Gorev Hadszak, Wojek investigator</Flavor>
+<ChineseFlavor>「请告诉我这是幻觉。 我情愿疯掉也不想呆在这里。」
+～沃耶克调查员葛列夫·哈札克</ChineseFlavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>107415</Multiverseid>
+<Rulings>2006/05/01: This effect overwrites all creatures' colors. Creatures will be black instead of any other color or colors.
+2006/05/01: This effect overwrites all lands' land types. Lands will be Swamps instead of any other land types. This won't affect a land's supertypes (such as basic or legendary). Lands will lose their normal abilities and have the ability "{T}: Add {B}" instead.
+2006/05/01: If a permanent is both a creature and a land, Nightcreep replaces all of its land types with Swamp, but it doesn't affect its creature types. The creature land loses all abilities generated by its rules text and its previous land types but retains any abilities granted to it by other effects. For example, an animated Blinkmoth Nexus becomes a black creature land with the land subtype Swamp whose only abilities are flying and "{T}: Add {B}."
+2006/05/01: A land or creature that enters the battlefield after Nightcreep resolves won't be affected by it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>50</No>
+<Name>Nihilistic Glee</Name>
+<ChineseName>虚无之喜</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{2}{B}{B}</ManaCost>
+<CardText>{2}{B}, Discard a card: Target opponent loses 1 life and you gain 1 life.
+Hellbent — {1}, Pay 2 life: Draw a card. Activate only if you have no cards in hand.</CardText>
+<Flavor>"All ends in obliteration—love in hatred, life in death, and light in empty darkness."</Flavor>
+<ChineseFlavor>「万物逝去时都将一笔抹消～爱情变成憎恶，生命变成死亡，光明变成黑暗虚空。」</ChineseFlavor>
+<Artist>Ron Spears & Wayne Reynolds</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107517</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>51</No>
+<Name>Ragamuffyn</Name>
+<ChineseName>僵小鬼</ChineseName>
+<Type>Creature — Zombie Cleric 2/2</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Hellbent — {T}, Sacrifice a creature or land: Draw a card. Activate only if you have no cards in hand.</CardText>
+<Flavor>They cut the stitches and give her sips of her brew. Then they sew her up again, and she's back to stirring.</Flavor>
+<ChineseFlavor>他们把缝线割开，让她啜饮几口酒。 然后他们再把线缝妥，让她继续忙下去。</ChineseFlavor>
+<Artist>rk post</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107570</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>52</No>
+<Name>Ratcatcher</Name>
+<ChineseName>捕鼠手</ChineseName>
+<Type>Creature — Ogre Rogue 4/4</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may search your library for a Rat card, reveal it, put it into your hand, then shuffle.</CardText>
+<Flavor>An ogre's poisonous stench is like fine Kashkaval cheese to the noses lowest to the ground.</Flavor>
+<ChineseFlavor>对贴近地面的鼻子来说，食人魔的逼人体臭闻起来像是高级酸奶干酪。</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Multiverseid>107273</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>53</No>
+<Name>Seal of Doom</Name>
+<ChineseName>末日之缄印</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Sacrifice Seal of Doom: Destroy target nonblack creature. It can't be regenerated.</CardText>
+<Flavor>"A basilisk's gaze is effective, but disposing of physical remains is a tiresome task. It's far more discrete to dissolve one's victim entirely."
+—Szadek</Flavor>
+<ChineseFlavor>「蜥怪的逼视虽然有效，但处理残留物质却很费工夫。 这远比不上将受害者完全分解。」
+～札戴克</ChineseFlavor>
+<Artist>Ralph Horsley</Artist>
+<Multiverseid>107534</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>54</No>
+<Name>Slaughterhouse Bouncer</Name>
+<ChineseName>屠宰场守门者</ChineseName>
+<Type>Creature — Ogre Warrior 3/3</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Hellbent — When Slaughterhouse Bouncer dies, if you have no cards in hand, target creature gets -3/-3 until end of turn.</CardText>
+<Flavor>A Rakdos party is a flop if anyone lives to talk about it.</Flavor>
+<ChineseFlavor>若有参与者能活着谈论，这场拉铎司聚会便是彻底失败。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97073</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>55</No>
+<Name>Slithering Shade</Name>
+<ChineseName>湿滑阴魂</ChineseName>
+<Type>Creature — Shade 0/1</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Defender (This creature can't attack.)
+{B}: Slithering Shade gets +1/+1 until end of turn.
+Hellbent — Slithering Shade can attack as though it didn't have defender as long as you have no cards in hand.</CardText>
+<Artist>Daren Bader</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>111283</Multiverseid>
+<Rulings>2006/05/01: If you declare Slithering Shade as an attacker, then a card is put into your hand, the Shade won't be removed from combat. It continues to attack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>56</No>
+<Name>Unliving Psychopath</Name>
+<ChineseName>病态死尸</ChineseName>
+<Type>Creature — Zombie Assassin 0/4</Type>
+<ManaCost>{2}{B}{B}</ManaCost>
+<CardText>{B}: Unliving Psychopath gets +1/-1 until end of turn.
+{B}, {T}: Destroy target creature with power less than Unliving Psychopath's power.</CardText>
+<Flavor>"The victim bears the marks of the 'Ktozok Impaler'. . . but he was executed years ago!"
+—Gorev Hadszak, Wojek investigator</Flavor>
+<ChineseFlavor>「受害者身上有「穿刺手柯托佐」所留的记号. . . 但他多年前就被处死了！」
+～沃耶克调查员葛列夫·哈札克</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>107451</Multiverseid>
+<Rulings>2006/05/01: The creature must have less power than Unliving Psychopath both when the ability is activated and when it resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>57</No>
+<Name>Vesper Ghoul</Name>
+<ChineseName>晚祷食尸鬼</ChineseName>
+<Type>Creature — Zombie Druid 1/1</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>{T}, Pay 1 life: Add one mana of any color.</CardText>
+<Flavor>"Nature's exceptions remind us not to think in absolutes. Just as the orchid blossoms on blackened stone, so does the gift of mana occasionally manifest in the undead."
+—Bougrat, druid of the Cult of Yore</Flavor>
+<ChineseFlavor>「大自然的特例教导我们留心例外。 就如兰花能在黑石上生长，法术力的天赋有时也出现在亡者身上。」
+～崇始教派德鲁伊布葛</ChineseFlavor>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>107477</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>58</No>
+<Name>Wit's End</Name>
+<ChineseName>无计可施</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{5}{B}{B}</ManaCost>
+<CardText>Target player discards their hand.</CardText>
+<Flavor>"Some images are so powerful that one glance burns them into your mind forever. Come, let us gaze on nothingness."
+—Szadek</Flavor>
+<ChineseFlavor>「有些强烈影像能让你看一眼便永生难忘。 来吧，跟我一同欣赏空无。」
+～札戴克</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>107562</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>59</No>
+<Name>Cackling Flames</Name>
+<ChineseName>尖笑烈焰</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>Cackling Flames deals 3 damage to any target.
+Hellbent — Cackling Flames deals 5 damage instead if you have no cards in hand.</CardText>
+<Flavor>"I like a little entertainment with my dinner."
+—Rakdos</Flavor>
+<ChineseFlavor>「我喜欢跟晚餐找点乐子。」
+～拉铎司</ChineseFlavor>
+<Artist>Shishizaru</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107258</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>60</No>
+<Name>Demonfire</Name>
+<ChineseName>恶魔焰</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{R}</ManaCost>
+<CardText>Demonfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
+Hellbent — If you have no cards in hand, this spell can't be countered and the damage can't be prevented.</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107252</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>61</No>
+<Name>Flame-Kin War Scout</Name>
+<ChineseName>炎身战场斥候</ChineseName>
+<Type>Creature — Elemental Scout 2/4</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>When another creature enters the battlefield, sacrifice Flame-Kin War Scout. If you do, Flame-Kin War Scout deals 4 damage to that creature.</CardText>
+<Flavor>"The forward flame-kin are popping. We have incoming!"
+—Svar, Boros signaler</Flavor>
+<ChineseFlavor>「炎身前锋团在冒火。 敌袭！」
+～波洛斯信号兵司瓦</ChineseFlavor>
+<Artist>Fred Hooper</Artist>
+<Multiverseid>107337</Multiverseid>
+<Rulings>2006/05/01: If multiple creatures enter the battlefield at the same time, Flame-Kin War Scout's ability will trigger multiple times. When the first of these triggers resolves, if Flame Kin War Scout can be sacrificed by the ability's controller, it will be sacrificed and deal 4 damage. When the other triggers resolve, it won't be on the battlefield, so it can't be sacrificed and the other creatures won't be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>62</No>
+<Name>Flaring Flame-Kin</Name>
+<ChineseName>火光炎身</ChineseName>
+<Type>Creature — Elemental Warrior 2/2</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has "{R}: Flaring Flame-Kin gets +1/+0 until end of turn."</CardText>
+<Flavor>A flame-kin is always formidable, but feeding its fire with a sorcerous gift grants it the power to devastate armies.</Flavor>
+<ChineseFlavor>炎身十分强悍，而若为其添加术法火焰，就更使其万夫莫敌。</ChineseFlavor>
+<Artist>Brian Hagan</Artist>
+<Multiverseid>111247</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>63</No>
+<Name>Gnat Alley Creeper</Name>
+<ChineseName>蚊蚋巷漫行客</ChineseName>
+<Type>Creature — Human Rogue 3/1</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Gnat Alley Creeper can't be blocked by creatures with flying.</CardText>
+<Flavor>Despite its diminutive name, Gnat Alley is the longest street in Ravnica. Mile after twisting mile, it threads its way among the broader, safer thoroughfares like a parasite.</Flavor>
+<ChineseFlavor>蚊蚋巷的名号虽不起眼，却是拉尼卡最长的一条街。 其蜿蜒路径如同寄生虫般，穿梭于许多宽阔安全的大道之间。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>107526</Multiverseid>
+<Rulings>2007/05/01: Creatures with the Reach ability (such as Giant Spider) can block this because they don't actually have Flying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>64</No>
+<Name>Ignorant Bliss</Name>
+<ChineseName>无知是福</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Exile all cards from your hand face down. At the beginning of the next end step, return those cards to your hand, then draw a card.</CardText>
+<Flavor>"A quick step beyond oblivion lies a place so full of thoughts that it leaves no room for your own."
+—Quyzl, chronarch prodigy</Flavor>
+<ChineseFlavor>「就在遗忘的背后，是片充满各式思绪，让你自己的思绪无可容身的地方。」
+～时法师逸才奎兹</ChineseFlavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>111281</Multiverseid>
+<Rulings>2006/05/01: No player may look at the cards while they're face down.
+2006/05/01: If you cast this during the End step, you won't return the cards to your hand or draw a card until the next turn's End step.
+2006/05/01: If the delayed triggered ability is countered (for example, with Voidslime), the cards remain exiled forever.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>65</No>
+<Name>Kill-Suit Cultist</Name>
+<ChineseName>杀生装教众</ChineseName>
+<Type>Creature — Goblin Berserker 1/1</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Kill-Suit Cultist attacks each combat if able.
+{B}, Sacrifice Kill-Suit Cultist: The next time damage would be dealt to target creature this turn, destroy that creature instead.</CardText>
+<Flavor>Dressed to kill.</Flavor>
+<ChineseFlavor>整装待杀。</ChineseFlavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107493</Multiverseid>
+<Rulings>2006/05/01: This ability causes a creature to be destroyed instead of being dealt damage. Damage replaced this way isn't dealt, and effects that would happen based on this damage (such as Demonfire's "exile it" effect) don't happen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>66</No>
+<Name>Kindle the Carnage</Name>
+<ChineseName>煽动屠杀</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{R}{R}</ManaCost>
+<CardText>Discard a card at random. If you do, Kindle the Carnage deals damage equal to that card's mana value to each creature. You may repeat this process any number of times.</CardText>
+<Flavor>"Start knockin' heads, boys, and don't stop 'til the ragamuffyn sings!"</Flavor>
+<ChineseFlavor>「大家开始砸人头吧，在僵小鬼唱歌前别停手！」</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Multiverseid>107446</Multiverseid>
+<Rulings>2006/05/01: You decide whether to repeat the process after each iteration. In other words, you discard a card, see what it is, Kindle the Carnage deals damage, then you decide whether to continue. If so, you discard a card, see what it is, Kindle the Carnage deals damage, then you decide whether to continue, and so on.
+2006/05/01: Any damage prevention or regeneration abilities must be activated before Kindle the Carnage starts resolving in order to have any effect. You can't wait to see which (if any) cards are discarded.
+2006/05/01: A creature that's been dealt lethal damage by an iteration of this effect will remain on the battlefield and be dealt more damage by any further iterations. After you stop, all creatures that have been dealt lethal damage are put into their owners' graveyards at the same time.
+2006/05/01: All the damage has the same source. However, each iteration of this process is a separate instance of damage. An effect that prevents damage the "next time" this card would deal it will prevent damage from only one iteration.
+2006/05/01: A single regeneration shield is sufficient to save a particular creature, no matter how many instances of damage are on it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>67</No>
+<Name>Ogre Gatecrasher</Name>
+<ChineseName>破门食人魔</ChineseName>
+<Type>Creature — Ogre Rogue 3/3</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>When Ogre Gatecrasher enters the battlefield, destroy target creature with defender.</CardText>
+<Flavor>A popular game among ogres is to see how many revolutions a head can make before it pops off.</Flavor>
+<ChineseFlavor>食人魔之间最风行的游戏，就是在把头扭断之前能转上多少圈。</ChineseFlavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>107389</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>68</No>
+<Name>Psychotic Fury</Name>
+<ChineseName>丧神狂怒</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Target multicolored creature gains double strike until end of turn.
+Draw a card.</CardText>
+<Flavor>"Rage, my servants. Our ancient power is renewed in blood."
+—Rakdos</Flavor>
+<ChineseFlavor>「仆从啊，尽管发怒吧。 我们的古老力量要用鲜血来复原。」
+～拉铎司</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>107338</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>69</No>
+<Name>Rakdos Pit Dragon</Name>
+<ChineseName>拉铎司暗渊巨龙</ChineseName>
+<Type>Creature — Dragon 3/3</Type>
+<ManaCost>{2}{R}{R}</ManaCost>
+<CardText>{R}{R}: Rakdos Pit Dragon gains flying until end of turn.
+{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.
+Hellbent — Rakdos Pit Dragon has double strike as long as you have no cards in hand.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>111188</Multiverseid>
+<Rulings>2006/05/01: If Rakdos Pit Dragon loses double strike after first strike combat damage has been dealt, it won't deal damage during the normal combat damage step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>70</No>
+<Name>Sandstorm Eidolon</Name>
+<ChineseName>沙暴幻灵</ChineseName>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>{R}, Sacrifice Sandstorm Eidolon: Target creature can't block this turn.
+Whenever you cast a multicolored spell, you may return Sandstorm Eidolon from your graveyard to your hand.</CardText>
+<Artist>Brian Hagan</Artist>
+<Multiverseid>110637</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>71</No>
+<Name>Seal of Fire</Name>
+<ChineseName>火焰之缄印</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Sacrifice Seal of Fire: It deals 2 damage to any target.</CardText>
+<Flavor>"If it breathes, it will burn."
+—Rakdos pyromancers' creed</Flavor>
+<ChineseFlavor>「活物皆可焚。」
+～拉铎司烈焰术士纲领</ChineseFlavor>
+<Artist>Ralph Horsley</Artist>
+<Multiverseid>107531</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>72</No>
+<Name>Squealing Devil</Name>
+<ChineseName>尖叫魔鬼</ChineseName>
+<Type>Creature — Devil 2/1</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Squealing Devil enters the battlefield, you may pay {X}. If you do, target creature gets +X/+0 until end of turn.
+When Squealing Devil enters the battlefield, sacrifice it unless {B} was spent to cast it.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107303</Multiverseid>
+<Rulings>2006/05/01: For this creature to not be sacrificed, {B} must have been spent on the {1}{R} mana cost. It doesn't matter if {B} is spent on {X}.
+2006/05/01: You choose the value of X as Squealing Devil's ability resolves. X can be 0.
+2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>73</No>
+<Name>Stalking Vengeance</Name>
+<ChineseName>潜行报复者</ChineseName>
+<Type>Creature — Avatar 5/5</Type>
+<ManaCost>{5}{R}{R}</ManaCost>
+<CardText>Haste
+Whenever another creature you control dies, it deals damage equal to its power to target player or planeswalker.</CardText>
+<Flavor>Something roams the killing places, sniffing the guilt of the slayers, stalking them on iron paws.</Flavor>
+<ChineseFlavor>不知什么东西在杀戮场徘徊，嗅闻杀手的罪恶气息，并以铁掌袭击。</ChineseFlavor>
+<Artist>Anthony S. Waters</Artist>
+<Multiverseid>107301</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>74</No>
+<Name>Stormscale Anarch</Name>
+<ChineseName>反逆雷鳞</ChineseName>
+<Type>Creature — Viashino Shaman 2/2</Type>
+<ManaCost>{2}{R}{R}</ManaCost>
+<CardText>{2}{R}, Discard a card at random: Stormscale Anarch deals 2 damage to any target. If the discarded card was multicolored, Stormscale Anarch deals 4 damage instead.</CardText>
+<Artist>Ralph Horsley</Artist>
+<Multiverseid>107300</Multiverseid>
+<Rulings>2006/05/01: You can't discard a card at random, see what it is, and then decide whether or not to pay the mana. Mana abilities must be activated before costs are paid. At the time you pay the cost of discarding a card, you either have enough mana in your mana pool to pay the {2}{R}, in which case you must continue no matter what you discarded, or you don't have enough mana in your mana pool to pay the {2}{R}, in which case you must back up no matter what you discarded.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>75</No>
+<Name>Taste for Mayhem</Name>
+<ChineseName>破坏之乐</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +2/+0.
+Hellbent — Enchanted creature gets an additional +2/+0 as long as you have no cards in hand.</CardText>
+<Flavor>The taste of blood breaks down what little self-control the Rakdos possess.</Flavor>
+<ChineseFlavor>鲜血的味道能将拉铎司门徒仅存的些许自制力击溃。</ChineseFlavor>
+<Artist>Greg Hildebrandt</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107597</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>76</No>
+<Name>Utvara Scalper</Name>
+<ChineseName>坞瓦拉解剖手</ChineseName>
+<Type>Creature — Goblin Scout 1/2</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Flying
+Utvara Scalper attacks each combat if able.</CardText>
+<Flavor>He wages war wherever the wind carries him.</Flavor>
+<ChineseFlavor>风将他带到哪，他就打到哪。</ChineseFlavor>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>107276</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>77</No>
+<Name>War's Toll</Name>
+<ChineseName>战事召唤</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>Whenever an opponent taps a land for mana, tap all lands that player controls.
+If a creature an opponent controls attacks, all creatures that opponent controls attack if able.</CardText>
+<Flavor>Razia, archangel of war, demands total commitment.</Flavor>
+<ChineseFlavor>战争天使拉基雅要求完全奉献。</ChineseFlavor>
+<Artist>Dana Knutson</Artist>
+<Multiverseid>107492</Multiverseid>
+<Rulings>2006/05/01: Your opponent can tap lands for mana in response to the triggered ability. The effect won't prevent your opponent from casting spells or activating abilities, but it will make it difficult for that player to cast other spells or activate abilities later in the turn because players' mana pools empty at the end of each step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>78</No>
+<Name>Weight of Spires</Name>
+<ChineseName>断塔压顶</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Weight of Spires deals damage to target creature equal to the number of nonbasic lands that creature's controller controls.</CardText>
+<Flavor>"Finally, a good use for an Azorius courthouse."
+—Ghut Rak, Gruul guildmage</Flavor>
+<ChineseFlavor>「俄佐立的法院总算有派上用场的时候。」
+～古鲁公会法师顾拉</ChineseFlavor>
+<Artist>Michael Sutfin</Artist>
+<Multiverseid>107551</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>79</No>
+<Name>Whiptail Moloch</Name>
+<ChineseName>鞭尾棘蜥</ChineseName>
+<Type>Creature — Lizard 6/3</Type>
+<ManaCost>{4}{R}</ManaCost>
+<CardText>When Whiptail Moloch enters the battlefield, it deals 3 damage to target creature you control.</CardText>
+<Flavor>"It wags its tail when it's happy. It wags its tail when it's angry. Nope, there's no good time to be around a whiptail."
+—Rugar, Leaguehall Infirmary patient</Flavor>
+<ChineseFlavor>「他高兴时会摇尾巴。 他生气时会摇尾巴。 不，在鞭尾蜥蜴身旁不会有好事。
+～联盟堂医务室伤兵鲁加</ChineseFlavor>
+<Artist>Darrell Riche</Artist>
+<Multiverseid>97075</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>80</No>
+<Name>Aquastrand Spider</Name>
+<ChineseName>水绿缕蜘蛛</ChineseName>
+<Type>Creature — Spider Mutant 0/0</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. (It can block creatures with flying.)</CardText>
+<Artist>Dany Orizio</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107472</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>81</No>
+<Name>Cytoplast Root-Kin</Name>
+<ChineseName>木身胞塑体</ChineseName>
+<Type>Creature — Elemental Mutant 0/0</Type>
+<ManaCost>{2}{G}{G}</ManaCost>
+<CardText>Graft 4 (This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+When Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.
+{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107507</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>82</No>
+<Name>Cytospawn Shambler</Name>
+<ChineseName>跛行胞塑母体</ChineseName>
+<Type>Creature — Elemental Mutant 0/0</Type>
+<ManaCost>{6}{G}</ManaCost>
+<CardText>Graft 6 (This creature enters the battlefield with six +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{G}: Target creature with a +1/+1 counter on it gains trample until end of turn.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107312</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>83</No>
+<Name>Elemental Resonance</Name>
+<ChineseName>元素共振</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{G}{G}</ManaCost>
+<CardText>Enchant permanent
+At the beginning of your precombat main phase, add mana equal to enchanted permanent's mana cost. (Mana cost includes color. If a mana symbol has multiple colors, choose one.)</CardText>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>107369</Multiverseid>
+<Rulings>2006/05/01: This ability isn't a mana ability. It uses the stack.
+2006/05/01: Only the first main phase in a turn is the "precombat main phase," even if additional main phases are generated by some effect.
+2006/05/01: If the enchanted permanent's mana cost is {2}{W}{U}, this Aura's controller adds {C}{C}{W}{U} to their mana pool. If its mana cost is {X}{G}, this Aura's controller adds {G} to their mana pool. If its mana cost is {W/U}{W/U}, this Aura's controller chooses whether to add {W}{W}, {W}{U}, or {U}{U} to their mana pool. The choice may be different each time the ability resolves.
+2009/10/01: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>84</No>
+<Name>Fertile Imagination</Name>
+<ChineseName>丰富想象力</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{G}{G}</ManaCost>
+<CardText>Choose a card type. Target opponent reveals their hand. Create two 1/1 green Saproling creature tokens for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)</CardText>
+<Artist>Dan Scott</Artist>
+<Multiverseid>111203</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>85</No>
+<Name>Flash Foliage</Name>
+<ChineseName>突现叶网</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Cast this spell only during combat after blockers are declared.
+Create a 1/1 green Saproling creature token that's blocking target creature attacking you.
+Draw a card.</CardText>
+<Flavor>"This undemanding vegetation takes root in a mote of dust but grows incredibly quickly."
+—Simic research notes</Flavor>
+<ChineseFlavor>「此类植株极富韧性，只要有颗尘埃可生根，就能快速成长。」
+～析米克研究纪录</ChineseFlavor>
+<Artist>Ron Spears</Artist>
+<Multiverseid>107264</Multiverseid>
+<Rulings>2006/05/01: Putting a blocking creature onto the battlefield will trigger "When this creature becomes blocked by a creature" abilities. It may trigger "When this creature becomes blocked" abilities, but only if the creature the Saproling is blocking had not yet been blocked that combat.
+2006/05/01: The Saproling token is blocking the attacking creature, even if the block couldn't legally be declared (for example, if the attacking creature has flying, or is Vindictive Mob).
+2006/05/01: Flash Foliage can be cast only during an opponent's combat phase, after attackers have been declared. If it's cast after combat damage is dealt, the Saproling will enter the battlefield blocking the attacking creature, but will neither deal combat damage to it nor be dealt combat damage by it.
+2006/05/01: The target creature can be blocked by other creatures.
+2006/05/01: Putting a blocking creature onto the battlefield doesn't trigger "When this creature blocks" abilities. It also won't check blocking restrictions, costs, or requirements.
+2006/07/01: With the latest Oracle update, you can only cast this during combat, after blockers have been declared.
+2013/09/20: If a turn has multiple combat phases, this spell can be cast during any of them as long as it's after the beginning of that phase's Declare Blockers Step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>86</No>
+<Name>Indrik Stomphowler</Name>
+<ChineseName>跺吼巨犀兽</ChineseName>
+<Type>Creature — Beast 4/4</Type>
+<ManaCost>{4}{G}</ManaCost>
+<CardText>When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.</CardText>
+<Flavor>"An indrik's howl has destructive power much subtler than that of its crushing foot. The sound is mundane, but inaudible vibrations scatter and sunder magical contrivances."
+—Simic research notes</Flavor>
+<ChineseFlavor>「巨犀兽的吼声破坏力比其足跺还强大。 其震耳巨响带有无法听闻的震动，能让法术器械四分五裂。」
+～析米克研究纪录</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>107377</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>87</No>
+<Name>Loaming Shaman</Name>
+<ChineseName>填土祭师</ChineseName>
+<Type>Creature — Centaur Shaman 3/2</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>When Loaming Shaman enters the battlefield, target player shuffles any number of target cards from their graveyard into their library.</CardText>
+<Flavor>His work determines who is remembered and who feeds the worms.</Flavor>
+<ChineseFlavor>他的工作能决定谁会留名，谁会留给虫。</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>107568</Multiverseid>
+<Rulings>2019/07/12: If Loaming Shaman's triggered ability targets a player but doesn't target any cards in that player's graveyard, that player just shuffles their library.
+2019/07/12: If the target cards become illegal targets, the target player shuffles their library. If the target player becomes an illegal target, Loaming Shaman's ability has no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>88</No>
+<Name>Might of the Nephilim</Name>
+<ChineseName>巨神灵之力</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Target creature gets +2/+2 until end of turn for each of its colors.</CardText>
+<Flavor>"Send a runner to Tin Street, and tell 'em the delivery has been . . . uh . . . held up."
+—Bonmod, caravan rear guard</Flavor>
+<ChineseFlavor>「派个送信人到锡街，告诉他们货物已被 . . 嗯. . . 拦截。」
+～商队后卫班莫</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>107320</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>89</No>
+<Name>Patagia Viper</Name>
+<ChineseName>翼翅毒蛇</ChineseName>
+<Type>Creature — Snake 2/1</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Flying
+When Patagia Viper enters the battlefield, create two 1/1 green and blue Snake creature tokens.
+When Patagia Viper enters the battlefield, sacrifice it unless {U} was spent to cast it.</CardText>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107549</Multiverseid>
+<Rulings>2006/05/01: If this enters the battlefield in a way other than announcing it as a spell, then the appropriate mana can't have been paid, and you'll have to sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>90</No>
+<Name>Protean Hulk</Name>
+<ChineseName>变化巨兽</ChineseName>
+<Type>Creature — Beast 6/6</Type>
+<ManaCost>{5}{G}{G}</ManaCost>
+<CardText>When Protean Hulk dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle.</CardText>
+<Flavor>"Meat *and* eggs. We eat!"
+—Borborygmos</Flavor>
+<ChineseFlavor>「有肉有蛋。 吃！」
+～咕噜力莫</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>107598</Multiverseid>
+<Rulings>2018/03/16: If a card in your library has {X} in its mana cost, X is considered to be 0.
+2018/03/16: You can find any number of creature cards, so long as their total converted mana cost is 6 or less. For example, you could find eight creature cards with converted mana cost 0 and three with converted mana cost 2, but you couldn't find two with converted mana cost 4.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>91</No>
+<Name>Simic Basilisk</Name>
+<ChineseName>析米克蜥怪</ChineseName>
+<Type>Creature — Basilisk Mutant 0/0</Type>
+<ManaCost>{4}{G}{G}</ManaCost>
+<CardText>Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{1}{G}: Until end of turn, target creature with a +1/+1 counter on it gains "Whenever this creature deals combat damage to a creature, destroy that creature at end of combat."</CardText>
+<Artist>Luca Zontini</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107347</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>92</No>
+<Name>Simic Initiate</Name>
+<ChineseName>析米克新手</ChineseName>
+<Type>Creature — Human Mutant 0/0</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Graft 1 (This creature enters the battlefield with a +1/+1 counter on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</CardText>
+<Flavor>Simic initiates begin their training as experimental subjects. Failures are flushed to the undersewers.</Flavor>
+<ChineseFlavor>析米克新手的训练是由担任实验品开头。 失败作都给冲到地下道里。</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107441</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>93</No>
+<Name>Simic Ragworm</Name>
+<ChineseName>析米克破坏蠕虫</ChineseName>
+<Type>Creature — Worm 3/3</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>{U}: Untap Simic Ragworm.</CardText>
+<Flavor>"Infused with autochthon blood for size and hellion cells for speed, the ragworm is perfect for clearing the undergardens of both rats and vagrants."
+—Yolov, Simic bioengineer</Flavor>
+<ChineseFlavor>「注入原生种血液以增大体格，并以地狱兽细胞增加速度之后，破坏蠕虫非常适合清理花园底下的老鼠与流浪者。」
+～析米克生体技师尤洛夫</ChineseFlavor>
+<Artist>Nick Percival</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107565</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>94</No>
+<Name>Sporeback Troll</Name>
+<ChineseName>孢背巨魔</ChineseName>
+<Type>Creature — Troll Mutant 0/0</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{1}{G}: Regenerate target creature with a +1/+1 counter on it.</CardText>
+<Artist>Dan Scott</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107263</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>95</No>
+<Name>Sprouting Phytohydra</Name>
+<ChineseName>芽生多头龙</ChineseName>
+<Type>Creature — Plant Hydra 0/2</Type>
+<ManaCost>{4}{G}</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Whenever Sprouting Phytohydra is dealt damage, you may create a token that's a copy of Sprouting Phytohydra.</CardText>
+<Flavor>A hydra tender's problem isn't having enough defenses but enough pots.</Flavor>
+<ChineseFlavor>多头龙训练师的问题不在于防护不够，而在于没法子喂饱。</ChineseFlavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>111220</Multiverseid>
+<Rulings>2006/05/01: A token copy of Sprouting Phytohydra is created even if the damage dealt to Sprouting Phytohydra destroys it.
+2006/05/01: If a token copy of Sprouting Phytohydra is dealt damage, it will create another token copy.
+2006/05/01: If Cytoshape turns a creature into a copy of Sprouting Phytohydra, and that creature is dealt damage, the token that is put onto the battlefield is simply a copy of Sprouting Phytohydra. At the end of the turn, the Cytoshaped creature will revert back to what it was, but the token copying it will not.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>96</No>
+<Name>Stomp and Howl</Name>
+<ChineseName>跺地长吼</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Destroy target artifact and target enchantment.</CardText>
+<Flavor>"Mizzium may be impervious to fire, but obviously certain other things can . . . modify its form."
+—Ivos Koba, indrik handler</Flavor>
+<ChineseFlavor>「米捷也许不怕火，但显然某些其它东西能. . . 让它变形。」
+～巨犀兽驭者伊渥克巴</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>107505</Multiverseid>
+<Rulings>2006/05/01: This spell can't be cast unless there are both an artifact and an enchantment on the battlefield to target. If a permanent is both an artifact and an enchantment, it can be both targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>97</No>
+<Name>Street Savvy</Name>
+<ChineseName>街头智慧</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets +0/+2 and can block creatures with landwalk abilities as though they didn't have those abilities.</CardText>
+<Flavor>"It takes more than swift feet and dark shadows to slip by me unnoticed."</Flavor>
+<ChineseFlavor>「光靠快脚与阴影，可没办法骗过我的眼睛。」</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>107371</Multiverseid>
+<Rulings>2006/05/01: "Landwalk abilities" are abilities such as "forestwalk" or "legendary landwalk" that have "walk" in the name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>98</No>
+<Name>Thrive</Name>
+<ChineseName>强旺</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{G}</ManaCost>
+<CardText>Put a +1/+1 counter on each of X target creatures.</CardText>
+<Flavor>The most successful of Simic creations is cytoplasm, a living, symbiotic substance that feeds off genetic rhythms and strengthens its host in return.</Flavor>
+<ChineseFlavor>胞质是析米克最成功的造物，这种活体的共生存在能以基因韵律为食，并以增强宿主来回报。</ChineseFlavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>107390</Multiverseid>
+<Rulings>2004/10/04: It means X different creatures. You can't give more than one +1/+1 counter to a creature with this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>99</No>
+<Name>Utopia Sprawl</Name>
+<ChineseName>理想境蔓生</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Enchant Forest
+As Utopia Sprawl enters the battlefield, choose a color.
+Whenever enchanted Forest is tapped for mana, its controller adds an additional one mana of the chosen color.</CardText>
+<Artist>Ron Spears</Artist>
+<Multiverseid>107569</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>100</No>
+<Name>Verdant Eidolon</Name>
+<ChineseName>新绿幻灵</ChineseName>
+<Type>Creature — Spirit 2/2</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>{G}, Sacrifice Verdant Eidolon: Add three mana of any one color.
+Whenever you cast a multicolored spell, you may return Verdant Eidolon from your graveyard to your hand.</CardText>
+<Artist>Tsutomu Kawade</Artist>
+<Multiverseid>110638</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>101</No>
+<Name>Aethermage's Touch</Name>
+<ChineseName>乙太法师之触</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{W}{U}</ManaCost>
+<CardText>Reveal the top four cards of your library. You may put a creature card from among them onto the battlefield. It gains "At the beginning of your end step, return this creature to its owner's hand." Then put the rest of the cards revealed this way on the bottom of your library in any order.</CardText>
+<Artist>Randy Gallegos</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>111192</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>102</No>
+<Name>Anthem of Rakdos</Name>
+<ChineseName>拉铎司赞美诗</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{2}{B}{R}{R}</ManaCost>
+<CardText>Whenever a creature you control attacks, it gets +2/+0 until end of turn and Anthem of Rakdos deals 1 damage to you.
+Hellbent — As long as you have no cards in hand, if a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</CardText>
+<Artist>Ralph Horsley</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97110</Multiverseid>
+<Rulings>2006/05/01: The hellbent ability doubles the damage dealt to you by Anthem of Rakdos itself.
+2006/05/01: The first ability triggers once for each creature you attack with. If you attack with three creatures, for example, they'll each get +2/+0 and you'll be dealt 3 damage.
+2006/05/01: If damage that would be dealt to a player or creature is affected by both Anthem of Rakdos and a damage prevention effect, that player or that creature's controller chooses the order to apply the effects. In most cases that player will want to prevent damage, then double what's left.
+2006/05/01: If a source you control would deal damage to multiple creatures and/or players simultaneously, all of that damage is doubled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>103</No>
+<Name>Assault Zeppelid</Name>
+<ChineseName>突袭云飞兽</ChineseName>
+<Type>Creature — Beast 3/3</Type>
+<ManaCost>{2}{G}{U}</ManaCost>
+<CardText>Flying, trample</CardText>
+<Flavor>"Show them to Razia and then to the Azorius sky marshals. We could create a fine bidding war—enough to fund the final stages of Project Kraj."
+—Momir Vig</Flavor>
+<ChineseFlavor>「先让拉基雅瞧瞧，再给俄佐立飞将看看。 我们可以引发一场比价大战～好为克戟计画的最终阶段筹措资金。
+～莫秘·维</ChineseFlavor>
+<Artist>Jeremy Jarvis</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97107</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>104</No>
+<Name>Azorius Aethermage</Name>
+<ChineseName>俄佐立乙太法师</ChineseName>
+<Type>Creature — Human Wizard 1/1</Type>
+<ManaCost>{1}{W}{U}</ManaCost>
+<CardText>Whenever a permanent is returned to your hand, you may pay {1}. If you do, draw a card.</CardText>
+<Flavor>In her single metasphere are bound the records of every Ætheric transaction since the time of Azor.</Flavor>
+<ChineseFlavor>自从俄佐即位以来的所有乙太纪录，都收存在她的超法球中。</ChineseFlavor>
+<Artist>Heather Hudson</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>111256</Multiverseid>
+<Rulings>2006/05/01: This ability will trigger whenever any permanent, including a token creature or Azorius Aethermage itself, is returned to your hand. It doesn't matter who controlled the permanent or if it had ever actually been in your hand before.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>105</No>
+<Name>Azorius First-Wing</Name>
+<ChineseName>俄佐立先锋</ChineseName>
+<Type>Creature — Griffin 2/2</Type>
+<ManaCost>{W}{U}</ManaCost>
+<CardText>Flying, protection from enchantments</CardText>
+<Flavor>With a steady diet of lawbreakers, Azorius griffins inevitably develop a resistance to the contraband magic that taints much of their prey.</Flavor>
+<ChineseFlavor>由于可供俄佐立狮鹫果腹的违法之徒数量十分充足，它们自然而然地发展出反制其猎物身上违禁法术的本事。</ChineseFlavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97101</Multiverseid>
+<Rulings>2006/05/01: "Protection from enchantments" means that Azorius First-Wing can't be enchanted, it can't be targeted by Aura spells or by abilities of enchantments, all damage that would be dealt to it by enchantments is prevented, and it can't be blocked by creatures that are also enchantments.
+2006/05/01: If an effect tries to move an Aura onto this creature, the effect will fail and the Aura will stay where it was.
+2006/05/01: Azorius First-Wing doesn't have protection from creatures that are enchanted.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>106</No>
+<Name>Azorius Ploy</Name>
+<ChineseName>俄佐立手法</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}{W}{U}</ManaCost>
+<CardText>Prevent all combat damage target creature would deal this turn.
+Prevent all combat damage that would be dealt to target creature this turn.</CardText>
+<Flavor>Azorius military tactics, like their legal tactics, capitalize on delay and nullification.</Flavor>
+<ChineseFlavor>俄佐立的战技正如其弄法技巧，着重在延迟与取消。</ChineseFlavor>
+<Artist>Michael Sutfin</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107427</Multiverseid>
+<Rulings>2006/05/01: The two targets may be the same creature or they may be different creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>107</No>
+<Name>Coiling Oracle</Name>
+<ChineseName>盘卷先知</ChineseName>
+<Type>Creature — Snake Elf Druid 1/1</Type>
+<ManaCost>{G}{U}</ManaCost>
+<CardText>When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.</CardText>
+<Flavor>Snaking remnants of nature directed by a body of thought and progress, the oracles embody all that is Simic.</Flavor>
+<ChineseFlavor>可思考与创造的身体引导着阴险的自然残存者；此先知正是析米克的具现。</ChineseFlavor>
+<Artist>Mark Zug</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97106</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>108</No>
+<Name>Cytoshape</Name>
+<ChineseName>细胞塑型</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{G}{U}</ManaCost>
+<CardText>Choose a nonlegendary creature on the battlefield. Target creature becomes a copy of that creature until end of turn.</CardText>
+<Flavor>"Though highly effective at reshaping flesh, these specially bred cytoplasts leave the subject reeking of omnibian mucus."
+—Simic research notes</Flavor>
+<ChineseFlavor>「虽然重塑肉体的效率很高，但此特化种的胞塑体会让样本带有全能蛙的黏液。」
+～析米克研究纪录</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107346</Multiverseid>
+<Rulings>2006/05/01: Only the creature that's becoming a copy is targeted. The creature that it will copy isn't chosen until Cytoshape resolves.
+2006/05/01: The creature copies the printed values of the chosen creature, plus any copy effects that have been applied to it. It won't copy counters on that creature. It won't copy effects that have changed the creature's power, toughness, types, color, or so on.
+2006/05/01: If the creature copies a creature that's copying a creature, it will become whatever the chosen creature is copying.
+2006/05/01: If the creature becomes a copy of a face-down creature, it will become a 2/2 creature with no name, creature type, abilities, mana cost, or color. It will not become face-down and thus can't be turned face up.
+2006/05/01: This effect can cause the target to stop being a creature. For example, if it becomes a copy of an animated Blinkmoth Nexus, the printed wording will be copied and it will become an unanimated Blinkmoth Nexus.
+2006/05/01: Effects that have already applied to the target creature will continue to apply to it. For example, if Giant Growth had given it +3/+3 earlier in the turn, then Cytoshape makes it a copy of Grizzly Bears, it will be a 5/5 Grizzly Bears.
+2006/05/01: A creature may become a copy of itself this way. This generally won't have any visible effect.
+2006/05/01: At the end of the turn, the creature reverts to what it was before. If two Cytoshapes affect the same creature on the same turn, they'll both wear off at the same time.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>109</No>
+<Name>Dread Slag</Name>
+<ChineseName>摄魂滓妖</ChineseName>
+<Type>Creature — Horror 9/9</Type>
+<ManaCost>{3}{B}{R}</ManaCost>
+<CardText>Trample
+Dread Slag gets -4/-4 for each card in your hand.</CardText>
+<Flavor>A thousand phobias sopped from the city and wrung from Rix Maadi as one.</Flavor>
+<ChineseFlavor>千样恐惧症自城市浸流而出，在锐兹玛第合而为一。</ChineseFlavor>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107322</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>110</No>
+<Name>Experiment Kraj</Name>
+<ChineseName>克戟实验体</ChineseName>
+<Type>Legendary Creature — Ooze Mutant 4/6</Type>
+<ManaCost>{2}{G}{G}{U}{U}</ManaCost>
+<CardText>Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.
+{T}: Put a +1/+1 counter on target creature.</CardText>
+<Flavor>"Of course it will grow beyond control—it was designed to choose its own evolution."
+—Momir Vig</Flavor>
+<ChineseFlavor>「它的成长当然会超出我们控制～它在设计上本就是能自行选择进化路线者。」
+～莫秘·维</ChineseFlavor>
+<Artist>Mark Tedin</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107385</Multiverseid>
+<Rulings>2006/05/01: Unlike with cards like Quicksilver Elemental, the costs of the activated abilities Experiment Kraj gains must be paid with the correct colors of mana.
+2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>111</No>
+<Name>Gobhobbler Rats</Name>
+<ChineseName>卡霍布老鼠</ChineseName>
+<Type>Creature — Rat 2/2</Type>
+<ManaCost>{B}{R}</ManaCost>
+<CardText>Hellbent — As long as you have no cards in hand, Gobhobbler Rats gets +1/+0 and has "{B}: Regenerate Gobhobbler Rats."</CardText>
+<Flavor>Lyzolda's pet rats eat better than the average citizen. In fact, they can usually be found eating the average citizen.</Flavor>
+<ChineseFlavor>莱佐妲养的老鼠吃得比一般市民还好。 其实，你经常能看到它们正在吃一般市民。</ChineseFlavor>
+<Artist>Michael Sutfin</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107542</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>112</No>
+<Name>Grand Arbiter Augustin IV</Name>
+<ChineseName>大仲裁者奥古斯汀四世</ChineseName>
+<Type>Legendary Creature — Human Advisor 2/3</Type>
+<ManaCost>{2}{W}{U}</ManaCost>
+<CardText>White spells you cast cost {1} less to cast.
+Blue spells you cast cost {1} less to cast.
+Spells your opponents cast cost {1} more to cast.</CardText>
+<Flavor>The Arbiter is a conduit of justice, a will so disciplined that it dispenses justice without ego or remorse.</Flavor>
+<ChineseFlavor>仲裁者是正义的渠道，其意志经过完美训练，伸张正义时绝对无私、毫不宽贷。</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107329</Multiverseid>
+<Rulings>2006/05/01: Spells you cast that are both blue and white cost {2} less to cast.
+2006/05/01: This reduces only generic mana portion of mana costs. A spell you cast with mana cost {1}{W}{U} will cost {W}{U} to cast.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>113</No>
+<Name>Hellhole Rats</Name>
+<ChineseName>地狱窟老鼠</ChineseName>
+<Type>Creature — Rat 2/2</Type>
+<ManaCost>{2}{B}{R}</ManaCost>
+<CardText>Haste
+When Hellhole Rats enters the battlefield, target player discards a card. Hellhole Rats deals damage to that player equal to that card's mana value.</CardText>
+<Flavor>"I must speak with Momir Vig about creating a water-spouting watchdog."
+—Mathvan, Prahv scrollwarden</Flavor>
+<ChineseFlavor>「我必须向莫秘·维禀报创造出会喷水的看门犬之事。」
+～布拉夫卷轴护卫麦斯凡</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97100</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>114</No>
+<Name>Isperia the Inscrutable</Name>
+<ChineseName>莫测者伊佩利</ChineseName>
+<Type>Legendary Creature — Sphinx 3/6</Type>
+<ManaCost>{1}{W}{W}{U}{U}</ManaCost>
+<CardText>Flying
+Whenever Isperia the Inscrutable deals combat damage to a player, choose a card name. That player reveals their hand. If a card with the chosen name is revealed this way, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle.</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107448</Multiverseid>
+<Rulings>2006/05/01: The card is named when the ability resolves. The named card can't be played after it's named but before the player's hand is revealed.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>115</No>
+<Name>Jagged Poppet</Name>
+<ChineseName>锯齿忠仆</ChineseName>
+<Type>Creature — Ogre Warrior 3/4</Type>
+<ManaCost>{1}{B}{R}</ManaCost>
+<CardText>Whenever Jagged Poppet is dealt damage, discard that many cards.
+Hellbent — Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.</CardText>
+<Flavor>Few puppets are so willing.</Flavor>
+<ChineseFlavor>没见过那么乖顺的傀儡。</ChineseFlavor>
+<Artist>Jeff Miracola</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97086</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>116</No>
+<Name>Leafdrake Roost</Name>
+<ChineseName>叶翼龙兽宿巢</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{G}{U}</ManaCost>
+<CardText>Enchant land
+Enchanted land has "{G}{U}, {T}: Create a 2/2 green and blue Drake creature token with flying."</CardText>
+<Flavor>"The best experiments are those whose successes replicate themselves."
+—Yolov, Simic bioengineer</Flavor>
+<ChineseFlavor>「最好的实验就是能成功再现的实验。」
+～析米克生体技师尤洛夫</ChineseFlavor>
+<Artist>Nick Percival</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107557</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>117</No>
+<Name>Lyzolda, the Blood Witch</Name>
+<ChineseName>血腥法术师莱佐妲</ChineseName>
+<Type>Legendary Creature — Human Cleric 3/1</Type>
+<ManaCost>{1}{B}{R}</ManaCost>
+<CardText>{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to any target if the sacrificed creature was red. Draw a card if the sacrificed creature was black.</CardText>
+<Flavor>Sacrificial rites take place before an audience of cheering cultists, each begging to be the next on stage.</Flavor>
+<ChineseFlavor>牺牲仪式在围观教众的欢声之下开始，人人都希望轮到下一个上台。</ChineseFlavor>
+<Artist>Jim Nelson</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107363</Multiverseid>
+<Rulings>2006/05/01: You can sacrifice any creature you control to pay for this ability. If the creature was neither red nor black, the ability has no effect.
+2006/05/01: You must choose a target for the ability, even if the creature you sacrifice isn't red. If the target becomes illegal before the ability resolves, the ability won't resolve; you won't draw a card, even if the creature you sacrificed was black.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>118</No>
+<Name>Momir Vig, Simic Visionary</Name>
+<ChineseName>析米克幻视师莫秘维</ChineseName>
+<Type>Legendary Creature — Elf Wizard 2/2</Type>
+<ManaCost>{3}{G}{U}</ManaCost>
+<CardText>Whenever you cast a green creature spell, you may search your library for a creature card, reveal it, then shuffle and put that card on top.
+Whenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107506</Multiverseid>
+<Rulings>2006/05/01: If you cast a green and blue creature spell, both abilities will trigger. The abilities may be stacked so that when they resolve, you search your library for a creature card, put it on top of your library, and then put that card into your hand. The abilities may also be stacked in the other order, of course.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>119</No>
+<Name>Omnibian</Name>
+<ChineseName>全能蛙</ChineseName>
+<Type>Creature — Frog 3/3</Type>
+<ManaCost>{1}{G}{G}{U}</ManaCost>
+<CardText>{T}: Target creature becomes a Frog with base power and toughness 3/3 until end of turn.</CardText>
+<Flavor>"This creature has hyperevolved chameleonic abilities. It no longer mimics its surroundings, instead forcing them to take on its form."
+—Simic research notes</Flavor>
+<ChineseFlavor>「这生物的拟态异能过度发展。 他不再模仿周遭景物，而是强迫周遭景物都得跟他一样。」
+～析米克研究纪录</ChineseFlavor>
+<Artist>Jim Nelson</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>83737</Multiverseid>
+<Rulings>2006/05/01: If the target creature has any counters on it that modify its power and toughness (such as a +1/+1 counter), those counters will continue to affect the creature after it becomes 3/3. In the example given, it will be 4/4.
+2009/10/01: If the target creature is affected by any effects that modify its power or toughness without setting them to specific values (such as from Giant Growth), Omnibian's effect will be applied before those effects. In the example given, the creature will be 6/6.
+2013/04/15: This effect changes only the power, toughness, and creature type of the targeted creature. It does not cause that creature to lose any abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>120</No>
+<Name>Overrule</Name>
+<ChineseName>宣告无效</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{X}{W}{U}</ManaCost>
+<CardText>Counter target spell unless its controller pays {X}. You gain X life.</CardText>
+<Flavor>With one commanding word, the spell was put down and a fine collected for its casting.</Flavor>
+<ChineseFlavor>一声令下，此咒语便被解除，且课以施咒罚金。</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97111</Multiverseid>
+<Rulings>2006/05/01: You gain the life whether or not the spell's controller pays {X} and whether or not the spell is countered.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>121</No>
+<Name>Pain Magnification</Name>
+<ChineseName>增强苦痛</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{1}{B}{R}</ManaCost>
+<CardText>Whenever an opponent is dealt 3 or more damage by a single source, that player discards a card.</CardText>
+<Flavor>The Rakdos make sure their victims remember their pain—or at least give up a little bit of their sanity in order to forget.</Flavor>
+<ChineseFlavor>拉铎司门徒总能让受害者记得所受痛苦～或者至少丧失些神智来将它忘掉。</ChineseFlavor>
+<Artist>Aleksi Briclot</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97105</Multiverseid>
+<Rulings>2006/05/01: This triggers only if all 3 or more damage is dealt at the same time. It doesn't trigger if damage that adds up to 3 or more is dealt at different times by the same source.
+2006/05/01: If a source deals 3 or more damage to multiple opponents at the same time, this ability will trigger once for each of those opponents. They will each have to discard a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>122</No>
+<Name>Palliation Accord</Name>
+<ChineseName>减伤调和</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{W}{U}</ManaCost>
+<CardText>Whenever a creature an opponent controls becomes tapped, put a palliation counter on Palliation Accord.
+Remove a palliation counter from Palliation Accord: Prevent the next 1 damage that would be dealt to you this turn.</CardText>
+<Artist>William Simpson</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97118</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>123</No>
+<Name>Plaxcaster Frogling</Name>
+<ChineseName>护板蛙兽</ChineseName>
+<Type>Creature — Frog Mutant 0/0</Type>
+<ManaCost>{1}{G}{U}</ManaCost>
+<CardText>Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. (It can't be the target of spells or abilities.)</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97104</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>124</No>
+<Name>Plumes of Peace</Name>
+<ChineseName>和平之羽</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{1}{W}{U}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Forecast — {W}{U}, Reveal Plumes of Peace from your hand: Tap target creature. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Justin Sweet</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107379</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>125</No>
+<Name>Pride of the Clouds</Name>
+<ChineseName>云狮群</ChineseName>
+<Type>Creature — Elemental Cat 1/1</Type>
+<ManaCost>{W}{U}</ManaCost>
+<CardText>Flying
+Pride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.
+Forecast — {2}{W}{U}, Reveal Pride of the Clouds from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Rebecca Guay</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97097</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>126</No>
+<Name>Rain of Gore</Name>
+<ChineseName>血块雨</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{B}{R}</ManaCost>
+<CardText>If a spell or ability would cause its controller to gain life, that player loses that much life instead.</CardText>
+<Flavor>"Stay indoors, away from what seeps over the thresholds. This is the Demon's work, and only ill can come of it."
+—Belko, owner of Titan's Keg tavern</Flavor>
+<ChineseFlavor>「在屋里待着，别碰流进门槛里的东西。 这是恶魔的造物，只会带来疾病。」
+～泰坦酒桶旅店主人拜可</ChineseFlavor>
+<Artist>Fred Hooper</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107358</Multiverseid>
+<Rulings>2013/04/15: This does not apply to life gain caused by combat damage from a creature with lifelink.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>127</No>
+<Name>Rakdos Augermage</Name>
+<ChineseName>拉铎司钻法师</ChineseName>
+<Type>Creature — Human Wizard 3/2</Type>
+<ManaCost>{B}{B}{R}</ManaCost>
+<CardText>First strike
+{T}: Reveal your hand and discard a card of target opponent's choice. Then that player reveals their hand and discards a card of your choice. Activate only as a sorcery.</CardText>
+<Flavor>"Great minds bleed alike."</Flavor>
+<ChineseFlavor>「好脑袋流着同样的血。」</ChineseFlavor>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107543</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>128</No>
+<Name>Rakdos Ickspitter</Name>
+<ChineseName>拉铎司恶吐兽</ChineseName>
+<Type>Creature — Thrull 1/1</Type>
+<ManaCost>{1}{B}{R}</ManaCost>
+<CardText>{T}: Rakdos Ickspitter deals 1 damage to target creature and that creature's controller loses 1 life.</CardText>
+<Flavor>"Our thrulls dissolve from the inside out in a matter of days. Shoddy work, but they're a scream while they last."
+—Uzric, Rakdos guildmage</Flavor>
+<ChineseFlavor>「我们的索尔兽在几天之内就从内部溶解。 应该有用，不过他们活着时真是场闹剧。」
+～拉铎司公会法师乌兹力</ChineseFlavor>
+<Artist>Christopher Rush</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97074</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>129</No>
+<Name>Rakdos the Defiler</Name>
+<ChineseName>污化魔王拉铎司</ChineseName>
+<Type>Legendary Creature — Demon 7/6</Type>
+<ManaCost>{2}{B}{B}{R}{R}</ManaCost>
+<CardText>Flying, trample
+Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up.
+Whenever Rakdos deals combat damage to a player, that player sacrifices half the non-Demon permanents they control, rounded up.</CardText>
+<Artist>Zoltan Boros & Gabor Szikszai</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107438</Multiverseid>
+<Rulings>2006/05/01: To calculate the number of permanents that must be sacrificed, count the number of permanents the affected player controls that don't have the subtype Demon, then divide that number in half and round up. For example, a player who controls eleven non-Demon permanents will need to sacrifice six of them.
+2006/05/01: A permanent with the subtype Demon, including Rakdos the Defiler itself, can't be sacrificed this way.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>130</No>
+<Name>Simic Sky Swallower</Name>
+<ChineseName>析米克蔽空霸</ChineseName>
+<Type>Creature — Leviathan 6/6</Type>
+<ManaCost>{5}{G}{U}</ManaCost>
+<CardText>Flying, trample
+Shroud (This creature can't be the target of spells or abilities.)</CardText>
+<Flavor>"We've bred out the shortcomings of the species' natural form and replaced them with assets of our own design."
+—Momir Vig</Flavor>
+<ChineseFlavor>「我们已摒除此物种的自然缺陷，并以独家研发的长处来取代。」
+～莫秘·维</ChineseFlavor>
+<Artist>rk post</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>111204</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>131</No>
+<Name>Sky Hussar</Name>
+<ChineseName>翔空轻骑兵</ChineseName>
+<Type>Creature — Human Knight 4/3</Type>
+<ManaCost>{3}{W}{U}</ManaCost>
+<CardText>Flying
+When Sky Hussar enters the battlefield, untap all creatures you control.
+Forecast — Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. (Activate only during your upkeep and only once each turn.)</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97109</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>132</No>
+<Name>Swift Silence</Name>
+<ChineseName>乍然寂静</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{W}{U}{U}</ManaCost>
+<CardText>Counter all other spells. Draw a card for each spell countered this way.</CardText>
+<Flavor>"This world may not know peace, but in my presence you *will* know quiet."
+—Augustin IV</Flavor>
+<ChineseFlavor>「这世界或许难归和平，但在我面前你将了解何谓寂静。」
+～奥古斯汀四世</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107284</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>133</No>
+<Name>Trygon Predator</Name>
+<ChineseName>掠食飞鳐</ChineseName>
+<Type>Creature — Beast 2/3</Type>
+<ManaCost>{1}{G}{U}</ManaCost>
+<CardText>Flying
+Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.</CardText>
+<Flavor>Held aloft by metabolized magic, trygons are ravenous for sources of mystic fuel.</Flavor>
+<ChineseFlavor>飞鳐依靠变形法术在空中飞翔，为补充魔力燃料来源而不断掠食。</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97112</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>134</No>
+<Name>Twinstrike</Name>
+<ChineseName>双重打击</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{B}{R}</ManaCost>
+<CardText>Twinstrike deals 2 damage to each of two target creatures.
+Hellbent — Destroy those creatures instead if you have no cards in hand.</CardText>
+<Flavor>They're dying left and right.</Flavor>
+<ChineseFlavor>哪里不死人啊。</ChineseFlavor>
+<Artist>Christopher Rush</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97114</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>135</No>
+<Name>Vigean Hydropon</Name>
+<ChineseName>维氏水耕植株</ChineseName>
+<Type>Creature — Plant Mutant 0/0</Type>
+<ManaCost>{1}{G}{U}</ManaCost>
+<CardText>Graft 5 (This creature enters the battlefield with five +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+Vigean Hydropon can't attack or block.</CardText>
+<Flavor>Fruits of magic, roots in science.</Flavor>
+<ChineseFlavor>法术的果实，科学为根基。</ChineseFlavor>
+<Artist>Anthony S. Waters</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107293</Multiverseid>
+<Rulings>2006/05/01: Even though this creature can't attack, it doesn't have defender.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>136</No>
+<Name>Vigean Intuition</Name>
+<ChineseName>维氏直觉</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{G}{U}</ManaCost>
+<CardText>Choose a card type, then reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest into your graveyard. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97120</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>137</No>
+<Name>Voidslime</Name>
+<ChineseName>虚空黏泞</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G}{U}{U}</ManaCost>
+<CardText>Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)</CardText>
+<Flavor>"It is technically an ooze, but its lifespan measures only seconds. In that short time, its appetite for magic is extraordinary."
+—Simic research notes</Flavor>
+<ChineseFlavor>「技术上来说，它是个流浆，但生命史仅维持数秒。 在如此短暂生涯里，它对法术的胃口大得惊人。」
+～析米克研究纪录</ChineseFlavor>
+<Artist>Jim Murray</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97096</Multiverseid>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>138</No>
+<Name>Windreaver</Name>
+<ChineseName>破风者</ChineseName>
+<Type>Creature — Elemental 1/3</Type>
+<ManaCost>{3}{W}{U}</ManaCost>
+<CardText>Flying
+{W}: Windreaver gains vigilance until end of turn.
+{W}: Windreaver gets +0/+1 until end of turn.
+{U}: Switch Windreaver's power and toughness until end of turn.
+{U}: Return Windreaver to its owner's hand.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97094</Multiverseid>
+<Rulings>2013/04/15: Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first.
+2013/04/15: Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>139</No>
+<Name>Wrecking Ball</Name>
+<ChineseName>毁坏狂宴</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{B}{R}</ManaCost>
+<CardText>Destroy target creature or land.</CardText>
+<Flavor>Rakdos festivals almost leave enough rubble in their wake to hide the bodies.</Flavor>
+<ChineseFlavor>拉铎司节庆沿路留下的碎石堆，仅能大略盖住留下的尸体。</ChineseFlavor>
+<Artist>Ron Spears</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>111202</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>140</No>
+<Name>Avatar of Discord</Name>
+<ChineseName>走调化身</ChineseName>
+<Type>Creature — Avatar 5/3</Type>
+<ManaCost>{B/R}{B/R}{B/R}</ManaCost>
+<CardText>({B/R} can be paid with either {B} or {R}.)
+Flying
+When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.</CardText>
+<Flavor>Such is the power of Rakdos that even his shadow takes on a cruel life of its own.</Flavor>
+<ChineseFlavor>拉铎司的力量如此残酷，就连其身影都以此形象具现。</ChineseFlavor>
+<Artist>rk post</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107437</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>141</No>
+<Name>Azorius Guildmage</Name>
+<ChineseName>俄佐立公会法师</ChineseName>
+<Type>Creature — Vedalken Wizard 2/2</Type>
+<ManaCost>{W/U}{W/U}</ManaCost>
+<CardText>{2}{W}: Tap target creature.
+{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)</CardText>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97077</Multiverseid>
+<Rulings>2016/06/08: Activated abilities contain a colon. They're generally written "[Cost]: [Effect]." Some keywords are activated abilities and will have colons in their reminder text.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>142</No>
+<Name>Biomantic Mastery</Name>
+<ChineseName>通晓生体工法</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{G/U}{G/U}{G/U}</ManaCost>
+<CardText>Draw a card for each creature target player controls, then draw a card for each creature another target player controls.</CardText>
+<Flavor>"Look beyond, to the vascular awareness that all life is a map to greater knowledge."
+—Momir Vig, *Biomancy*, vol. I</Flavor>
+<ChineseFlavor>「藉由此法，就能藉由脉络意识看透一切：各个生命就如地图，能指引你通往更高深的知识。」
+～莫秘·维，《生体工法》 第I部</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107277</Multiverseid>
+<Rulings>2006/05/01: You choose both targets before you draw any cards. The targets must be different. One of them may be you.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>143</No>
+<Name>Dovescape</Name>
+<ChineseName>化鸽咒帘</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{W/U}{W/U}{W/U}</ManaCost>
+<CardText>({W/U} can be paid with either {W} or {U}.)
+Whenever a player casts a noncreature spell, counter that spell. That player creates X 1/1 white and blue Bird creature tokens with flying, where X is the spell's mana value.</CardText>
+<Artist>Shishizaru</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107428</Multiverseid>
+<Rulings>2006/05/01: The Bird tokens are created even if the spell isn't countered by Dovescape's ability. This may happen because the spell can't be countered, because it's already been countered, or because it's otherwise been removed from the stack by the time Dovescape's ability resolves.
+2006/05/01: If a split card is cast, Dovescape makes tokens equal to the converted mana cost of the half that was cast.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>144</No>
+<Name>Minister of Impediments</Name>
+<ChineseName>阻碍执行员</ChineseName>
+<Type>Creature — Human Advisor 1/1</Type>
+<ManaCost>{2}{W/U}</ManaCost>
+<CardText>({W/U} can be paid with either {W} or {U}.)
+{T}: Tap target creature.</CardText>
+<Flavor>When it takes forever to learn all the rules, no time is left for breaking them.</Flavor>
+<ChineseFlavor>如果把规则学全得花掉所有时间，就根本没空去打破规则。</ChineseFlavor>
+<Artist>Brian Hagan</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97083</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>145</No>
+<Name>Rakdos Guildmage</Name>
+<ChineseName>拉铎司公会法师</ChineseName>
+<Type>Creature — Zombie Shaman 2/2</Type>
+<ManaCost>{B/R}{B/R}</ManaCost>
+<CardText>({B/R} can be paid with either {B} or {R}.)
+{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.
+{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97108</Multiverseid>
+<Rulings>2006/05/01: If the second ability is activated during the End step, the token won't be exiled until the following turn's End step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>146</No>
+<Name>Riot Spikes</Name>
+<ChineseName>暴乱尖刺</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{B/R}</ManaCost>
+<CardText>({B/R} can be paid with either {B} or {R}.)
+Enchant creature
+Enchanted creature gets +2/-1.</CardText>
+<Flavor>Most auramancers would have let the spikes hover just above the skin. Having the spikes rip through the skin from beneath was a touch added by Rakdos himself.</Flavor>
+<ChineseFlavor>大多数的灵气法师会让尖刺刚好碰不到皮肤。 而让尖刺穿透皮肤而入，则是拉铎司本人的意思。</ChineseFlavor>
+<Artist>Christopher Moeller</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97076</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>147</No>
+<Name>Shielding Plax</Name>
+<ChineseName>咒护板</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{2}{G/U}</ManaCost>
+<CardText>({G/U} can be paid with either {G} or {U}.)
+Enchant creature
+When Shielding Plax enters the battlefield, draw a card.
+Enchanted creature can't be the target of spells or abilities your opponents control.</CardText>
+<Artist>Brian Hagan</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97084</Multiverseid>
+<Rulings>2013/04/15: This is not the same as hexproof. If, for example, you target one of your opponent's creatures, your opponents won't be able to target their own creature with spells or abilities.
+2018/12/07: If the target creature is an illegal target by the time Shielding Plax tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so its enters-the-battlefield ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>148</No>
+<Name>Simic Guildmage</Name>
+<ChineseName>析米克公会法师</ChineseName>
+<Type>Creature — Elf Wizard 2/2</Type>
+<ManaCost>{G/U}{G/U}</ManaCost>
+<CardText>({G/U} can be paid with either {G} or {U}.)
+{1}{G}: Move a +1/+1 counter from target creature onto another target creature with the same controller.
+{1}{U}: Attach target Aura attached to a permanent to another permanent with the same controller.</CardText>
+<Artist>Aleksi Briclot</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97078</Multiverseid>
+<Rulings>2006/05/01: For the first ability, the first target creature doesn't need to have a +1/+1 counter on it. If it doesn't, the ability does nothing.
+2006/05/01: For the first ability, if the two target creatures aren't controlled by the same player when the ability resolves, the ability does nothing. The player who controls the two creatures doesn't have to be the same player who controlled them when the ability was activated, and that player doesn't have to be Simic Guildmage's controller.
+2006/05/01: For the second ability, only the Aura is targeted. When the ability resolves, you choose a permanent to move the Aura onto. It can't be the permanent the Aura is already attached to, it must be controlled by the player who controls the permanent the Aura is attached to, and it must be able to be enchanted by the Aura. (It doesn't matter who controls the Aura or who controls Simic Guildmage.) If no such permanent exists, the Aura doesn't move.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>149a</No>
+<Name>Bound (Bound/Determined)</Name>
+<ChineseName>受缚 // 命定</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{B}{G}</ManaCost>
+<CardText>Sacrifice a creature. Return up to X cards from your graveyard to your hand, where X is the number of colors that creature was. Exile this card.</CardText>
+<Artist>Jim Nelson</Artist>
+<Watermark>Golgari</Watermark>
+<Multiverseid>107373</Multiverseid>
+<Rulings>2006/05/01: The creature is sacrificed when Bound resolves. It's not an additional cost. It's not optional. If you can't sacrifice a creature or a colorless creature is sacrificed, no cards are returned.
+2006/05/01: The cards in the graveyard that you return as part of Bound's effect aren't targeted. They're chosen when the spell resolves. The creature you sacrificed may be one of them.
+2006/05/01: After Determined resolves, any spells or abilities that would counter a spell you control that turn will still resolve. They just won't counter that spell.
+2006/05/01: Spells you control may be countered by spells or abilities while Determined is on the stack, waiting to resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Determined (Bound/Determined)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>149b</No>
+<Name>Determined (Bound/Determined)</Name>
+<ChineseName>受缚 // 命定</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G}{U}</ManaCost>
+<CardText>Other spells you control can't be countered this turn.
+Draw a card.</CardText>
+<Artist>Jim Nelson</Artist>
+<Watermark>Golgari</Watermark>
+<Multiverseid>107373</Multiverseid>
+<Rulings>2006/05/01: The creature is sacrificed when Bound resolves. It's not an additional cost. It's not optional. If you can't sacrifice a creature or a colorless creature is sacrificed, no cards are returned.
+2006/05/01: The cards in the graveyard that you return as part of Bound's effect aren't targeted. They're chosen when the spell resolves. The creature you sacrificed may be one of them.
+2006/05/01: After Determined resolves, any spells or abilities that would counter a spell you control that turn will still resolve. They just won't counter that spell.
+2006/05/01: Spells you control may be countered by spells or abilities while Determined is on the stack, waiting to resolve.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Bound (Bound/Determined)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>150a</No>
+<Name>Crime (Crime/Punishment)</Name>
+<ChineseName>罪行 // 惩罚</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{W}{B}</ManaCost>
+<CardText>Put target creature or enchantment card from an opponent's graveyard onto the battlefield under your control.</CardText>
+<Artist>Randy Gallegos</Artist>
+<Watermark>Orzhov</Watermark>
+<Multiverseid>107285</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Punishment (Crime/Punishment)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>150b</No>
+<Name>Punishment (Crime/Punishment)</Name>
+<ChineseName>罪行 // 惩罚</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{B}{G}</ManaCost>
+<CardText>Destroy each artifact, creature, and enchantment with mana value X.</CardText>
+<Artist>Randy Gallegos</Artist>
+<Watermark>Orzhov</Watermark>
+<Multiverseid>107285</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Crime (Crime/Punishment)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>151a</No>
+<Name>Hide (Hide/Seek)</Name>
+<ChineseName>藏匿 // 寻找</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{R}{W}</ManaCost>
+<CardText>Put target artifact or enchantment on the bottom of its owner's library.</CardText>
+<Artist>Zoltan Boros</Artist>
+<Watermark>Boros</Watermark>
+<Multiverseid>107315</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Seek (Hide/Seek)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>151b</No>
+<Name>Seek (Hide/Seek)</Name>
+<ChineseName>藏匿 // 寻找</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}{B}</ManaCost>
+<CardText>Search target opponent's library for a card and exile it. You gain life equal to its mana value. Then that player shuffles.</CardText>
+<Artist>Gabor Szikszai</Artist>
+<Watermark>Boros</Watermark>
+<Multiverseid>107315</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Hide (Hide/Seek)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>152a</No>
+<Name>Hit (Hit/Run)</Name>
+<ChineseName>刺杀 // 奔跑</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{B}{R}</ManaCost>
+<CardText>Target player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's mana value.</CardText>
+<Artist>Darrell Riche</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107387</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Run (Hit/Run)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>152b</No>
+<Name>Run (Hit/Run)</Name>
+<ChineseName>刺杀 // 奔跑</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{R}{G}</ManaCost>
+<CardText>Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.</CardText>
+<Artist>Darrell Riche</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>107387</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Hit (Hit/Run)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>153a</No>
+<Name>Odds (Odds/Ends)</Name>
+<ChineseName>机会 // 结束</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}{R}</ManaCost>
+<CardText>Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.</CardText>
+<Artist>Michael Sutfin</Artist>
+<Watermark>Izzet</Watermark>
+<Multiverseid>107445</Multiverseid>
+<Rulings>2006/05/01: The Odds coin flip has no winner or loser, and no player calls "heads" or "tails."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Ends (Odds/Ends)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>153b</No>
+<Name>Ends (Odds/Ends)</Name>
+<ChineseName>机会 // 结束</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{R}{W}</ManaCost>
+<CardText>Target player sacrifices two attacking creatures.</CardText>
+<Artist>Michael Sutfin</Artist>
+<Watermark>Izzet</Watermark>
+<Multiverseid>107445</Multiverseid>
+<Rulings>2006/05/01: The Odds coin flip has no winner or loser, and no player calls "heads" or "tails."</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Odds (Odds/Ends)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>154a</No>
+<Name>Pure (Pure/Simple)</Name>
+<ChineseName>纯净 // 简单</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{R}{G}</ManaCost>
+<CardText>Destroy target multicolored permanent.</CardText>
+<Artist>Paolo Parente</Artist>
+<Watermark>Gruul</Watermark>
+<Multiverseid>107532</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Simple (Pure/Simple)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>154b</No>
+<Name>Simple (Pure/Simple)</Name>
+<ChineseName>纯净 // 简单</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{G}{W}</ManaCost>
+<CardText>Destroy all Auras and Equipment.</CardText>
+<Artist>Paolo Parente</Artist>
+<Watermark>Gruul</Watermark>
+<Multiverseid>107532</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Pure (Pure/Simple)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>155a</No>
+<Name>Research (Research/Development)</Name>
+<ChineseName>研究 // 开发</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G}{U}</ManaCost>
+<CardText>Shuffle up to four cards you own from outside the game into your library.</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107375</Multiverseid>
+<Rulings>2006/05/01: Development's effect is repeated three times no matter which option the opponent chooses. The opponent may choose a different option each time. You'll wind up with three Elemental tokens, two tokens and a card, one token and two cards, or three cards, whichever your opponent chooses.
+2006/05/01: In a multiplayer game, each opponent, in turn, has the option to let you draw a card. If no opponent does, you put a token onto the battlefield. Then the process repeats two more times. A different opponent may let you draw a card each time.
+2009/10/01: A card "from outside the game" may be a card from your collection or a card from your sideboard. In tournament play, you can't choose a card from your collection. The cards you choose don't all have to come from the same place.
+2009/10/01: The exile zone is a part of the game, so you can't get exiled cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Development (Research/Development)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>155b</No>
+<Name>Development (Research/Development)</Name>
+<ChineseName>研究 // 开发</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{U}{R}</ManaCost>
+<CardText>Create a 3/1 red Elemental creature token unless any opponent has you draw a card. Repeat this process two more times.</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>107375</Multiverseid>
+<Rulings>2006/05/01: Development's effect is repeated three times no matter which option the opponent chooses. The opponent may choose a different option each time. You'll wind up with three Elemental tokens, two tokens and a card, one token and two cards, or three cards, whichever your opponent chooses.
+2006/05/01: In a multiplayer game, each opponent, in turn, has the option to let you draw a card. If no opponent does, you put a token onto the battlefield. Then the process repeats two more times. A different opponent may let you draw a card each time.
+2009/10/01: A card "from outside the game" may be a card from your collection or a card from your sideboard. In tournament play, you can't choose a card from your collection. The cards you choose don't all have to come from the same place.
+2009/10/01: The exile zone is a part of the game, so you can't get exiled cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+<OtherPart>Research (Research/Development)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>156a</No>
+<Name>Rise (Rise/Fall)</Name>
+<ChineseName>起身 // 坠落</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{U}{B}</ManaCost>
+<CardText>Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.</CardText>
+<Artist>Pete Venters</Artist>
+<Watermark>Dimir</Watermark>
+<Multiverseid>107423</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Fall (Rise/Fall)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>156b</No>
+<Name>Fall (Rise/Fall)</Name>
+<ChineseName>起身 // 坠落</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{B}{R}</ManaCost>
+<CardText>Target player reveals two cards at random from their hand, then discards each nonland card revealed this way.</CardText>
+<Artist>Pete Venters</Artist>
+<Watermark>Dimir</Watermark>
+<Multiverseid>107423</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Rise (Rise/Fall)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>157a</No>
+<Name>Supply (Supply/Demand)</Name>
+<ChineseName>供给 // 需求</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{G}{W}</ManaCost>
+<CardText>Create X 1/1 green Saproling creature tokens.</CardText>
+<Artist>Daren Bader</Artist>
+<Watermark>Selesnya</Watermark>
+<Multiverseid>107464</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Demand (Supply/Demand)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>157b</No>
+<Name>Demand (Supply/Demand)</Name>
+<ChineseName>供给 // 需求</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{W}{U}</ManaCost>
+<CardText>Search your library for a multicolored card, reveal it, put it into your hand, then shuffle.</CardText>
+<Artist>Daren Bader</Artist>
+<Watermark>Selesnya</Watermark>
+<Multiverseid>107464</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Supply (Supply/Demand)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>158a</No>
+<Name>Trial (Trial/Error)</Name>
+<ChineseName>审判 // 错误</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}{U}</ManaCost>
+<CardText>Return all creatures blocking or blocked by target creature to their owner's hand.</CardText>
+<Artist>Ron Spears</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107259</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Error (Trial/Error)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>158b</No>
+<Name>Error (Trial/Error)</Name>
+<ChineseName>审判 // 错误</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}{B}</ManaCost>
+<CardText>Counter target multicolored spell.</CardText>
+<Artist>Wayne Reynolds</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>107259</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+<OtherPart>Trial (Trial/Error)</OtherPart>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>159</No>
+<Name>Azorius Signet</Name>
+<ChineseName>俄佐立印记</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{1}, {T}: Add {W}{U}.</CardText>
+<Flavor>The maze-like design embodies the core of Azorius law—strict structure designed to test wills and stall change.</Flavor>
+<ChineseFlavor>这迷宫般的设计具现了俄佐立法律的核心精神～用来试练意志、延缓变化的精密结构。</ChineseFlavor>
+<Artist>Greg Hildebrandt</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97085</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>160</No>
+<Name>Bronze Bombshell</Name>
+<ChineseName>黄铜劲爆女</ChineseName>
+<Type>Artifact Creature — Construct 4/1</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>When a player other than Bronze Bombshell's owner controls it, that player sacrifices it. If the player does, Bronze Bombshell deals 7 damage to the player.</CardText>
+<Flavor>"Ooh, shiny! Let's pull off the chain and take her with us."
+—Ukl, Gruul raider, last words</Flavor>
+<ChineseFlavor>「喔，亮晶晶！ 把链子给拿掉就可以带她走了。」
+～古鲁突击兵乌鼓的遗言</ChineseFlavor>
+<Artist>Martina Pilcerova</Artist>
+<Multiverseid>107327</Multiverseid>
+<Rulings>2006/05/01: This ability is a state trigger. Once it triggers, it won't trigger again while the ability is on the stack. If the triggered ability leaves the stack and the creature is still on the battlefield under the control of a player other than its owner, the ability will immediately trigger again.
+2006/05/01: Bronze Bombshell deals 7 damage only if it was sacrificed as a result of its ability. If it leaves the battlefield or changes controllers before the ability resolves, it can't be sacrificed and won't deal damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>161</No>
+<Name>Evolution Vat</Name>
+<ChineseName>进化奇缸</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{3}, {T}: Tap target creature and put a +1/+1 counter on it. Until end of turn, that creature gains "{2}{G}{U}: Double the number of +1/+1 counters on this creature."</CardText>
+<Flavor>The vats are self-contained worlds, bubbling and churning with unnatural speed, boiling down eons of change into moments.</Flavor>
+<ChineseFlavor>此缸是自成一格的世界，以出奇的速度冒泡翻搅着，让需时亿万年的改变在倾刻之间完成。</ChineseFlavor>
+<Artist>John Avon</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97093</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>162</No>
+<Name>Magewright's Stone</Name>
+<ChineseName>领法师之石</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{1}, {T}: Untap target creature that has an activated ability with {T} in its cost.</CardText>
+<Flavor>The stones hark back to an age before civilization, when the living earth blessed all who trod its untamed wilds.</Flavor>
+<ChineseFlavor>此石能倾听未开化年代之音，当时生机大地仍替踏入不驯荒野者祈福。</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>111259</Multiverseid>
+<Rulings>2006/05/01: If an activated ability with {T} in its cost is granted to a creature by an effect (such as Hypervolt Grasp's effect, for instance), Magewright's Stone can untap that creature.
+2006/05/01: This looks for the {T} symbol. The phrase "tap an untapped creature you control" isn't the same and doesn't count.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>163</No>
+<Name>Muse Vessel</Name>
+<ChineseName>谬思皿</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{3}, {T}: Target player exiles a card from their hand. Activate only as a sorcery.
+{1}: Choose a card exiled with Muse Vessel. You may play that card this turn.</CardText>
+<Artist>Christopher Rush</Artist>
+<Multiverseid>107553</Multiverseid>
+<Rulings>2006/05/01: Only cards exiled as a result of the first ability can be played as a result of the second ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>164</No>
+<Name>Rakdos Riteknife</Name>
+<ChineseName>拉铎司祭刃</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Equipped creature gets +1/+0 for each blood counter on Rakdos Riteknife and has "{T}, Sacrifice a creature: Put a blood counter on Rakdos Riteknife."
+{B}{R}, Sacrifice Rakdos Riteknife: Target player sacrifices a permanent for each blood counter on Rakdos Riteknife.
+Equip {2}</CardText>
+<Artist>Jim Nelson</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97119</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>165</No>
+<Name>Rakdos Signet</Name>
+<ChineseName>拉铎司印记</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{1}, {T}: Add {B}{R}.</CardText>
+<Flavor>Made of bone and boiled in blood, a Rakdos signet is not considered finished until it has been used as a murder weapon.</Flavor>
+<ChineseFlavor>拉铎司印记以白骨制成，要拿鲜血煮过，并且用来杀生之后才能算是大功告成。</ChineseFlavor>
+<Artist>Greg Hildebrandt</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97098</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>166</No>
+<Name>Simic Signet</Name>
+<ChineseName>析米克印记</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{1}, {T}: Add {G}{U}.</CardText>
+<Flavor>For the Simic Combine, its sigil serves not as an emblem of honor but as a trademark. Its familiar image on any biological commodity attests to superb craftsmanship, ingenious innovation, and higher cost.</Flavor>
+<ChineseFlavor>对析米克联合而言，其印记并非荣誉之徽记，而是注册商标。 这熟悉图像在任何生体用品上都可见到，证明了为其投资的高超技巧，精妙创意，以及昂贵费用。</ChineseFlavor>
+<Artist>Greg Hildebrandt</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97079</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>167</No>
+<Name>Skullmead Cauldron</Name>
+<ChineseName>颅酿鼎镬</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{T}: You gain 1 life.
+{T}, Discard a card: You gain 3 life.</CardText>
+<Flavor>Once tasted, the flavor of skullmead lingers in the throat, a secret brand of guilt for those who partake in forbidden pleasures.</Flavor>
+<ChineseFlavor>只要尝过一次颅酿，其香气便在咽喉盘桓不去，这是参与过禁忌快感者所享受的神秘罪恶感。</ChineseFlavor>
+<Artist>Martina Pilcerova</Artist>
+<Multiverseid>107326</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>168</No>
+<Name>Transguild Courier</Name>
+<ChineseName>跨公会讯使</ChineseName>
+<Type>Artifact Creature — Golem 3/3</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Transguild Courier is all colors.</CardText>
+<Flavor>Reluctant to meet face to face, the leaders of the ten guilds prefer to do official business through a go-between immune to bribes and threats.</Flavor>
+<ChineseFlavor>十个公会的领导人不愿直接会面，宁可藉由不受贿赂与威胁的中间人来正式交涉。</ChineseFlavor>
+<Artist>John Avon</Artist>
+<Multiverseid>107362</Multiverseid>
+<Rulings>2006/05/01: Transguild Courier appears in a multicolored card frame, but it's still an artifact.
+2011/09/22: This card is white, blue, black, red, and green in all zones. It is multicolored.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>169</No>
+<Name>Walking Archive</Name>
+<ChineseName>自走档案</ChineseName>
+<Type>Artifact Creature — Golem 1/1</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Walking Archive enters the battlefield with a +1/+1 counter on it.
+At the beginning of each player's upkeep, that player draws a card for each +1/+1 counter on Walking Archive.
+{2}{W}{U}: Put a +1/+1 counter on Walking Archive.</CardText>
+<Artist>Heather Hudson</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97092</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>170</No>
+<Name>Azorius Chancery</Name>
+<ChineseName>俄佐立衡平法院</ChineseName>
+<Type>Land</Type>
+<CardText>Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{U}.</CardText>
+<Artist>John Avon</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97087</Multiverseid>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>171</No>
+<Name>Blood Crypt</Name>
+<ChineseName>血腥墓穴</ChineseName>
+<Type>Land — Swamp Mountain</Type>
+<CardText>({T}: Add {B} or {R}.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97102</Multiverseid>
+<Rulings>2018/10/05: Unlike most dual lands, this land has two basic land types. It's not basic, so cards such as District Guide can't find it, but it does have the appropriate land types for effects such as that of Drowned Catacomb (from the Ixalan set).
+2018/10/05: If an effect puts this land onto the battlefield tapped, you may pay 2 life, but it still enters tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>172</No>
+<Name>Breeding Pool</Name>
+<ChineseName>滋生之池</ChineseName>
+<Type>Land — Forest Island</Type>
+<CardText>({T}: Add {G} or {U}.)
+As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97088</Multiverseid>
+<Rulings>2018/10/05: If an effect puts this land onto the battlefield tapped, you may pay 2 life, but it still enters tapped.
+2018/10/05: Unlike most dual lands, this land has two basic land types. It's not basic, so cards such as District Guide can't find it, but it does have the appropriate land types for effects such as that of Drowned Catacomb (from the Ixalan set).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>173</No>
+<Name>Ghost Quarter</Name>
+<ChineseName>魂魅城区</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</CardText>
+<Flavor>Where wasted life cries out to be reborn.</Flavor>
+<ChineseFlavor>消亡生灵哀求转生之所。</ChineseFlavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>107504</Multiverseid>
+<Rulings>2006/05/01: If you target Ghost Quarter with its own ability, the ability won't resolve because its target is no longer on the battlefield. You won't get to search for a land card.
+2011/09/22: If the targeted land is an illegal target by the time Ghost Quarter's ability resolves, it won't resolve and none of its effects will happen. The land's controller won't get to search for a basic land card.
+2013/07/01: The target land's controller gets to search for a basic land card even if that land wasn't destroyed by Ghost Quarter's ability. This may happen because the land has indestructible or because it was regenerated.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>174</No>
+<Name>Hallowed Fountain</Name>
+<ChineseName>崇圣喷泉</ChineseName>
+<Type>Land — Plains Island</Type>
+<CardText>({T}: Add {W} or {U}.)
+As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.</CardText>
+<Artist>Rob Alexander</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97071</Multiverseid>
+<Rulings>2018/10/05: Unlike most dual lands, this land has two basic land types. It's not basic, so cards such as District Guide can't find it, but it does have the appropriate land types for effects such as that of Drowned Catacomb (from the Ixalan set).
+2018/10/05: If an effect puts this land onto the battlefield tapped, you may pay 2 life, but it still enters tapped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>175</No>
+<Name>Novijen, Heart of Progress</Name>
+<ChineseName>进展中枢诺维研</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{G}{U}, {T}: Put a +1/+1 counter on each creature that entered the battlefield this turn.</CardText>
+<Flavor>"The unnatural pressures of life in this city are best withstood by lifeforms that adapt with unnatural swiftness."
+—Momir Vig</Flavor>
+<ChineseFlavor>「这城市对生命造成了违逆自然的压力，最能忍受的生命则能以违逆自然之速度来适应。」
+～莫秘·维</ChineseFlavor>
+<Artist>Martina Pilcerova</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97099</Multiverseid>
+<Rulings>2006/05/01: The second ability puts a counter on each applicable creature regardless of who controls it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>176</No>
+<Name>Pillar of the Paruns</Name>
+<ChineseName>元祖柱</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add one mana of any color. Spend this mana only to cast a multicolored spell.</CardText>
+<Flavor>Built on the very ground where the Ten signed the Guildpact, the tower is a monument to the past and a reminder of who holds power in the present.</Flavor>
+<ChineseFlavor>此塔座落于十方势力签署十会盟之地，不但是过往的纪念碑，也是现今掌权者的座右铭。</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Multiverseid>107279</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>177</No>
+<Name>Prahv, Spires of Order</Name>
+<ChineseName>秩序尖塔布拉夫</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{4}{W}{U}, {T}: Prevent all damage a source of your choice would deal this turn.</CardText>
+<Flavor>Prahv, where much work is done to make sure nothing is accomplished.</Flavor>
+<ChineseFlavor>布拉夫，投入大量心力让诸事不成之地。</ChineseFlavor>
+<Artist>Martina Pilcerova</Artist>
+<Watermark>Azorius</Watermark>
+<Multiverseid>97117</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>178</No>
+<Name>Rakdos Carnarium</Name>
+<ChineseName>拉铎司剜祭场</ChineseName>
+<Type>Land</Type>
+<CardText>Rakdos Carnarium enters the battlefield tapped.
+When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {B}{R}.</CardText>
+<Artist>John Avon</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97082</Multiverseid>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>179</No>
+<Name>Rix Maadi, Dungeon Palace</Name>
+<ChineseName>地城殿锐兹玛第</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}{B}{R}, {T}: Each player discards a card. Activate only as a sorcery.</CardText>
+<Flavor>Even miles away, if you put your ear to the sewer vents, you can hear the screams and the tempestuous laughter.</Flavor>
+<ChineseFlavor>如果你将耳朵贴近下水道口，即使在数哩之外都能听到惨叫与狂笑。</ChineseFlavor>
+<Artist>Martina Pilcerova</Artist>
+<Watermark>Rakdos</Watermark>
+<Multiverseid>97072</Multiverseid>
+<Rulings>2006/05/01: When the second ability resolves, first the active player chooses a card to discard, then the nonactive player chooses, then all chosen cards are discarded at the same time. No one sees what the other players are discarding before deciding which cards to discard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DIS</SetId>
+<No>180</No>
+<Name>Simic Growth Chamber</Name>
+<ChineseName>析米克生长室</ChineseName>
+<Type>Land</Type>
+<CardText>Simic Growth Chamber enters the battlefield tapped.
+When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{U}.</CardText>
+<Artist>John Avon</Artist>
+<Watermark>Simic</Watermark>
+<Multiverseid>97089</Multiverseid>
+<Rulings>2013/04/15: If this land enters the battlefield and you control no other lands, its ability will force you to return it to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Dissension</Set>
+<Rarity>Common</Rarity>
+</Card>
+

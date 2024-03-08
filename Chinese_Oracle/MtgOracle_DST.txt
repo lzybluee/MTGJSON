@@ -1,0 +1,3286 @@
+<Card>
+<SetId>DST</SetId>
+<No>1</No>
+<Name>Auriok Glaivemaster</Name>
+<ChineseName>欧瑞克扫刀手</ChineseName>
+<Type>Creature — Human Soldier 1/1</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.</CardText>
+<Flavor>"Give me a bit of steel and I'll deliver it into the hearts of my enemies."</Flavor>
+<ChineseFlavor>「只要给我一些钢铁，我就能把它给送进敌人的心脏里。」</ChineseFlavor>
+<Artist>John Matson</Artist>
+<Multiverseid>48988</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>2</No>
+<Name>Echoing Calm</Name>
+<ChineseName>定静回响</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Destroy target enchantment and all other enchantments with the same name as that enchantment.</CardText>
+<Flavor>A single light unleashes a hail of cleansing.</Flavor>
+<ChineseFlavor>引发净化风暴的一道明光。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>43592</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>3</No>
+<Name>Emissary of Hope</Name>
+<ChineseName>希望密使</ChineseName>
+<Type>Creature — Spirit 2/1</Type>
+<ManaCost>{1}{W}{W}</ManaCost>
+<CardText>Flying
+Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.</CardText>
+<Artist>rk post</Artist>
+<Multiverseid>48153</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>4</No>
+<Name>Hallow</Name>
+<ChineseName>崇圣</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Prevent all damage target spell would deal this turn. You gain life equal to the damage prevented this way.</CardText>
+<Flavor>"Bend with the storm, then reply in kind."</Flavor>
+<ChineseFlavor>「顺应风暴，并以慈心回报。」</ChineseFlavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Multiverseid>29513</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>5</No>
+<Name>Leonin Battlemage</Name>
+<ChineseName>狮族战法术师</ChineseName>
+<Type>Creature — Cat Wizard 2/3</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>{T}: Target creature gets +1/+1 until end of turn.
+Whenever you cast a spell, you may untap Leonin Battlemage.</CardText>
+<Flavor>The strongest of the pride are measured not by the steel in their hands but by the steel in their souls.</Flavor>
+<ChineseFlavor>狮群中的强者是以坚毅的心灵来认定，而非以高强的武艺来论断。</ChineseFlavor>
+<Artist>Stephen Tappin</Artist>
+<Multiverseid>44307</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>6</No>
+<Name>Leonin Shikari</Name>
+<ChineseName>狮族猎户</ChineseName>
+<Type>Creature — Cat Soldier 2/2</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>You may activate equip abilities any time you could cast an instant.</CardText>
+<Flavor>Her instinct is as sharp as her blade.</Flavor>
+<ChineseFlavor>她的直觉锐利如刃。</ChineseFlavor>
+<Artist>Wayne England</Artist>
+<Multiverseid>48579</Multiverseid>
+<Rulings>2004/12/01: An equip ability uses the keyword ability "equip." Normally, equip abilities can be activated only any time you could cast a sorcery.
+2004/12/01: Leonin Shikari allows you to move your Equipment around during the combat phase or in response to a spell or ability. You're still subject to any other restrictions on activating equip abilities.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>7</No>
+<Name>Loxodon Mystic</Name>
+<ChineseName>象族秘教徒</ChineseName>
+<Type>Creature — Elephant Cleric 3/3</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>{W}, {T}: Tap target creature.</CardText>
+<Flavor>As the nim storm across the plains, a lone priest stands in their path. At his silent gesture, the battle line breaks, and the tide turns.</Flavor>
+<ChineseFlavor>泞族自平原彼端蜂拥而来时，一名僧侣独身立于阵前。 他安静地摆出几个手势，战线因之断裂开来，逆转了战局。</ChineseFlavor>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Multiverseid>39562</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>8</No>
+<Name>Metal Fatigue</Name>
+<ChineseName>金属疲劳</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Tap all artifacts.</CardText>
+<Flavor>The Auriok have fought the metal hordes for so long now that knowing how to cripple them has become an instinct.</Flavor>
+<ChineseFlavor>欧瑞克人与金属大军争战已久，放倒它们的方法已经从知识变成了本能。</ChineseFlavor>
+<Artist>Arnie Swekel</Artist>
+<Multiverseid>45191</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>9</No>
+<Name>Pristine Angel</Name>
+<ChineseName>纯净天使</ChineseName>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>{4}{W}{W}</ManaCost>
+<CardText>Flying
+As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.
+Whenever you cast a spell, you may untap Pristine Angel.</CardText>
+<Artist>Scott M. Fischer</Artist>
+<Multiverseid>47587</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>10</No>
+<Name>Pteron Ghost</Name>
+<ChineseName>翼兽魂魅</ChineseName>
+<Type>Creature — Dinosaur Spirit 1/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Flying
+Sacrifice Pteron Ghost: Regenerate target artifact.</CardText>
+<Flavor>Defending to the death isn't always enough.</Flavor>
+<ChineseFlavor>有时候，光是舍命护卫还不够。</ChineseFlavor>
+<Artist>Edward P. Beard, Jr.</Artist>
+<Multiverseid>49035</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>11</No>
+<Name>Pulse of the Fields</Name>
+<ChineseName>原野的脉动</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}{W}</ManaCost>
+<CardText>You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.</CardText>
+<Flavor>Before religion or civilization, there was order.</Flavor>
+<ChineseFlavor>在宗教或文明现世之前，便有了秩序。</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>39697</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>12</No>
+<Name>Purge</Name>
+<ChineseName>涤净</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Destroy target artifact creature or black creature. It can't be regenerated.</CardText>
+<Flavor>For the first and last time, the horrific creature experienced terror.</Flavor>
+<ChineseFlavor>此邪物第一次，也是最后一次遭惊骇浪潮淹没。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>34479</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>13</No>
+<Name>Ritual of Restoration</Name>
+<ChineseName>修复祭仪</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Return target artifact card from your graveyard to your hand.</CardText>
+<Flavor>Leonin raising ceremonies take place at the white sun's dawn, the rebirth of artifacts mirroring the birth of a new day.</Flavor>
+<ChineseFlavor>狮族在白太阳升起时举行祭仪，让再生的神器呼应全新一日的诞生。</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Multiverseid>48576</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>14</No>
+<Name>Soulscour</Name>
+<ChineseName>一扫生灵</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{7}{W}{W}{W}</ManaCost>
+<CardText>Destroy all nonartifact permanents.</CardText>
+<Flavor>"I have seen the end of times, a future in which all our kind are torn from this world."
+—Ushanti, leonin shaman</Flavor>
+<ChineseFlavor>「我预见了末世景象：吾族尽自世间消逝。」
+～狮族先知乌珊提</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>43511</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>15</No>
+<Name>Steelshaper Apprentice</Name>
+<ChineseName>塑铁军学徒</ChineseName>
+<Type>Creature — Human Soldier 1/3</Type>
+<ManaCost>{2}{W}{W}</ManaCost>
+<CardText>{W}, {T}, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.</CardText>
+<Flavor>Theirs is a craft brought about by necessity, now raised to the level of art.</Flavor>
+<ChineseFlavor>此技艺原系因应需求而诞生，而现今已臻艺术境界。</ChineseFlavor>
+<Artist>Tim Hildebrandt</Artist>
+<Multiverseid>49078</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>16</No>
+<Name>Stir the Pride</Name>
+<ChineseName>激励士气</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{4}{W}</ManaCost>
+<CardText>Choose one —
+• Creatures you control get +2/+2 until end of turn.
+• Until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."
+Entwine {1}{W} (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>45961</Multiverseid>
+<Rulings>2013/06/07: Only creatures you control when Stir the Pride resolves will get the bonuses.
+2013/06/07: Notably, the ability granted by the second mode isn't lifelink. It's a triggered ability that triggers whenever the creature with that ability deals damage. If that creature also has lifelink, you'll gain life as a result of that damage and also when the triggered ability resolves. Multiple instances of this ability trigger separately.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>17</No>
+<Name>Test of Faith</Name>
+<ChineseName>试炼信念</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Prevent the next 3 damage that would be dealt to target creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.</CardText>
+<Flavor>Those who survive the test bear a mark of power anyone can recognize.</Flavor>
+<ChineseFlavor>通过试炼者，身上会带着足资辨识的记号。</ChineseFlavor>
+<Artist>Vance Kovacs</Artist>
+<Multiverseid>43587</Multiverseid>
+<Rulings>2004/12/01: The +1/+1 counters are put onto the creature at the same time the damage is prevented. If a 1/1 creature would be dealt 6 damage, 3 damage is prevented and three +1/+1 counters are put on the creature. The creature ends up as a 4/4 creature with 3 damage marked on it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>18</No>
+<Name>Turn the Tables</Name>
+<ChineseName>扭转局面</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.</CardText>
+<Flavor>"Your arrogance is my best weapon."</Flavor>
+<ChineseFlavor>「你的骄妄是我最佳的武器。」</ChineseFlavor>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>49033</Multiverseid>
+<Rulings>2004/12/01: If the targeted creature isn't on the battlefield when the combat damage would be dealt, the damage isn't redirected.
+2004/12/01: If the targeted creature has been removed from combat but is still on the battlefield, the damage will be redirected.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>19</No>
+<Name>Carry Away</Name>
+<ChineseName>夺走</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{U}{U}</ManaCost>
+<CardText>Enchant Equipment
+When Carry Away enters the battlefield, unattach enchanted Equipment.
+You control enchanted Equipment.</CardText>
+<Flavor>Stealing goblin weapons would be easier if the goblins were smart enough to let go.</Flavor>
+<ChineseFlavor>如果精灵聪明到晓得该把手上的东西丢掉，要偷他们的武器会更容易些。</ChineseFlavor>
+<Artist>Jim Nelson</Artist>
+<Multiverseid>48572</Multiverseid>
+<Rulings>2004/12/01: Normally, gaining control of an Equipment doesn't change what it's attached to. However, Carry Away has a triggered ability that unattaches the Equipment from whatever it's attached to. The Equipment's new controller can activate its equip ability to move it onto a creature they control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>20</No>
+<Name>Chromescale Drake</Name>
+<ChineseName>铬鳞龙兽</ChineseName>
+<Type>Creature — Drake 3/4</Type>
+<ManaCost>{6}{U}{U}{U}</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Chromescale Drake enters the battlefield, reveal the top three cards of your library. Put all artifact cards revealed this way into your hand and the rest into your graveyard.</CardText>
+<Artist>Ben Thompson</Artist>
+<Multiverseid>48127</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>21</No>
+<Name>Echoing Truth</Name>
+<ChineseName>真相回响</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.</CardText>
+<Flavor>A single lie unleashes a tide of disbelief.</Flavor>
+<ChineseFlavor>导致信任崩溃的一句谎言。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>46162</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>22</No>
+<Name>Hoverguard Observer</Name>
+<ChineseName>情资空卫</ChineseName>
+<Type>Creature — Drone 3/3</Type>
+<ManaCost>{2}{U}{U}</ManaCost>
+<CardText>Flying
+Hoverguard Observer can block only creatures with flying.</CardText>
+<Flavor>It could be made to run silently, but its low hum reminds the Neurok that they are always watched.</Flavor>
+<ChineseFlavor>它原本可以安静无声地运作，其低沉运转声是为了提醒纽若克人：他们一直处于监视之中。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>49020</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>23</No>
+<Name>Last Word</Name>
+<ChineseName>定论</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{U}{U}</ManaCost>
+<CardText>This spell can't be countered.
+Counter target spell.</CardText>
+<Flavor>"Someday, someone will best me. But it won't be today, and it won't be you."</Flavor>
+<ChineseFlavor>「总有一天，有人会赢过我。 但那不会是今天，那人也不会是你。」</ChineseFlavor>
+<Artist>Scott M. Fischer</Artist>
+<Multiverseid>50929</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>24</No>
+<Name>Machinate</Name>
+<ChineseName>图谋</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}{U}</ManaCost>
+<CardText>Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.</CardText>
+<Flavor>As long as there are questions to be asked, the vedalken will ask them.</Flavor>
+<ChineseFlavor>只要有值得一问的问题，维多肯族都会提出来。</ChineseFlavor>
+<Artist>Wayne England</Artist>
+<Multiverseid>49829</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>25</No>
+<Name>Magnetic Flux</Name>
+<ChineseName>磁极变异</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Artifact creatures you control gain flying until end of turn.</CardText>
+<Flavor>After the researcher's astonishing success, his assistants spent six hours finding a way to return the specimens safely to the ground.</Flavor>
+<ChineseFlavor>在研究者达成此惊人突破后，助手花了六小时来找出让升空者平安落地的方法。</ChineseFlavor>
+<Artist>Alan Rabinowitz</Artist>
+<Multiverseid>43559</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>26</No>
+<Name>Neurok Prodigy</Name>
+<ChineseName>纽若克逸才</ChineseName>
+<Type>Creature — Human Wizard 2/1</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Flying
+Discard an artifact card: Return Neurok Prodigy to its owner's hand.</CardText>
+<Flavor>"Why should I be bound by rules when I can see so far beyond them?"</Flavor>
+<ChineseFlavor>「若我已看穿了规则的局限，又何必要受其束缚？」</ChineseFlavor>
+<Artist>Puddnhead</Artist>
+<Multiverseid>46116</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>27</No>
+<Name>Neurok Transmuter</Name>
+<ChineseName>纽若克易质师</ChineseName>
+<Type>Creature — Human Wizard 2/2</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>{U}: Target creature becomes an artifact in addition to its other types until end of turn.
+{U}: Until end of turn, target artifact creature becomes blue and isn't an artifact.</CardText>
+<Artist>Mark Zug</Artist>
+<Multiverseid>49839</Multiverseid>
+<Rulings>2004/12/01: Neurok Transmuter's second ability removes the type "artifact" — and any artifact subtypes — from the artifact creature it targets. It doesn't remove any other types or any subtypes of other types, and it doesn't remove supertypes. If the artifact was legendary, it's still legendary, and the "Legend rule" applies normally.
+2004/12/01: Equipment that stops being an artifact loses the subtype "Equipment." Permanents without the subtype Equipment can't equip creatures. Of course, artifact creatures can't equip anything either.
+2004/12/01: Neurok Transmuter's second ability interacts strangely with March of the Machines from the Mirrodin set. If an artifact is an artifact creature only because March of the Machines is on the battlefield and you then activate Neurok Transmuter's second ability on that artifact creature, the result is a permanent with no types whatsoever. Neurok Transmuter's ability removes the type "artifact." March of the Machines depends on knowing what is and isn't an artifact. The permanent won't be an artifact when March of the Machine's effect is applied and therefore it won't be turned into a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>28</No>
+<Name>Psychic Overload</Name>
+<ChineseName>心灵超载</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Enchant permanent
+When Psychic Overload enters the battlefield, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step.
+Enchanted permanent has "Discard two artifact cards: Untap this permanent."</CardText>
+<Artist>Jeremy Jarvis</Artist>
+<Multiverseid>48163</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>29</No>
+<Name>Pulse of the Grid</Name>
+<ChineseName>博识都的脉动</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}{U}</ManaCost>
+<CardText>Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.</CardText>
+<Flavor>Before labs or lectures, there was insight.</Flavor>
+<ChineseFlavor>在实验或讲演现世之前，便有了洞察。</ChineseFlavor>
+<Artist>Wayne England</Artist>
+<Multiverseid>45975</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>30</No>
+<Name>Quicksilver Behemoth</Name>
+<ChineseName>水银贝西摩斯</ChineseName>
+<Type>Creature — Beast 4/5</Type>
+<ManaCost>{6}{U}</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Multiverseid>47799</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>31</No>
+<Name>Reshape</Name>
+<ChineseName>重新塑型</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{U}{U}</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice an artifact.
+Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.</CardText>
+<Flavor>"Today's paperweight, tomorrow's leveler."
+—Bruenna, Neurok leader</Flavor>
+<ChineseFlavor>「今日的小小纸镇，明日可能变成夷平者。」
+～纽若克统领布威娜</ChineseFlavor>
+<Artist>Jon Foster</Artist>
+<Multiverseid>48147</Multiverseid>
+<Rulings>2020/08/07: If a card in a player's library has {X} in its mana cost, X is considered to be 0 for that card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>32</No>
+<Name>Retract</Name>
+<ChineseName>回撤</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Return all artifacts you control to their owner's hand.</CardText>
+<Flavor>"Secrets are meant to remain secret."
+—Memnarch</Flavor>
+<ChineseFlavor>「秘密本就该不为人知。」
+～蒙纳坷</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>48573</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>33</No>
+<Name>Second Sight</Name>
+<ChineseName>千里眼</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Choose one —
+• Look at the top five cards of target opponent's library, then put them back in any order.
+• Look at the top five cards of your library, then put them back in any order.
+Entwine {U} (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Luca Zontini</Artist>
+<Multiverseid>43510</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>34</No>
+<Name>Synod Artificer</Name>
+<ChineseName>悉诺议会神器师</ChineseName>
+<Type>Creature — Vedalken Artificer 1/2</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>{X}, {T}: Tap X target noncreature artifacts.
+{X}, {T}: Untap X target noncreature artifacts.</CardText>
+<Flavor>Memnarch shared a touch of his power with the vedalken in return for their service. It is a debt he intends to collect.</Flavor>
+<ChineseFlavor>蒙纳坷将一小部份的力量分享给维多肯族，让该族藉由分劳来回报。 他总有一天会把这笔帐算个清楚。</ChineseFlavor>
+<Artist>Mark Zug</Artist>
+<Multiverseid>49021</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>35</No>
+<Name>Vedalken Engineer</Name>
+<ChineseName>维多肯工程师</ChineseName>
+<Type>Creature — Vedalken Artificer 1/1</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>{T}: Add two mana of any one color. Spend this mana only to cast artifact spells or activate abilities of artifacts.</CardText>
+<Flavor>Art is unknown to the vedalken—for them, all creations must serve a purpose.</Flavor>
+<ChineseFlavor>维多肯族不懂艺术～对他们来说，万物均各有创造目的。</ChineseFlavor>
+<Artist>Lars Grant-West</Artist>
+<Multiverseid>48148</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>36</No>
+<Name>Vex</Name>
+<ChineseName>搅扰</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Counter target spell. That spell's controller may draw a card.</CardText>
+<Flavor>"The druids would be better off if they spent more time in the lab and less time watching trees grow."
+—Pontifex, elder researcher</Flavor>
+<ChineseFlavor>「要是德鲁伊肯多待实验室，少盯着树猛瞧，他们会进步更快。」
+～大学者庞棣飞</ChineseFlavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>49085</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>37</No>
+<Name>Aether Snap</Name>
+<ChineseName>乙太骤变</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{B}{B}</ManaCost>
+<CardText>Remove all counters from all permanents and exile all tokens.</CardText>
+<Flavor>"May you wake to find you were only ever a dream."
+—Mephidross curse</Flavor>
+<ChineseFlavor>「你醒来后，会发现自己不过是一场梦。」
+～蔓非沼诅咒</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>49075</Multiverseid>
+<Rulings>2004/12/01: Aether Snap removes all counters from permanents, no matter what kind they are.
+2004/12/01: Counters on objects that aren't permanents, such as time counters on a suspended card or poison counters on a player, are unaffected by Aether Snap.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>38</No>
+<Name>Burden of Greed</Name>
+<ChineseName>贪欲拖累</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Target player loses 1 life for each tapped artifact they control.</CardText>
+<Flavor>"The one who dies with the most toys is still dead."
+—Geth, keeper of the Vault</Flavor>
+<ChineseFlavor>「有一堆玩具陪葬的死人，一样是个死人。」
+～黯窖领主盖司</ChineseFlavor>
+<Artist>Vance Kovacs</Artist>
+<Multiverseid>43557</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>39</No>
+<Name>Chittering Rats</Name>
+<ChineseName>吱叫老鼠</ChineseName>
+<Type>Creature — Rat 2/2</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library.</CardText>
+<Flavor>Bottom feeders sometimes rise to the top.</Flavor>
+<ChineseFlavor>坏笋也有冒出头的时候。</ChineseFlavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>46096</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>40</No>
+<Name>Death Cloud</Name>
+<ChineseName>致命云群</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{B}{B}{B}</ManaCost>
+<CardText>Each player loses X life, discards X cards, sacrifices X creatures, then sacrifices X lands.</CardText>
+<Flavor>The swarm's million wings stir the foulest of breezes.</Flavor>
+<ChineseFlavor>无数的翅翼搧起腐臭至极的微风。</ChineseFlavor>
+<Artist>Stephen Tappin</Artist>
+<Multiverseid>50647</Multiverseid>
+<Rulings>2013/06/07: If you control a permanent that's a creature and a land, and you choose to sacrifice it as you sacrifice creatures, it won't be on the battlefield when you sacrifice lands. You can't sacrifice it again.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>41</No>
+<Name>Echoing Decay</Name>
+<ChineseName>衰败回响</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.</CardText>
+<Flavor>A single fear unleashes a torrent of nightmares.</Flavor>
+<ChineseFlavor>唤醒无尽梦魇的一丝畏惧。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>46176</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>42</No>
+<Name>Emissary of Despair</Name>
+<ChineseName>绝望密使</ChineseName>
+<Type>Creature — Spirit 2/1</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>Flying
+Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact they control.</CardText>
+<Artist>rk post</Artist>
+<Multiverseid>45469</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>43</No>
+<Name>Essence Drain</Name>
+<ChineseName>吸取精华</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Essence Drain deals 3 damage to any target and you gain 3 life.</CardText>
+<Flavor>Mephidross claims all life within it. What cannot be twisted is absorbed.</Flavor>
+<ChineseFlavor>蔓非沼是境内所有活物的主宰。 无法将之改造的，就会被它吞噬掉。</ChineseFlavor>
+<Artist>Tony Szczudlo</Artist>
+<Multiverseid>50536</Multiverseid>
+<Rulings>2012/07/01: If the target permanent or player is an illegal target when Essence Drain tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>44</No>
+<Name>Greater Harvester</Name>
+<ChineseName>高大索命妖</ChineseName>
+<Type>Creature — Horror 5/6</Type>
+<ManaCost>{2}{B}{B}{B}</ManaCost>
+<CardText>At the beginning of your upkeep, sacrifice a permanent.
+Whenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>49837</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>45</No>
+<Name>Grimclaw Bats</Name>
+<ChineseName>阴爪蝙蝠</ChineseName>
+<Type>Creature — Bat 1/1</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Flying
+{B}, Pay 1 life: Grimclaw Bats gets +1/+1 until end of turn.</CardText>
+<Flavor>Even on a world of metal, there are those who thirst for blood.</Flavor>
+<ChineseFlavor>即使在金属世界中，也存有渴求鲜血者。</ChineseFlavor>
+<Artist>Tom Wänerstrand</Artist>
+<Multiverseid>46100</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>46</No>
+<Name>Hunger of the Nim</Name>
+<ChineseName>泞族饥渴</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Target creature gets +1/+0 until end of turn for each artifact you control.</CardText>
+<Flavor>Their pain is so great, they can't help but share it with others.</Flavor>
+<ChineseFlavor>泞族的痛苦难以独自承受，非得分享给外人才能略获纾解。</ChineseFlavor>
+<Artist>Puddnhead</Artist>
+<Multiverseid>46088</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>47</No>
+<Name>Mephitic Ooze</Name>
+<ChineseName>蔓非沼流浆</ChineseName>
+<Type>Creature — Ooze 0/5</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Mephitic Ooze gets +1/+0 for each artifact you control.
+Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.</CardText>
+<Flavor>In Mephidross, refuse doesn't last long—it's all scavenged, reanimated, or consumed.</Flavor>
+<ChineseFlavor>在蔓非沼里头，你没法子抗拒太久～不是被分解，操弄，就是被吞噬。</ChineseFlavor>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Multiverseid>46154</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>48</No>
+<Name>Murderous Spoils</Name>
+<ChineseName>杀人越货</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{5}{B}</ManaCost>
+<CardText>Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that were attached to it. (This effect lasts indefinitely.)</CardText>
+<Flavor>Scavengers are always the first to pay their respects.</Flavor>
+<ChineseFlavor>拾荒者总是抢先来表达追悼之意。</ChineseFlavor>
+<Artist>Adam Rex</Artist>
+<Multiverseid>39377</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>49</No>
+<Name>Nim Abomination</Name>
+<ChineseName>泞族憎恨兽</ChineseName>
+<Type>Creature — Zombie 3/4</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>At the beginning of your end step, if Nim Abomination is untapped, you lose 3 life.</CardText>
+<Flavor>It is one of the oldest nim, steeped so long in the Dross that it has lost all vestiges of humanity.</Flavor>
+<ChineseFlavor>这是泞族中最古老的一群；在蔓非沼中浸染经年，人性已然完全消失无踪。</ChineseFlavor>
+<Artist>Jim Murray</Artist>
+<Multiverseid>43502</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>50</No>
+<Name>Pulse of the Dross</Name>
+<ChineseName>蔓非沼的脉动</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>Target player reveals three cards from their hand and you choose one of them. That player discards that card. Then if that player has more cards in hand than you, return Pulse of the Dross to its owner's hand.</CardText>
+<Flavor>Before tyrants or torturers, there was evil.</Flavor>
+<ChineseFlavor>在暴君或虐者现世之前，便有了邪恶。</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>39692</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>51</No>
+<Name>Scavenging Scarab</Name>
+<ChineseName>腐食甲虫</ChineseName>
+<Type>Creature — Insect 3/3</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Scavenging Scarab can't block.</CardText>
+<Flavor>The beetles feed not on the flesh of corpses but on the metal, grinding out the iron and steel to add to their own bulky shells.</Flavor>
+<ChineseFlavor>此甲虫摄食的并非尸体上的血肉，而是其上的金属；将钢铁成分提炼出来，用以增厚本身的笨重甲壳。</ChineseFlavor>
+<Artist>Jeff Easley</Artist>
+<Multiverseid>46093</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>52</No>
+<Name>Screams from Within</Name>
+<ChineseName>心底嘶喊</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets -1/-1.
+When enchanted creature dies, return Screams from Within from your graveyard to the battlefield.</CardText>
+<Flavor>There's no escaping an enemy that lives inside your head.</Flavor>
+<ChineseFlavor>心魔无可回避。</ChineseFlavor>
+<Artist>Hugh Jamieson</Artist>
+<Multiverseid>43517</Multiverseid>
+<Rulings>2004/12/01: If another player has gained control of Screams from Within, its triggered ability does nothing when it's put into a graveyard. Cards are always put into their owner's graveyard, but Screams from Within's ability looks for the card only in its controller's graveyard.
+2005/08/01: If Screams from Within returns to the battlefield from your graveyard, you choose the creature that Screams from Within enchants (just as you would for any Aura that you're putting onto the battlefield without casting it). If your opponent doesn't control any creatures, you must choose one of your creatures. If there's nothing at all that Screams from Within can enchant, it remains in your graveyard.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>53</No>
+<Name>Scrounge</Name>
+<ChineseName>遍寻</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Target opponent chooses an artifact card in their graveyard. Put that card onto the battlefield under your control.</CardText>
+<Flavor>When leonin settlers abandon their homes to the nim, items of value are often left behind.</Flavor>
+<ChineseFlavor>狮族垦荒者逃离泞族的攻击时，贵重物品经常留在家园不及带走。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>46568</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>54</No>
+<Name>Shriveling Rot</Name>
+<ChineseName>枯萎凋零</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{B}{B}</ManaCost>
+<CardText>Choose one —
+• Until end of turn, whenever a creature is dealt damage, destroy it.
+• Until end of turn, whenever a creature dies, that creature's controller loses life equal to its toughness.
+Entwine {2}{B} (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Alex Horley-Orlandelli</Artist>
+<Multiverseid>47792</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>55</No>
+<Name>Barbed Lightning</Name>
+<ChineseName>强劲闪电</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Choose one —
+• Barbed Lightning deals 3 damage to target creature.
+• Barbed Lightning deals 3 damage to target player or planeswalker.
+Entwine {2} (Choose both if you pay the entwine cost.)</CardText>
+<Flavor>Every creature on Mirrodin is a lightning rod.</Flavor>
+<ChineseFlavor>秘罗地上的所有生物都像是根避雷针。</ChineseFlavor>
+<Artist>Hugh Jamieson</Artist>
+<Multiverseid>49012</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>56</No>
+<Name>Crazed Goblin</Name>
+<ChineseName>狂乱精灵</ChineseName>
+<Type>Creature — Goblin Warrior 1/1</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Crazed Goblin attacks each combat if able.</CardText>
+<Flavor>Because fighting is easier than figuring out what else to do.</Flavor>
+<ChineseFlavor>因为打架比弄清楚还有什么可干要容易多了。</ChineseFlavor>
+<Artist>Darrell Riche</Artist>
+<Multiverseid>46078</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>57</No>
+<Name>Dismantle</Name>
+<ChineseName>解体</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.</CardText>
+<Flavor>"If only the living were so easily salvaged."
+—Memnarch</Flavor>
+<ChineseFlavor>「若活物也能这样回收利用，该有多好。」
+～蒙纳坷</ChineseFlavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>43540</Multiverseid>
+<Rulings>2020/08/07: Dismantle targets only the artifact that will be destroyed. When Dismantle resolves, you choose which type of counters you want and choose an artifact you control to put them on. No player make take actions between the time you make this choice and the time counters are on the artifact.
+2020/08/07: If the target artifact is an illegal target by the time Dismantle tries to resolve, the spell won't resolve. You won't put any counters on an artifact. If the target is legal but not destroyed (most likely because it has indestructible), you do put counters on an artifact.
+2020/08/07: It doesn't matter what kind of counters the destroyed artifact had on it, only how many. If an artifact had five fuse counters and two trap counters on it, you put seven +1/+1 counters or seven charge counters on an artifact.
+2020/08/07: You can put +1/+1 counters on a noncreature artifact. They won't do anything unless the artifact becomes a creature, at which time they'll add to the creature's power and toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>58</No>
+<Name>Drooling Ogre</Name>
+<ChineseName>垂涎食人魔</ChineseName>
+<Type>Creature — Ogre 3/3</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Whenever a player casts an artifact spell, that player gains control of Drooling Ogre. (This effect lasts indefinitely.)</CardText>
+<Flavor>"Is it the stomping kind or the munching kind?"
+—Slobad, goblin tinkerer</Flavor>
+<ChineseFlavor>「这是拿来踩的还是拿来咬的？」
+～精灵修补匠史罗巴</ChineseFlavor>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>49089</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>59</No>
+<Name>Echoing Ruin</Name>
+<ChineseName>毁弃回响</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Destroy target artifact and all other artifacts with the same name as that artifact.</CardText>
+<Flavor>A single misstep unleashes an avalanche of ruin.</Flavor>
+<ChineseFlavor>招来全盘毁灭的一次失误。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>46155</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>60</No>
+<Name>Fireball</Name>
+<ChineseName>火球</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{R}</ManaCost>
+<CardText>This spell costs {1} more to cast for each target beyond the first.
+Fireball deals X damage divided evenly, rounded down, among any number of targets.</CardText>
+<Flavor>The spell fell upon the crowd like a dragon, ancient and full of death.</Flavor>
+<ChineseFlavor>一记古老咒语从天而降，有如远古恶龙现身。</ChineseFlavor>
+<Artist>Dave Dorman</Artist>
+<Multiverseid>46768</Multiverseid>
+<Rulings>2017/11/17: For example, if X is 5 and you choose three target creatures, Fireball has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as Fireball resolves, it deals 1 damage to each of them.
+2017/11/17: You may cast Fireball with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves.
+2017/11/17: Fireball's damage is divided as Fireball resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as Fireball resolves.
+2017/11/17: You can target more than X creatures. However, if the number of legal targets at the time Fireball resolves is greater than X, none of them will be dealt any damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>61</No>
+<Name>Flamebreak</Name>
+<ChineseName>烈焰扫射</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{R}{R}{R}</ManaCost>
+<CardText>Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.</CardText>
+<Flavor>"Now I'm thirsty."
+—Korva, Vulshok battlemaster</Flavor>
+<ChineseFlavor>「我口渴了。」
+～瓦许克战斗专家寇娃</ChineseFlavor>
+<Artist>Trevor Hairsine</Artist>
+<Multiverseid>50539</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>62</No>
+<Name>Furnace Dragon</Name>
+<ChineseName>熔炉巨龙</ChineseName>
+<Type>Creature — Dragon 5/5</Type>
+<ManaCost>{6}{R}{R}{R}</ManaCost>
+<CardText>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.</CardText>
+<Artist>Matthew D. Wilson</Artist>
+<Multiverseid>46060</Multiverseid>
+<Rulings>2013/09/20: If a creature (such as Clone) enters the battlefield as a copy of this creature, the copy's "enters-the-battlefield" ability will still trigger as long as you cast that creature spell from your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>63</No>
+<Name>Goblin Archaeologist</Name>
+<ChineseName>精灵考古学家</ChineseName>
+<Type>Creature — Goblin Artificer 1/2</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.</CardText>
+<Flavor>Always easily impressed, Durg was about to be blown away.</Flavor>
+<ChineseFlavor>探索欲过人的得克，这回又要遭殃了。</ChineseFlavor>
+<Artist>Jim Nelson</Artist>
+<Multiverseid>46735</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>64</No>
+<Name>Inflame</Name>
+<ChineseName>激昂</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Inflame deals 2 damage to each creature dealt damage this turn.</CardText>
+<Flavor>A Vulshok weapon strikes with the fire of the forge that made it.</Flavor>
+<ChineseFlavor>瓦许克兵器在挥舞时，会迸发一如锻造它时的激烈热焰。</ChineseFlavor>
+<Artist>Hugh Jamieson</Artist>
+<Multiverseid>48120</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>65</No>
+<Name>Krark-Clan Stoker</Name>
+<ChineseName>喀勒克族锅炉工</ChineseName>
+<Type>Creature — Goblin Shaman 2/2</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>{T}, Sacrifice an artifact: Add {R}{R}.</CardText>
+<Flavor>Fallen enemies are fed to the scavengers. Fallen friends are thrown into the Great Furnace, their souls returned to the Great Mother.</Flavor>
+<ChineseFlavor>死掉的敌人就丢给捡破烂的； 死去的友伴则投进大熔炉中，让其灵魂回归圣母。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>43491</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>66</No>
+<Name>Pulse of the Forge</Name>
+<ChineseName>锻冶炉的脉动</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}{R}</ManaCost>
+<CardText>Pulse of the Forge deals 4 damage to target player or planeswalker. Then if that player or that planeswalker's controller has more life than you, return Pulse of the Forge to its owner's hand.</CardText>
+<Flavor>Before wars or weapons, there was anger.</Flavor>
+<ChineseFlavor>在战争或武器现世之前，便有了愤怒。</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>39410</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>67</No>
+<Name>Savage Beating</Name>
+<ChineseName>凶蛮打击</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{R}{R}</ManaCost>
+<CardText>Cast this spell only during your turn and only during combat.
+Choose one —
+• Creatures you control gain double strike until end of turn.
+• Untap all creatures you control. After this phase, there is an additional combat phase.
+Entwine {1}{R} (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Matt Thompson</Artist>
+<Multiverseid>43506</Multiverseid>
+<Rulings>2004/12/01: The additional combat phase is directly after the combat phase in which Savage Beating is cast. There isn't a main phase between the two combat phases.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>68</No>
+<Name>Shunt</Name>
+<ChineseName>易辙</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{R}{R}</ManaCost>
+<CardText>Change the target of target spell with a single target.</CardText>
+<Flavor>"You might want to work on your aim."</Flavor>
+<ChineseFlavor>「你该更仔细看看目标。」</ChineseFlavor>
+<Artist>Greg Hildebrandt</Artist>
+<Multiverseid>49836</Multiverseid>
+<Rulings>2004/10/04: The target of a spell that targets another spell on the stack can be changed to any other spell on the stack, even if the new target will resolve before the spell does.
+2004/10/04: You can't make a spell which is on the stack target itself.
+2004/10/04: You can choose to make a spell on the stack target this spell (if such a target choice would be legal had the spell been cast while this spell was on the stack). The new target for the deflected spell is not chosen until this spell resolves. This spell is still on the stack when new targets are selected for the spell.
+2004/10/04: Once the spell resolves, the new target is considered to be targeted by the deflected spell. This will trigger any effects which trigger on being targeted.
+2004/10/04: This does not check if the current target is legal. It just checks if the spell has a single target.
+2004/10/04: You choose the spell to target on announcement, but you pick the new target for that spell on resolution.
+2004/10/04: If there is no other legal target for the spell, this does not change the target.
+2004/10/04: This only targets the spell being changed, not the original or new target of the spell it is affecting.
+2007/07/15: If a spell targets multiple things, you can't target it with Shunt, even if all but one of those targets has become illegal.
+2007/07/15: If a spell targets the same player or object multiple times, you can't target it with Shunt.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>69</No>
+<Name>Slobad, Goblin Tinkerer</Name>
+<ChineseName>精灵修补匠史罗巴</ChineseName>
+<Type>Legendary Creature — Goblin Artificer 1/2</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Sacrifice an artifact: Target artifact gains indestructible until end of turn.</CardText>
+<Flavor>"I used to joke that he had been exiled for being too smart. Now I know why he never laughed."
+—Glissa Sunseeker</Flavor>
+<ChineseFlavor>「我之前常跟他开玩笑，说他是因为太聪明才被放逐的。 现在我才知道他为什么根本不觉得好笑。」
+～寻日者格莉莎</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>51055</Multiverseid>
+<Rulings>2004/12/01: Damage wears off simultaneously with this effect ending, so it does save an artifact creature from lethal damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>70</No>
+<Name>Tears of Rage</Name>
+<ChineseName>激愤之泪</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{R}{R}</ManaCost>
+<CardText>Cast this spell only during the declare attackers step.
+Attacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at the beginning of the next end step.</CardText>
+<Artist>Pete Venters</Artist>
+<Multiverseid>21293</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>71</No>
+<Name>Unforge</Name>
+<ChineseName>重熔</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.</CardText>
+<Flavor>Compared to the fire of the forge, the strength of steel is nothing.</Flavor>
+<ChineseFlavor>钢铁之力远不及锻炉青焰。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>51616</Multiverseid>
+<Rulings>2004/12/01: Unforge deals damage only to the creature that the Equipment was attached to when the Equipment was destroyed. It doesn't deal damage to creatures that the Equipment had previously equipped.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>72</No>
+<Name>Vulshok War Boar</Name>
+<ChineseName>瓦许克战野猪</ChineseName>
+<Type>Creature — Boar Beast 5/5</Type>
+<ManaCost>{2}{R}{R}</ManaCost>
+<CardText>When Vulshok War Boar enters the battlefield, sacrifice it unless you sacrifice an artifact.</CardText>
+<Flavor>It must eat its weight in metal daily, or its furnacelike belly will consume itself for lack of fuel.</Flavor>
+<ChineseFlavor>他每天必须吃下与体重等量的金属，否则其熔炉般的肚子会把自己当成燃料来吞噬掉。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>45455</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>73</No>
+<Name>Ageless Entity</Name>
+<ChineseName>长生祥瑞</ChineseName>
+<Type>Creature — Elemental 4/4</Type>
+<ManaCost>{3}{G}{G}</ManaCost>
+<CardText>Whenever you gain life, put that many +1/+1 counters on Ageless Entity.</CardText>
+<Flavor>Tel-Jilad's sworn protectors are the trolls, yet more fearsome protectors were created by the Tangle itself.</Flavor>
+<ChineseFlavor>巨魔一族决意保护泰几朗，不过铬铜林本身却也创造了勇猛犹有过之的守护者。</ChineseFlavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>46148</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>74</No>
+<Name>Echoing Courage</Name>
+<ChineseName>勇气回响</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.</CardText>
+<Flavor>A single seed unleashes a flurry of growth.</Flavor>
+<ChineseFlavor>激起急速成长的一颗种子。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>46169</Multiverseid>
+<Rulings>2018/03/16: Echoing Courage has only one target. Other creatures with that name are not targeted. For example, a creature with protection from green will still get +2/+2 if it has the same name as the target creature.
+2018/03/16: If the target creature is an illegal target by the time Echoing Courage tries to resolve, the spell doesn't resolve. No creatures get +2/+2.
+2018/03/16: The name of a creature token is the same as the creature types it was created with, unless the token is a copy of another creature or the effect that created the token specifically gave it a different name. For example, a 1/1 Cat Soldier creature token is named "Cat Soldier."
+2018/03/16: A face-down creature has no name, so it can't share a name with anything. This includes other creatures with no name.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>75</No>
+<Name>Fangren Firstborn</Name>
+<ChineseName>先驱方壬</ChineseName>
+<Type>Creature — Beast 4/2</Type>
+<ManaCost>{1}{G}{G}{G}</ManaCost>
+<CardText>Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.</CardText>
+<Flavor>In the Tangle, bad is often followed by worse.</Flavor>
+<ChineseFlavor>在铬铜林里面，坏运后面总会接着厄运。</ChineseFlavor>
+<Artist>Tim Hildebrandt</Artist>
+<Multiverseid>46058</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>76</No>
+<Name>Infested Roothold</Name>
+<ChineseName>病变根壤</ChineseName>
+<Type>Creature — Wall 0/3</Type>
+<ManaCost>{4}{G}</ManaCost>
+<CardText>Defender (This creature can't attack.)
+Protection from artifacts
+Whenever an opponent casts an artifact spell, you may create a 1/1 green Insect creature token.</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>48598</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>77</No>
+<Name>Karstoderm</Name>
+<ChineseName>喀斯特驼登</ChineseName>
+<Type>Creature — Beast 0/0</Type>
+<ManaCost>{2}{G}{G}</ManaCost>
+<CardText>Karstoderm enters the battlefield with five +1/+1 counters on it.
+Whenever an artifact enters the battlefield, remove a +1/+1 counter from Karstoderm.</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Multiverseid>39478</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>78</No>
+<Name>Nourish</Name>
+<ChineseName>滋养</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G}{G}</ManaCost>
+<CardText>You gain 6 life.</CardText>
+<Flavor>Gelfruit grows abundantly wherever Sylvok druids live, as if the Tangle knows that humans are not as hardy as the beasts or as nimble as the elves.</Flavor>
+<ChineseFlavor>在希沃克德鲁伊的居处，胶果生长得特别繁茂；就好似铬铜林知道人类不如野兽强蛮，也不如地精怪巧，因而特地赐以此等恩惠。</ChineseFlavor>
+<Artist>Scott M. Fischer</Artist>
+<Multiverseid>46076</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>79</No>
+<Name>Oxidize</Name>
+<ChineseName>氧化</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Destroy target artifact. It can't be regenerated.</CardText>
+<Flavor>"Ashes to ashes, rust to rust."
+—Viridian shaman</Flavor>
+<ChineseFlavor>「尘归尘，锈归锈。」
+～暗碧族祭师</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>46012</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>80</No>
+<Name>Pulse of the Tangle</Name>
+<ChineseName>铬铜林的脉动</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{G}{G}</ManaCost>
+<CardText>Create a 3/3 green Beast creature token. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.</CardText>
+<Flavor>Before predators or prey, there was life.</Flavor>
+<ChineseFlavor>在猎者或掠食现世之前，便有了生命。</ChineseFlavor>
+<Artist>Wayne England</Artist>
+<Multiverseid>39690</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>81</No>
+<Name>Reap and Sow</Name>
+<ChineseName>收割与播种</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Choose one —
+• Destroy target land.
+• Search your library for a land card, put that card onto the battlefield, then shuffle.
+Entwine {1}{G} (Choose both if you pay the entwine cost.)</CardText>
+<Artist>Rob Alexander</Artist>
+<Multiverseid>43503</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>82</No>
+<Name>Rebuking Ceremony</Name>
+<ChineseName>训诫仪式</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{G}{G}</ManaCost>
+<CardText>Put two target artifacts on top of their owners' libraries.</CardText>
+<Flavor>From the Radix at the hub of the Tangle all the way out to the Edges of Forgetting, a Viridian elf's life is built around the temporary.</Flavor>
+<ChineseFlavor>自祖园到遗忘崖，从铬铜林中心到边陲的这段旅程，便是暗碧族地精生命记忆的全部。</ChineseFlavor>
+<Artist>Ittoku</Artist>
+<Multiverseid>50533</Multiverseid>
+<Rulings>2004/12/01: If both cards are owned by the same player, that player decides their order on top of their library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>83</No>
+<Name>Roaring Slagwurm</Name>
+<ChineseName>咆哮熔滓亚龙</ChineseName>
+<Type>Creature — Wurm 6/4</Type>
+<ManaCost>{5}{G}{G}</ManaCost>
+<CardText>Whenever Roaring Slagwurm attacks, tap all artifacts.</CardText>
+<Flavor>Wurms compete for nesting grounds near the Radix. The young who hatch closest have the best chance for survival.</Flavor>
+<ChineseFlavor>亚龙竞相在靠近祖园之地筑窝； 因为孵化地越靠近祖园，幼兽的活存机会就越大。</ChineseFlavor>
+<Artist>David Martin</Artist>
+<Multiverseid>46083</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>84</No>
+<Name>Stand Together</Name>
+<ChineseName>协力奋战</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{G}{G}</ManaCost>
+<CardText>Put two +1/+1 counters on target creature and two +1/+1 counters on another target creature.</CardText>
+<Flavor>Strange times make for strange allies.</Flavor>
+<ChineseFlavor>非常时刻下的非常联盟。</ChineseFlavor>
+<Artist>Luca Zontini</Artist>
+<Multiverseid>49438</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>85</No>
+<Name>Tangle Spider</Name>
+<ChineseName>铬铜林蜘蛛</ChineseName>
+<Type>Creature — Spider 3/4</Type>
+<ManaCost>{4}{G}{G}</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+Reach (This creature can block creatures with flying.)</CardText>
+<Flavor>They're considered good luck by the elves they don't eat.</Flavor>
+<ChineseFlavor>对地精来说，蜘蛛是吉兆；对蜘蛛来说，地精只是不想吞下肚的东西。</ChineseFlavor>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>46548</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>86</No>
+<Name>Tanglewalker</Name>
+<ChineseName>铬铜林行者</ChineseName>
+<Type>Creature — Dryad 2/2</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Each creature you control can't be blocked as long as defending player controls an artifact land.</CardText>
+<Flavor>In bringing life to Mirrodin, Memnarch was more successful than he knew—for Mirrodin began to take on a life of its own.</Flavor>
+<ChineseFlavor>在替秘罗地培育生命这个方面，蒙纳坷的成就远超乎自己所知～秘罗地已经发展出独特的生命形式。</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Multiverseid>43547</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>87</No>
+<Name>Tel-Jilad Outrider</Name>
+<ChineseName>泰几朗前导兵</ChineseName>
+<Type>Creature — Elf Warrior 3/1</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Protection from artifacts</CardText>
+<Flavor>"When the levelers come again, we shall be ready for them."</Flavor>
+<ChineseFlavor>「当夷平者再度现身时，我们将早有所备。」</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>46002</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>88</No>
+<Name>Tel-Jilad Wolf</Name>
+<ChineseName>泰几朗军狼</ChineseName>
+<Type>Creature — Wolf 2/2</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Whenever Tel-Jilad Wolf becomes blocked by an artifact creature, Tel-Jilad Wolf gets +3/+3 until end of turn.</CardText>
+<Flavor>Thanks to the wolves, Tel-Jilad is the one area of Mirrodin the myr don't see often.</Flavor>
+<ChineseFlavor>拜这些狼之赐，泰几朗是秘罗地全境最不容易见到秘耳的地方。</ChineseFlavor>
+<Artist>Paolo Parente</Artist>
+<Multiverseid>46008</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>89</No>
+<Name>Viridian Acolyte</Name>
+<ChineseName>暗碧族侍僧</ChineseName>
+<Type>Creature — Elf Shaman 1/1</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>{1}, {T}: Add one mana of any color.</CardText>
+<Flavor>"We have no sun to guide our dead, so I tend the prismatic flames of the spirit fires that show the souls their way. When I die, I hope there is one left to guide my spirit home."</Flavor>
+<ChineseFlavor>「我等无法依靠太阳来指引亡者，故我造出多彩火焰来引导灵魂。 当我逝去，但愿也有人替我引魂返乡。」</ChineseFlavor>
+<Artist>D. Alexander Gregory</Artist>
+<Multiverseid>15190</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>90</No>
+<Name>Viridian Zealot</Name>
+<ChineseName>暗碧族狂信者</ChineseName>
+<Type>Creature — Elf Warrior 2/1</Type>
+<ManaCost>{G}{G}</ManaCost>
+<CardText>{1}{G}, Sacrifice Viridian Zealot: Destroy target artifact or enchantment.</CardText>
+<Flavor>"I will fight only the way nature intended—and nature intended us to win."</Flavor>
+<ChineseFlavor>「我只依大自然之愿景而战～而大自然希望我赢。」</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Multiverseid>46547</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>91</No>
+<Name>Aether Vial</Name>
+<ChineseName>乙太精瓶</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>At the beginning of your upkeep, you may put a charge counter on Aether Vial.
+{T}: You may put a creature card with mana value equal to the number of charge counters on Aether Vial from your hand onto the battlefield.</CardText>
+<Artist>Greg Hildebrandt</Artist>
+<Multiverseid>48146</Multiverseid>
+<Rulings>2017/11/17: If Aether Vial leaves the battlefield while its second ability is on the stack, use its last known number of charge counters to determine what you may put from your hand onto the battlefield.
+2017/11/17: If a card in a player's hand has {X} in its mana cost, X is considered to be 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>92</No>
+<Name>Angel's Feather</Name>
+<ChineseName>天使翎羽</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever a player casts a white spell, you may gain 1 life.</CardText>
+<Flavor>If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.</Flavor>
+<ChineseFlavor>若遭冒犯，它将划破强夺之手。 若系馈送，它将治愈领受之手。</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Multiverseid>72686</Multiverseid>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a white spell.
+2009/10/01: If a player casts a white spell, Angel's Feather's ability triggers and is put on the stack on top of that spell. Angel's Feather's ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>93</No>
+<Name>Arcane Spyglass</Name>
+<ChineseName>窥奥望远镜</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{2}, {T}, Sacrifice a land: Draw a card and put a charge counter on Arcane Spyglass.
+Remove three charge counters from Arcane Spyglass: Draw a card.</CardText>
+<Flavor>It breaches not physical distances but temporal ones.</Flavor>
+<ChineseFlavor>它能突破时间的距离，而非空间的远近。</ChineseFlavor>
+<Artist>Trevor Hairsine</Artist>
+<Multiverseid>10670</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>94</No>
+<Name>Arcbound Bruiser</Name>
+<ChineseName>能缰巨汉</ChineseName>
+<Type>Artifact Creature — Golem 0/0</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>Modular 3 (This creature enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Flavor>Break in case of emergency.</Flavor>
+<ChineseFlavor>紧急时，把它击碎。</ChineseFlavor>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>46129</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>95</No>
+<Name>Arcbound Crusher</Name>
+<ChineseName>能缰辗破机</ChineseName>
+<Type>Artifact Creature — Juggernaut 0/0</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Trample
+Whenever another artifact enters the battlefield, put a +1/+1 counter on Arcbound Crusher.
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Michael Sutfin</Artist>
+<Multiverseid>50937</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>96</No>
+<Name>Arcbound Fiend</Name>
+<ChineseName>能缰恶魔</ChineseName>
+<Type>Artifact Creature — Horror 0/0</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may move a +1/+1 counter from target creature onto Arcbound Fiend.
+Modular 3 (This creature enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Ittoku</Artist>
+<Multiverseid>50938</Multiverseid>
+<Rulings>2004/12/01: The creature that's targeted by Arcbound Fiend's middle ability doesn't have to have any +1/+1 counters on it. If it doesn't have a counter on it when the ability resolves, nothing happens.
+2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>97</No>
+<Name>Arcbound Hybrid</Name>
+<ChineseName>能缰杂拼兽</ChineseName>
+<Type>Artifact Creature — Beast 0/0</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Haste
+Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Alan Pollack</Artist>
+<Multiverseid>46101</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>98</No>
+<Name>Arcbound Lancer</Name>
+<ChineseName>能缰长角兽</ChineseName>
+<Type>Artifact Creature — Beast 0/0</Type>
+<ManaCost>{7}</ManaCost>
+<CardText>First strike
+Modular 4 (This creature enters the battlefield with four +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>John Avon</Artist>
+<Multiverseid>46130</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>99</No>
+<Name>Arcbound Overseer</Name>
+<ChineseName>能缰督军</ChineseName>
+<Type>Artifact Creature — Golem 0/0</Type>
+<ManaCost>{8}</ManaCost>
+<CardText>At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control.
+Modular 6 (This creature enters the battlefield with six +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>39639</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>100</No>
+<Name>Arcbound Ravager</Name>
+<ChineseName>能缰吞噬兽</ChineseName>
+<Type>Artifact Creature — Beast 0/0</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>50943</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>101</No>
+<Name>Arcbound Reclaimer</Name>
+<ChineseName>能缰回收机</ChineseName>
+<Type>Artifact Creature — Golem 0/0</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library.
+Modular 2 (This creature enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Jon Foster</Artist>
+<Multiverseid>50528</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>102</No>
+<Name>Arcbound Slith</Name>
+<ChineseName>能缰斯立兹</ChineseName>
+<Type>Artifact Creature — Slith 0/0</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it.
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Vance Kovacs</Artist>
+<Multiverseid>50939</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>103</No>
+<Name>Arcbound Stinger</Name>
+<ChineseName>能缰飞刺兽</ChineseName>
+<Type>Artifact Creature — Insect 0/0</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Flying
+Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Artist>Darrell Riche</Artist>
+<Multiverseid>46131</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>104</No>
+<Name>Arcbound Worker</Name>
+<ChineseName>能缰工人</ChineseName>
+<Type>Artifact Creature — Construct 0/0</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</CardText>
+<Flavor>The parts are as strong as the whole.</Flavor>
+<ChineseFlavor>零件与整体同样强大。</ChineseFlavor>
+<Artist>Darrell Riche</Artist>
+<Multiverseid>48604</Multiverseid>
+<Rulings>2006/09/25: If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>105</No>
+<Name>Auriok Siege Sled</Name>
+<ChineseName>欧瑞克攻城磁橇</ChineseName>
+<Type>Artifact Creature — Juggernaut 3/5</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>{1}: Target artifact creature blocks Auriok Siege Sled this turn if able.
+{1}: Target artifact creature can't block Auriok Siege Sled this turn.</CardText>
+<Flavor>Everything in its path is either pushed aside or ground under.</Flavor>
+<ChineseFlavor>阻其去路者，不是被推到一旁，就是给压在底下。</ChineseFlavor>
+<Artist>Jim Murray</Artist>
+<Multiverseid>43556</Multiverseid>
+<Rulings>2004/12/01: Remember that an effect that says you "can't" do something overrides an effect that says you can or must do something. If you activate both of Auriok Siege Sled's abilities on the same creature, that creature can't block Auriok Siege Sled this turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>106</No>
+<Name>Chimeric Egg</Name>
+<ChineseName>盖美拉蛋</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Whenever an opponent casts a nonartifact spell, put a charge counter on Chimeric Egg.
+Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 Construct artifact creature with trample until end of turn.</CardText>
+<Artist>Michael Sutfin</Artist>
+<Multiverseid>49097</Multiverseid>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>107</No>
+<Name>Coretapper</Name>
+<ChineseName>核心聚能机</ChineseName>
+<Type>Artifact Creature — Myr 1/1</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{T}: Put a charge counter on target artifact.
+Sacrifice Coretapper: Put two charge counters on target artifact.</CardText>
+<Flavor>It converts the faintest surges of power from Mirrodin's core into usable energy, providing endless power for Memnarch's creations on the surface.</Flavor>
+<ChineseFlavor>它将秘罗地核心散乱的能量翻腾转换为可利用的能量，让蒙纳坷的造物得以在地表上运转不懈。</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Multiverseid>49016</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>108</No>
+<Name>Darksteel Brute</Name>
+<ChineseName>玄铁兽雕像</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Indestructible (Damage and effects that say "destroy" don't destroy this artifact.)
+{3}: Darksteel Brute becomes a 2/2 Beast artifact creature until end of turn.</CardText>
+<Artist>Nottsuo</Artist>
+<Multiverseid>43563</Multiverseid>
+<Rulings>2008/08/01: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>109</No>
+<Name>Darksteel Colossus</Name>
+<ChineseName>玄铁巨像</ChineseName>
+<Type>Artifact Creature — Golem 11/11</Type>
+<ManaCost>{11}</ManaCost>
+<CardText>Trample, indestructible
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.</CardText>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>48158</Multiverseid>
+<Rulings>2013/07/01: Lethal damage, damage from a source with deathtouch, and effects that say "destroy" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed or if its toughness is 0 or less. (In these cases, of course, Darksteel Colossus would be shuffled into its owner's library instead of being put into its owner's graveyard.)</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>110</No>
+<Name>Darksteel Forge</Name>
+<ChineseName>玄铁锻冶炉</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{9}</ManaCost>
+<CardText>Artifacts you control have indestructible. (Effects that say "destroy" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)</CardText>
+<Flavor>"Did it have this shape upon Mirrodin's creation, or did some inconceivable force shape the unshapable?"
+—Pontifex, elder researcher</Flavor>
+<ChineseFlavor>「如此坚不可摧的物质，究竟是与秘罗地同时成型，还是被某种难以想象的力量塑造成这个形状？」
+～大学者庞棣飞</ChineseFlavor>
+<Artist>Martina Pilcerova</Artist>
+<Multiverseid>48072</Multiverseid>
+<Rulings>2020/08/07: Because damage remains marked on a creature until the damage is removed as the turn ends, nonlethal damage dealt to an artifact creature you control may become lethal if Darksteel Forge leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>111</No>
+<Name>Darksteel Gargoyle</Name>
+<ChineseName>玄铁石像鬼</ChineseName>
+<Type>Artifact Creature — Gargoyle 3/3</Type>
+<ManaCost>{7}</ManaCost>
+<CardText>Flying
+Indestructible (Damage and effects that say "destroy" don't destroy this creature.)</CardText>
+<Flavor>The ultimate treasure is one that guards itself.</Flavor>
+<ChineseFlavor>所谓无价之宝，便是能自卫的宝藏。</ChineseFlavor>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>46136</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>112</No>
+<Name>Darksteel Ingot</Name>
+<ChineseName>玄铁锭</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Indestructible
+{T}: Add one mana of any color.</CardText>
+<Artist>Martina Pilcerova</Artist>
+<Multiverseid>48048</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>113</No>
+<Name>Darksteel Pendant</Name>
+<ChineseName>玄铁垂饰</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Indestructible (Effects that say "destroy" don't destroy this artifact.)
+{1}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</CardText>
+<Artist>Terese Nielsen</Artist>
+<Multiverseid>39485</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>114</No>
+<Name>Darksteel Reactor</Name>
+<ChineseName>玄铁反应炉</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Indestructible (Effects that say "destroy" don't destroy this artifact.)
+At the beginning of your upkeep, you may put a charge counter on Darksteel Reactor.
+When Darksteel Reactor has twenty or more charge counters on it, you win the game.</CardText>
+<Artist>Kev Walker</Artist>
+<Multiverseid>43548</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>115</No>
+<Name>Death-Mask Duplicant</Name>
+<ChineseName>亡颜窃形兽</ChineseName>
+<Type>Artifact Creature — Shapeshifter 5/5</Type>
+<ManaCost>{7}</ManaCost>
+<CardText>Imprint — {1}: Exile target creature card from your graveyard.
+As long as a card exiled with Death-Mask Duplicant has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.</CardText>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>46023</Multiverseid>
+<Rulings>2004/12/01: Death-Mask Duplicant has an activated imprint ability. This ability can be activated any number of times, so multiple creature cards can become imprinted on this creature.
+2004/12/01: Death-Mask Duplicant gains all landwalk and protection abilities of the imprinted creature cards. If Death-Mask Duplicant imprints a card with protection from red and a card with protection from creatures, it has protection from red and from creatures.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>116</No>
+<Name>Demon's Horn</Name>
+<ChineseName>恶魔犄角</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever a player casts a black spell, you may gain 1 life.</CardText>
+<Flavor>Its curve mimics the twists of life and death.</Flavor>
+<ChineseFlavor>其弯弧好似生与死的纠结。</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Multiverseid>72682</Multiverseid>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a black spell.
+2009/10/01: If a player casts a black spell, Demon's Horn's ability triggers and is put on the stack on top of that spell. Demon's Horn's ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>117</No>
+<Name>Dragon's Claw</Name>
+<ChineseName>巨龙钩爪</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever a player casts a red spell, you may gain 1 life.</CardText>
+<Flavor>Though no longer attached to the hand, it still holds its adversary in its grasp.</Flavor>
+<ChineseFlavor>虽已不在龙掌之上，却似乎依然紧扣着敌手不放。</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Multiverseid>72683</Multiverseid>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a red spell.
+2009/10/01: If a player casts a red spell, Dragon's Claw's ability triggers and is put on the stack on top of that spell. Dragon's Claw's ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>118</No>
+<Name>Drill-Skimmer</Name>
+<ChineseName>飞掠钻头</ChineseName>
+<Type>Artifact Creature — Thopter 2/1</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Flying
+Drill-Skimmer has shroud as long as you control another artifact creature. (It can't be the target of spells or abilities.)</CardText>
+<Flavor>In close proximity, their magnetic energies merge and form a field of protection.</Flavor>
+<ChineseFlavor>只要贴得够近，其磁能便可张开保护力场。</ChineseFlavor>
+<Artist>Mark Zug</Artist>
+<Multiverseid>51056</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>119</No>
+<Name>Dross Golem</Name>
+<ChineseName>蔓非沼魔像</ChineseName>
+<Type>Artifact Creature — Golem 3/2</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>Affinity for Swamps (This spell costs {1} less to cast for each Swamp you control.)
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</CardText>
+<Flavor>The longer it skulks through the corrosive gases of Mephidross, the more it adopts their thirst for death.</Flavor>
+<ChineseFlavor>它在蔓非沼的腐蚀沼气中出没得越久，便越习于该地的杀生渴望。</ChineseFlavor>
+<Artist>Adam Rex</Artist>
+<Multiverseid>46157</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>120</No>
+<Name>Eater of Days</Name>
+<ChineseName>蔽日巨怪</ChineseName>
+<Type>Artifact Creature — Leviathan 9/8</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Flying, trample
+When Eater of Days enters the battlefield, you skip your next two turns.</CardText>
+<Flavor>When Mirrodin's varied civilizations developed ways to fight the levelers, Memnarch upped the stakes.</Flavor>
+<ChineseFlavor>当秘罗地的各文明发展出各种对抗夷平者的方法后，蒙纳坷将赌注提高。</ChineseFlavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>46165</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>121</No>
+<Name>Gemini Engine</Name>
+<ChineseName>双子引擎</ChineseName>
+<Type>Artifact Creature — Construct 3/4</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Whenever Gemini Engine attacks, create a colorless Construct artifact creature token named Twin that's attacking. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.</CardText>
+<Artist>Nottsuo</Artist>
+<Multiverseid>46168</Multiverseid>
+<Rulings>2004/12/01: The Twin token enters the battlefield as an untapped attacking creature. It's not subject to any costs to attack or restrictions on attacking.
+2004/12/01: The Twin token won't trigger any abilities that trigger "when [a creature] attacks."
+2004/12/01: The token's power and toughness are set equal to Gemini Engine's power and toughness. If there's a Glorious Anthem on the battlefield (which gives your creatures +1/+1), Gemini Engine is 4/5. The Twin token starts as a 4/5, and then the Anthem gives it +1/+1, making the Twin a 5/6 creature.
+2004/12/01: Once the token has been created, its power and toughness aren't dependent on Gemini Engine's power and toughness, and they won't change if Gemini Engine's power and toughness change.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>122</No>
+<Name>Genesis Chamber</Name>
+<ChineseName>创生秘室</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller creates a 1/1 colorless Myr artifact creature token.</CardText>
+<Flavor>"As the experimental population grows, so do the number of myr. It's a perfect equilibrium."
+—Memnarch</Flavor>
+<ChineseFlavor>「当实验族群的数量增加时，秘耳的数量也会增加。 真是个完美的平衡。」
+～蒙纳坷</ChineseFlavor>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>46160</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>123</No>
+<Name>Geth's Grimoire</Name>
+<ChineseName>盖司秘录</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Whenever an opponent discards a card, you may draw a card.</CardText>
+<Flavor>The book shrieks horribly until its cover is opened, granting the spirit inside a moment's rest from the painful stirrings of the book's contents.</Flavor>
+<ChineseFlavor>只有在书的封面打开，内里的精魂得以自其惊怖内容中喘息时，连绵不断的凄号声才会暂歇。</ChineseFlavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>51070</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>124</No>
+<Name>Heartseeker</Name>
+<ChineseName>贯心刃</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Equipped creature gets +2/+1 and has "{T}, Unattach Heartseeker: Destroy target creature."
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</CardText>
+<Artist>Michael Sutfin</Artist>
+<Multiverseid>51074</Multiverseid>
+<Rulings>2004/12/01: Heartseeker grants an ability to the equipped creature. The ability can target a creature with protection from artifacts (unless the equipped creature is an artifact creature).
+2004/12/01: The equipped creature's controller chooses whether or not to activate the activated ability. It doesn't matter who controls Heartseeker.
+2004/12/01: "Unattach Heartseeker" means just that — Heartseeker moves off the creature it was equipping and remains on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>125</No>
+<Name>Juggernaut</Name>
+<ChineseName>攻城巨车</ChineseName>
+<Type>Artifact Creature — Juggernaut 5/3</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Juggernaut attacks each combat if able.
+Juggernaut can't be blocked by Walls.</CardText>
+<Flavor>The goblins built it far larger than the cave opening, but to their glee, it smashed into the mountainside, ripping itself a new exit.</Flavor>
+<ChineseFlavor>精灵把它建得比要钻开的洞穴还大；而它也果如其愿地狠狠撞上山腰，一路挖到山的另一边。</ChineseFlavor>
+<Artist>Arnie Swekel</Artist>
+<Multiverseid>43579</Multiverseid>
+<Rulings>2018/04/27: If Juggernaut can't attack for any reason (such as being tapped or having come under that player's control that turn), then it doesn't attack. If there's a cost associated with having it attack, its controller isn't forced to pay that cost, so it doesn't have to attack in that case either.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>126</No>
+<Name>Kraken's Eye</Name>
+<ChineseName>巨怪硕眼</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever a player casts a blue spell, you may gain 1 life.</CardText>
+<Flavor>Bright as a mirror, dark as the sea.</Flavor>
+<ChineseFlavor>亮似明镜，黯如深洋。</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Multiverseid>49049</Multiverseid>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a blue spell.
+2009/10/01: If a player casts a blue spell, Kraken's Eye's ability triggers and is put on the stack on top of that spell. Kraken's Eye's ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>127</No>
+<Name>Leonin Bola</Name>
+<ChineseName>狮族飞锤</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>Equipped creature has "{T}, Unattach Leonin Bola: Tap target creature."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</CardText>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>46142</Multiverseid>
+<Rulings>2004/12/01: Leonin Bola grants an ability to the equipped creature. The ability can target a creature with protection from artifacts (unless the equipped creature is an artifact creature).
+2004/12/01: The equipped creature's controller chooses whether or not to activate the activated ability. It doesn't matter who controls Leonin Bola.
+2004/12/01: "Unattach Leonin Bola" means just that — Leonin Bola moves off the creature it was equipping and remains on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>128</No>
+<Name>Lich's Tomb</Name>
+<ChineseName>巫妖阳坟</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>You don't lose the game for having 0 or less life.
+Whenever you lose life, sacrifice a permanent for each 1 life you lost. (Damage causes loss of life.)</CardText>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>46134</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>129</No>
+<Name>Memnarch</Name>
+<ChineseName>蒙纳坷</ChineseName>
+<Type>Legendary Artifact Creature — Wizard 4/5</Type>
+<ManaCost>{7}</ManaCost>
+<CardText>{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect lasts indefinitely.)
+{3}{U}: Gain control of target artifact. (This effect lasts indefinitely.)</CardText>
+<Flavor>In the blur between metal and flesh, Memnarch found madness.</Flavor>
+<ChineseFlavor>在金属与血肉的浑沌里，蒙纳坷找到了名为疯狂的出口。</ChineseFlavor>
+<Artist>Carl Critchlow</Artist>
+<Multiverseid>51054</Multiverseid>
+<Rulings>2004/12/01: The effects of Memnarch's abilities don't end at end of turn, and they don't end when Memnarch leaves the battlefield. Both effects last until the affected permanent leaves the battlefield.
+2004/12/01: You can use the first ability on a nonartifact permanent, wait for the ability to resolve, and then use the second ability on that permanent.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>130</No>
+<Name>Mycosynth Lattice</Name>
+<ChineseName>构生菌格栅</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>All permanents are artifacts in addition to their other types.
+All cards that aren't on the battlefield, spells, and permanents are colorless.
+Players may spend mana as though it were mana of any color.</CardText>
+<Artist>Anthony S. Waters</Artist>
+<Multiverseid>50527</Multiverseid>
+<Rulings>2004/12/01: Mycosynth Lattice turns all permanents on the battlefield into artifacts. Spells on the stack and cards in other zones aren't permanents, so those spells and cards don't become artifacts.
+2004/12/01: Mycosynth Lattice's second ability makes everything, in every zone of the game, colorless.
+2004/12/01: The Lattice's third ability lets players spend even colorless mana as though it had a color. However, it doesn't remove restrictions on the mana. For example, Mycosynth Lattice doesn't allow mana from Vedalken Engineer to be used to cast a nonartifact spell.
+2009/10/01: The Lattice's first ability causes Auras to become artifacts. Combined with March of the Machines from the Mirrodin set, this can then make those Auras become creatures. An Aura that's also a creature can't enchant anything. It's unattached the next time state-based actions are checked, and then immediately put into its owner's graveyard as a second state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>131</No>
+<Name>Myr Landshaper</Name>
+<ChineseName>塑地秘耳</ChineseName>
+<Type>Artifact Creature — Myr 1/1</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{T}: Target land becomes an artifact in addition to its other types until end of turn.</CardText>
+<Flavor>One thing the myr can't do is enjoy the scenery.</Flavor>
+<ChineseFlavor>秘耳唯一办不到的事情，就是欣赏自己造出的风景。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>45428</Multiverseid>
+<Rulings>2004/12/01: The land keeps all its other types, subtypes, and supertypes: If it was a basic land, it's still basic. If it was a Forest, it's still a Forest.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>132</No>
+<Name>Myr Matrix</Name>
+<ChineseName>秘耳母体</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>Indestructible (Effects that say "destroy" don't destroy this artifact.)
+Myr creatures get +1/+1.
+{5}: Create a 1/1 colorless Myr artifact creature token.</CardText>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>48049</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>133</No>
+<Name>Myr Moonvessel</Name>
+<ChineseName>月光能秘耳</ChineseName>
+<Type>Artifact Creature — Myr 1/1</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>When Myr Moonvessel dies, add {C}.</CardText>
+<Flavor>Memnarch created the myr with three qualities in mind: dependability, controllability, and disposability.</Flavor>
+<ChineseFlavor>蒙纳坷创造秘耳时，最重视三样要素：功能可靠，控制方便，以及用后即丢。</ChineseFlavor>
+<Artist>Dany Orizio</Artist>
+<Multiverseid>46112</Multiverseid>
+<Rulings>2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>134</No>
+<Name>Nemesis Mask</Name>
+<ChineseName>宿敌面具</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>All creatures able to block equipped creature do so.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</CardText>
+<Artist>Adam Rex</Artist>
+<Multiverseid>46172</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>135</No>
+<Name>Oxidda Golem</Name>
+<ChineseName>奥悉达魔像</ChineseName>
+<Type>Artifact Creature — Golem 3/2</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)
+Haste</CardText>
+<Flavor>The longer it patrols the smoldering crags of the Oxidda Chain, the more it adopts their fiery temper.</Flavor>
+<ChineseFlavor>它在奥悉达山脉的热烟峭壁上巡逻得越久，便越习于该地的火爆脾气。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>46164</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>136</No>
+<Name>Panoptic Mirror</Name>
+<ChineseName>万象镜</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>Imprint — {X}, {T}: You may exile an instant or sorcery card with mana value X from your hand.
+At the beginning of your upkeep, you may copy a card exiled with Panoptic Mirror. If you do, you may cast the copy without paying its mana cost.</CardText>
+<Artist>Glen Angus</Artist>
+<Multiverseid>47930</Multiverseid>
+<Rulings>2004/12/01: The triggered ability triggers only once each upkeep, not once per imprinted card. If no cards are imprinted on Panoptic Mirror when the triggered ability resolves, it does nothing.
+2004/12/01: As Panoptic Mirror's triggered ability resolves, it allows you to create a copy of one of the instant or sorcery cards imprinted on Panoptic Mirror in the Exile zone (that's where the imprinted card is) and then cast it without paying its mana cost.
+2004/12/01: Exiling a card when the activated ability resolves is optional. If you choose to exile a card, you can exile only a card with converted mana cost equal to X.
+2004/12/01: You may imprint a card on Panoptic Mirror in response to the upkeep-triggered ability. If you do, that card is available to copy when the triggered ability resolves.
+2004/12/01: You don't pay the spell's mana cost. If the spell has X in its mana cost, X is 0. You do pay any additional costs for that spell. You can't use any alternative costs.
+2005/03/01: The creation of the copy and then the casting of the copy are both optional.
+2017/04/18: To imprint a split card, you pay X equal to card's converted mana cost, determined by the combined mana cost of its two halves. If the copied card is a split card, you choose which one side of it to cast, but you can't cast both sides.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>137</No>
+<Name>Razor Golem</Name>
+<ChineseName>锐草魔像</ChineseName>
+<Type>Artifact Creature — Golem 3/4</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Affinity for Plains (This spell costs {1} less to cast for each Plains you control.)
+Vigilance</CardText>
+<Flavor>The longer it stands among the deadly blades of the Razor Fields, the more it adopts their harsh exterior.</Flavor>
+<ChineseFlavor>它在锐草原野的锋利叶缘间出没得越久，便越习于该地的严酷环境。</ChineseFlavor>
+<Artist>Christopher Moeller</Artist>
+<Multiverseid>46143</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>138</No>
+<Name>Serum Powder</Name>
+<ChineseName>浆液粉末</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{T}: Add {C}.
+Any time you could mulligan and Serum Powder is in your hand, you may exile all the cards from your hand, then draw that many cards. (You can do this in addition to taking mulligans.)</CardText>
+<Artist>Matt Thompson</Artist>
+<Multiverseid>48920</Multiverseid>
+<Rulings>2017/11/17: You can use Serum Powder's second ability only while it's in your hand. If this card is in your hand, you can choose either to mulligan or to use Serum Powder's ability. Using the ability doesn't prevent you from taking further mulligans, and taking a mulligan doesn't prevent you from using a Serum Powder's ability if you happen to draw one in your new hand.
+2017/11/17: Unlike a normal mulligan, Serum Powder lets you draw the same number of cards that were in your hand, not one less. If you have already taken one mulligan and your hand contains six cards including a Serum Powder, you can choose to exile those six cards and draw six new cards.
+2017/11/17: The cards in your hand are exiled for the rest of the game; they aren't shuffled back into your library if you take another mulligan. Cards exiled are always face up unless the effect that exiled them says they aren't. Be sure to return those cards to your deck for your next game.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>139</No>
+<Name>Shield of Kaldra</Name>
+<ChineseName>卡尔札之盾</ChineseName>
+<Type>Legendary Artifact — Equipment</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra have indestructible.
+Equipped creature has indestructible. (Damage and effects that say "destroy" don't destroy it.)
+Equip {4}</CardText>
+<Artist>Donato Giancola</Artist>
+<Multiverseid>48582</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>140</No>
+<Name>Skullclamp</Name>
+<ChineseName>备忘夹</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}</CardText>
+<Artist>Luca Zontini</Artist>
+<Multiverseid>48197</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Banned</Legacy>
+<Modern>Banned</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>141</No>
+<Name>Spawning Pit</Name>
+<ChineseName>孳虫尸坑</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Sacrifice a creature: Put a charge counter on Spawning Pit.
+{1}, Remove two charge counters from Spawning Pit: Create a 2/2 colorless Spawn artifact creature token.</CardText>
+<Artist>Tony Szczudlo</Artist>
+<Multiverseid>26732</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>142</No>
+<Name>Specter's Shroud</Name>
+<ChineseName>幽灵斗篷</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a player, that player discards a card.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</CardText>
+<Artist>Greg Hildebrandt</Artist>
+<Multiverseid>49094</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>143</No>
+<Name>Spellbinder</Name>
+<ChineseName>凝咒杖</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Imprint — When Spellbinder enters the battlefield, you may exile an instant card from your hand.
+Whenever equipped creature deals combat damage to a player, you may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+Equip {4}</CardText>
+<Artist>Ron Spencer</Artist>
+<Multiverseid>50540</Multiverseid>
+<Rulings>2004/12/01: Spellbinder's second ability allows you to create a copy of the imprinted instant card in the Exile zone (that's where the imprinted instant card is) and then cast it without paying its mana cost.
+2004/12/01: You don't pay the spell's mana cost. If the spell has X in its mana cost, X is 0. You do pay any additional costs for that spell. You can't use any alternative costs.
+2004/12/01: If the copied card is a split card, you choose which one side of it to cast, but you can't cast both sides. You can choose the other side later in the game, though.
+2004/12/01: Spellbinder imprints a card only once, when it enters the battlefield. Attaching Spellbinder to a creature doesn't trigger its enters-the-battlefield ability.
+2005/03/01: The creation of the copy and then the casting of the copy are both optional.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>144</No>
+<Name>Spincrusher</Name>
+<ChineseName>迅旋殴击机</ChineseName>
+<Type>Artifact Creature — Construct 0/2</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever Spincrusher blocks, put a +1/+1 counter on it.
+Remove a +1/+1 counter from Spincrusher: Spincrusher can't be blocked this turn.</CardText>
+<Flavor>It rolls with the punches.</Flavor>
+<ChineseFlavor>且战且转。</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Multiverseid>50529</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>145</No>
+<Name>Spire Golem</Name>
+<ChineseName>尖塔魔像</ChineseName>
+<Type>Artifact Creature — Golem 2/4</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Affinity for Islands (This spell costs {1} less to cast for each Island you control.)
+Flying</CardText>
+<Flavor>The longer it soars above the shimmering swirls of the Quicksilver Sea, the more it adopts their unpredictability.</Flavor>
+<ChineseFlavor>它在水银海的烁光涡流上空飞翔越久，便越习于该地的复杂多变。</ChineseFlavor>
+<Artist>Daren Bader</Artist>
+<Multiverseid>46150</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>146</No>
+<Name>Sundering Titan</Name>
+<ChineseName>裂地泰坦</ChineseName>
+<Type>Artifact Creature — Golem 7/10</Type>
+<ManaCost>{8}</ManaCost>
+<CardText>When Sundering Titan enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.</CardText>
+<Artist>Jim Murray</Artist>
+<Multiverseid>42084</Multiverseid>
+<Rulings>2020/08/07: Sundering Titan's ability isn't targeted. When it resolves, Sundering Titan's controller must choose one land for each basic land type (Plains, Island, Swamp, Mountain, and Forest), and then they are destroyed simultaneously.
+2020/08/07: Players can't take actions in between the time you choose the lands and the time you destroy them. Notably, they can't activate mana abilities of those lands.
+2020/08/07: If one of the basic land types isn't present, it isn't chosen. If the only land of a certain type is one you control, you must choose it.
+2020/08/07: If a land has more than one basic land type, it can be chosen more than once.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>147</No>
+<Name>Surestrike Trident</Name>
+<ChineseName>穿杨三叉戟</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Equipped creature has first strike and "{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player or planeswalker."
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</CardText>
+<Artist>Ben Thompson</Artist>
+<Multiverseid>46158</Multiverseid>
+<Rulings>2004/12/01: Surestrike Trident grants an ability to the equipped creature.
+2004/12/01: The equipped creature's controller chooses whether or not to activate the activated ability. It doesn't matter who controls Surestrike Trident.
+2004/12/01: "Unattach Surestrike Trident" means just that — Surestrike Trident moves off the creature it was equipping and remains on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>148</No>
+<Name>Sword of Fire and Ice</Name>
+<ChineseName>炽寒剑</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from red and from blue.
+Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card.
+Equip {2}</CardText>
+<Artist>Mark Zug</Artist>
+<Multiverseid>46429</Multiverseid>
+<Rulings>2020/08/07: If the chosen target is an illegal target by the time the triggered ability tries to resolve, the ability won't resolve. You won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>149</No>
+<Name>Sword of Light and Shadow</Name>
+<ChineseName>天冥剑</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from white and from black.
+Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.
+Equip {2}</CardText>
+<Artist>Mark Zug</Artist>
+<Multiverseid>47453</Multiverseid>
+<Rulings>2020/08/07: If you choose a target creature card in your graveyard and that card is an illegal target by the time the triggered ability tries to resolve, the ability won't resolve. You won't gain 3 life. If you don't choose a target at all, you just gain 3 life.
+2020/08/07: The triggered ability can target a creature card that was put into your graveyard as a result of state-based actions immediately after the combat damage that caused the ability to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>150</No>
+<Name>Talon of Pain</Name>
+<ChineseName>苦楚秘爪</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.
+{X}, {T}, Remove X charge counters from Talon of Pain: It deals X damage to any target.</CardText>
+<Artist>Daren Bader</Artist>
+<Multiverseid>46111</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>151</No>
+<Name>Tangle Golem</Name>
+<ChineseName>铬铜林魔像</ChineseName>
+<Type>Artifact Creature — Golem 5/4</Type>
+<ManaCost>{7}</ManaCost>
+<CardText>Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)</CardText>
+<Flavor>The longer it weaves through the twisted vines of the Tangle, the more it adopts their hidden strength.</Flavor>
+<ChineseFlavor>它在铬铜林的纠结藤蔓间穿梭越久，便越习于该地的危机四伏。</ChineseFlavor>
+<Artist>Arnie Swekel</Artist>
+<Multiverseid>46171</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>152</No>
+<Name>Thought Dissector</Name>
+<ChineseName>析念仪</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{X}, {T}: Target opponent reveals cards from the top of their library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it onto the battlefield under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.</CardText>
+<Artist>Matt Cavotta</Artist>
+<Multiverseid>50521</Multiverseid>
+<Rulings>2004/12/01: You put the artifact card onto the battlefield even if Thought Dissector has already left the battlefield and you can't sacrifice it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>153</No>
+<Name>Thunderstaff</Name>
+<ChineseName>雷霆杖</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>As long as Thunderstaff is untapped, if a creature would deal combat damage to you, prevent 1 of that damage.
+{2}, {T}: Attacking creatures get +1/+0 until end of turn.</CardText>
+<Artist>Kaja Foglio</Artist>
+<Multiverseid>50530</Multiverseid>
+<Rulings>2004/12/01: If Thunderstaff is untapped, it prevents 1 damage from each creature, each time it would deal combat damage to you. So if three creatures with double strike attack you and aren't blocked, Thunderstaff will prevent a total of 6 damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>154</No>
+<Name>Trinisphere</Name>
+<ChineseName>三定法球</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)</CardText>
+<Artist>Tim Hildebrandt</Artist>
+<Multiverseid>43545</Multiverseid>
+<Rulings>2020/08/07: To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions. Finally, apply Trinisphere's effect if the mana component of the spell's cost is less than three mana. The mana value of the spell remains unchanged, no matter what the total cost to cast it was.
+2020/08/07: If Trinisphere leaves the battlefield or becomes tapped or untapped as a cost to cast a spell, this cost is paid after you've locked in the total cost.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>155</No>
+<Name>Ur-Golem's Eye</Name>
+<ChineseName>铀魔像之眼</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{T}: Add {C}{C}.</CardText>
+<Flavor>It still stares accusingly at Memnarch, though millennia have passed since he separated the eye from its body.</Flavor>
+<ChineseFlavor>虽然千年前便已遭蒙纳坷自本体卸下，这眼睛至今依旧瞪视着他。</ChineseFlavor>
+<Artist>Heather Hudson</Artist>
+<Multiverseid>49110</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>156</No>
+<Name>Voltaic Construct</Name>
+<ChineseName>电流组构体</ChineseName>
+<Type>Artifact Creature — Golem Construct 2/2</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{2}: Untap target artifact creature.</CardText>
+<Flavor>The undead may outlast the living, but those who have never lived outlast them both.</Flavor>
+<ChineseFlavor>不死族也许能比活物存在得更久，但从未有生命者可比这两者都存在得更久。</ChineseFlavor>
+<Artist>Jeff Easley</Artist>
+<Multiverseid>48141</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>157</No>
+<Name>Vulshok Morningstar</Name>
+<ChineseName>瓦许克晨星锤</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Equipped creature gets +2/+2.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</CardText>
+<Artist>David Martin</Artist>
+<Multiverseid>49758</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>158</No>
+<Name>Wand of the Elements</Name>
+<ChineseName>元素魔杖</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{T}, Sacrifice an Island: Create a 2/2 blue Elemental creature token with flying.
+{T}, Sacrifice a Mountain: Create a 3/3 red Elemental creature token.</CardText>
+<Flavor>It gives legs to the earth and wings to the sky.</Flavor>
+<ChineseFlavor>它让大地有足能行，让天空有翼飞翔。</ChineseFlavor>
+<Artist>Thomas M. Baxa</Artist>
+<Multiverseid>49775</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>159</No>
+<Name>Well of Lost Dreams</Name>
+<ChineseName>迷梦深井</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.</CardText>
+<Flavor>Some say the knowledge lost during the Ritual of Rebuking is returned through the well's waters.</Flavor>
+<ChineseFlavor>传说在训诫仪式之中消失的知识，都会藉由井水涌回。</ChineseFlavor>
+<Artist>Jeff Miracola</Artist>
+<Multiverseid>48993</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>160</No>
+<Name>Whispersilk Cloak</Name>
+<ChineseName>细语丝篷</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Equipped creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)
+Equip {2}</CardText>
+<Artist>Luca Zontini</Artist>
+<Multiverseid>46030</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>161</No>
+<Name>Wirefly Hive</Name>
+<ChineseName>星火虫巢窝</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{3}, {T}: Flip a coin. If you win the flip, create a 2/2 colorless Insect artifact creature token with flying named Wirefly. If you lose the flip, destroy all permanents named Wirefly.</CardText>
+<Flavor>"The lifespan of a wirefly can be precisely described as 'short.'"
+—Bruenna, Neurok leader</Flavor>
+<ChineseFlavor>「星火虫的生命史有一妙喻：『短』。」
+～纽若克统领布威娜</ChineseFlavor>
+<Artist>Nottsuo</Artist>
+<Multiverseid>49026</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>162</No>
+<Name>Wurm's Tooth</Name>
+<ChineseName>亚龙巨牙</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever a player casts a green spell, you may gain 1 life.</CardText>
+<Flavor>A wurm knows nothing of deception. If it opens its mouth, it plans to eat you.</Flavor>
+<ChineseFlavor>亚龙不会说谎。 它若张开嘴巴，就是要把你吃掉。</ChineseFlavor>
+<Artist>Alan Pollack</Artist>
+<Multiverseid>72684</Multiverseid>
+<Rulings>2009/10/01: The ability triggers whenever any player, not just you, casts a green spell.
+2009/10/01: If a player casts a green spell, Wurm's Tooth's ability triggers and is put on the stack on top of that spell. Wurm's Tooth's ability will resolve (causing you to gain 1 life) before the spell does.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>163</No>
+<Name>Blinkmoth Nexus</Name>
+<ChineseName>光蛾连结点</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.
+{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.</CardText>
+<Artist>Brian Snõddy</Artist>
+<Multiverseid>39439</Multiverseid>
+<Rulings>2020/08/07: A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature.
+2020/08/07: Blinkmoth Nexus can be the target of its last ability after activating its middle ability. Activating it after it has blocked a creature won't remove it from combat or stop it from dealing and being dealt combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>164</No>
+<Name>Darksteel Citadel</Name>
+<ChineseName>玄铁殿堂</ChineseName>
+<Type>Artifact Land</Type>
+<CardText>Indestructible
+{T}: Add {C}.</CardText>
+<Flavor>Panopticon, forge of the Darksteel Eye, home of Mirrodin's keeper.</Flavor>
+<ChineseFlavor>万象殿，玄铁眼之锻炉，秘罗地守卫的居处。</ChineseFlavor>
+<Artist>John Avon</Artist>
+<Multiverseid>45415</Multiverseid>
+<Rulings>2014/07/18: Although Darksteel Citadel is an artifact, it can't be cast as a spell. Playing it follows the normal rules for playing a land.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>DST</SetId>
+<No>165</No>
+<Name>Mirrodin's Core</Name>
+<ChineseName>秘罗地核心</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{T}: Put a charge counter on Mirrodin's Core.
+{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color.</CardText>
+<Artist>Greg Staples</Artist>
+<Multiverseid>39421</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>Darksteel</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+

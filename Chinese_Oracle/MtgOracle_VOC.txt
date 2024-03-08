@@ -1,0 +1,708 @@
+<Card>
+<SetId>VOC</SetId>
+<No>1</No>
+<Name>Millicent, Restless Revenant</Name>
+<ChineseName>不息复灵米蕾森</ChineseName>
+<Type>Legendary Creature — Spirit Soldier 4/4</Type>
+<ManaCost>{5}{W}{U}</ManaCost>
+<CardText>This spell costs {1} less to cast for each Spirit you control.
+Flying
+Whenever Millicent, Restless Revenant or another nontoken Spirit you control dies or deals combat damage to a player, create a 1/1 white Spirit creature token with flying.</CardText>
+<Artist>Denman Rooke</Artist>
+<Multiverseid>547249</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>2</No>
+<Name>Strefan, Maurer Progenitor</Name>
+<ChineseName>茂威原祖史崔凡</ChineseName>
+<Type>Legendary Creature — Vampire Noble 3/2</Type>
+<ManaCost>{2}{B}{R}</ManaCost>
+<CardText>Flying
+At the beginning of your end step, create a Blood token for each player who lost life this turn.
+Whenever Strefan attacks, you may sacrifice two Blood tokens. If you do, you may put a Vampire card from your hand onto the battlefield tapped and attacking. It gains indestructible until end of turn.</CardText>
+<Artist>Chris Rallis</Artist>
+<Multiverseid>547250</Multiverseid>
+<Rulings>2021/11/19: Strefan's first triggered ability counts the number of players that lost any amount of life, even if they also gained that much or more life this turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>3</No>
+<Name>Donal, Herald of Wings</Name>
+<ChineseName>羽翼传令使唐诺</ChineseName>
+<Type>Legendary Creature — Human Wizard 3/3</Type>
+<ManaCost>{2}{U}{U}</ManaCost>
+<CardText>Whenever you cast a nonlegendary creature spell with flying, you may copy it, except the copy is a 1/1 Spirit in addition to its other types. Do this only once each turn. (The copy becomes a token.)</CardText>
+<Flavor>He sees a flicker of Avacyn's grace in every wingbeat.</Flavor>
+<ChineseFlavor>他在翅翼扇动间得见艾维欣光辉。</ChineseFlavor>
+<Artist>Wayne Reynolds</Artist>
+<Multiverseid>547229</Multiverseid>
+<Rulings>2021/11/19: If a creature spell is copied, it's put onto the battlefield as a token as the spell resolves rather than putting the copy of the spell onto the battlefield. The rules that apply to a permanent spell becoming a permanent apply to a copy of a spell becoming a token.
+2021/11/19: The token that a resolving copy of a spell becomes isn't said to have been “created.”
+2021/11/19: The copy remembers any decisions that were made for the original spell as it was cast, including values chosen for X in its mana cost and whether any alternative or additional costs were chosen. For example, if the original creature spell had kicker and its kicker cost was paid, the copy will also be kicked.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>4</No>
+<Name>Timothar, Baron of Bats</Name>
+<ChineseName>血蝠男爵提默沙</ChineseName>
+<Type>Legendary Creature — Vampire Noble 4/4</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Ward—Discard a card.
+Whenever another nontoken Vampire you control dies, you may pay {1} and exile it. If you do, create a 1/1 black Bat creature token with flying. It gains "When this creature deals combat damage to a player, sacrifice it and return the exiled card to the battlefield tapped."</CardText>
+<Artist>Jason A. Engle</Artist>
+<Multiverseid>547230</Multiverseid>
+<Rulings>2021/11/19: Timothar's last ability is linked to the ability it grants the Bat token. If a replacement effect causes you to create more than one Bat token with this effect, they will all have that linked ability, and the exiled card will be returned to the battlefield if any of them deals combat damage to a player.
+2021/11/19: If the exiled card is somehow no longer in exile when the Bat token's triggered ability resolves, you will still sacrifice the Bat token.
+2021/11/19: If another creature enters the battlefield as a copy of the Bat token or another effect creates a copy of the Bat token, it will not have the triggered ability granted by Timothar.
+2021/11/19: The ability of each Bat token you create refers only to the card you exile during the resolution of the ability that created that token. When it deals combat damage to a player, you return only that card to the battlefield, not any other card exiled by Timothar.
+2021/11/19: If you can't exile the card, perhaps because another effect moved the card before the triggered ability started resolving, you can't pay {1} and won't create a token.
+2021/11/19: Timothar's last ability triggers when any nontoken Vampire you control dies, not just nontoken Vampires you own. If you control Timothar and another player's nontoken Vampire and that Vampire dies, you may pay {1} to exile that card from their graveyard.
+2021/11/19: The controller of the Bat token as it deals combat damage to a player will be the controller of its triggered ability, and the exiled card will be returned to the battlefield under that player's control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>5</No>
+<Name>Drogskol Reinforcements</Name>
+<ChineseName>卓兹克援军</ChineseName>
+<Type>Creature — Spirit Soldier 2/2</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+Other Spirits you control have melee.
+Prevent all noncombat damage that would be dealt to Spirits you control.</CardText>
+<Artist>Antonio José Manzanedo</Artist>
+<Multiverseid>546969</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>6</No>
+<Name>Haunted Library</Name>
+<ChineseName>闹鬼图书馆</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Whenever a creature an opponent controls dies, you may pay {1}. If you do, create a 1/1 white Spirit creature token with flying.</CardText>
+<Flavor>The library of Moormanor had been open to all before the Travails, and it continues to attract curious visitors.</Flavor>
+<ChineseFlavor>在癫狂劫之前，荒邸图书馆原本就向公众开放，而今仍能引来好奇的访客。</ChineseFlavor>
+<Artist>Justyna Gil</Artist>
+<Multiverseid>546970</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>7</No>
+<Name>Priest of the Blessed Graf</Name>
+<ChineseName>受福墓地僧侣</ChineseName>
+<Type>Creature — Human Cleric 1/2</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>At the beginning of your end step, create X 1/1 white Spirit creature tokens with flying, where X is the number of opponents who control more lands than you.</CardText>
+<Flavor>The honored dead who lie in blessed grafs are not easily stirred, but the threat of eternal night called many from their rest.</Flavor>
+<ChineseFlavor>得获光荣厚葬在受福墓地的逝者不会轻易遭到惊扰，但永夜的威胁让他们受托再起。</ChineseFlavor>
+<Artist>Irina Nordsol</Artist>
+<Multiverseid>546971</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>8</No>
+<Name>Rhoda, Geist Avenger</Name>
+<ChineseName>携魂复仇者洛妲</ChineseName>
+<Type>Legendary Creature — Human Soldier 3/3</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>Partner with Timin, Youthful Geist (When this creature enters the battlefield, target player may put Timin into their hand from their library, then shuffle.)
+Vigilance
+Whenever a creature an opponent controls becomes tapped, if it isn't being declared as an attacker, put a +1/+1 counter on Rhoda, Geist Avenger.</CardText>
+<Artist>Randy Vargas</Artist>
+<Multiverseid>546972</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>9</No>
+<Name>Storm of Souls</Name>
+<ChineseName>灵魂风暴</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{W}{W}</ManaCost>
+<CardText>Return all creature cards from your graveyard to the battlefield. Each of them is a 1/1 Spirit with flying in addition to its other types. Exile Storm of Souls.</CardText>
+<Flavor>Devotion does not end with death.</Flavor>
+<ChineseFlavor>奉献不以死亡而告终。</ChineseFlavor>
+<Artist>Liiga Smilshkalne</Artist>
+<Multiverseid>546973</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>10</No>
+<Name>Sudden Salvation</Name>
+<ChineseName>突获救助</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{W}{W}</ManaCost>
+<CardText>Choose up to three target permanent cards in graveyards that were put there from the battlefield this turn. Return them to the battlefield tapped under their owners' control. You draw a card for each opponent who controls one or more of those permanents.</CardText>
+<Artist>Cristi Balanescu</Artist>
+<Multiverseid>546974</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>11</No>
+<Name>Breath of the Sleepless</Name>
+<ChineseName>无眠者寒息</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>You may cast Spirit spells as though they had flash.
+Whenever you cast a creature spell during an opponent's turn, tap up to one target creature.</CardText>
+<Flavor>Worse than the obscuring mists are the ghastly faces that appear in the glow of spectral lanterns.</Flavor>
+<ChineseFlavor>比遮天迷雾更糟糕的，莫过于街灯幽光下显现的可怖亡颜。</ChineseFlavor>
+<Artist>Robin Olausson</Artist>
+<Multiverseid>546975</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>12</No>
+<Name>Ethereal Investigator</Name>
+<ChineseName>虚相调查员</ChineseName>
+<Type>Creature — Spirit 2/3</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Flying
+When Ethereal Investigator enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a colorless Clue artifact token with "{2}, Sacrifice this artifact: Draw a card.")
+Whenever you draw your second card each turn, create a 1/1 white Spirit creature token with flying.</CardText>
+<Artist>Sean Murray</Artist>
+<Multiverseid>546976</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>13</No>
+<Name>Haunting Imitation</Name>
+<ChineseName>幽冥模仿</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Each player reveals the top card of their library. For each creature card revealed this way, create a token that's a copy of that card, except it's 1/1, it's a Spirit in addition to its other types, and it has flying. If no creature cards were revealed this way, return Haunting Imitation to its owner's hand.</CardText>
+<Artist>Liiga Smilshkalne</Artist>
+<Multiverseid>546977</Multiverseid>
+<Rulings>2021/11/19: The revealed cards stay on the top of their owners' libraries.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>14</No>
+<Name>Occult Epiphany</Name>
+<ChineseName>秘学顿悟</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{X}{U}</ManaCost>
+<CardText>Draw X cards, then discard X cards. Create a 1/1 white Spirit creature token with flying for each card type among cards discarded this way.</CardText>
+<Flavor>In a single unending moment, a hundred lifetimes of knowledge coursed through his unraveling mind.</Flavor>
+<ChineseFlavor>在那一瞬无尽时刻，他思绪动荡跳跃，仿佛有整整一百辈子的知识奔流其间。</ChineseFlavor>
+<Artist>Jason Rainville</Artist>
+<Multiverseid>546978</Multiverseid>
+<Rulings>2021/11/19: The card types that you can discard include artifact, creature, enchantment, land, planeswalker, instant, and sorcery. Legendary, basic, and snow are supertypes, not card types. Human, Equipment, and Aura are subtypes, not card types.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>15</No>
+<Name>Spectral Arcanist</Name>
+<ChineseName>幽灵奥术师</ChineseName>
+<Type>Creature — Spirit Wizard 3/2</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Flying
+When Spectral Arcanist enters the battlefield, you may cast an instant or sorcery spell with mana value less than or equal to the number of Spirits you control from a graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.</CardText>
+<Artist>Johan Grenier</Artist>
+<Multiverseid>546979</Multiverseid>
+<Rulings>2021/11/19: If you choose to cast the spell, you must do so as Spectral Arcanist's ability is resolving. You can't wait and cast it later.
+2021/11/19: If you cast a spell without paying its mana cost, you may choose to pay additional costs (such as kicker) but not alternative costs (such as flashback).
+2021/11/19: If you cast a spell with X in its mana cost this way, you must choose 0 as the value for X.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>16</No>
+<Name>Timin, Youthful Geist</Name>
+<ChineseName>年幼游魂提敏</ChineseName>
+<Type>Legendary Creature — Spirit 3/4</Type>
+<ManaCost>{4}{U}</ManaCost>
+<CardText>Partner with Rhoda, Geist Avenger (When this creature enters the battlefield, target player may put Rhoda into their hand from their library, then shuffle.)
+Flying
+At the beginning of each combat, tap up to one target creature.</CardText>
+<Artist>Randy Vargas</Artist>
+<Multiverseid>546980</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>17</No>
+<Name>Crossway Troublemakers</Name>
+<ChineseName>大道惹祸徒</ChineseName>
+<Type>Creature — Vampire 5/5</Type>
+<ManaCost>{5}{B}</ManaCost>
+<CardText>Attacking Vampires you control have deathtouch and lifelink.
+Whenever a Vampire you control dies, you may pay 2 life. If you do, draw a card.</CardText>
+<Flavor>"Lady Anje said no violence at the wedding. She never said anything about the journey there!"</Flavor>
+<ChineseFlavor>「安姬大人不许我们在婚宴上动粗。但赴宴的路上可没有任何指示！」</ChineseFlavor>
+<Artist>Aaron J. Riley</Artist>
+<Multiverseid>546981</Multiverseid>
+<Rulings>2021/11/19: You may pay 2 life only once for each Vampire that dies. You can't pay multiple times for the same triggered ability and draw multiple cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>18</No>
+<Name>Glass-Cast Heart</Name>
+<ChineseName>琉璃心像</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Whenever one or more Vampires you control attack, create a Blood token. (It's an artifact with "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.")
+{B}, {T}, Pay 1 life: Create a 1/1 white and black Vampire creature token with lifelink.
+{B}{B}, {T}, Sacrifice Glass-Cast Heart and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life.</CardText>
+<Artist>Alayna Danner</Artist>
+<Multiverseid>546982</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>19</No>
+<Name>Kamber, the Plunderer</Name>
+<ChineseName>劫掠者康芭</ChineseName>
+<Type>Legendary Creature — Vampire Rogue 3/4</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Partner with Laurine, the Diversion (When this creature enters the battlefield, target player may put Laurine into their hand from their library, then shuffle.)
+Lifelink
+Whenever a creature an opponent controls dies, you gain 1 life and create a Blood token. (It's an artifact with "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.")</CardText>
+<Artist>Andrey Kuzinskiy</Artist>
+<Multiverseid>546983</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>20</No>
+<Name>Olivia's Wrath</Name>
+<ChineseName>奥莉薇亚之怒</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Each non-Vampire creature gets -X/-X until end of turn, where X is the number of Vampires you control.</CardText>
+<Flavor>"These worthless cattle think they can sneak unnoticed into my wedding? Dispose of them."
+—Olivia Voldaren</Flavor>
+<ChineseFlavor>「这些无用畜牲妄想溜进我的婚礼？解决他们。」
+～奥莉薇亚沃达连</ChineseFlavor>
+<Artist>Nestor Ossandon Leal</Artist>
+<Multiverseid>546984</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>21</No>
+<Name>Predators' Hour</Name>
+<ChineseName>掠食时刻</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}</ManaCost>
+<CardText>Until end of turn, creatures you control gain menace and "Whenever this creature deals combat damage to a player, exile the top card of that player's library face down. You may look at and play that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell."</CardText>
+<Artist>Tomas Duchek</Artist>
+<Multiverseid>546985</Multiverseid>
+<Rulings>2021/11/19: You must pay all costs to play cards exiled this way, and you must follow all normal timing permissions and restrictions. For example, if you play a land this way, you may do so only during your main phase while the stack is empty and only if you haven't yet played a land (unless another effect allows you to play additional lands).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>22</No>
+<Name>Shadowgrange Archfiend</Name>
+<ChineseName>影庄大邪鬼</ChineseName>
+<Type>Creature — Demon 8/4</Type>
+<ManaCost>{6}{B}</ManaCost>
+<CardText>When Shadowgrange Archfiend enters the battlefield, each opponent sacrifices a creature with the greatest power among creatures they control. You gain life equal to the greatest power among creatures sacrificed this way.
+Madness—{2}{B}, Pay 8 life. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</CardText>
+<Artist>Oleksandr Kozachenko</Artist>
+<Multiverseid>546986</Multiverseid>
+<Rulings>2021/11/19: If a player controls more than one creature tied for the greatest power among creatures they control while Shadowgrange Archfiend's first ability is resolving, that player chooses which one of those creatures to sacrifice.
+2021/11/19: Cards are discarded in a Magic game only from a player's hand. Effects that put cards into a player's graveyard from anywhere else do not cause those cards to be discarded.
+2021/11/19: Madness works independently of why you're discarding the card. You could discard it to pay a cost, because a spell or ability tells you to, or because you have too many cards in your hand during your cleanup step. You can't discard a card with madness just because you want to, though.
+2021/11/19: A card with madness that's discarded counts as having been discarded even though it's put into exile rather than a graveyard. If it was discarded to pay a cost, that cost is still paid. Abilities that trigger when a card is discarded will still trigger.
+2021/11/19: A spell cast for its madness cost is put onto the stack like any other spell. It can be countered, copied, and so on. As it resolves, it's put onto the battlefield if it's a permanent card or into its owner's graveyard if it's an instant or sorcery card.
+2021/11/19: Casting a spell with madness ignores the timing rules based on the card's card type. For example, you can cast a creature with madness if you discard it during an opponent's turn.
+2021/11/19: To determine the total cost of a spell, start with the mana cost or alternative cost (such as a madness cost) you're paying, add any cost increases, then apply any cost reductions. The mana value of the spell is determined by only its mana cost, no matter what the total cost to cast that spell was.
+2021/11/19: If you choose not to cast a card with madness when the madness triggered ability resolves, it's put into your graveyard. Madness doesn't give you another chance to cast it later.
+2021/11/19: If you discard a card with madness to pay the cost of a spell or activated ability, that card's madness triggered ability (and the spell that card becomes, if you choose to cast it) will resolve before the spell or ability the discard paid for.
+2021/11/19: If you discard a card with madness while a spell or ability is resolving, it moves immediately to exile. Continue resolving that spell or ability, noting that the card you discarded is not in your graveyard at this time. Its madness triggered ability will be placed onto the stack once that spell or ability has completely resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>23</No>
+<Name>Arterial Alchemy</Name>
+<ChineseName>点血成金</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>When Arterial Alchemy enters the battlefield, create a Blood token for each opponent you have. (It's an artifact with "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.")
+Blood tokens you control are Equipment in addition to their other types and have "Equipped creature gets +2/+0" and equip {2}.</CardText>
+<Artist>Caio Monteiro</Artist>
+<Multiverseid>546987</Multiverseid>
+<Rulings>2021/11/19: Blood tokens stop being Equipment if Arterial Alchemy leaves the battlefield. If any of them are attached to creatures at that time, they become unattached.
+2021/11/19: If you control more than one Arterial Alchemy, creatures equipped with Blood Equipment will get +2/+0 for each Arterial Alchemy. The equip cost is still {2}.
+2021/11/19: If a Blood token is somehow both a creature and an Equipment, it can't be attached to a creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>24</No>
+<Name>Imposing Grandeur</Name>
+<ChineseName>威风凛凛</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{R}</ManaCost>
+<CardText>Each player may discard their hand and draw cards equal to the greatest mana value of a commander they own on the battlefield or in the command zone.</CardText>
+<Flavor>The wedding's lavish decorations paled in comparison to the opulence of its elite guests.</Flavor>
+<ChineseFlavor>贵宾的华丽衣饰让婚礼的奢华布置都相形见绌。</ChineseFlavor>
+<Artist>Mila Pesic</Artist>
+<Multiverseid>546988</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>25</No>
+<Name>Laurine, the Diversion</Name>
+<ChineseName>诱敌手劳琳</ChineseName>
+<Type>Legendary Creature — Human Rogue 3/3</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Partner with Kamber, the Plunderer (When this creature enters the battlefield, target player may put Kamber into their hand from their library, then shuffle.)
+First strike
+{2}, Sacrifice an artifact or creature: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</CardText>
+<Artist>Andrey Kuzinskiy</Artist>
+<Multiverseid>546989</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>26</No>
+<Name>Markov Enforcer</Name>
+<ChineseName>马可夫执法者</ChineseName>
+<Type>Creature — Vampire Soldier 6/6</Type>
+<ManaCost>{4}{R}{R}</ManaCost>
+<CardText>Whenever Markov Enforcer or another Vampire enters the battlefield under your control, Markov Enforcer fights up to one target creature an opponent controls.
+Whenever a creature dealt damage by Markov Enforcer this turn dies, create a Blood token. (It's an artifact with "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.")</CardText>
+<Artist>Wisnu Tan</Artist>
+<Multiverseid>546990</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>27</No>
+<Name>Midnight Arsonist</Name>
+<ChineseName>午夜纵火犯</ChineseName>
+<Type>Creature — Vampire 3/2</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>When Midnight Arsonist enters the battlefield, destroy up to X target artifacts without mana abilities, where X is the number of Vampires you control.</CardText>
+<Flavor>Killing the slayers was self-preservation. The fire was just for fun.</Flavor>
+<ChineseFlavor>杀害克星只为自保，扬焰纵火纯属添趣。</ChineseFlavor>
+<Artist>Campbell White</Artist>
+<Multiverseid>546991</Multiverseid>
+<Rulings>2021/11/19: Midnight Arsonist's triggered ability can't target artifacts that have either activated or triggered mana abilities. An activated mana ability is one that could add mana to a player's mana pool as it resolves, doesn't have a target, and isn't a loyalty ability. A triggered mana ability is one that adds mana to a player's mana pool and triggers based on an activated mana ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>28</No>
+<Name>Scion of Opulence</Name>
+<ChineseName>华族后裔</ChineseName>
+<Type>Creature — Vampire Noble 3/1</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Whenever Scion of Opulence or another nontoken Vampire you control dies, create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")
+{R}, Sacrifice two artifacts: Exile the top card of your library. You may play that card this turn.</CardText>
+<Artist>Chris Rallis</Artist>
+<Multiverseid>546992</Multiverseid>
+<Rulings>2021/11/19: Playing a card this way follows all the normal timing rules for that card. For example, if you play a land this way, you may do so only during your main phase while the stack is empty and only if you haven't yet played a land (unless another effect allows you to play additional lands).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>29</No>
+<Name>Disorder in the Court</Name>
+<ChineseName>庭上纷乱</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{X}{W}{U}</ManaCost>
+<CardText>Exile X target creatures, then investigate X times. Return the exiled cards to the battlefield tapped under their owners' control at the beginning of the next end step. (To investigate, create a colorless Clue artifact token with "{2}, Sacrifice this artifact: Draw a card.")</CardText>
+<Artist>Zoltan Boros</Artist>
+<Multiverseid>546993</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>30</No>
+<Name>Sinister Waltz</Name>
+<ChineseName>凶险华尔滋</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{B}{R}</ManaCost>
+<CardText>Choose three target creature cards in your graveyard. Return two of them at random to the battlefield and put the other on the bottom of your library.</CardText>
+<Flavor>For one evening, the dueling bloodlines channeled their feuds into elaborate footwork.</Flavor>
+<ChineseFlavor>唯独在这晚，敌对血脉的吸血鬼将世仇对决改作舞技较量。</ChineseFlavor>
+<Artist>Jason Rainville</Artist>
+<Multiverseid>546994</Multiverseid>
+<Rulings>2021/11/19: If only one or two creatures cards are legal targets as Sinister Waltz resolves, all the legal targets will be put onto the battlefield and no cards will be put on the bottom of your library.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>31</No>
+<Name>Breathkeeper Seraph</Name>
+<ChineseName>护生炽天使</ChineseName>
+<Type>Creature — Angel 4/4</Type>
+<ManaCost>{4}{W}{W}</ManaCost>
+<CardText>Flying, soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Breathkeeper Seraph is paired with another creature, each of those creatures has "When this creature dies, you may return it to the battlefield under its owner's control at the beginning of your next upkeep."</CardText>
+<Artist>Alexander Mokhov</Artist>
+<Multiverseid>547269</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>32</No>
+<Name>Wedding Ring</Name>
+<ChineseName>婚戒</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}{W}{W}</ManaCost>
+<CardText>When Wedding Ring enters the battlefield, if it was cast, target opponent creates a token that's a copy of it.
+Whenever an opponent who controls an artifact named Wedding Ring draws a card during their turn, you draw a card.
+Whenever an opponent who controls an artifact named Wedding Ring gains life during their turn, you gain that much life.</CardText>
+<Artist>Olena Richards</Artist>
+<Multiverseid>547270</Multiverseid>
+<Rulings>2021/11/19: The trigger conditions of Wedding Ring's second and third abilities care about opponents who control any artifact named Wedding Ring, not just the token copy created by its first ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>33</No>
+<Name>Imperious Mindbreaker</Name>
+<ChineseName>傲慢碎灵师</ChineseName>
+<Type>Creature — Human Wizard 1/4</Type>
+<ManaCost>{1}{U}{U}</ManaCost>
+<CardText>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Imperious Mindbreaker is paired with another creature, each of those creatures has "Whenever this creature attacks, each opponent mills cards equal to its toughness."</CardText>
+<Artist>Olivier Bernard</Artist>
+<Multiverseid>547271</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>34</No>
+<Name>Doom Weaver</Name>
+<ChineseName>末日编蛛</ChineseName>
+<Type>Creature — Spider Horror 1/8</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Reach
+Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Doom Weaver is paired with another creature, each of those creatures has "When this creature dies, draw cards equal to its power."</CardText>
+<Artist>Helge C. Balzer</Artist>
+<Multiverseid>547272</Multiverseid>
+<Rulings>2021/11/19: Use the creature's power as it last existed on the battlefield to determine how many cards to draw.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>35</No>
+<Name>Mirage Phalanx</Name>
+<ChineseName>幻影方阵兵团</ChineseName>
+<Type>Creature — Human Soldier 4/4</Type>
+<ManaCost>{4}{R}{R}</ManaCost>
+<CardText>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Mirage Phalanx is paired with another creature, each of those creatures has "At the beginning of combat on your turn, create a token that's a copy of this creature, except it has haste and loses soulbond. Exile it at end of combat."</CardText>
+<Artist>Scott Murphy</Artist>
+<Multiverseid>547273</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>36</No>
+<Name>Hollowhenge Overlord</Name>
+<ChineseName>空圆地王狼</ChineseName>
+<Type>Creature — Wolf 4/4</Type>
+<ManaCost>{4}{G}{G}</ManaCost>
+<CardText>Flash
+At the beginning of your upkeep, for each creature you control that's a Wolf or a Werewolf, create a 2/2 green Wolf creature token.</CardText>
+<Flavor>The ruins of the town were a notable upgrade from the wolves' forest den.</Flavor>
+<ChineseFlavor>城镇废墟要比树林狼窝好上太多。</ChineseFlavor>
+<Artist>Milivoj Ćeran</Artist>
+<Multiverseid>547274</Multiverseid>
+<Rulings>2021/11/19: If you control a creature that is both a Wolf and a Werewolf, it's only counted once for Hollowhenge Overlord's triggered ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>37</No>
+<Name>Thundering Mightmare</Name>
+<ChineseName>雷鸣猛魇</ChineseName>
+<Type>Creature — Horse Spirit 3/3</Type>
+<ManaCost>{4}{G}</ManaCost>
+<CardText>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Thundering Mightmare is paired with another creature, each of those creatures has "Whenever an opponent casts a spell, put a +1/+1 counter on this creature."</CardText>
+<Artist>Lorenzo Mastroianni</Artist>
+<Multiverseid>547275</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>VOC</SetId>
+<No>38</No>
+<Name>Umbris, Fear Manifest</Name>
+<ChineseName>恐惧身影乌蔽袭</ChineseName>
+<Type>Legendary Creature — Nightmare Horror 1/1</Type>
+<ManaCost>{3}{U}{B}</ManaCost>
+<CardText>Umbris, Fear Manifest gets +1/+1 for each card your opponents own in exile.
+Whenever Umbris or another Nightmare or Horror enters the battlefield under your control, target opponent exiles cards from the top of their library until they exile a land card.</CardText>
+<Artist>Daarken</Artist>
+<Multiverseid>547276</Multiverseid>
+<Rulings>2021/11/19: Umbris, Fear Manifest's first ability counts all cards your opponents own in exile, not just cards exiled by the second ability.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Set>Crimson Vow Commander</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+

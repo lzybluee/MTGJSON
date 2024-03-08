@@ -1,0 +1,3911 @@
+<Card>
+<SetId>NPH</SetId>
+<No>1</No>
+<Name>Karn Liberated</Name>
+<ChineseName>重获自由的卡恩</ChineseName>
+<Type>Legendary Planeswalker — Karn (Loyalty: 6)</Type>
+<ManaCost>{7}</ManaCost>
+<CardText>[+4]: Target player exiles a card from their hand.
+[-3]: Exile target permanent.
+[-14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.</CardText>
+<Artist>Jason Chan</Artist>
+<Multiverseid>214350</Multiverseid>
+<Rulings>2020/08/07: A game that restarts immediately ends the preceding game. The players in that game then immediately begin a new game. No player wins, loses, or draws the original game as a result of Karn's ability.
+2020/08/07: Players can't move cards between their deck and sideboard before the new game.
+2020/08/07: The player who controlled the ability that restarted the game is the starting player in the new game. The new game starts like a game normally does: Each player shuffles their deck (except the cards left in exile by Karn's ability). Each player's life total becomes 20 (or the starting life total for whatever format you're playing). Players draw a hand of seven cards. Players may take mulligans. Players may take actions based on cards in their opening hands, such as those of Leylines.
+2020/08/07: Karn's first and third abilities are linked. Similarly, Karn's second and third abilities are linked. Only non-Aura permanent cards exiled by either of Karn's first two abilities will remain in exile when the game restarts.
+2020/08/07: After the pregame procedure is complete but before the new game's first turn, Karn's ability finishes resolving and the cards left in exile are put onto the battlefield. If this causes any triggered abilities to trigger, those abilities are put onto the stack at the beginning of the first upkeep step.
+2020/08/07: Permanents put onto the battlefield due to Karn's ability will have been under the starting controller's control continuously since the beginning of that player's first turn. Creatures among them can attack and their activated abilities with {T} in the cost can be activated.
+2020/08/07: Any permanents put onto the battlefield with Karn's ability that entered the battlefield tapped will untap during their controller's first untap step.
+2020/08/07: No actions taken in the game that was restarted apply to the new game. For example, if you were dealt damage by Stigma Lasher in the original game, the effect that states you can't gain life doesn't carry over to the new game.
+2020/08/07: Players won't have any counters or emblems they had in the original game.
+2020/08/07: In a multiplayer game, any player who left the game before it was restarted with Karn's ability won't be involved in the new game.
+2020/08/07: If a player leaves the game, all cards that player owns leave as well. If you leave the game, the permanents you control from Karn's ability are exiled.
+2020/08/07: In a Commander game, each player puts their commander into the command zone before shuffling their deck, unless it was exiled with Karn. In that case, the commander remains in exile and will be put onto the battlefield when Karn's ability finishes resolving.
+2020/08/07: The number of times a player has cast their commander from the command zone resets to zero. The amount of combat damage dealt to players by each commander is reset to 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>2</No>
+<Name>Apostle's Blessing</Name>
+<ChineseName>门徒加持</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W/P}</ManaCost>
+<CardText>({W/P} can be paid with either {W} or 2 life.)
+Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.</CardText>
+<Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>194208</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: You choose the target as part of casting the spell. You choose what attribute the target gains protection from when the spell resolves.
+2011/06/01: Any Equipment attached to a creature that gains protection from artifacts will become unattached.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>3</No>
+<Name>Auriok Survivors</Name>
+<ChineseName>欧瑞克幸存者</ChineseName>
+<Type>Creature — Human Soldier 4/6</Type>
+<ManaCost>{5}{W}</ManaCost>
+<CardText>When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.</CardText>
+<Flavor>"We are Mirrodin's children. We will reclaim her—one scrap at a time, if we have to."</Flavor>
+<ChineseFlavor>「我们是秘罗地之子。 我们必将夺回她～如果情况不得已，也要一块块地来。」</ChineseFlavor>
+<Artist>James Ryman</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>214353</Multiverseid>
+<Rulings>2011/06/01: If Auriok Survivors is no longer on the battlefield when its enters-the-battlefield ability resolves, the Equipment will return to the battlefield and remain unattached.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>4</No>
+<Name>Blade Splicer</Name>
+<ChineseName>锋刃接合师</ChineseName>
+<Type>Creature — Phyrexian Human Artificer 1/1</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>When Blade Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+Golems you control have first strike.</CardText>
+<Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233068</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>5</No>
+<Name>Cathedral Membrane</Name>
+<ChineseName>圣堂护层</ChineseName>
+<Type>Artifact Creature — Phyrexian Wall 0/3</Type>
+<ManaCost>{1}{W/P}</ManaCost>
+<CardText>({W/P} can be paid with either {W} or 2 life.)
+Defender
+When Cathedral Membrane dies during combat, it deals 6 damage to each creature it blocked this combat.</CardText>
+<Artist>Richard Whitters</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218024</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: Cathedral Membrane's ability will trigger no matter why it's put into a graveyard during the combat phase, not just because of combat damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>6</No>
+<Name>Chancellor of the Annex</Name>
+<ChineseName>别馆督长</ChineseName>
+<Type>Creature — Phyrexian Angel 5/6</Type>
+<ManaCost>{4}{W}{W}{W}</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, when each opponent casts their first spell of the game, counter that spell unless that player pays {1}.
+Flying
+Whenever an opponent casts a spell, counter it unless that player pays {1}.</CardText>
+<Artist>Min Yum</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218083</Multiverseid>
+<Rulings>2011/06/01: If you reveal more than one Chancellor of the Annex from your opening hand, each will trigger when an opponent casts their first spell of the game. That player will have to pay {1} that many times or the spell will be countered.
+2011/06/01: In a multiplayer game, if you reveal Chancellor of the Annex from your opening hand, it will trigger each time an opponent casts their first spell of the game.
+2021/03/19: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>7</No>
+<Name>Dispatch</Name>
+<ChineseName>迅速了结</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W}</ManaCost>
+<CardText>Tap target creature.
+Metalcraft — If you control three or more artifacts, exile that creature.</CardText>
+<Flavor>Venser wondered if it could still be called a teleportation spell if the destination is oblivion.</Flavor>
+<ChineseFlavor>既然终点是虚空，凡瑟不太能确定这是否还称得上是传送咒语。</ChineseFlavor>
+<Artist>Erica Yang</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218072</Multiverseid>
+<Rulings>2011/06/01: If you control three or more artifacts when Dispatch resolves, you'll tap the creature, then exile it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>8</No>
+<Name>Due Respect</Name>
+<ChineseName>无上敬意</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Permanents enter the battlefield tapped this turn.
+Draw a card.</CardText>
+<Flavor>"A display of humility is required of those who still possess such frailties."
+—Elesh Norn, Grand Cenobite</Flavor>
+<ChineseFlavor>「还保有人性此等缺陷者，总是会表现出来。」
+～大修道士艾蕾侬</ChineseFlavor>
+<Artist>James Ryman</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233077</Multiverseid>
+<Rulings>2011/06/01: Due Respect won't tap any permanents that have entered the battlefield before it resolved.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>9</No>
+<Name>Elesh Norn, Grand Cenobite</Name>
+<ChineseName>大修道士艾蕾侬</ChineseName>
+<Type>Legendary Creature — Phyrexian Praetor 4/7</Type>
+<ManaCost>{5}{W}{W}</ManaCost>
+<CardText>Vigilance
+Other creatures you control get +2/+2.
+Creatures your opponents control get -2/-2.</CardText>
+<Flavor>"The Gitaxians whisper among themselves of other worlds. If they exist, we must bring Phyrexia's magnificence to them."</Flavor>
+<ChineseFlavor>「吉塔厦的人私下传着其他世界之流言。 如果他们确实存在，我们必得向之展现非瑞克西亚的壮丽。」</ChineseFlavor>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214352</Multiverseid>
+<Rulings>2017/11/17: If a second Elesh Norn, Grand Cenobite comes under your control, you'll put one into its owner's graveyard due to the "legend rule" at the same time that any of your opponents' creatures getting -4/-4 are put into their owner's graveyard for having 0 or less toughness.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>10</No>
+<Name>Exclusion Ritual</Name>
+<ChineseName>拒斥祭礼</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{4}{W}{W}</ManaCost>
+<CardText>Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent.
+Players can't cast spells with the same name as the exiled card.</CardText>
+<Flavor>"Your desires have become our discretion."
+—Izathel, priest of the Annex</Flavor>
+<ChineseFlavor>「你的欲求由我们来斟酌。」
+～别馆牧师依札泽</ChineseFlavor>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214364</Multiverseid>
+<Rulings>2011/06/01: If the exiled card somehow leaves exile, the last ability will no longer have any effect.
+2011/06/01: In a Commander game, a player may replace Exclusion Ritual exiling their commander with putting that commander into the command zone. If this happens, Exclusion Ritual's last ability will have no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>11</No>
+<Name>Forced Worship</Name>
+<ChineseName>逼迫敬拜</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature can't attack.
+{2}{W}: Return Forced Worship to its owner's hand.</CardText>
+<Flavor>Imprisonment teaches revenge. Hobbling teaches resignation.</Flavor>
+<ChineseFlavor>监禁教出复仇。 跛行教出屈从。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230083</Multiverseid>
+<Rulings>2011/06/01: Forced Worship's activated ability may only be activated if Forced Worship is on the battlefield. If it's no longer on the battlefield when the ability resolves, the ability has no effect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>12</No>
+<Name>Inquisitor Exarch</Name>
+<ChineseName>审问督教</ChineseName>
+<Type>Creature — Phyrexian Cleric 2/2</Type>
+<ManaCost>{W}{W}</ManaCost>
+<CardText>When Inquisitor Exarch enters the battlefield, choose one —
+• You gain 2 life.
+• Target opponent loses 2 life.</CardText>
+<Flavor>"Skin is the prison of the blessed and the stronghold of the heretic."
+—Argent Etchings, plate 64, passage 17</Flavor>
+<ChineseFlavor>「皮肤是蒙福者的牢狱，异教徒的堡垒。」
+～《银蚀圣典》64片17段</ChineseFlavor>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218070</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>13</No>
+<Name>Lost Leonin</Name>
+<ChineseName>丧心狮族</ChineseName>
+<Type>Creature — Phyrexian Cat Soldier 2/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>Mirrans were broken down and rebuilt, made to be loyal servants of the force they had fought.</Flavor>
+<ChineseFlavor>秘罗人被打坏重组，成为他们曾对抗之势力的忠实仆从。</ChineseFlavor>
+<Artist>Min Yum</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218053</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>14</No>
+<Name>Loxodon Convert</Name>
+<ChineseName>移志象族</ChineseName>
+<Type>Creature — Phyrexian Elephant Soldier 4/2</Type>
+<ManaCost>{3}{W}</ManaCost>
+<Flavor>Just one drop of the glistening oil can eventually stain even a soul as stalwart as a loxodon's beyond redemption.</Flavor>
+<ChineseFlavor>只要一滴烁油，就算心灵强健如象族也不免堕落至永劫不复。</ChineseFlavor>
+<Artist>Adrian Smith</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218013</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>15</No>
+<Name>Marrow Shards</Name>
+<ChineseName>骨片飞射</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{W/P}</ManaCost>
+<CardText>({W/P} can be paid with either {W} or 2 life.)
+Marrow Shards deals 1 damage to each attacking creature.</CardText>
+<Flavor>"We are a single entity. Dissenters must be sutured into the Orthodoxy."
+—Elesh Norn, Grand Cenobite</Flavor>
+<ChineseFlavor>「我们是单一实体。 不顺从者必须以针线缝回机械正道。」
+～大修道士艾蕾侬</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230072</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>16</No>
+<Name>Master Splicer</Name>
+<ChineseName>接合大师</ChineseName>
+<Type>Creature — Phyrexian Human Artificer 1/1</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+Golems you control get +1/+1.</CardText>
+<Flavor>With Phyrexia's victory at hand, each sect began perfecting its vision.</Flavor>
+<ChineseFlavor>非瑞克西亚的胜利已在眼前，旗下每个分部已开始整顿基础。</ChineseFlavor>
+<Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233062</Multiverseid>
+<Rulings>2020/08/07: Because damage remains marked on a creature until the damage is removed as the turn ends, nonlethal damage dealt to a Golem you control may become lethal if Master Splicer leaves the battlefield during that turn.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>17</No>
+<Name>Norn's Annex</Name>
+<ChineseName>艾蕾侬别馆</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}{W/P}{W/P}</ManaCost>
+<CardText>({W/P} can be paid with either {W} or 2 life.)
+Creatures can't attack you or planeswalkers you control unless their controller pays {W/P} for each of those creatures.</CardText>
+<Artist>James Paick</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233050</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: The controller of each creature attacking you or a planeswalker you control pays either {W} or 2 life as attackers are being declared.
+2011/06/01: If a player attacks with more than one creature, that player chooses how to pay each cost individually. For example, if you attack with two creatures, you may pay {W} for one cost and 2 life for the other.
+2011/06/01: Multiple Norn's Annexes controlled by the same player will each impose a cost to attack. Players choose how they pay each cost individually. For example, if a creature you control is attacking a player who controls two Norn's Annexes, you may pay {W} for one cost and 2 life for the other.
+2011/06/01: If you control Norn's Annex, your opponents can choose not to attack with a creature with an ability that says it must attack.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>18</No>
+<Name>Phyrexian Unlife</Name>
+<ChineseName>非瑞克西亚体质</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>You don't lose the game for having 0 or less life.
+As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)</CardText>
+<Artist>Jason Chan</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218058</Multiverseid>
+<Rulings>2011/06/01: Phyrexian Unlife won't affect damage that reduces your life total from a positive number to 0 or less. For example, if you're at 3 life and are dealt 5 damage, you'll end up at -2 life. The next time you're dealt damage, it will be dealt as though its source had infect.
+2011/06/01: If you're at 0 or less life and Phyrexian Unlife leaves the battlefield, you'll lose the game (unless some other effect is keeping you from losing).
+2011/06/01: If you're at 0 or less life, you can't pay any amount of life except 0.
+2011/06/01: You can still lose the game for other reasons, including having ten or more poison counters or drawing a card from a library with no cards in it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>19</No>
+<Name>Porcelain Legionnaire</Name>
+<ChineseName>瓷体军团兵</ChineseName>
+<Type>Artifact Creature — Phyrexian Soldier 3/1</Type>
+<ManaCost>{2}{W/P}</ManaCost>
+<CardText>({W/P} can be paid with either {W} or 2 life.)
+First strike</CardText>
+<Flavor>"My new design has lightweight plating specially cultivated from heretics' spare tissues."
+—Izathel, priest of the Annex</Flavor>
+<ChineseFlavor>「我的新设计采用轻量外壳，这是从异教徒多余身体组织特别提取出来的。」
+～别馆牧师依札泽</ChineseFlavor>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218043</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>20</No>
+<Name>Puresteel Paladin</Name>
+<ChineseName>净钢神圣武士</ChineseName>
+<Type>Creature — Human Knight 2/2</Type>
+<ManaCost>{W}{W}</ManaCost>
+<CardText>Whenever an Equipment enters the battlefield under your control, you may draw a card.
+Metalcraft — Equipment you control have equip {0} as long as you control three or more artifacts.</CardText>
+<Artist>Jason Chan</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>227504</Multiverseid>
+<Rulings>2020/08/07: You may still activate the Equipment's other equip abilities if you wish.
+2020/08/07: Once the equip {0} ability is activated, causing Puresteel Paladin to leave the battlefield or causing its controller to control fewer than three artifacts won't stop the equip ability from resolving.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>21</No>
+<Name>Remember the Fallen</Name>
+<ChineseName>追忆逝者</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{W}</ManaCost>
+<CardText>Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target artifact card from your graveyard to your hand.</CardText>
+<Flavor>When the Mirrans had fallen, Planeswalkers carried the burden of remembrance.</Flavor>
+<ChineseFlavor>当秘罗人一一倒下，鹏洛客得扛起追忆的负担。</ChineseFlavor>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218078</Multiverseid>
+<Rulings>2011/06/01: You choose which mode you're using — or whether to use both modes — as you're casting the spell. Once this choice is made, it can't be changed later while the spell is on the stack.
+2011/06/01: If you choose both modes, and only one of the targeted cards is still a legal target when Remember the Fallen tries to resolve, only that card is returned to your hand.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>22</No>
+<Name>Sensor Splicer</Name>
+<ChineseName>感应接合师</ChineseName>
+<Type>Creature — Phyrexian Artificer 1/1</Type>
+<ManaCost>{4}{W}</ManaCost>
+<CardText>When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+Golem creatures you control have vigilance.</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233038</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>23</No>
+<Name>Shattered Angel</Name>
+<ChineseName>残翼天使</ChineseName>
+<Type>Creature — Phyrexian Angel 3/3</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>Flying
+Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.</CardText>
+<Flavor>She preaches the blessings of the Machine Orthodoxy.</Flavor>
+<ChineseFlavor>她鼓吹着机械正道的福祉。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233059</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>24</No>
+<Name>Shriek Raptor</Name>
+<ChineseName>尖鸣猎鸟</ChineseName>
+<Type>Creature — Phyrexian Bird 2/3</Type>
+<ManaCost>{3}{W}{W}</ManaCost>
+<CardText>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>"That's no glint hawk. The skies have changed for the worse."
+—Ria Ivor, White Sun partisan</Flavor>
+<ChineseFlavor>「那不是闪光鹰。 天空已准备面对更糟处境。」
+～白阳游击队的梨依沃</ChineseFlavor>
+<Artist>Efrem Palacios</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217994</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>25</No>
+<Name>Suture Priest</Name>
+<ChineseName>缝组牧师</ChineseName>
+<Type>Creature — Phyrexian Cleric 1/1</Type>
+<ManaCost>{1}{W}</ManaCost>
+<CardText>Whenever another creature enters the battlefield under your control, you may gain 1 life.
+Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217981</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>26</No>
+<Name>War Report</Name>
+<ChineseName>战争报告</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{W}</ManaCost>
+<CardText>You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.</CardText>
+<Flavor>Underling Ethu's 263rd report read simply "Yes, my lord. Overwhelmingly, my lord." This marked the end of the Mirran-Phyrexian War.</Flavor>
+<ChineseFlavor>部下艾屠第263次的报告只有这样：「是的，长官。压倒性胜利，长官。」 秘罗人与非瑞克西亚人的战争就此终结。</ChineseFlavor>
+<Artist>Mike Bierek</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230078</Multiverseid>
+<Rulings>2011/06/01: Each artifact creature on the battlefield is counted twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>27</No>
+<Name>Argent Mutation</Name>
+<ChineseName>银亮异变</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Target permanent becomes an artifact in addition to its other types until end of turn.
+Draw a card.</CardText>
+<Flavor>"My world is corrupted beyond cleansing. I must prevent this from happening to others."
+—Karn</Flavor>
+<ChineseFlavor>「我的世界被污染得无可救药。 我必须让这事情不在其他世界重演。」
+～卡恩</ChineseFlavor>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218001</Multiverseid>
+<Rulings>2011/06/01: You can target an artifact with Argent Mutation. When it resolves, you'll simply draw a card.
+2011/06/01: If the permanent is an illegal target when Argent Mutation tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>28</No>
+<Name>Arm with Aether</Name>
+<ChineseName>乙太武装</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Until end of turn, creatures you control gain "Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand."</CardText>
+<Flavor>"Anything we can do to hurt the Phyrexian invaders is worth dying for."</Flavor>
+<ChineseFlavor>「能让我们伤害非瑞克西亚侵略者的任何事情，都值得为之一死。」</ChineseFlavor>
+<Artist>Austin Hsu</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>202641</Multiverseid>
+<Rulings>2011/06/01: Only creatures you control on the battlefield when Arm with Aether resolves gain the ability. Creatures you gain control of later in the turn won't be affected.
+2011/06/01: The affected creatures keep the ability even if another player gains control of them that turn. If such a creature deals damage to you, the ability will trigger, targeting a creature you control.
+2011/06/01: The granted ability triggers on all damage dealt by the creature to one of your opponents, not just combat damage.
+2011/06/01: In a multiplayer game, if an affected creature deals damage to two of your opponents simultaneously, the ability will trigger twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>29</No>
+<Name>Blighted Agent</Name>
+<ChineseName>枯萎密探</ChineseName>
+<Type>Creature — Phyrexian Human Rogue 1/1</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Blighted Agent can't be blocked.</CardText>
+<Flavor>"Urabrask may suspect our surveillance, but he cannot stop it."
+—Avaricta, Gitaxian sective</Flavor>
+<ChineseFlavor>「洼巴司或许会怀疑我们在监视，但他拿我们没办法。」
+～吉塔厦组的阿伐丽塔</ChineseFlavor>
+<Artist>Anthony Francisco</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214383</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>30</No>
+<Name>Chained Throatseeker</Name>
+<ChineseName>锁栓夺喉怪</ChineseName>
+<Type>Creature — Phyrexian Horror 5/5</Type>
+<ManaCost>{5}{U}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Chained Throatseeker can't attack unless defending player is poisoned.</CardText>
+<Artist>Stephan Martiniere</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218075</Multiverseid>
+<Rulings>2011/06/01: A player is poisoned if that player has one or more poison counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>31</No>
+<Name>Chancellor of the Spires</Name>
+<ChineseName>尖塔督长</ChineseName>
+<Type>Creature — Phyrexian Sphinx 5/7</Type>
+<ManaCost>{4}{U}{U}{U}</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent mills seven cards.
+Flying
+When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.</CardText>
+<Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214360</Multiverseid>
+<Rulings>2011/06/01: If you reveal more than one Chancellor of the Spires from your opening hand, each opponent will put the top seven cards of their library into their graveyard that many times (for a total of fourteen, twenty-one, or twenty-eight cards).
+2011/06/01: The instant or sorcery card you target with the enters-the-battlefield triggered ability is cast as part of the resolution of that ability. Timing restrictions based on the card's type are ignored. Other restrictions, such as "Cast [this card] only during combat," are not.
+2011/06/01: If you are unable to cast the card, perhaps because there are no legal targets available, the card remains in its owner's graveyard.
+2011/06/01: You may pay additional costs, such as kicker costs, of the instant or sorcery card.
+2011/06/01: If the card has any mandatory additional costs, then you must pay them in order to cast the spell.
+2021/03/19: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>32</No>
+<Name>Corrupted Resolve</Name>
+<ChineseName>腐化决心</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Counter target spell if its controller is poisoned.</CardText>
+<Flavor>"Flesh is a sickness that infects Phyrexia."
+—Avaricta, Gitaxian sective</Flavor>
+<ChineseFlavor>「肉身这疾病侵染着非瑞克西亚。」
+～吉塔厦组的阿伐丽塔</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233080</Multiverseid>
+<Rulings>2011/06/01: A player is poisoned if that player has one or more poison counters.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>33</No>
+<Name>Deceiver Exarch</Name>
+<ChineseName>欺瞒督教</ChineseName>
+<Type>Creature — Phyrexian Cleric 1/4</Type>
+<ManaCost>{2}{U}</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+When Deceiver Exarch enters the battlefield, choose one —
+• Untap target permanent you control.
+• Tap target permanent an opponent controls.</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214365</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>34</No>
+<Name>Defensive Stance</Name>
+<ChineseName>防御姿势</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature gets -1/+1.</CardText>
+<Flavor>"It isn't for fighting. It's for when the fighting's gone bad."
+—Kara Vrist, Mirran resistance</Flavor>
+<ChineseFlavor>「这不是作战用的。 这是在作战不利时用的，」
+～秘罗志士凯拉黎</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>217987</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>35</No>
+<Name>Gitaxian Probe</Name>
+<ChineseName>吉塔厦探刺</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{U/P}</ManaCost>
+<CardText>({U/P} can be paid with either {U} or 2 life.)
+Look at target player's hand.
+Draw a card.</CardText>
+<Flavor>"My flesh holds no secrets, monster. The spirit of Mirrodin will fight on."
+—Vy Covalt, Mirran resistance</Flavor>
+<ChineseFlavor>「恶物，我的肉体没藏什么秘密。 秘罗地的精神会继续战斗。」
+～秘罗志士范科沃</ChineseFlavor>
+<Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233056</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: The targeted player may have no cards in their hand. You'll still draw a card.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Modern>Banned</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>36</No>
+<Name>Impaler Shrike</Name>
+<ChineseName>穿啄鸟</ChineseName>
+<Type>Creature — Phyrexian Bird 3/1</Type>
+<ManaCost>{2}{U}{U}</ManaCost>
+<CardText>Flying
+Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.</CardText>
+<Flavor>"Interrogation is an unnecessary step for acquiring information."
+—Politus, Gitaxian morphologist</Flavor>
+<ChineseFlavor>「审讯不是取得资讯的必要步骤。」
+～吉塔厦变异技师波礼多</ChineseFlavor>
+<Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217988</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>37</No>
+<Name>Jin-Gitaxias, Core Augur</Name>
+<ChineseName>核心卜算师金吉塔厦</ChineseName>
+<Type>Legendary Creature — Phyrexian Praetor 5/4</Type>
+<ManaCost>{8}{U}{U}</ManaCost>
+<CardText>Flash
+At the beginning of your end step, draw seven cards.
+Each opponent's maximum hand size is reduced by seven.</CardText>
+<Flavor>"It is not a goal, but a process—the process of creating the perfect Phyrexia."</Flavor>
+<ChineseFlavor>「这不是目标，而是过程～用来创造完美的非瑞克西亚。」</ChineseFlavor>
+<Artist>Eric Deschamps</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214349</Multiverseid>
+<Rulings>2017/11/17: If a player has more cards in their hand than their maximum hand size during the cleanup step of that player's turn, that player discards until they have that many cards. A player's maximum hand size isn't checked at any time other than their own cleanup step.
+2017/11/17: Jin-Gitaxias doesn't affect the maximum hand size of its controller. Because the cleanup step is after the end step, its controller may have to discard some of the cards that were just drawn.
+2017/11/17: Unless another spell or ability is affecting your opponent's maximum hand size, Jin-Gitaxias's ability will result in your opponent having a maximum hand size of zero. They will discard each card from their hand during their cleanup step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>38</No>
+<Name>Mental Misstep</Name>
+<ChineseName>心灵失足</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U/P}</ManaCost>
+<CardText>({U/P} can be paid with either {U} or 2 life.)
+Counter target spell with mana value 1.</CardText>
+<Flavor>"Your first mistake was thinking I would let you live long enough to make a second."
+—Sarnvax, Gitaxian sective</Flavor>
+<ChineseFlavor>「你的第一个错误，就是以为我会让你活到犯下第二个错误。」
+～吉塔厦组的萨恩瓦</ChineseFlavor>
+<Artist>Erica Yang</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230066</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: If a spell has {X} in its mana cost, X is considered to be the value chosen for it while that spell is on the stack.
+2011/06/01: Each Phyrexian mana symbol in a spell's mana cost contributes 1 to that spell's converted mana cost. For example, Mental Misstep's converted mana cost is 1, regardless of how its cost was paid.</Rulings>
+<Vintage>Restricted</Vintage>
+<Legacy>Banned</Legacy>
+<Modern>Banned</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>39</No>
+<Name>Mindculling</Name>
+<ChineseName>心灵挑拣</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{5}{U}</ManaCost>
+<CardText>You draw two cards and target opponent discards two cards.</CardText>
+<Flavor>"Why infiltrate their strongholds when what we seek resides in such a poorly guarded safe?"
+—Malcator, Executor of Synthesis</Flavor>
+<ChineseFlavor>「既然我们要找的东西摆在防卫如此松懈的保险箱里，又何必要渗透他们的要塞？」
+～合成执行人麻卡特</ChineseFlavor>
+<Artist>Cos Koniotis</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218085</Multiverseid>
+<Rulings>2011/06/01: You must be able to target an opponent to cast Mindculling. If that opponent is an illegal target when Mindculling tries to resolve, it'll be countered and will have no effect. You won't draw two cards.
+2011/06/01: If the opponent has one card in hand, that player will discard that card and you will draw two cards. If the opponent has no cards in hand, you will draw two cards.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>40</No>
+<Name>Numbing Dose</Name>
+<ChineseName>麻木剂</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{U}{U}</ManaCost>
+<CardText>Enchant artifact or creature
+Enchanted permanent doesn't untap during its controller's untap step.
+At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.</CardText>
+<Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218040</Multiverseid>
+<Rulings>2011/06/01: Numbing Dose may target and may enchant an untapped artifact or creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>41</No>
+<Name>Phyrexian Ingester</Name>
+<ChineseName>非瑞克西亚摄食兽</ChineseName>
+<Type>Creature — Phyrexian Beast 3/3</Type>
+<ManaCost>{6}{U}</ManaCost>
+<CardText>Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature.
+Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.</CardText>
+<Artist>Chris Rahn</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214384</Multiverseid>
+<Rulings>2016/06/08: Phyrexian Ingester will get bonuses based on the card's power and toughness in exile. Counters, Auras, and Equipment it had on it before it was exiled won't add to those numbers.
+2016/06/08: Abilities that define a creature's power and toughness apply while that card is in exile, but abilities that add or subtract from it don't. For example, the ability of Battle Squadron applies to determine Phyrexian Ingester's power and toughness, but the ability of Werebear doesn't. Phyrexian Ingester's power and toughness are constantly updated if the exiled card's power and/or toughness change.
+2016/06/08: If the card in exile isn't a creature card (perhaps because it was a land that was temporarily a creature while on the battlefield), Phyrexian Ingester doesn't get a bonus.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>42</No>
+<Name>Phyrexian Metamorph</Name>
+<ChineseName>非瑞克西亚蜕变妖</ChineseName>
+<Type>Artifact Creature — Phyrexian Shapeshifter 0/0</Type>
+<ManaCost>{3}{U/P}</ManaCost>
+<CardText>({U/P} can be paid with either {U} or 2 life.)
+You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.</CardText>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214375</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: Except for also being an artifact, Phyrexian Metamorph copies exactly what was printed on the original permanent and nothing more (unless that creature is itself copying something or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or Auras attached to it, or any noncopy effects that have changed its power, toughness, types, color, and so on.
+2011/06/01: If Phyrexian Metamorph copies a noncreature artifact, it is no longer a creature.
+2011/06/01: If the chosen permanent has {X} in its mana cost (such as Protean Hydra), X is considered to be zero.
+2011/06/01: If the chosen creature is copying something else (for example, if the chosen creature is a Clone), then your Phyrexian Metamorph enters the battlefield as whatever the chosen creature copied, except it's also an artifact.
+2011/06/01: If the chosen permanent is a token, Phyrexian Metamorph copies the original characteristics of that token as stated by the effect that put the token onto the battlefield, except it's also an artifact. Phyrexian Metamorph is not a token.
+2011/06/01: Any enters-the-battlefield abilities of the copied permanent will trigger when Phyrexian Metamorph enters the battlefield. Any "as [this] enters the battlefield" or "[this] enters the battlefield with" abilities of the chosen permanent will also work.
+2011/06/01: If Phyrexian Metamorph somehow enters the battlefield at the same time as another permanent (due to Mass Polymorph or Liliana Vess's third ability, for example), Phyrexian Metamorph can't become a copy of that permanent. You may choose only a permanent that's already on the battlefield.
+2011/06/01: You can choose not to copy anything. In that case, Phyrexian Metamorph simply enters the battlefield as a 0/0 artifact creature and is put into its owner's graveyard as a state-based action (unless something else is raising its toughness).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>43</No>
+<Name>Psychic Barrier</Name>
+<ChineseName>心灵障壁</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}{U}</ManaCost>
+<CardText>Counter target creature spell. Its controller loses 1 life.</CardText>
+<Flavor>"I tolerate Phyrexians because the dragon requires it. But I have no patience for uninvited guests."
+—Tezzeret</Flavor>
+<ChineseFlavor>「我能容忍非瑞克西亚人，因为龙王有这需要。 但我对不请自来的客人毫无耐心。」
+～泰兹瑞</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218016</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>44</No>
+<Name>Psychic Surgery</Name>
+<ChineseName>心灵手术</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{1}{U}</ManaCost>
+<CardText>Whenever an opponent shuffles their library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.</CardText>
+<Artist>Anthony Francisco</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214347</Multiverseid>
+<Rulings>2011/06/01: You look at the top two cards of that library as the triggered ability resolves. That happens after your opponent is done shuffling.
+2011/06/01: If your opponent's library has one card in it and they are instructed to shuffle that library, Psychic Surgery will trigger. You may' exile the one card in that library.
+2011/06/01: In most cases, Green Sun's Zenith instructs you to shuffle your library twice. Although shuffling that library only once is an acceptable shortcut, Psychic Surgery's ability will still trigger twice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>45</No>
+<Name>Spined Thopter</Name>
+<ChineseName>刺棘振翼机</ChineseName>
+<Type>Artifact Creature — Phyrexian Thopter 2/1</Type>
+<ManaCost>{2}{U/P}</ManaCost>
+<CardText>({U/P} can be paid with either {U} or 2 life.)
+Flying</CardText>
+<Flavor>"I appreciate the depravity of noble designs turned to devious ends."
+—Tezzeret</Flavor>
+<ChineseFlavor>「高贵设计变成邪道器具，我很欣赏此般堕落。」
+～泰兹瑞</ChineseFlavor>
+<Artist>Pete Venters</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217990</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>46</No>
+<Name>Spire Monitor</Name>
+<ChineseName>尖塔监卫</ChineseName>
+<Type>Creature — Phyrexian Drake 3/3</Type>
+<ManaCost>{4}{U}</ManaCost>
+<CardText>Flash (You may cast this spell any time you could cast an instant.)
+Flying</CardText>
+<Flavor>Each monitor is given an eye for each spire it is to guard.</Flavor>
+<ChineseFlavor>监卫要负责看守几个塔，就会获取几个眼睛。</ChineseFlavor>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233053</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>47</No>
+<Name>Tezzeret's Gambit</Name>
+<ChineseName>泰兹瑞的计策</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{U/P}</ManaCost>
+<CardText>({U/P} can be paid with either {U} or 2 life.)
+Draw two cards, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>227547</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2021/03/19: If a permanent has +1/+1 counters and -1/-1 counters on it, they're removed in pairs as a state-based action so that the permanent has only one of those kinds of counters on it.
+2021/03/19: To proliferate, you can choose any permanent that has a counter, including ones controlled by opponents. You can't choose cards in any zone other than the battlefield, even if they have counters on them.
+2021/03/19: You don't have to choose every permanent or player that has a counter, only the ones you want to add another counter to. Since "any number" includes zero, you don't have to choose any permanents at all, and you don't have to choose any players at all.
+2021/03/19: Players can respond to a spell or ability whose effect includes proliferating. Once that spell or ability starts to resolve, however, and its controller chooses which permanents and players will get new counters, it's too late for anyone to respond.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>48</No>
+<Name>Vapor Snag</Name>
+<ChineseName>毒气阻碍</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{U}</ManaCost>
+<CardText>Return target creature to its owner's hand. Its controller loses 1 life.</CardText>
+<Flavor>"This creature is inadequate. Send it to the splicers for innovation."
+—Malcator, Executor of Synthesis</Flavor>
+<ChineseFlavor>「这生物派不上用场。 送它去给接合师改造。」
+～合成执行人麻卡特</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218017</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>49</No>
+<Name>Viral Drake</Name>
+<ChineseName>病毒龙兽</ChineseName>
+<Type>Creature — Phyrexian Drake 1/4</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{3}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Artist>Lars Grant-West</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233047</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>50</No>
+<Name>Wing Splicer</Name>
+<ChineseName>飞翼接合师</ChineseName>
+<Type>Creature — Phyrexian Human Artificer 1/1</Type>
+<ManaCost>{3}{U}</ManaCost>
+<CardText>When Wing Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+Golem creatures you control have flying.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233037</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>51</No>
+<Name>Xenograft</Name>
+<ChineseName>异种接殖</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{4}{U}</ManaCost>
+<CardText>As Xenograft enters the battlefield, choose a creature type.
+Each creature you control is the chosen type in addition to its other types.</CardText>
+<Flavor>"I despise Vorinclex and his slobberings about 'evolution.' Only I know true progress."
+—Jin-Gitaxias, Core Augur</Flavor>
+<ChineseFlavor>「我瞧不起弗霖凯和他讲得口沫横飞的『演化』。只有我才知道真正的过程。」
+～核心卜算师金吉塔厦</ChineseFlavor>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>227544</Multiverseid>
+<Rulings>2011/06/01: You must choose an existing _Magic_ creature type.
+2011/06/01: Creature cards not on the battlefield and creature spells are not affected.
+2017/09/29: Replacement effects that modify creatures of a certain type as they enter the battlefield will apply (or not apply) after you apply this effect. For example, if Warrior is the chosen creature type and you control Bramblewood Paragon, a Runeclaw Bear would enter the battlefield with an additional +1/+1 counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>52</No>
+<Name>Blind Zealot</Name>
+<ChineseName>狂信盲者</ChineseName>
+<Type>Creature — Phyrexian Human Cleric 2/2</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.</CardText>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217999</Multiverseid>
+<Rulings>2011/06/01: You'll choose the target creature when the ability goes on the stack. You'll choose whether or not to sacrifice Blind Zealot when the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>53</No>
+<Name>Caress of Phyrexia</Name>
+<ChineseName>非瑞克西亚抚触</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{B}{B}</ManaCost>
+<CardText>Target player draws three cards, loses 3 life, and gets three poison counters.</CardText>
+<Flavor>"I am weak. Make . . . me . . . ideal."</Flavor>
+<ChineseFlavor>「我很弱。 让...我...完美。」</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218061</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>54</No>
+<Name>Chancellor of the Dross</Name>
+<ChineseName>蔓非沼督长</ChineseName>
+<Type>Creature — Phyrexian Vampire 6/6</Type>
+<ManaCost>{4}{B}{B}{B}</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.
+Flying, lifelink</CardText>
+<Artist>Stephan Martiniere</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218020</Multiverseid>
+<Rulings>2021/03/19: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>55</No>
+<Name>Dementia Bat</Name>
+<ChineseName>痴呆蝙蝠</ChineseName>
+<Type>Creature — Phyrexian Bat 2/2</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Flying
+{4}{B}, Sacrifice Dementia Bat: Target player discards two cards.</CardText>
+<Flavor>"When terror outweighs all other thoughts, they will understand that I am the true Father of Machines."
+—Azax-Azog, the Demon Thane</Flavor>
+<ChineseFlavor>「当恐怖压过其他的思绪，他们会了解我是真正的机械之父。」
+～恶魔伯爵亚札佐</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233084</Multiverseid>
+<Rulings>2011/06/01: Unlike most abilities that force a player to discard cards, this ability may be activated whenever you could cast an instant, including during your opponent's draw step after they have drawn a card.
+2011/06/01: You can't force an opponent to discard a card they cast by activating Dementia Bat's ability in response. The spell is on the stack by then.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>56</No>
+<Name>Despise</Name>
+<ChineseName>鄙视</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.</CardText>
+<Flavor>"Truth is always a weapon in your enemies' hands."
+—Geth, Lord of the Vault</Flavor>
+<ChineseFlavor>「真相总是敌人手上的武器。」
+～黯窖之王盖司</ChineseFlavor>
+<Artist>Terese Nielsen</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233043</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>57</No>
+<Name>Dismember</Name>
+<ChineseName>肢解</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{B/P}{B/P}</ManaCost>
+<CardText>({B/P} can be paid with either {B} or 2 life.)
+Target creature gets -5/-5 until end of turn.</CardText>
+<Flavor>"You serve Phyrexia. Your pieces would better serve Phyrexia elsewhere."
+—Azax-Azog, the Demon Thane</Flavor>
+<ChineseFlavor>「你会服侍非瑞克西亚。 你的碎块会在他处将非瑞克西亚服侍得更好。」
+～恶魔伯爵亚札佐</ChineseFlavor>
+<Artist>Terese Nielsen</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230082</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>58</No>
+<Name>Enslave</Name>
+<ChineseName>奴役</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.</CardText>
+<Flavor>Phyrexia extended its command until there was nothing left to take.</Flavor>
+<ChineseFlavor>非瑞克西亚将不断扩张版图，直到无所不在为止。</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233060</Multiverseid>
+<Rulings>2021/03/19: Gaining control of a permanent doesn't cause you to gain control of any Auras or Equipment attached to it. They'll remain attached, but their abilities that refer to "you" still refer to its controller rather than you. The controller of such an Equipment can activate its equip ability to move it back to one of their creatures during their main phase.
+2021/03/19: The owner of a card is the player who started the game with that card in their deck. If the card didn't start the game in a deck, its owner is the player who brought the card into the game, via Living Wish or a similar effect.
+2021/03/19: A token's owner is the player who created it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>59</No>
+<Name>Entomber Exarch</Name>
+<ChineseName>入土督教</ChineseName>
+<Type>Creature — Phyrexian Cleric 2/2</Type>
+<ManaCost>{2}{B}{B}</ManaCost>
+<CardText>When Entomber Exarch enters the battlefield, choose one —
+• Return target creature card from your graveyard to your hand.
+• Target opponent reveals their hand. You choose a noncreature card from it. That player discards that card.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218023</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>60</No>
+<Name>Evil Presence</Name>
+<ChineseName>邪恶存在</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{B}</ManaCost>
+<CardText>Enchant land
+Enchanted land is a Swamp.</CardText>
+<Flavor>"The Accorders would lament the transformation of their cherished lands, had they lived to see it."
+—Sheoldred, Whispering One</Flavor>
+<ChineseFlavor>「轮驻军会悲叹他们的宝贵大地变化至此；如果他们能活着看到的话。」
+～细语者希欧蕊</ChineseFlavor>
+<Artist>Scott Chou</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218073</Multiverseid>
+<Rulings>2009/10/01: The enchanted land loses its existing land types and any abilities printed on it. It now has the land type Swamp and has the ability "{T}: Add {B}." Evil Presence doesn't change the enchanted land's name or whether it's legendary, basic, or snow.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>61</No>
+<Name>Geth's Verdict</Name>
+<ChineseName>盖司的裁定</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{B}{B}</ManaCost>
+<CardText>Target player sacrifices a creature and loses 1 life.</CardText>
+<Flavor>"Everyone should owe you something."
+—Geth, Lord of the Vault</Flavor>
+<ChineseFlavor>「任何人都该欠你些什么。」
+～黯窖之王盖司</ChineseFlavor>
+<Artist>Whit Brachna</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214376</Multiverseid>
+<Rulings>2011/06/01: As long as the player is a legal target when Geth's Verdict resolves, that player loses 1 life even if they didn't sacrifice a creature (most likely because they didn't control any).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>62</No>
+<Name>Glistening Oil</Name>
+<ChineseName>烁油</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{B}{B}</ManaCost>
+<CardText>Enchant creature
+Enchanted creature has infect.
+At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.
+When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.</CardText>
+<Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214346</Multiverseid>
+<Rulings>2011/06/01: Multiple instances of infect are redundant.
+2011/06/01: The last ability will trigger no matter how Glistening Oil is put into the graveyard from the battlefield, not just when the enchanted creature is put into the graveyard.
+2011/06/01: You choose a target creature for Glistening Oil as you cast it, just as you would with any Aura. If that creature is an illegal target when Glistening Oil tries to resolve, Glistening Oil won't resolve and will be put into its owner's graveyard. It won't enter the battlefield and its last ability won't trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>63</No>
+<Name>Grim Affliction</Name>
+<ChineseName>残酷折磨</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{B}</ManaCost>
+<CardText>Put a -1/-1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Flavor>Even the small wounds let hope bleed out.</Flavor>
+<ChineseFlavor>就连小伤口也会让希望流干。</ChineseFlavor>
+<Artist>Erica Yang</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214389</Multiverseid>
+<Rulings>2011/06/01: You may choose the creature you put the -1/-1 counter on to get another -1/-1 counter when proliferating.
+2011/06/01: The state-based action that removes matching +1/+1 and -1/-1 counters won't check until after you proliferate and Grim Affliction finishes resolving. It's possible to remove up to two +1/+1 counters from the creature by choosing to put a second -1/-1 counter on the creature when proliferating.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>64</No>
+<Name>Ichor Explosion</Name>
+<ChineseName>脓水爆发</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{5}{B}{B}</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice a creature.
+All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.</CardText>
+<Flavor>The first explosion that didn't excite goblins.</Flavor>
+<ChineseFlavor>这是鬼怪第一次不觉得爆炸很刺激。</ChineseFlavor>
+<Artist>James Ryman</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218066</Multiverseid>
+<Rulings>2011/06/01: X is the power of the sacrificed creature as it last existed on the battlefield.
+2013/04/15: You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures.
+2013/04/15: Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>65</No>
+<Name>Life's Finale</Name>
+<ChineseName>生灵终结</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles.</CardText>
+<Flavor>The feeble resistance of the flesh is over. Phyrexia spreads its shadow over all.</Flavor>
+<ChineseFlavor>肉身的微弱抵抗已经结束。 非瑞克西亚的阴影笼罩一切。</ChineseFlavor>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214362</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>66</No>
+<Name>Mortis Dogs</Name>
+<ChineseName>死尸狗群</ChineseName>
+<Type>Creature — Phyrexian Dog 2/2</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.
+When Mortis Dogs dies, target player loses life equal to its power.</CardText>
+<Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233072</Multiverseid>
+<Rulings>2011/06/01: The loss of life is equal to Mortis Dogs's power as it last existed on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>67</No>
+<Name>Parasitic Implant</Name>
+<ChineseName>植入寄生</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{3}{B}</ManaCost>
+<CardText>Enchant creature
+At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Phyrexian Myr artifact creature token.</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>194216</Multiverseid>
+<Rulings>2011/06/01: The controller of Parasitic Implant will control the Myr token no matter who controlled and sacrificed the enchanted creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>68</No>
+<Name>Phyrexian Obliterator</Name>
+<ChineseName>非瑞克西亚抹煞兽</ChineseName>
+<Type>Creature — Phyrexian Horror 5/5</Type>
+<ManaCost>{B}{B}{B}{B}</ManaCost>
+<CardText>Trample
+Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.</CardText>
+<Flavor>"Behold blessed perfection."
+—Sheoldred, Whispering One</Flavor>
+<ChineseFlavor>「好好欣赏蒙福的完美。」
+～细语者希欧蕊</ChineseFlavor>
+<Artist>Todd Lockwood</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214386</Multiverseid>
+<Rulings>2018/03/16: If creatures an opponent controls are dealt lethal damage at the same time that Phyrexian Obliterator is dealt damage, those creatures will be destroyed before that player chooses permanents to sacrifice.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>69</No>
+<Name>Pith Driller</Name>
+<ChineseName>钻髓怪</ChineseName>
+<Type>Artifact Creature — Phyrexian Horror 2/4</Type>
+<ManaCost>{4}{B/P}</ManaCost>
+<CardText>({B/P} can be paid with either {B} or 2 life.)
+When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.</CardText>
+<Flavor>After boring up through the crust of Mirrodin, it turned its expertise upon the surface dwellers.</Flavor>
+<ChineseFlavor>他们钻出秘罗地的地壳之后，便将自己的专长用在地面居民身上。</ChineseFlavor>
+<Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230079</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: Pith Driller's ability is mandatory. If it's the only creature on the battlefield when it enters the battlefield, Pith Driller's ability will target itself.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>70</No>
+<Name>Postmortem Lunge</Name>
+<ChineseName>死后冲刺</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{B/P}</ManaCost>
+<CardText>({B/P} can be paid with either {B} or 2 life.)
+Return target creature card with mana value X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.</CardText>
+<Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233054</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: If the creature card has {X} in its mana cost, that X is 0. Remember that the value of X chosen for Postmortem Lunge is independent of the value of X on other cards.
+2011/06/01: If the creature is no longer on the battlefield at the beginning of the next end step, it won't be exiled.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>71</No>
+<Name>Praetor's Grasp</Name>
+<ChineseName>魔判官之攫</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>Search target opponent's library for a card and exile it face down. Then that player shuffles. You may look at and play that card for as long as it remains exiled.</CardText>
+<Flavor>Sheoldred weaves every thread of information into a noose to hang her enemies.</Flavor>
+<ChineseFlavor>希欧蕊将一切资讯织成让敌人窒息的绳套。</ChineseFlavor>
+<Artist>Steve Argyle</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218050</Multiverseid>
+<Rulings>2011/06/01: Other players, including the card's owner, can't look at the card while it remains exiled.
+2011/06/01: Playing a card exiled with Praetor's Grasp follows all the normal rules for playing that card. You must pay its costs, and you must follow all timing restrictions, for example.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>72</No>
+<Name>Reaper of Sheoldred</Name>
+<ChineseName>希欧蕊镰刀手</ChineseName>
+<Type>Creature — Phyrexian Horror 2/5</Type>
+<ManaCost>{4}{B}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.</CardText>
+<Artist>Stephan Martiniere</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214374</Multiverseid>
+<Rulings>2011/06/01: The source's controller will get one poison counter for each time that source deals damage to Reaper of Sheoldred, not one poison counter for each 1 damage dealt.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>73</No>
+<Name>Sheoldred, Whispering One</Name>
+<ChineseName>细语者希欧蕊</ChineseName>
+<Type>Legendary Creature — Phyrexian Praetor 6/6</Type>
+<ManaCost>{5}{B}{B}</ManaCost>
+<CardText>Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+At the beginning of each opponent's upkeep, that player sacrifices a creature.</CardText>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214382</Multiverseid>
+<Rulings>2017/11/17: Swampwalk is a keyword ability that means "This creature can't be blocked if defending player controls a Swamp." Most nonbasic lands don't have basic land types, even if they produce colored mana. For example, Graven Cairns is neither a Swamp nor a Mountain, while Blood Crypt is both.
+2017/11/17: If another triggered ability during your upkeep causes you to sacrifice a creature, such as that of Lord of the Pit, you won't be able to target it with Sheoldred's triggered ability as that ability is put on the stack.
+2017/11/17: The opponent whose upkeep it is chooses a creature to sacrifice when Sheoldred's second triggered ability resolves.
+2017/11/17: In a Two-Headed Giant game, the last ability will trigger twice at the beginning of the opposing team's upkeep, once for each player on that team. Each player sacrifices only a creature they control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>74</No>
+<Name>Surgical Extraction</Name>
+<ChineseName>手术摘除</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{B/P}</ManaCost>
+<CardText>({B/P} can be paid with either {B} or 2 life.)
+Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.</CardText>
+<Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233041</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: "Any number of cards" means just that. If you wish, you can choose to leave some or all of the cards with the same name as the targeted card, including that card, in the zone they're in.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>75</No>
+<Name>Toxic Nim</Name>
+<ChineseName>染毒泞族</ChineseName>
+<Type>Creature — Phyrexian Zombie 4/1</Type>
+<ManaCost>{4}{B}{B}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{B}: Regenerate Toxic Nim.</CardText>
+<Flavor>The nim have become roving killers marshaled by whichever thane holds tenuous leadership.</Flavor>
+<ChineseFlavor>泞族已成为四处游荡的杀手集团，任凭掌权的伯爵使唤。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233081</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>76</No>
+<Name>Vault Skirge</Name>
+<ChineseName>黯窖斯克魔</ChineseName>
+<Type>Artifact Creature — Phyrexian Imp 1/1</Type>
+<ManaCost>{1}{B/P}</ManaCost>
+<CardText>({B/P} can be paid with either {B} or 2 life.)
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)</CardText>
+<Flavor>From the remnants of the dead, Geth forged a swarm to safeguard his throne.</Flavor>
+<ChineseFlavor>盖司利用亡者的残躯，锻造一大群守卫来保护其王座。</ChineseFlavor>
+<Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217984</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>77</No>
+<Name>Whispering Specter</Name>
+<ChineseName>细语幽灵</ChineseName>
+<Type>Creature — Phyrexian Specter 1/1</Type>
+<ManaCost>{1}{B}{B}</ManaCost>
+<CardText>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter they have.</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218045</Multiverseid>
+<Rulings>2011/06/01: You choose whether or not to sacrifice Whispering Specter, and the number of poison counters the player has is counted, when the triggered ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>78</No>
+<Name>Act of Aggression</Name>
+<ChineseName>侵略行为</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{R/P}{R/P}</ManaCost>
+<CardText>({R/P} can be paid with either {R} or 2 life.)
+Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.</CardText>
+<Artist>Whit Brachna</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230076</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: Act of Aggression can target any creature an opponent controls, even one that's untapped.
+2011/06/01: Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>79</No>
+<Name>Artillerize</Name>
+<ChineseName>化为炮弹</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Artillerize deals 5 damage to any target.</CardText>
+<Flavor>Phyrexian or Mirran, most goblins stick to the job they know best.</Flavor>
+<ChineseFlavor>鬼怪不论属于非瑞克西亚或秘罗阵营，都专注于他们最擅长的工作。</ChineseFlavor>
+<Artist>Johann Bodin</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218081</Multiverseid>
+<Rulings>2011/06/01: The artifact or creature is sacrificed as costs are paid. Players can't respond to the paying of costs by trying to destroy that artifact or creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>80</No>
+<Name>Bludgeon Brawl</Name>
+<ChineseName>持棍乱斗</ChineseName>
+<Type>Enchantment</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Each noncreature, non-Equipment artifact is an Equipment with equip {X} and "Equipped creature gets +X/+0," where X is that artifact's mana value.</CardText>
+<Artist>Kev Walker</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218055</Multiverseid>
+<Rulings>2011/06/01: The affected artifacts retain their other types and abilities.
+2011/06/01: An Equipment that's also a creature can't be equipped to anything.
+2011/06/01: If an artifact affected by Bludgeon Brawl later becomes a creature, Bludgeon Brawl's effect no longer applies to it. That artifact will stop being an Equipment and become unattached from any creature it was attached to; it will remain on the battlefield. The same thing if Bludgeon Brawl leaves the battlefield.
+2011/06/01: While Bludgeon Brawl is on the battlefield, an Aura enchantment that somehow becomes an artifact in addition to its other types will also become an Equipment. Any of its abilities that refer to either "enchanted creature" or "equipped creature" refer to the creature it's currently attached to. It can be attached to other creatures using its equip ability. If you try to attach the Aura Equipment to a creature it can't legally be attached to, it remains where it is. If the creature it's attached to becomes an illegal permanent for it to enchant, the Aura Equipment will be put into its owner's graveyard as a state-based action.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>81</No>
+<Name>Chancellor of the Forge</Name>
+<ChineseName>锻炉督长</ChineseName>
+<Type>Creature — Phyrexian Giant 5/5</Type>
+<ManaCost>{4}{R}{R}{R}</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Phyrexian Goblin creature token with haste.
+When Chancellor of the Forge enters the battlefield, create X 1/1 red Phyrexian Goblin creature tokens with haste, where X is the number of creatures you control.</CardText>
+<Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218021</Multiverseid>
+<Rulings>2011/06/01: The number of creature tokens you put onto the battlefield with the last ability is determined when the ability resolves. If Chancellor of the Forge is still on the battlefield at that time, it will be counted.
+2021/03/19: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>82</No>
+<Name>Fallen Ferromancer</Name>
+<ChineseName>堕落钢铁术士</ChineseName>
+<Type>Creature — Phyrexian Human Shaman 1/1</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{1}{R}, {T}: Fallen Ferromancer deals 1 damage to any target.</CardText>
+<Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>227537</Multiverseid>
+<Rulings>2011/06/01: If Fallen Ferromancer's ability deals 1 damage to a creature, that damage will cause a -1/-1 counter to be placed on the creature. If it deals 1 damage to a player, that player gets a poison counter.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>83</No>
+<Name>Flameborn Viron</Name>
+<ChineseName>焰生病毒</ChineseName>
+<Type>Creature — Phyrexian Insect 6/4</Type>
+<ManaCost>{4}{R}{R}</ManaCost>
+<Flavor>"Large or small, all will toil for the Great Work."
+—Decree of Urabrask</Flavor>
+<ChineseFlavor>「不论大小，都该为伟大志业辛勤付出。」
+～洼巴司的教令</ChineseFlavor>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233086</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>84</No>
+<Name>Furnace Scamp</Name>
+<ChineseName>熔炉恶兽</ChineseName>
+<Type>Creature — Phyrexian Beast 1/1</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.</CardText>
+<Flavor>Born of the core, and dying to stoke it.</Flavor>
+<ChineseFlavor>生于核心，死为其燃料。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217979</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>85</No>
+<Name>Geosurge</Name>
+<ChineseName>地壳翻腾</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{R}{R}{R}{R}</ManaCost>
+<CardText>Add {R}{R}{R}{R}{R}{R}{R}. Spend this mana only to cast artifact or creature spells.</CardText>
+<Flavor>"The mountains have been corrupted. Otherwise, they would not lend me their fire so easily."
+—Koth of the Hammer</Flavor>
+<ChineseFlavor>「山脉已遭腐化。 否则不会如此轻易将其火焰交付给我。」
+～锤族的寇斯</ChineseFlavor>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218004</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>86</No>
+<Name>Gut Shot</Name>
+<ChineseName>打击内脏</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{R/P}</ManaCost>
+<CardText>({R/P} can be paid with either {R} or 2 life.)
+Gut Shot deals 1 damage to any target.</CardText>
+<Flavor>"Down here, we have a more pointed version of the scriptures."
+—Urabrask's enforcer</Flavor>
+<ChineseFlavor>「在这里，我们有更加尖刻的经文版本。」
+～洼巴司执法者</ChineseFlavor>
+<Artist>Greg Staples</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230074</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>87</No>
+<Name>Invader Parasite</Name>
+<ChineseName>入侵寄生虫</ChineseName>
+<Type>Creature — Phyrexian Insect 3/2</Type>
+<ManaCost>{3}{R}{R}</ManaCost>
+<CardText>Imprint — When Invader Parasite enters the battlefield, exile target land.
+Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.</CardText>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233067</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>88</No>
+<Name>Moltensteel Dragon</Name>
+<ChineseName>融钢巨龙</ChineseName>
+<Type>Artifact Creature — Phyrexian Dragon 4/4</Type>
+<ManaCost>{4}{R/P}{R/P}</ManaCost>
+<CardText>({R/P} can be paid with either {R} or 2 life.)
+Flying
+{R/P}: Moltensteel Dragon gets +1/+0 until end of turn.</CardText>
+<Flavor>An apocalypse in dragon form.</Flavor>
+<ChineseFlavor>末日战火以龙身现形。</ChineseFlavor>
+<Artist>James Ryman</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233051</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>89</No>
+<Name>Ogre Menial</Name>
+<ChineseName>卑贱食人魔</ChineseName>
+<Type>Creature — Phyrexian Ogre 0/4</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{R}: Ogre Menial gets +1/+0 until end of turn.</CardText>
+<Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233082</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>90</No>
+<Name>Priest of Urabrask</Name>
+<ChineseName>洼巴司牧师</ChineseName>
+<Type>Creature — Phyrexian Human Cleric 2/1</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>When Priest of Urabrask enters the battlefield, add {R}{R}{R}.</CardText>
+<Flavor>Even in New Phyrexia, red mana sparks glimmers of individualism, passion, and freedom.</Flavor>
+<ChineseFlavor>就算在新非瑞克西亚，红色法术力也闪耀着个人主义，激情，以及自由的光芒。</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218037</Multiverseid>
+<Rulings>2011/01/25: You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>91</No>
+<Name>Rage Extractor</Name>
+<ChineseName>炼怒仪</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}{R/P}</ManaCost>
+<CardText>({R/P} can be paid with either {R} or 2 life.)
+Whenever you cast a spell with {P} in its mana cost, Rage Extractor deals damage equal to that spell's mana value to any target.</CardText>
+<Flavor>New Phyrexia is an engine that both consumes and creates malice.</Flavor>
+<ChineseFlavor>新非瑞克西亚是吞食恨意、也制造恨意的机械。</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214385</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: Rage Extractor's ability checks for any spell you cast with any Phyrexian mana symbol in its mana cost, regardless of that symbol's color or how the cost was paid.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>92</No>
+<Name>Razor Swine</Name>
+<ChineseName>锋刃猪</ChineseName>
+<Type>Creature — Phyrexian Boar 2/1</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>First strike
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>"They aren't helping the forges. Send them to the surface."
+—Furnace boss, sector 12</Flavor>
+<ChineseFlavor>「他们在锻炉帮不上忙。 送他们到地上去。」
+～12区熔炉老大</ChineseFlavor>
+<Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218022</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>93</No>
+<Name>Ruthless Invasion</Name>
+<ChineseName>无情侵攻</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{3}{R/P}</ManaCost>
+<CardText>({R/P} can be paid with either {R} or 2 life.)
+Nonartifact creatures can't block this turn.</CardText>
+<Flavor>"For the survival of our people, every conflict must now end in retreat."
+—Pythor, Mirran resistance</Flavor>
+<ChineseFlavor>「为了我方人员的生存，每场冲突都必须以撤退作结。」
+～秘罗志士派索</ChineseFlavor>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>227528</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>94</No>
+<Name>Scrapyard Salvo</Name>
+<ChineseName>废品场迸火</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{R}{R}</ManaCost>
+<CardText>Scrapyard Salvo deals damage to target player or planeswalker equal to the number of artifact cards in your graveyard.</CardText>
+<Flavor>"Squealstokers! Build me a glorious pile of Mirran metal. Then add yourselves to the pile."
+—Furnace boss, sector 11</Flavor>
+<ChineseFlavor>「尖叫司炉！ 给我一堆光亮的秘罗金属。 然后把你自己也加进那堆。」
+～11区熔炉老大</ChineseFlavor>
+<Artist>Austin Hsu</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218019</Multiverseid>
+<Rulings>2011/06/01: The number of artifact cards in your graveyard is counted when Scrapyard Salvo resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>95</No>
+<Name>Slag Fiend</Name>
+<ChineseName>熔渣邪鬼</ChineseName>
+<Type>Creature — Phyrexian Construct */*</Type>
+<ManaCost>{R}</ManaCost>
+<CardText>Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.</CardText>
+<Flavor>"Seal the furnace vents. Admit no others. We'll tend our forges without their tainted ways."
+—Decree of Urabrask</Flavor>
+<ChineseFlavor>「封住熔炉出气口。 别管其他的。 我们自己照料锻炉，不用其他人的烂方法。」
+～洼巴司的教令</ChineseFlavor>
+<Artist>Mike Bierek</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218010</Multiverseid>
+<Rulings>2011/06/01: Slag Fiend's power- and toughness-setting ability works in all zones, not just on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>96</No>
+<Name>Slash Panther</Name>
+<ChineseName>斩击豹</ChineseName>
+<Type>Artifact Creature — Phyrexian Cat 4/2</Type>
+<ManaCost>{4}{R/P}</ManaCost>
+<CardText>({R/P} can be paid with either {R} or 2 life.)
+Haste</CardText>
+<Flavor>It runs an endless circuit along the ruined roads of the soon-to-be-forgotten Mirran civilization.</Flavor>
+<ChineseFlavor>他沿着即将遭遗忘的秘罗文明之破败道路，无止尽地巡回奔跑。</ChineseFlavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230065</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>97</No>
+<Name>Tormentor Exarch</Name>
+<ChineseName>折磨督教</ChineseName>
+<Type>Creature — Phyrexian Cleric 2/2</Type>
+<ManaCost>{3}{R}</ManaCost>
+<CardText>When Tormentor Exarch enters the battlefield, choose one —
+• Target creature gets +2/+0 until end of turn.
+• Target creature gets -0/-2 until end of turn.</CardText>
+<Flavor>"Tend the molten slag, or be the molten slag."
+—Urabrask's enforcer</Flavor>
+<ChineseFlavor>「不把熔渣照料好，就等着变成熔渣。」
+～洼巴司执法者</ChineseFlavor>
+<Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218082</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>98</No>
+<Name>Urabrask the Hidden</Name>
+<ChineseName>隐匿者洼巴司</ChineseName>
+<Type>Legendary Creature — Phyrexian Praetor 4/4</Type>
+<ManaCost>{3}{R}{R}</ManaCost>
+<CardText>Creatures you control have haste.
+Creatures your opponents control enter the battlefield tapped.</CardText>
+<Flavor>When the Mirran resistance arrived, the furnace dwellers looked to Urabrask for guidance. His decree stunned the others: "Let them be."</Flavor>
+<ChineseFlavor>当秘罗志士出现，熔炉居民等着洼巴司下命令。 他的命令震慑了所有人：「随他们来。」</ChineseFlavor>
+<Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214378</Multiverseid>
+<Rulings>2017/11/17: Urabrask the Hidden gives itself haste while it's on the battlefield.
+2017/11/17: If a creature an opponent controls enters the battlefield at the same time that Urabrask the Hidden enters the battlefield under your control, Urabrask's effect doesn't apply to your opponent's creature.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>99</No>
+<Name>Victorious Destruction</Name>
+<ChineseName>胜利毁坏</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{4}{R}</ManaCost>
+<CardText>Destroy target artifact or land. Its controller loses 1 life.</CardText>
+<Flavor>"The refugees look at these structures with hope. We must relieve them of this burden."
+—Juex, tormentor exarch</Flavor>
+<ChineseFlavor>「避难者把希望放在这些构造物上。 我们必须帮忙解除这负担。」
+～折磨督教朱业</ChineseFlavor>
+<Artist>Jung Park</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>227549</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>100</No>
+<Name>Volt Charge</Name>
+<ChineseName>电压冲锋</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{R}</ManaCost>
+<CardText>Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</CardText>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214381</Multiverseid>
+<Rulings>2011/06/01: If the permanent or player is an illegal target when Volt Charge tries to resolve, it won't resolve and none of its effects will happen. You won't proliferate.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>101</No>
+<Name>Vulshok Refugee</Name>
+<ChineseName>瓦许克避难者</ChineseName>
+<Type>Creature — Human Warrior 3/2</Type>
+<ManaCost>{1}{R}{R}</ManaCost>
+<CardText>Protection from red</CardText>
+<Flavor>"I will carve my people's vengeance on the face of Phyrexia."</Flavor>
+<ChineseFlavor>「我将把族人的复仇刻在非瑞克西亚脸上。」</ChineseFlavor>
+<Artist>Wayne Reynolds</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218038</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>102</No>
+<Name>Whipflare</Name>
+<ChineseName>鞭扫火光</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{1}{R}</ManaCost>
+<CardText>Whipflare deals 2 damage to each nonartifact creature.</CardText>
+<Flavor>The slag-workers wasted no time in creating their own flare pulses to cleanse the area of the *incompleat*.</Flavor>
+<ChineseFlavor>熔渣工人很快就创出火焰脉动，用来清理未完化者的区域。</ChineseFlavor>
+<Artist>Johann Bodin</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>194383</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>103</No>
+<Name>Beast Within</Name>
+<ChineseName>体内野兽</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Destroy target permanent. Its controller creates a 3/3 green Beast creature token.</CardText>
+<Flavor>"Kill the weak so they can't drag the strong down to their level. This is true compassion."
+—Benzir, archdruid of Temple Might</Flavor>
+<ChineseFlavor>「把弱者杀掉，免得拖累强者。 这才是真正的慈悲。」
+～力量神殿高位德鲁伊班极</ChineseFlavor>
+<Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>221533</Multiverseid>
+<Rulings>2013/07/01: If the permanent is still a legal target but is not destroyed (perhaps because it regenerated or has indestructible), its controller still gets the Beast token.
+2021/03/19: If the target permanent is an illegal target by the time Beast Within tries to resolve, the spell won't resolve. No player creates a Beast token. If the target is legal but not destroyed (most likely because it has indestructible), its controller does create a Beast token.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>104</No>
+<Name>Birthing Pod</Name>
+<ChineseName>诞生荚</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}{G/P}</ManaCost>
+<CardText>({G/P} can be paid with either {G} or 2 life.)
+{1}{G/P}, {T}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.</CardText>
+<Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218006</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the mana value of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.
+2011/06/01: A creature's mana value is determined solely by the mana symbols printed in its upper right corner (unless that creature is copying something else; see below). If its mana cost includes {X}, X is considered to be 0. If it has no mana symbols in its upper right corner (because it's an animated land, for example), its mana value is 0. Ignore any alternative costs or additional costs (such as kicker) paid when the creature was cast.
+2011/06/01: A token has a mana value of 0, unless it is copying something else.
+2011/06/01: If a creature is copying something else, its mana value is the mana value of whatever it's copying.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Banned</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>105</No>
+<Name>Brutalizer Exarch</Name>
+<ChineseName>蛮横督教</ChineseName>
+<Type>Creature — Phyrexian Cleric 3/3</Type>
+<ManaCost>{5}{G}</ManaCost>
+<CardText>When Brutalizer Exarch enters the battlefield, choose one —
+• Search your library for a creature card, reveal it, then shuffle and put that card on top.
+• Put target noncreature permanent on the bottom of its owner's library.</CardText>
+<Artist>Mark Zug</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217998</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>106</No>
+<Name>Chancellor of the Tangle</Name>
+<ChineseName>铬铜林督长</ChineseName>
+<Type>Creature — Phyrexian Beast 6/7</Type>
+<ManaCost>{4}{G}{G}{G}</ManaCost>
+<CardText>You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {G}.
+Vigilance, reach</CardText>
+<Artist>Steve Prescott</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218062</Multiverseid>
+<Rulings>2021/03/19: A player's "opening hand" is the hand of cards the player has after all players have taken mulligans. If players have any cards in hand that allow actions to be taken with them from a player's opening hand, the starting player takes all such actions first in any order, followed by each other player in turn order. Then the first turn begins.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>107</No>
+<Name>Corrosive Gale</Name>
+<ChineseName>腐蚀狂风</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{X}{G/P}</ManaCost>
+<CardText>({G/P} can be paid with either {G} or 2 life.)
+Corrosive Gale deals X damage to each creature with flying.</CardText>
+<Flavor>"Wipe Sheoldred's spies from the sky. She'll see the result of our vision soon enough."
+—Glissa</Flavor>
+<ChineseFlavor>「把希欧蕊在天上的眼线全打下。 她很快就能看到我们的预视结果。」
+～格莉莎</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230075</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>108</No>
+<Name>Death-Hood Cobra</Name>
+<ChineseName>亡者头套眼镜蛇</ChineseName>
+<Type>Creature — Phyrexian Snake 2/2</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>{1}{G}: Death-Hood Cobra gains reach until end of turn.
+{1}{G}: Death-Hood Cobra gains deathtouch until end of turn.</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233065</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>109</No>
+<Name>Fresh Meat</Name>
+<ChineseName>鲜肉</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>Create a 3/3 green Beast creature token for each creature put into your graveyard from the battlefield this turn.</CardText>
+<Flavor>A scavenger's favorite appetizer is death.</Flavor>
+<ChineseFlavor>腐食者最爱的前菜就是死亡。</ChineseFlavor>
+<Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218051</Multiverseid>
+<Rulings>2011/06/01: Fresh Meat counts all creatures you owned that went to the graveyard this turn, including creature tokens that entered the battlefield under your control and nontoken creatures you owned but didn't control.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>110</No>
+<Name>Glissa's Scorn</Name>
+<ChineseName>格莉莎的轻蔑</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Destroy target artifact. Its controller loses 1 life.</CardText>
+<Flavor>"If it were fit to survive, it wouldn't have been so easily put down."
+—Glissa</Flavor>
+<ChineseFlavor>「如果它该活着，就不该那么容易给打烂。」
+～格莉莎</ChineseFlavor>
+<Artist>Nils Hamm</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>194171</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>111</No>
+<Name>Glistener Elf</Name>
+<ChineseName>油亮妖精</ChineseName>
+<Type>Creature — Phyrexian Elf Warrior 1/1</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>"Beg me for life, and I will fill you with the glory of Phyrexian perfection."</Flavor>
+<ChineseFlavor>「向我乞命吧，我会让非瑞克西亚的完美盈满你身。」</ChineseFlavor>
+<Artist>Steve Argyle</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233052</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>112</No>
+<Name>Greenhilt Trainee</Name>
+<ChineseName>碧柄学员</ChineseName>
+<Type>Creature — Elf Warrior 2/3</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>{T}: Target creature gets +4/+4 until end of turn. Activate only if Greenhilt Trainee's power is 4 or greater.</CardText>
+<Flavor>"Our ancestors adapted to this world of metal. Just as they did, we will adapt to this world of evil."</Flavor>
+<ChineseFlavor>「我们的祖先适应了这金属世界。 而我们将同样地适应这邪恶世界。」</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>233063</Multiverseid>
+<Rulings>2011/06/01: Once Greenhilt Trainee's ability is activated, it will resolve as normal even if Greenhilt Trainee's power is less than 4 at that time (perhaps because an Equipment attached to it was destroyed).</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>113</No>
+<Name>Leeching Bite</Name>
+<ChineseName>吸食啮咬</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.</CardText>
+<Flavor>A substantial portion of Vorinclex's forces became fuel for the rest.</Flavor>
+<ChineseFlavor>弗霖凯的势力有很大一部份成为另一部份的燃料。</ChineseFlavor>
+<Artist>Cos Koniotis</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218028</Multiverseid>
+<Rulings>2011/06/01: You need to be able to choose two different target creatures in order to cast Leeching Bite.
+2011/06/01: If only one of the targeted creatures is still a legal target when Leeching Bite tries to resolve, that creature will still be affected, but the illegal target won't be.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>114</No>
+<Name>Maul Splicer</Name>
+<ChineseName>殴击接合师</ChineseName>
+<Type>Creature — Phyrexian Human Artificer 1/1</Type>
+<ManaCost>{6}{G}</ManaCost>
+<CardText>When Maul Splicer enters the battlefield, create two 3/3 colorless Phyrexian Golem artifact creature tokens.
+Golem creatures you control have trample.</CardText>
+<Artist>Jason Chan</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233040</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>115</No>
+<Name>Melira, Sylvok Outcast</Name>
+<ChineseName>希沃克黜人梅梨莱</ChineseName>
+<Type>Legendary Creature — Human Scout 2/2</Type>
+<ManaCost>{1}{G}</ManaCost>
+<CardText>You can't get poison counters.
+Creatures you control can't have -1/-1 counters put on them.
+Creatures your opponents control lose infect.</CardText>
+<Flavor>Once a pariah, now Mirrodin's greatest hope.</Flavor>
+<ChineseFlavor>曾是贱民，现为秘罗地最大希望。</ChineseFlavor>
+<Artist>Min Yum</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>194274</Multiverseid>
+<Rulings>2011/06/01: Melira doesn't remove any poison counters you already have or any -1/-1 counters already on creatures you control.
+2011/06/01: Damage dealt to planeswalkers you control causes loyalty counters to be removed from them, regardless of whether Melira is on the battlefield.
+2011/06/01: If a creature with infect enters the battlefield under an opponent's control after Melira enters the battlefield, that creature loses infect.
+2011/06/01: It's possible for a creature an opponent controls to gain infect after Melira enters the battlefield. For example, your opponent could cast Glistening Oil on a creature, and then Melira's ability and Glistening Oil's ability would be applied in timestamp order, with the most recent effect winning. The damage dealt to you by such a creature won't result in you losing life (because the creature has infect) or in you getting poison counters (because Melira stops them). Similarly, damage dealt to a creature you control by such a creature won't result in damage being marked on the creature or in -1/-1 counters. However, abilities that check whether damage was dealt (such as lifelink or Whispering Specter's triggered ability) will still see that damage.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>116</No>
+<Name>Mutagenic Growth</Name>
+<ChineseName>生体突长</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G/P}</ManaCost>
+<CardText>({G/P} can be paid with either {G} or 2 life.)
+Target creature gets +2/+2 until end of turn.</CardText>
+<Flavor>"Sympathy is for weaklings. Whoever survives, wins."
+—Benzir, archdruid of Temple Might</Flavor>
+<ChineseFlavor>「弱者才会同情。 生存者就是胜者。」
+～力量神殿高位德鲁伊班极</ChineseFlavor>
+<Artist>Dave Kendall</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233070</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>117</No>
+<Name>Mycosynth Fiend</Name>
+<ChineseName>构生菌邪鬼</ChineseName>
+<Type>Creature — Phyrexian Horror 2/2</Type>
+<ManaCost>{2}{G}</ManaCost>
+<CardText>Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.</CardText>
+<Flavor>"I wish I could take credit for it, but nature progresses on its own, just the way it should."
+—Vorinclex, Voice of Hunger</Flavor>
+<ChineseFlavor>「我希望能说这是我的成就，但大自然一如应为地有着自己的进展。」
+～饥饿之声弗霖凯</ChineseFlavor>
+<Artist>Kev Walker</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217995</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>118</No>
+<Name>Noxious Revival</Name>
+<ChineseName>恶毒复生</ChineseName>
+<Type>Instant</Type>
+<ManaCost>{G/P}</ManaCost>
+<CardText>({G/P} can be paid with either {G} or 2 life.)
+Put target card from a graveyard on top of its owner's library.</CardText>
+<Flavor>"Dead or alive, my creations are stronger than Jin-Gitaxias's septic minions."
+—Vorinclex, Voice of Hunger</Flavor>
+<ChineseFlavor>「不论死活，我的创作都比金吉塔厦的败血仆从更加强大。」
+～饥饿之声弗霖凯</ChineseFlavor>
+<Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230067</Multiverseid>
+<Rulings>2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>119</No>
+<Name>Phyrexian Swarmlord</Name>
+<ChineseName>非瑞克西亚群长</ChineseName>
+<Type>Creature — Phyrexian Insect Horror 4/4</Type>
+<ManaCost>{4}{G}{G}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+At the beginning of your upkeep, create a 1/1 green Phyrexian Insect creature token with infect for each poison counter your opponents have.</CardText>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218086</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>120</No>
+<Name>Rotted Hystrix</Name>
+<ChineseName>腐坏希基兽</ChineseName>
+<Type>Creature — Phyrexian Beast 3/6</Type>
+<ManaCost>{4}{G}</ManaCost>
+<Flavor>Vorinclex had no grand plan. The oil did its own work, evolving creatures into worthy predators.</Flavor>
+<ChineseFlavor>弗霖凯没什么远大计划。 一切都是烁油的影响，让生物演化成够格的掠食者。</ChineseFlavor>
+<Artist>Dave Allsop</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233064</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>121</No>
+<Name>Spinebiter</Name>
+<ChineseName>嚼脊兽</ChineseName>
+<Type>Creature — Phyrexian Beast 3/4</Type>
+<ManaCost>{4}{G}{G}</ManaCost>
+<CardText>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+You may have Spinebiter assign its combat damage as though it weren't blocked.</CardText>
+<Artist>Jaime Jones</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230068</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>122</No>
+<Name>Thundering Tanadon</Name>
+<ChineseName>雷动踏蹬兽</ChineseName>
+<Type>Artifact Creature — Phyrexian Beast 5/4</Type>
+<ManaCost>{4}{G/P}{G/P}</ManaCost>
+<CardText>({G/P} can be paid with either {G} or 2 life.)
+Trample</CardText>
+<Flavor>"We do not need beakers and vials to test our predators."
+—Vorinclex, Voice of Hunger</Flavor>
+<ChineseFlavor>「我们不靠烧杯与瓶子来测试掠食者。」
+～饥饿之声弗霖凯</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218077</Multiverseid>
+<Rulings>2011/06/01: To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1.
+2011/06/01: A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid.
+2011/06/01: As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X.
+2011/06/01: If you're at 1 life or less, you can't pay 2 life.
+2011/06/01: Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>123</No>
+<Name>Triumph of the Hordes</Name>
+<ChineseName>大军获胜</ChineseName>
+<Type>Sorcery</Type>
+<ManaCost>{2}{G}{G}</ManaCost>
+<CardText>Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Artist>Izzy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218044</Multiverseid>
+<Rulings>2011/06/01: Multiple instances of infect are redundant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>124</No>
+<Name>Viridian Betrayers</Name>
+<ChineseName>暗碧族叛徒</ChineseName>
+<Type>Creature — Phyrexian Elf Warrior 3/1</Type>
+<ManaCost>{1}{G}{G}</ManaCost>
+<CardText>Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Flavor>To secure a place in Phyrexia's ranks, they hunted their surviving kin.</Flavor>
+<ChineseFlavor>为了在非瑞克西亚保住地位，他们得猎捕自己还活着的族人。</ChineseFlavor>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214390</Multiverseid>
+<Rulings>2011/06/01: A player is poisoned if that player has one or more poison counters.
+2011/06/01: The player must be poisoned when Viridian Betrayers deals damage in order for Viridian Betrayers to have infect. If the player has no poison counters, damage dealt to that player by Viridian Betrayers will result in loss of life, even if it's dealt at the same time as damage from another creature with infect.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>125</No>
+<Name>Viridian Harvest</Name>
+<ChineseName>暗碧族收获</ChineseName>
+<Type>Enchantment — Aura</Type>
+<ManaCost>{G}</ManaCost>
+<CardText>Enchant artifact
+When enchanted artifact is put into a graveyard, you gain 6 life.</CardText>
+<Flavor>"In the midst of horror beyond imagining, I still see things that lift my heart."
+—Ezuri</Flavor>
+<ChineseFlavor>「在超乎想像的恶境之中，依旧能见到昂扬我心的事物。」
+～伊祖黎</ChineseFlavor>
+<Artist>Johann Bodin</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>214388</Multiverseid>
+<Rulings>2011/06/01: If the enchanted artifact and Viridian Harvest are put into the graveyard at the same time, you'll still gain 6 life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>126</No>
+<Name>Vital Splicer</Name>
+<ChineseName>活力接合师</ChineseName>
+<Type>Creature — Phyrexian Human Artificer 1/1</Type>
+<ManaCost>{3}{G}</ManaCost>
+<CardText>When Vital Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.
+{1}: Regenerate target Golem you control.</CardText>
+<Flavor>"For every one that falls, ten shall rise. The revelation of New Phyrexia is at hand."
+—Vorinclex, Voice of Hunger</Flavor>
+<ChineseFlavor>「每倒下一个，就会站起十个。 新非瑞克西亚的景象即将开展眼前。」
+～饥饿之声弗霖凯</ChineseFlavor>
+<Artist>Daarken</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233079</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>127</No>
+<Name>Vorinclex, Voice of Hunger</Name>
+<ChineseName>饥饿之声弗霖凯</ChineseName>
+<Type>Legendary Creature — Phyrexian Praetor 7/6</Type>
+<ManaCost>{6}{G}{G}</ManaCost>
+<CardText>Trample
+Whenever you tap a land for mana, add one mana of any type that land produced.
+Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218002</Multiverseid>
+<Rulings>2017/11/17: The types of mana are white, blue, black, red, green, and colorless.
+2017/11/17: If a land you control produces multiple mana of more than one type, Vorinclex's first triggered ability adds one mana of only one of those types. You choose which of those types it adds.
+2017/11/17: If Vorinclex leaves the battlefield after its second ability has triggered, that ability still resolves and the affected land won't untap during its controller's next untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>128</No>
+<Name>Jor Kadeen, the Prevailer</Name>
+<ChineseName>百胜尤克定</ChineseName>
+<Type>Legendary Creature — Human Warrior 5/4</Type>
+<ManaCost>{3}{R}{W}</ManaCost>
+<CardText>First strike
+Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.</CardText>
+<Flavor>"As long as my hand holds a blade, there's hope for a pure Mirrodin once again."</Flavor>
+<ChineseFlavor>「只要我手上握着剑，就有希望再见到纯净秘罗地。」</ChineseFlavor>
+<Artist>Austin Hsu</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>227508</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>129</No>
+<Name>Alloy Myr</Name>
+<ChineseName>合金秘耳</ChineseName>
+<Type>Artifact Creature — Myr 2/2</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{T}: Add one mana of any color.</CardText>
+<Flavor>With or without witnesses, the suns continued their prismatic dance.</Flavor>
+<ChineseFlavor>不论有没有人张望，五阳依旧多彩舞动着。</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>214344</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>130</No>
+<Name>Batterskull</Name>
+<ChineseName>颅击槌</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +4/+4 and has vigilance and lifelink.
+{3}: Return Batterskull to its owner's hand.
+Equip {5}</CardText>
+<Artist>Mark Zug</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233055</Multiverseid>
+<Rulings>2020/08/07: The ability to return Batterskull to its owner's hand can be activated only if Batterskull is on the battlefield. If Batterskull is no longer on the battlefield when the ability resolves, Batterskull remains in its new zone and isn't returned to its owner's hand.
+2020/08/07: The Germ token enters the battlefield as a 0/0 creature and the Equipment becomes attached to it before state-based actions would cause the token to die. Abilities that trigger as the token enters the battlefield see that a 0/0 creature entered the battlefield.
+2020/08/07: Like other Equipment, each Equipment with living weapon has an equip cost. You can pay this cost to attach an Equipment to another creature you control. Once the Germ token is no longer equipped, it will be put into your graveyard and subsequently cease to exist, unless another effect raises its toughness above 0.
+2020/08/07: If the Germ token is destroyed, the Equipment remains on the battlefield as with any other Equipment.
+2020/08/07: If the living weapon trigger causes two Germs to be created (due to an effect such as that of Doubling Season), the Equipment becomes attached to one of them. The other will be put into your graveyard and subsequently cease to exist, unless another effect raises its toughness above 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>131</No>
+<Name>Blinding Souleater</Name>
+<ChineseName>眩目食灵妖</ChineseName>
+<Type>Artifact Creature — Phyrexian Cleric 1/3</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{W/P}, {T}: Tap target creature. ({W/P} can be paid with either {W} or 2 life.)</CardText>
+<Flavor>"We thank the souleaters for inscribing our souls with subservience, to reinforce the sacred order."
+—Drones' hymn of gratitude</Flavor>
+<ChineseFlavor>「感谢食灵妖驯化灵魂，巩固神圣秩序。」
+～奴工感念曲</ChineseFlavor>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233045</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>132</No>
+<Name>Caged Sun</Name>
+<ChineseName>遭囚太阳</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>As Caged Sun enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+1.
+Whenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color.</CardText>
+<Artist>Scott Chou</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>214345</Multiverseid>
+<Rulings>2011/06/01: Caged Sun's triggered ability is a mana ability, which means the ability doesn't use the stack and can't be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>133</No>
+<Name>Conversion Chamber</Name>
+<ChineseName>转化室</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{2}, {T}: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.
+{2}, {T}, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Phyrexian Golem artifact creature token.</CardText>
+<Artist>Anthony Francisco</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>230070</Multiverseid>
+<Rulings>2011/06/01: If the targeted artifact card is no longer in the graveyard when the first ability tries to resolve, it won't resolve and none of its effects will happen. You won't put a charge counter on Conversion Chamber.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>134</No>
+<Name>Darksteel Relic</Name>
+<ChineseName>玄铁遗宝</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{0}</ManaCost>
+<CardText>Indestructible (Effects that say "destroy" don't destroy this artifact.)</CardText>
+<Flavor>"It's the last thing we can call our own."
+—Minhu, Mirran resistance</Flavor>
+<ChineseFlavor>「这是最后一个属于我们的东西。」
+～秘罗志士敏户</ChineseFlavor>
+<Artist>Daniel Ljunggren</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218067</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>135</No>
+<Name>Etched Monstrosity</Name>
+<ChineseName>蚀刻巨兽</ChineseName>
+<Type>Artifact Creature — Phyrexian Golem 10/10</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>Etched Monstrosity enters the battlefield with five -1/-1 counters on it.
+{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.</CardText>
+<Flavor>Now etched only with the scars of phyresis.</Flavor>
+<ChineseFlavor>非瑞化的痕迹是上面仅存的蚀刻。</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217996</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>136</No>
+<Name>Gremlin Mine</Name>
+<ChineseName>怪灵地雷</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>{1}, {T}, Sacrifice Gremlin Mine: It deals 4 damage to target artifact creature.
+{1}, {T}, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.</CardText>
+<Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218068</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>137</No>
+<Name>Hex Parasite</Name>
+<ChineseName>邪术寄生虫</ChineseName>
+<Type>Artifact Creature — Phyrexian Insect 1/1</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>{X}{B/P}: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. ({B/P} can be paid with either {B} or 2 life.)</CardText>
+<Flavor>Drawn by power, fueled by conquest.</Flavor>
+<ChineseFlavor>为力量吸引，因获物壮大。</ChineseFlavor>
+<Artist>Raymond Swanland</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218008</Multiverseid>
+<Rulings>2011/06/01: You may choose a value for X that's greater than the number of counters on the targeted permanent. However, Hex Parasite only gets the bonus for counters actually removed.
+2011/06/01: If the permanent has multiple kinds of counters, you choose how many of each to remove when the ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>138</No>
+<Name>Hovermyr</Name>
+<ChineseName>浮空秘耳</ChineseName>
+<Type>Artifact Creature — Myr 1/2</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Flying, vigilance</CardText>
+<Flavor>Originally created to harvest blinkmoths, the hovermyr are now the silent observers of a dying world.</Flavor>
+<ChineseFlavor>浮空秘耳原本是造来采集光蛾，现在则无声观察这濒亡世界。</ChineseFlavor>
+<Artist>Dan Scott</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>227513</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>139</No>
+<Name>Immolating Souleater</Name>
+<ChineseName>燃焰食灵妖</ChineseName>
+<Type>Artifact Creature — Phyrexian Dog 1/1</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{R/P}: Immolating Souleater gets +1/+0 until end of turn. ({R/P} can be paid with either {R} or 2 life.)</CardText>
+<Flavor>"We thank the souleaters for melting the sinful that we may be reminded of our own insignificance."
+—Drones' hymn of gratitude</Flavor>
+<ChineseFlavor>「感谢食灵妖融却罪人，点醒渺小吾辈。」
+～奴工感念曲</ChineseFlavor>
+<Artist>Austin Hsu</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233058</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>140</No>
+<Name>Insatiable Souleater</Name>
+<ChineseName>无餍食灵妖</ChineseName>
+<Type>Artifact Creature — Phyrexian Beast 5/1</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>{G/P}: Insatiable Souleater gains trample until end of turn. ({G/P} can be paid with either {G} or 2 life.)</CardText>
+<Flavor>"We thank the souleaters for culling our sick so that the strong may earn their triumphs."
+—Drones' hymn of gratitude</Flavor>
+<ChineseFlavor>「感谢食灵妖淘汰病弱，激励强者求胜。」
+～奴工感念曲</ChineseFlavor>
+<Artist>Dave Kendall</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233066</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>141</No>
+<Name>Isolation Cell</Name>
+<ChineseName>独囚室</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Whenever an opponent casts a creature spell, that player loses 2 life unless they pay {2}.</CardText>
+<Flavor>"Attrition is the answer. Starve them, and let their despair be their undoing."
+—Sheoldred, Whispering One</Flavor>
+<ChineseFlavor>「耗损就是解决之道。 让他们饥饿，再使他们因绝望而自灭。」
+～细语者希欧蕊</ChineseFlavor>
+<Artist>Adrian Smith</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218057</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>142</No>
+<Name>Kiln Walker</Name>
+<ChineseName>火炉行者</ChineseName>
+<Type>Artifact Creature — Phyrexian Construct 0/3</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.</CardText>
+<Flavor>If it possesses an ability to understand and appreciate life, it has never shown it.</Flavor>
+<ChineseFlavor>如果它具有了解、欣赏生命的能力，那就是它从未表现出来。</ChineseFlavor>
+<Artist>Volkan Baǵa</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214380</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>143</No>
+<Name>Lashwrithe</Name>
+<ChineseName>翻腾鞭</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +1/+1 for each Swamp you control.
+Equip {B/P}{B/P} ({B/P} can be paid with either {B} or 2 life.)</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214359</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>144</No>
+<Name>Mindcrank</Name>
+<ChineseName>凿灵钻</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)</CardText>
+<Flavor>"Let go of your memories and be reborn."
+—Argent Etchings, plate 106, passage 27</Flavor>
+<ChineseFlavor>「抛下你的回忆，拥抱重生。」
+～《银蚀圣典》106片27段</ChineseFlavor>
+<Artist>Chris Rahn</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233078</Multiverseid>
+<Rulings>2017/11/17: Damage dealt to an opponent usually causes that opponent to lose life. An opponent paying life also causes loss of life.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>145</No>
+<Name>Mycosynth Wellspring</Name>
+<ChineseName>构生菌涌泉</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</CardText>
+<Flavor>The oil created the mycosynth. The mycosynth created New Phyrexia.</Flavor>
+<ChineseFlavor>烁油带来构生菌。 构生菌带来新非瑞克西亚。</ChineseFlavor>
+<Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218039</Multiverseid>
+<Rulings>2011/06/01: The ability will trigger when Mycosynth Wellspring is put into a graveyard from the battlefield, even if the ability that triggered when it entered the battlefield hasn't resolved yet.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>146</No>
+<Name>Myr Superion</Name>
+<ChineseName>精壮秘耳</ChineseName>
+<Type>Artifact Creature — Myr 5/6</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Spend only mana produced by creatures to cast this spell.</CardText>
+<Flavor>Two kinds of myr survive: the powerful and those that stay close by them.</Flavor>
+<ChineseFlavor>能存活的秘耳有两种：强大的，以及待在前者左右的。</ChineseFlavor>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>194275</Multiverseid>
+<Rulings>2011/06/01: Myr Superion can be cast only with mana produced by the abilities of one or more creatures on the battlefield (such as Alloy Myr or Priest of Urabrask in this set).
+2011/06/01: Mana produced by abilities of creature cards not on the battlefield, such as Chancellor of the Tangle or Elvish Spirit Guide, can't be used to cast Myr Superion.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>147</No>
+<Name>Necropouncer</Name>
+<ChineseName>袭杀装</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +3/+1 and has haste.
+Equip {2}</CardText>
+<Artist>Cos Koniotis</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214367</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>148</No>
+<Name>Omen Machine</Name>
+<ChineseName>预兆机械</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>Players can't draw cards.
+At the beginning of each player's draw step, that player exiles the top card of their library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.</CardText>
+<Artist>David Rapoza</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233042</Multiverseid>
+<Rulings>2011/06/01: Putting the land onto the battlefield or casting the card is not optional.
+2011/06/01: If the player is unable to put the land onto the battlefield (this is rare) or cast the spell (perhaps because there are no legal targets available) as the triggered ability of Omen Machine resolves, the card simply remains in exile.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>149</No>
+<Name>Pestilent Souleater</Name>
+<ChineseName>瘟疫食灵妖</ChineseName>
+<Type>Artifact Creature — Phyrexian Insect 3/3</Type>
+<ManaCost>{5}</ManaCost>
+<CardText>{B/P}: Pestilent Souleater gains infect until end of turn. ({B/P} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</CardText>
+<Artist>Matt Stewart</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233085</Multiverseid>
+<Rulings>2011/06/01: Multiple instances of infect are redundant.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>150</No>
+<Name>Phyrexian Hulk</Name>
+<ChineseName>非瑞克西亚巨汉</ChineseName>
+<Type>Artifact Creature — Phyrexian Golem 5/4</Type>
+<ManaCost>{6}</ManaCost>
+<Flavor>An invasion weapon of ages past, the glistening oil contained the blueprints of countless atrocities.</Flavor>
+<ChineseFlavor>烁油是年代久远的侵略武器，包含着无数的丑恶蓝图。</ChineseFlavor>
+<Artist>Steven Belledin</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214379</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>151</No>
+<Name>Pristine Talisman</Name>
+<ChineseName>纯净饰符</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{T}: Add {C}. You gain 1 life.</CardText>
+<Flavor>"Tools and artisans can be destroyed, but the act of creation is inviolate."
+—Elspeth Tirel</Flavor>
+<ChineseFlavor>「工具与工匠可能会毁灭，但创作此行为将生生不息。」
+～艾紫培提瑞</ChineseFlavor>
+<Artist>Matt Cavotta</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>233074</Multiverseid>
+<Rulings>2011/06/01: Pristine Talisman has a mana ability. Its ability doesn't use the stack and can't be responded to.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>152</No>
+<Name>Shrine of Boundless Growth</Name>
+<ChineseName>不息成长祭祠</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.
+{T}, Sacrifice Shrine of Boundless Growth: Add {C} for each charge counter on Shrine of Boundless Growth.</CardText>
+<Artist>Karl Kopinski</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217982</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>153</No>
+<Name>Shrine of Burning Rage</Name>
+<ChineseName>火热愤怒祭祠</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
+{3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.</CardText>
+<Artist>Dave Kendall</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218018</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>154</No>
+<Name>Shrine of Limitless Power</Name>
+<ChineseName>无尽力量祭祠</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power.
+{4}, {T}, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.</CardText>
+<Artist>Min Yum</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217980</Multiverseid>
+<Rulings>2011/06/01: Unlike most abilities that force a player to discard cards, this ability may be activated whenever you could cast an instant, including during your opponent's draw step after they have drawn a card.
+2011/06/01: You can't force an opponent to discard a card they cast by activating the last ability in response. The spell is on the stack by then.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>155</No>
+<Name>Shrine of Loyal Legions</Name>
+<ChineseName>忠贞军团祭祠</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
+{3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Phyrexian Myr artifact creature token for each charge counter on Shrine of Loyal Legions.</CardText>
+<Artist>Igor Kieryluk</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>206347</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>156</No>
+<Name>Shrine of Piercing Vision</Name>
+<ChineseName>锐利视线祭祠</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision.
+{T}, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.</CardText>
+<Artist>Jana Schirmer & Johannes Voss</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>194318</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>157</No>
+<Name>Sickleslicer</Name>
+<ChineseName>镰切装</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +2/+2.
+Equip {4}</CardText>
+<Artist>Jason Felix</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>214357</Multiverseid>
+<Rulings>2020/08/07: The Germ token enters the battlefield as a 0/0 creature and the Equipment becomes attached to it before state-based actions would cause the token to die. Abilities that trigger as the token enters the battlefield see that a 0/0 creature entered the battlefield.
+2020/08/07: Like other Equipment, each Equipment with living weapon has an equip cost. You can pay this cost to attach an Equipment to another creature you control. Once the Germ token is no longer equipped, it will be put into your graveyard and subsequently cease to exist, unless another effect raises its toughness above 0.
+2020/08/07: If the Germ token is destroyed, the Equipment remains on the battlefield as with any other Equipment.
+2020/08/07: If the living weapon trigger causes two Germs to be created (due to an effect such as that of Doubling Season), the Equipment becomes attached to one of them. The other will be put into your graveyard and subsequently cease to exist, unless another effect raises its toughness above 0.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>158</No>
+<Name>Soul Conduit</Name>
+<ChineseName>灵魂渠道</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{6}</ManaCost>
+<CardText>{6}, {T}: Two target players exchange life totals.</CardText>
+<Flavor>"You have an unhealthy attachment to your selfhood. I can help you with that."
+—Malcator, Executor of Synthesis</Flavor>
+<ChineseFlavor>「你的自我有着不健康的附加物。 我可以帮得上忙。」
+～合成执行人麻卡特</ChineseFlavor>
+<Artist>Brad Rigney</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233048</Multiverseid>
+<Rulings>2011/06/01: If one of the targeted players is an illegal target when the activated ability tries to resolve, the exchange won't happen. Neither player's life total will change.
+2011/06/01: When the life totals are exchanged, each player gains or loses the amount of life necessary to equal the other player's previous life total. For example, if Player A has 5 life and Player B has 3 life before the exchange, Player A will lose 2 life and Player B will gain 2 life. Replacement effects may modify these gains and losses, and triggered abilities may trigger on them.
+2011/06/01: If a player can't gain life, that player can't exchange life totals with a player with a higher life total. If a player can't lose life, that player can't exchange life totals with a player with a lower life total. In either of these cases, neither player's life total will change.
+2011/06/01: In a Two-Headed Giant game, each player is considered to have the same life total as their team. If the two targeted players are on different teams, the teams will end up exchanging life totals. If the two targeted players are teammates, nothing will happen.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>159</No>
+<Name>Spellskite</Name>
+<ChineseName>蔑咒兽</ChineseName>
+<Type>Artifact Creature — Phyrexian Horror 0/4</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>{U/P}: Change a target of target spell or ability to Spellskite. ({U/P} can be paid with either {U} or 2 life.)</CardText>
+<Flavor>"Let's show Vorinclex that progress doesn't always need teeth or claws."
+—Malcator, Executor of Synthesis</Flavor>
+<ChineseFlavor>「让弗霖凯瞧瞧，进展不一定需要尖牙利爪。」
+～合成执行人麻卡特</ChineseFlavor>
+<Artist>Chippy</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>217992</Multiverseid>
+<Rulings>2020/08/07: You can activate Spellskite's ability even if Spellskite isn't a legal target for the target spell or ability—or even if that spell or ability has no targets. In this case, no targets are changed.
+2020/08/07: If Spellskite leaves the battlefield before its ability resolves or otherwise becomes an illegal target for the target spell or ability before its ability resolves, no targets are changed.
+2020/08/07: If changing one target of a spell or ability to Spellskite would make other targets of that spell or ability illegal, that target can't be changed to Spellskite.
+2020/08/07: If the spell or ability has multiple instances of the word "target," you choose which one target you're changing to Spellskite as Spellskite's ability resolves.
+2020/08/07: If a spell or ability has multiple targets but doesn't use the word "target" multiple times, such as the ability of Deepglow Skate, you can only change one of the targets to Spellskite.
+2020/08/07: If a spell or ability has a variable number of targets, you can't change the number of targets.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>160</No>
+<Name>Surge Node</Name>
+<ChineseName>翻腾节点</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{1}</ManaCost>
+<CardText>Surge Node enters the battlefield with six charge counters on it.
+{1}, {T}, Remove a charge counter from Surge Node: Put a charge counter on target artifact.</CardText>
+<Flavor>Without a foe to focus on, the machine priests had time to indulge in new sciences.</Flavor>
+<ChineseFlavor>没有仇敌可供投注精力，机械牧师便有时间沉迷于新科学。</ChineseFlavor>
+<Artist>Lars Grant-West</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>194070</Multiverseid>
+<Rulings>2020/08/07: Surge Node can be the target of its own activated ability. Because it doesn't "move" a counter, the ability will remove a counter from Surge Node and then put one onto it.
+2020/08/07: Once Surge Node has run out of charge counters, it remains on the battlefield.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>161</No>
+<Name>Sword of War and Peace</Name>
+<ChineseName>战宁剑</ChineseName>
+<Type>Artifact — Equipment</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>Equipped creature gets +2/+2 and has protection from red and from white.
+Whenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in their hand and you gain 1 life for each card in your hand.
+Equip {2}</CardText>
+<Artist>Chris Rahn</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>214368</Multiverseid>
+<Rulings>2011/06/01: You count the cards in the each player's hand when the triggered ability resolves.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Mythic Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>162</No>
+<Name>Torpor Orb</Name>
+<ChineseName>迟钝法球</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{2}</ManaCost>
+<CardText>Creatures entering the battlefield don't cause abilities to trigger.</CardText>
+<Flavor>"Phyrexia is certainly dangerous, but I have to admire some of its innovations."
+—Tezzeret</Flavor>
+<ChineseFlavor>「非瑞克西亚当然危险之至，但某些创新确实令我赞许。」
+～泰兹瑞</ChineseFlavor>
+<Artist>Svetlin Velinov</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233069</Multiverseid>
+<Rulings>2011/06/01: Torpor Orb stops a creature's own enters-the-battlefield triggered abilities as well as other triggered abilities that would trigger when a creature enters the battlefield.
+2011/06/01: The trigger event doesn't have to specify "creatures" entering the battlefield. For example, Amulet of Vigor says "Whenever a permanent enters the battlefield tapped and under your control, untap it." If a creature enters the battlefield tapped and under your control, Amulet of Vigor would not trigger. If a land (that isn't also a creature) enters the battlefield tapped and under your control, Amulet of Vigor would trigger.
+2011/06/01: Abilities that create replacement effects, such as a permanent entering the battlefield tapped or with counters on it, are unaffected.
+2011/06/01: Abilities that apply "as [this creature] enters the battlefield," such as choosing a creature to copy with Clone, are unaffected.
+2011/06/01: Look at the permanent as it exists on the battlefield, taking into account continuous effects, to determine whether any triggered abilities will trigger. For example, if you control March of the Machines, which says, in part, "Each noncreature artifact is an artifact creature," Torpor Orb will be a creature when it enters the battlefield and will not cause triggered abilities to trigger.
+2011/06/01: If Torpor Orb and a creature enter the battlefield at the same time, that creature entering the battlefield won't cause triggered abilities to trigger.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>163</No>
+<Name>Trespassing Souleater</Name>
+<ChineseName>入侵食灵妖</ChineseName>
+<Type>Artifact Creature — Phyrexian Construct 2/2</Type>
+<ManaCost>{3}</ManaCost>
+<CardText>{U/P}: Trespassing Souleater can't be blocked this turn. ({U/P} can be paid with either {U} or 2 life.)</CardText>
+<Flavor>"We thank the souleaters for surveilling our lives that we may be preserved from our own ignorance."
+—Drones' hymn of gratitude</Flavor>
+<ChineseFlavor>「感谢食灵妖监管行止，导正无知下仆。」
+～奴工感念曲</ChineseFlavor>
+<Artist>Scott Chou</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>233073</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>164</No>
+<Name>Unwinding Clock</Name>
+<ChineseName>松卷钟</ChineseName>
+<Type>Artifact</Type>
+<ManaCost>{4}</ManaCost>
+<CardText>Untap all artifacts you control during each other player's untap step.</CardText>
+<Flavor>"The partisans have unearthed a strange artifact. None know its origin, but it gives them hope of a life beyond."
+—Elspeth's journal</Flavor>
+<ChineseFlavor>「游击队挖出古怪的神器。 没人知道其来源，但却给予他们往后生命的希望。」
+～艾紫培的日志</ChineseFlavor>
+<Artist>Mike Bierek</Artist>
+<Watermark>Mirran</Watermark>
+<Multiverseid>218079</Multiverseid>
+<Rulings>2011/06/01: Even if you control more than one Unwinding Clock, you'll only untap your artifacts once during each other player's untap step.
+2011/06/01: Those artifacts untap at the same time as the active player's permanents. You have no choice about what untaps and can't choose to not untap an artifact you control.
+2011/06/01: Some effects, such as the one generated by Rust Tick's ability, state that an artifact doesn't untap during its controller's untap step. These effects won't apply and stop the artifact from untapping during another player's untap step.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Rare</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>165</No>
+<Name>Phyrexia's Core</Name>
+<ChineseName>非瑞克西亚核心</ChineseName>
+<Type>Land</Type>
+<CardText>{T}: Add {C}.
+{1}, {T}, Sacrifice an artifact: You gain 1 life.</CardText>
+<Flavor>"So even the heart of our world has succumbed."
+—Koth of the Hammer</Flavor>
+<ChineseFlavor>「原来连我们世界的心脏都屈服了。」
+～锤族的寇斯</ChineseFlavor>
+<Artist>Franz Vohwinkel</Artist>
+<Watermark>Phyrexian</Watermark>
+<Multiverseid>218015</Multiverseid>
+<Rulings>2011/06/01: Once you activate the ability and sacrifice an artifact, it's too late for anyone to respond to try and prevent you from paying the cost.</Rulings>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Uncommon</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>166</No>
+<Name>Plains</Name>
+<ChineseName>平原</ChineseName>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>James Paick</Artist>
+<Multiverseid>227552</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>167</No>
+<Name>Plains</Name>
+<ChineseName>平原</ChineseName>
+<Type>Basic Land — Plains</Type>
+<CardText>({T}: Add {W}.)</CardText>
+<Artist>James Paick</Artist>
+<Multiverseid>227518</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>168</No>
+<Name>Island</Name>
+<ChineseName>海岛</ChineseName>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Jung Park</Artist>
+<Multiverseid>227530</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>169</No>
+<Name>Island</Name>
+<ChineseName>海岛</ChineseName>
+<Type>Basic Land — Island</Type>
+<CardText>({T}: Add {U}.)</CardText>
+<Artist>Jung Park</Artist>
+<Multiverseid>227505</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>170</No>
+<Name>Swamp</Name>
+<ChineseName>沼泽</ChineseName>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Lars Grant-West</Artist>
+<Multiverseid>227519</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>171</No>
+<Name>Swamp</Name>
+<ChineseName>沼泽</ChineseName>
+<Type>Basic Land — Swamp</Type>
+<CardText>({T}: Add {B}.)</CardText>
+<Artist>Lars Grant-West</Artist>
+<Multiverseid>227521</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>172</No>
+<Name>Mountain</Name>
+<ChineseName>山脉</ChineseName>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Multiverseid>227507</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>173</No>
+<Name>Mountain</Name>
+<ChineseName>山脉</ChineseName>
+<Type>Basic Land — Mountain</Type>
+<CardText>({T}: Add {R}.)</CardText>
+<Artist>Tomasz Jedruszek</Artist>
+<Multiverseid>230064</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>174</No>
+<Name>Forest</Name>
+<ChineseName>树林</ChineseName>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>230081</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
+<Card>
+<SetId>NPH</SetId>
+<No>175</No>
+<Name>Forest</Name>
+<ChineseName>树林</ChineseName>
+<Type>Basic Land — Forest</Type>
+<CardText>({T}: Add {G}.)</CardText>
+<Artist>Mark Tedin</Artist>
+<Multiverseid>230071</Multiverseid>
+<Vintage>Legal</Vintage>
+<Legacy>Legal</Legacy>
+<Modern>Legal</Modern>
+<Set>New Phyrexia</Set>
+<Rarity>Common</Rarity>
+</Card>
+
